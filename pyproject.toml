@@ -19,6 +19,9 @@ playwright = [
     "playwright",
 ]
 
+[tool.hatch.build.targets.wheel]
+packages = ["scrapers", "validators", "configs"]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"

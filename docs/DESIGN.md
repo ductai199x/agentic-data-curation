@@ -122,15 +122,24 @@ This gives Claude Code tools like: `navigate`, `screenshot`, `click`, `get_page_
 Information gathered from analysis (update as we learn more):
 
 ### Grok (Aurora model, as of 2026-03)
-- **Native resolutions**: 784x1168 (portrait), 1168x784 (landscape), 832x1248
+- **API docs**: https://docs.x.ai/developers/model-capabilities/images/generation#aspect-ratio
+- **Aspect ratios**: 1:1, 16:9, 9:16, 4:3, 3:4, 3:2, 2:3, 2:1, 1:2, 19.5:9, 9:19.5, 20:9, 9:20, auto
+- **Resolution tiers**: "1k" (~915k pixels) and "2k" (~4M pixels, TBD)
+- **DON'T match exact resolutions** — too many aspect ratio + tier combinations.
+  Use pixel count bounds instead: MIN_PIXELS=800k, MAX_PIXELS=5M
+- **Observed 1k resolutions** (for reference): 784x1168, 1168x784, 832x1248,
+  1248x832, 960x960, 720x1280, 1280x720, 896x1344, 1360x768
 - **Output format**: JPEG (quality ~95-100, avg quantization ≈ 1.0) or PNG
 - **EXIF signature**: Some images have `Artist` = UUID, `ImageDescription` = `Signature: <base64>` (C2PA-style watermark). Not all images have this.
 - **No camera EXIF**: No Make, Model, ExposureTime, FNumber, etc.
 - **Gallery URL**: Grok Imagine public gallery (exact URL TBD)
 - **Gotchas**:
-  - Gallery serves thumbnails (0.6x scale) alongside full-res
+  - Gallery serves thumbnails (~319k pixels, e.g., 464x688) alongside full-res
   - Users can upload real photos for editing/remixing — these appear in gallery
-  - Images > ~1400px on long side are likely NOT native Grok outputs
+    (e.g., 3072x4608 = 14M pixels DSLR photo)
+  - Some images are re-compressed (avg_q ≈ 29, vs native ≈ 1.0-5.8)
+- **FSD detection**: 88.6% after Grok projection (projection #18, leaf=0c7ce0ee560c)
+  Pre-projection was only 12.2%. Most misses were bad data (thumbnails/uploads).
 
 ### ChatGPT (DALL-E 3, as of 2026-02)
 - **Detection rate**: 100% (11/11 in our tests)
@@ -150,17 +159,22 @@ Information gathered from analysis (update as we learn more):
 
 ## Validation Heuristics
 
-### Resolution-Based Filtering
+### Pixel Count Filtering (preferred over exact resolution matching)
 
-Each generator has known native output resolutions. Images not matching these
-(within a small tolerance) should be flagged:
+Don't try to enumerate every valid resolution — generators have many aspect ratios
+and resolution tiers, making exact matching brittle. Instead, use pixel count bounds:
 
 ```python
-KNOWN_RESOLUTIONS = {
-    "grok": [(784, 1168), (1168, 784), (832, 1248), (1248, 832)],
+# Per-generator pixel count bounds
+PIXEL_BOUNDS = {
+    "grok": {"min": 800_000, "max": 5_000_000},  # 1k tier ≈ 915k pixels
     # Add more generators as we learn them
 }
 ```
+
+This catches:
+- Thumbnails (e.g., 464x688 = 319k pixels — well below 800k)
+- Real uploads (e.g., 3072x4608 = 14M pixels — well above 5M)
 
 ### EXIF-Based Filtering
 

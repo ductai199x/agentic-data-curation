@@ -43,6 +43,8 @@ def validate_image(
     resolution_tolerance: int = 2,
     max_long_side: int | None = None,
     min_long_side: int | None = None,
+    min_pixels: int | None = None,
+    max_pixels: int | None = None,
     expected_formats: list[str] | None = None,
     max_avg_quantization: float | None = None,
     camera_exif_tags: list[str] | None = None,
@@ -85,13 +87,21 @@ def validate_image(
             )
             result.passed = False
 
-    # Max dimension check (too large = likely real upload)
+    # Pixel count checks
+    if min_pixels and pixels < min_pixels:
+        result.flags.append(f"too_few_pixels:{pixels:,}px")
+        result.passed = False
+
+    if max_pixels and pixels > max_pixels:
+        result.flags.append(f"too_many_pixels:{pixels:,}px")
+        result.passed = False
+
+    # Dimension checks (kept as optional fallback)
     long_side = max(result.width, result.height)
     if max_long_side and long_side > max_long_side:
         result.flags.append(f"too_large:{long_side}px")
         result.passed = False
 
-    # Min dimension check (too small = likely thumbnail)
     if min_long_side and long_side < min_long_side:
         result.flags.append(f"too_small:{long_side}px")
         result.passed = False

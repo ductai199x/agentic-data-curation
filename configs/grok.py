@@ -2,19 +2,24 @@
 
 Known metadata gathered from analysis on 2026-03-11.
 Source: 123 images from Grok Imagine public gallery.
+
+Resolution reference: https://docs.x.ai/developers/model-capabilities/images/generation#aspect-ratio
+Supported aspect ratios: 1:1, 16:9, 9:16, 4:3, 3:4, 3:2, 2:3, 2:1, 1:2,
+                          19.5:9, 9:19.5, 20:9, 9:20, auto
+Resolution tiers: "1k" (~915k pixels) and "2k" (TBD, likely ~4MP)
 """
 
-# Native output resolutions (width, height)
-# Images not matching these are likely thumbnails, uploads, or screenshots
-NATIVE_RESOLUTIONS = [
-    (784, 1168),   # portrait (most common — 76/109 detected images)
-    (1168, 784),   # landscape
-    (832, 1248),   # portrait alt
-    (1248, 832),   # landscape alt
-]
-
-# Resolution tolerance (pixels) for matching
-RESOLUTION_TOLERANCE = 2
+# Resolution strategy: DON'T match exact resolutions.
+# With 13+ aspect ratios, two resolution tiers (1k/2k), and unknown rounding,
+# exact matching is too brittle. Instead, use bounds-based filtering:
+# - Reject thumbnails (long side < MIN_LONG_SIDE)
+# - Reject real uploads (long side > MAX_LONG_SIDE)
+# - Reject tiny total pixel count (likely thumbnail or heavily downscaled)
+#
+# Known observed resolutions (for reference only, NOT used for filtering):
+# 1k tier: 784x1168, 1168x784, 832x1248, 1248x832, 960x960,
+#          720x1280, 1280x720, 896x1344, 1360x768, 1104x832, etc.
+NATIVE_RESOLUTIONS = None  # Not used — bounds-based filtering instead
 
 # Expected image formats
 EXPECTED_FORMATS = ["JPEG", "PNG"]
@@ -33,11 +38,12 @@ CAMERA_EXIF_TAGS = [
     "ISOSpeedRatings", "FocalLength",
 ]
 
-# Maximum dimension — images larger than this are likely real uploads
-MAX_LONG_SIDE = 1400
-
-# Minimum dimension — images smaller than this are likely thumbnails
-MIN_LONG_SIDE = 700
+# Pixel count bounds
+# 1k tier: ~915k pixels (784*1168=915712), allow some margin
+# 2k tier: ~4M pixels (TBD)
+# Thumbnails like 464x688 = 319k pixels — clearly below 1k
+MIN_PIXELS = 800_000   # below this = thumbnail or heavily downscaled
+MAX_PIXELS = 5_000_000  # above this = likely real upload (e.g., 3072x4608 = 14M)
 
 # Scraping config
 GALLERY_URL = None  # TBD — need to identify the exact gallery URL
