@@ -298,3 +298,91 @@ cd ~/1-workdir/07-fsd
    Target maybe 500-1000 per generator?
 
 5. **Legal/ToS**: Each source has different terms. Need to check before scraping.
+
+---
+
+## Lessons Learned: How to Profile a New Generator
+
+When adding a new AI image generator, the agent must independently figure out its
+output characteristics. Here's the systematic process, learned from the Grok case:
+
+### Step 1: Find Official Documentation First
+
+Before looking at any images, check for official API docs or technical specs.
+These tell you supported resolutions, aspect ratios, output formats, and rate limits
+far more reliably than reverse-engineering from samples.
+
+**Where to look**:
+- Official API documentation (e.g., `docs.x.ai/developers/...` for Grok)
+- Developer blog posts announcing the model
+- Model cards or technical reports
+- GitHub repos (if open-source)
+
+**What to extract**:
+- Supported aspect ratios and resolution tiers
+- Output format (JPEG quality, PNG, WebP)
+- Any watermarking/provenance metadata (C2PA, EXIF signatures)
+- Rate limits and usage policies
+- Whether the platform allows user uploads (editing/remixing) — these will
+  contaminate gallery scrapes with real images
+
+### Step 2: Don't Enumerate Resolutions — Use Pixel Count Bounds
+
+**Key lesson**: Generators support many aspect ratios and resolution tiers. Trying
+to enumerate every valid (width, height) pair is fragile and guaranteed to miss
+some combinations. Instead:
+
+1. Identify the resolution tier(s) from docs (e.g., "1k", "2k", "4k")
+2. Compute the approximate pixel count per tier from a few known examples
+3. Set MIN_PIXELS and MAX_PIXELS bounds with margin
+
+This naturally handles all aspect ratios without knowing them individually.
+
+### Step 3: Download a Small Sample and Analyze
+
+Get 50-100 images from the source. Run the validator, then analyze failures
+and passes to refine the config:
+
+```python
+from validators.image_validator import validate_batch, print_report
+results = validate_batch(image_dir, **config_kwargs)
+print_report(results)
+```
+
+**What to look for**:
+- Pixel count distribution — confirms tier bounds
+- JPEG quantization tables — what quality does the generator use?
+- EXIF metadata — does it add provenance tags? Which fields?
+- File format distribution — JPEG vs PNG vs WebP
+- Any outliers that suggest contamination (real uploads, screenshots, thumbnails)
+
+### Step 4: Cross-Validate with FSD Detector
+
+Run the FSD detector on the sample. If some images are misclassified:
+- Check if they're bad data (thumbnails, uploads) — the validator should catch these
+- If they're genuine generator outputs at native resolution that the detector misses,
+  that's a real blind spot requiring a new projection
+
+### Step 5: Iterate the Config
+
+The first config will be wrong. Expect 2-3 rounds of refinement:
+1. Too strict → false rejections of valid images → loosen bounds
+2. Too loose → bad data passes → tighten specific checks
+3. Edge cases → add new checks (e.g., compression quality, pixel count)
+
+### General Principles
+
+- **Prefer simple, general checks over specific ones**: Pixel count > exact resolution.
+  EXIF camera tags > specific manufacturer strings. These generalize across generators.
+- **The scraping source determines what contamination to expect**: Public galleries
+  have user uploads and thumbnails. API-generated images are clean but rate-limited.
+  Social media re-posts have compression and resizing artifacts.
+- **Document everything you learn**: Each generator config should explain WHY each
+  threshold was chosen, with examples of what it catches. Future sessions need this
+  context to make informed adjustments.
+- **Compression quality is a weak signal**: Many generators output very high quality
+  (avg_q ≈ 1.0), but re-saving by platforms or users changes this. Only flag extreme
+  compression (avg_q > 15-20), not moderate values.
+- **Resolution alone doesn't prove provenance**: A 784x1168 image could be a Grok
+  output OR a cropped/resized real photo. Resolution checks reject obvious outliers
+  but can't confirm authenticity. That's what the FSD detector is for.
