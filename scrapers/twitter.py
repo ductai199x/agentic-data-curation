@@ -467,84 +467,84 @@ class TwitterScraper(BaseScraper):
             """Single worker: pull tweet IDs, load pages, extract images."""
             logger.debug(f"Worker {worker_id}: started")
             try:
-              while not (producer_done.is_set() and tweet_id_queue.empty()):
-                if self._should_stop:
-                    break
+                while not (producer_done.is_set() and tweet_id_queue.empty()):
+                    if self._should_stop:
+                        break
 
-                try:
-                    tid = await asyncio.wait_for(
-                        tweet_id_queue.get(), timeout=2.0,
-                    )
-                except asyncio.TimeoutError:
-                    continue
-
-                if tid is _DONE:
-                    producer_done.set()
-                    break
-
-                if tid in self.seen_tweets:
-                    continue
-                self.seen_tweets.add(tid)
-                self.stats["threads_checked"] += 1
-
-                # Fetch this thread
-                found_images: list[tuple[str, dict]] = []
-
-                async def handle_response(response):
-                    if "TweetDetail" not in response.url:
-                        return
                     try:
-                        body = await response.json()
-                        imgs = _extract_bot_images_from_tweet_detail(
-                            body, self.bot_username,
+                        tid = await asyncio.wait_for(
+                            tweet_id_queue.get(), timeout=2.0,
                         )
-                        found_images.extend(imgs)
-                    except Exception:
-                        pass
+                    except asyncio.TimeoutError:
+                        continue
 
-                page = await ctx.new_page()
-                page.on("response", handle_response)
-                try:
-                    await page.goto(
-                        f"https://x.com/i/status/{tid}",
-                        wait_until="domcontentloaded",
-                        timeout=20000,
+                    if tid is _DONE:
+                        producer_done.set()
+                        break
+
+                    if tid in self.seen_tweets:
+                        continue
+                    self.seen_tweets.add(tid)
+                    self.stats["threads_checked"] += 1
+
+                    # Fetch this thread
+                    found_images: list[tuple[str, dict]] = []
+
+                    async def handle_response(response):
+                        if "TweetDetail" not in response.url:
+                            return
+                        try:
+                            body = await response.json()
+                            imgs = _extract_bot_images_from_tweet_detail(
+                                body, self.bot_username,
+                            )
+                            found_images.extend(imgs)
+                        except Exception:
+                            pass
+
+                    page = await ctx.new_page()
+                    page.on("response", handle_response)
+                    try:
+                        await page.goto(
+                            f"https://x.com/i/status/{tid}",
+                            wait_until="domcontentloaded",
+                            timeout=20000,
+                        )
+                        await asyncio.sleep(random.uniform(2, 4))
+
+                        # Scroll to trigger more TweetDetail loads if needed
+                        for _ in range(max_scrolls):
+                            if found_images or self._should_stop:
+                                break
+                            await page.evaluate(
+                                "window.scrollBy(0, window.innerHeight * 1.5)"
+                            )
+                            await asyncio.sleep(random.uniform(1.5, 3))
+                    except Exception as e:
+                        _log(f"    Worker {worker_id} thread {tid}: ERROR {e}")
+                    finally:
+                        await page.close()
+
+                    # Push found images to url_queue
+                    for url_str, meta in found_images:
+                        self.stats["bot_replies_found"] += 1
+                        await url_queue.put((url_str, {
+                            "post_id": meta.get("tweet_id", ""),
+                            "post_title": f"conv:{meta.get('conversation_id', '')}",
+                            "flair": f"reply_to:{meta.get('reply_to', '')}",
+                        }))
+
+                    # Per-thread logging
+                    checked = self.stats["threads_checked"]
+                    found = self.stats["bot_replies_found"]
+                    hit = f"+{len(found_images)} img" if found_images else "no reply"
+                    _log(
+                        f"  [{checked}] thread {tid}: {hit} "
+                        f"(total: {found} replies)"
                     )
-                    await asyncio.sleep(random.uniform(2, 4))
 
-                    # Scroll to trigger more TweetDetail loads if needed
-                    for _ in range(max_scrolls):
-                        if found_images or self._should_stop:
-                            break
-                        await page.evaluate(
-                            "window.scrollBy(0, window.innerHeight * 1.5)"
-                        )
-                        await asyncio.sleep(random.uniform(1.5, 3))
-                except Exception as e:
-                    _log(f"    Worker {worker_id} thread {tid}: ERROR {e}")
-                finally:
-                    await page.close()
-
-                # Push found images to url_queue
-                for url_str, meta in found_images:
-                    self.stats["bot_replies_found"] += 1
-                    await url_queue.put((url_str, {
-                        "post_id": meta.get("tweet_id", ""),
-                        "post_title": f"conv:{meta.get('conversation_id', '')}",
-                        "flair": f"reply_to:{meta.get('reply_to', '')}",
-                    }))
-
-                # Per-thread logging
-                checked = self.stats["threads_checked"]
-                found = self.stats["bot_replies_found"]
-                hit = f"+{len(found_images)} img" if found_images else "no reply"
-                _log(
-                    f"  [{checked}] thread {tid}: {hit} "
-                    f"(total: {found} replies)"
-                )
-
-                # Rate-limit delay between requests
-                await asyncio.sleep(random.uniform(2, 5))
+                    # Rate-limit delay between requests
+                    await asyncio.sleep(random.uniform(2, 5))
 
             except Exception as e:
                 _log(f"    Worker {worker_id}: CRASHED — {e}")
