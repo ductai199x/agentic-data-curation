@@ -7,6 +7,9 @@ dependencies = [
     "pillow",
     "requests",
     "imagehash",
+    "click>=8.3.1",
+    "gallery-dl>=1.31.9",
+    "fsd-detector",
 ]
 
 [project.optional-dependencies]
@@ -18,9 +21,16 @@ scraping = [
 playwright = [
     "playwright",
 ]
+vlm = [
+    "vllm",
+    "transformers",
+]
 
 [tool.hatch.build.targets.wheel]
 packages = ["scrapers", "validators", "configs"]
+
+[tool.uv.sources]
+fsd-detector = { git = "ssh://git@github.com/ductai199x/Forensic-Self-Descriptions-CVPR25.git" }
 
 [build-system]
 requires = ["hatchling"]
