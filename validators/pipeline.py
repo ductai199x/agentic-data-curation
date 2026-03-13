@@ -16,7 +16,7 @@ import json
 import shutil
 import subprocess
 import sys
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 
 from tqdm import tqdm
