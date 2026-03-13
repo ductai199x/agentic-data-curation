@@ -48,6 +48,8 @@ def validate_image(
     expected_formats: list[str] | None = None,
     max_avg_quantization: float | None = None,
     camera_exif_tags: list[str] | None = None,
+    known_aspect_ratios: list[tuple[float, float]] | None = None,
+    aspect_ratio_tolerance: float = 0.05,
 ) -> ValidationResult:
     """Validate a single image against generator-specific criteria.
 
@@ -95,6 +97,21 @@ def validate_image(
     if max_pixels and pixels > max_pixels:
         result.flags.append(f"too_many_pixels:{pixels:,}px")
         result.passed = False
+
+    # Aspect ratio check — detects screenshots and composites
+    if known_aspect_ratios and result.width > 0 and result.height > 0:
+        img_ratio = result.width / result.height
+        matched_ratio = False
+        for w, h in known_aspect_ratios:
+            expected = w / h
+            if abs(img_ratio - expected) / expected <= aspect_ratio_tolerance:
+                matched_ratio = True
+                break
+        if not matched_ratio:
+            result.flags.append(
+                f"non_native_aspect_ratio:{result.width}:{result.height}={img_ratio:.3f}"
+            )
+            result.passed = False
 
     # Dimension checks (kept as optional fallback)
     long_side = max(result.width, result.height)
