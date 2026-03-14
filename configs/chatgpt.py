@@ -151,7 +151,7 @@ REJECT_KEYWORDS = [
     "illustration", "cartoon", "anime", "cgi", "comic",
     "line drawing", "sketch", "digital art", "digital painting",
     "3d render", "pixel art", "vector art", "watercolor",
-    "oil painting", "pencil drawing", "manga",
+    "oil painting", "oil on canvas", "pencil drawing", "manga",
     # Screenshots / UI
     "screenshot", "user interface", "app interface", "chat interface",
     "settings page", "settings menu", "status bar",
@@ -160,7 +160,7 @@ REJECT_KEYWORDS = [
     "home screen", "lock screen", "search bar",
     "file manager", "task manager", "control panel",
     # Maps / satellite UI
-    "google maps", "google earth", "street view", "map pin",
+    "google maps", "google earth", "map pin",
     "satellite view", "map interface",
     # Social media UI
     "tweet", "retweet", "like button", "follow button",
