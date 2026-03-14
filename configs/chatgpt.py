@@ -53,11 +53,83 @@ HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50
 
 # === Scraping: Reddit ===
-# Reddit is VERY risky for GPT-Image because:
-# - "ChatGPT" flairs don't distinguish GPT-Image-1 from DALL-E 3
-# - No subreddit has reliable GPT-Image-specific flairs
-# - Skip unless we need supplemental volume AND can verify provenance
-REDDIT_SUBREDDITS = []  # Intentionally empty — provenance too uncertain
+# EXTREMELY strict filtering. Key constraint:
+# - Before March 25, 2025: ChatGPT used DALL-E 3 (different model)
+# - After April 1, 2025: All ChatGPT tiers use GPT-Image-1 (native 4o)
+# - After Dec 16, 2025: GPT-Image-1.5 became default
+# Date gate: only posts after April 1, 2025 (Unix 1743465600)
+# Flair gate: only posts with explicit ChatGPT/GPT-4o image flairs
+REDDIT_SUBREDDITS = [
+    "aiArt",        # Best: "Image - ChatGPT" flair, ~25 posts/day, 67% PNG
+    "dalle2",       # "GPT-4o" flair, ~130 total posts, explicit model tag
+]
+REDDIT_SEARCH_QUERIES = [
+    '"gpt-image-1" subreddit:aiArt',
+    '"gpt-image-1" subreddit:dalle2',
+    '"gpt-image-1" subreddit:OpenAI',
+    '"chatgpt image generation" subreddit:aiArt',
+    '"gpt-4o image" subreddit:aiArt',
+    '"gpt-4o image" subreddit:dalle2',
+]
+
+# Date gate: April 1, 2025 00:00 UTC (all ChatGPT tiers have GPT-Image-1)
+REDDIT_MIN_CREATED_UTC = 1743465600
+
+# Flair gate: ONLY download posts with these exact flairs
+# This is the strictest filter — posts without these flairs are skipped entirely
+REDDIT_REQUIRE_FLAIRS = {
+    # r/AIArt — generator-specific flair
+    "image - chatgpt :a2:", "image - chatgpt",
+    # r/dalle2 — model-specific flair
+    "gpt-4o",
+}
+
+# --- Reddit post filtering ---
+REDDIT_REJECT_FLAIRS = {
+    "Discussion", "Question", "Help", "News", "News Article",
+    "ANNOUNCEMENT", "Mod Post", "Research", "Tutorial", "Guide",
+    "Video", "Music", "Text", "Politics", "Sora",
+    "GPTs", "Project", "Miscellaneous", "Unverified",
+    "Prompt", "Programming", "Writing", "Commercial",
+    # Other generators — must not contaminate
+    "Stable Diffusion", "Nightcafe", "FLUX", "Midjourney",
+    "Image - Google Gemini", "Image - Stable Diffusion",
+    "Image - Midjourney", "Image - FLUX", "Image - SoraAI",
+    "Image - Nightcafe", "Image - Bing Image Creator",
+    "Image - Microsoft Copilot",
+    # DALL-E flairs — different model, not GPT-Image
+    "DALL·E 3", "DALL-E 3", "dalle-3", "DALL·E 2",
+}
+
+REDDIT_REJECT_TITLE_KEYWORDS = [
+    # Multi-generator comparisons
+    " vs ", " vs.", "versus", "comparison", "compared to",
+    "benchmark", "ranking", "showdown", "side by side", "side-by-side",
+    # Other generators mentioned
+    "midjourney", "stable diffusion", "flux", "gemini",
+    "grok", "ideogram", "seedream", "nano banana",
+    "dall-e", "dalle",
+    # Screenshots / complaints
+    "screenshot", "bug", "error", "issue", "help",
+    "why does", "why is", "how to", "glitch",
+    "censored", "jailbreak", "banned", "guardrails",
+    "rate limit", "too many requests",
+    # Meme formats
+    "pov:", "when you", "me when", "mfw", "tfw",
+    "meme", "change my mind",
+    # Meta
+    "petition", "boycott", "update", "changelog",
+    "subscription", "pricing", "limit", "cap", "api",
+    "review",
+]
+
+REDDIT_ALLOWED_IMAGE_DOMAINS = {
+    "i.redd.it",
+    "preview.redd.it",
+    "i.imgur.com",
+}
+
+REDDIT_SKIP_SELF_POSTS = True
 
 # === Scraping: Twitter/X ===
 # No official bot account. @ChatGPTapp doesn't post user-requested generations.
@@ -108,6 +180,9 @@ REJECT_KEYWORDS = [
     "spreadsheet", "powerpoint", "presentation slide",
     # Leaderboards / rankings
     "leaderboard", "ranking", "scoreboard",
+    # Graphic design / clipart (unambiguous non-photo terms only)
+    "clipart", "clip art", "graphic design",
+    "minimalistic art",
 ]
 
 TEXT_PAIRED_KEYWORDS = [

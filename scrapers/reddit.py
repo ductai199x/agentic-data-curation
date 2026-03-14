@@ -53,11 +53,13 @@ class RedditScraper(BaseScraper):
 
         # Post filtering config
         self.reject_flairs = {f.lower() for f in getattr(config, "REDDIT_REJECT_FLAIRS", set())}
+        self.require_flairs = {f.lower() for f in getattr(config, "REDDIT_REQUIRE_FLAIRS", set())}
         self.reject_title_keywords = [
             kw.lower() for kw in getattr(config, "REDDIT_REJECT_TITLE_KEYWORDS", [])
         ]
         self.allowed_image_domains = getattr(config, "REDDIT_ALLOWED_IMAGE_DOMAINS", set())
         self.skip_self_posts = getattr(config, "REDDIT_SKIP_SELF_POSTS", True)
+        self.min_created_utc = getattr(config, "REDDIT_MIN_CREATED_UTC", 0)
 
         super().__init__(output_dir, max_images, min_pixels=min_pixels, force=force)
 
@@ -67,9 +69,11 @@ class RedditScraper(BaseScraper):
         self.stats.update({
             "fetched_posts": 0,
             "skipped_flair": 0,
+            "skipped_flair_not_required": 0,
             "skipped_title": 0,
             "skipped_self_post": 0,
             "skipped_domain": 0,
+            "skipped_too_old": 0,
         })
 
     # ── Sync helpers (run in threads) ─────────────────────────────
@@ -127,12 +131,22 @@ class RedditScraper(BaseScraper):
 
         Returns rejection reason string, or None if post is acceptable.
         """
+        # Date gate — skip posts before cutoff (e.g. DALL-E 3 era)
+        created = post_data.get("created_utc", 0)
+        if self.min_created_utc and created < self.min_created_utc:
+            return "too_old"
+
         # Self-post check (text-only discussion threads)
         if self.skip_self_posts and post_data.get("is_self", False):
             return "self_post"
 
-        # Flair check
+        # Flair check — require specific flairs if configured
         flair = (post_data.get("link_flair_text") or "").strip().lower()
+        if self.require_flairs:
+            if not flair or flair not in self.require_flairs:
+                return f"flair_not_required:{flair or 'none'}"
+
+        # Flair rejection
         if flair and self.reject_flairs and flair in self.reject_flairs:
             return f"flair:{flair}"
 
@@ -299,6 +313,10 @@ class RedditScraper(BaseScraper):
             if skip_reason:
                 if skip_reason == "self_post":
                     self.stats["skipped_self_post"] += 1
+                elif skip_reason == "too_old":
+                    self.stats["skipped_too_old"] += 1
+                elif skip_reason.startswith("flair_not_required:"):
+                    self.stats["skipped_flair_not_required"] += 1
                 elif skip_reason.startswith("flair:"):
                     self.stats["skipped_flair"] += 1
                 elif skip_reason.startswith("title_keyword:"):

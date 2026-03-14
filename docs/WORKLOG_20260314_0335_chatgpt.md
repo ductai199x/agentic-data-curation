@@ -6,57 +6,98 @@
 
 ## Phase 0: Intake
 
-- User knows Higgsfield has GPT-Image-1.5 (https://higgsfield.ai/gpt-1.5), possibly similar scraping method as nano_banana
-- No official bot account on X.com (@ChatGPTapp doesn't post user-requested generations)
-- Reddit likely has volume but needs very strict filtering
-- Quality bar: photorealistic, strict filtering
-- **User corrections**: DALL-E 2/3 ≠ GPT-Image-1/1.5 (different models). Civitai tool_id unreliable. Reddit provenance must be certain.
+- User knows Higgsfield has GPT-Image-1.5 (https://higgsfield.ai/gpt-1.5)
+- No official bot account on X.com
+- Reddit needs strict filtering (date gate + flair gate)
+- **User corrections**: DALL-E 2/3 ≠ GPT-Image-1/1.5. Civitai tool_id unreliable. Reddit provenance must be certain.
 
 ## Phase 1: Source Research (completed)
 
-### Research Results
-
-**Viable Sources:**
+### Viable Sources
 | Source | Model | Volume | Provenance | Format |
 |--------|-------|--------|------------|--------|
-| Civitai on-site gen | v1 (mvid 1733399) | ~14,000 | Guaranteed | JPEG (CDN) |
-| Civitai on-site gen | v1.5 (mvid 2512167) | ~4,100 | Guaranteed | JPEG (CDN) |
-| Higgsfield | openai_hazel (v1.5) | 62 | Good | PNG |
-| Higgsfield | text2image_gpt (v1) | 22 | Good | JPEG |
+| Civitai on-site gen | v1 (mvid 1733399) | ~14,000 API, ~3% CDN alive | Guaranteed | JPEG |
+| Civitai on-site gen | v1.5 (mvid 2512167) | ~4,100 API, ~14-45% CDN alive | Guaranteed | JPEG |
+| Higgsfield | openai_hazel + text2image_gpt | 84 total | Good | PNG/JPEG |
+| Reddit r/AIArt | "Image - ChatGPT" flair | ~600-750/month | User-declared flair | PNG/JPEG |
+| Reddit r/dalle2 | "GPT-4o" flair | ~130 total | User-declared flair | PNG/JPEG |
 
-**Rejected Sources:**
-- **Reddit**: Provenance too uncertain. "ChatGPT" flairs don't distinguish GPT-Image-1 from DALL-E 3. User directive: if we can't confirm provenance, skip it.
-- **X.com/Twitter**: No official bot account. Dead end.
-- **Civitai tool_id**: Unreliable — anyone can upload with any tags.
-- **PromptHero/NightCafe**: Provenance is user-tagged, not verified.
+### Key Finding: Civitai CDN Mass Purge
+- ~50-95% of GPT-Image CDN URLs return 500 (permanently gone, confirmed from multiple IPs)
+- v1 (oldest, April 2025+): ~3% success rate
+- v1.5 (newest, Dec 2025+): ~14-45% success rate (newest pages up to 100%)
+- This drastically reduced expected Civitai yield from ~18K to ~1K-2K
 
 ### Generator Profile
-- **Resolutions**: 1024x1024, 1536x1024, 1024x1536 (API). v1.5 may have higher res on Civitai.
-- **Aspect ratios**: 1:1, 3:2, 2:3 only (very tight — great for structural filtering)
-- **Formats**: PNG (default), JPEG, WebP. Civitai CDN serves JPEG.
-- **C2PA**: Present but stripped by CDNs/social media
-- **Safety**: No nudity, no violence, no CSAM
-- **GPT-Image-1**: April 2025, autoregressive (GPT-4o based)
-- **GPT-Image-1.5**: December 2025, GPT-5 based, 4x faster, +60% instruction adherence
+- **Resolutions**: 1024x1024, 1536x1024, 1024x1536 (API). v1.5 may have higher res.
+- **Aspect ratios**: 1:1, 3:2, 2:3 only
+- **GPT-Image-1**: Released March 25, 2025 (Plus/Pro), April 1, 2025 (all tiers)
+- **GPT-Image-1.5**: Released December 16, 2025
+- **Before April 1, 2025**: ChatGPT used DALL-E 3 (different model) — date gate critical
 
-### Higgsfield Pagination Verification
-- Fully paginated `openai_hazel`: 62 items across 2 pages (has_more=False)
-- Fully paginated `text2image_gpt`: 22 items across 1 page (has_more=False)
-- Confirmed genuinely tiny — GPT-Image not popular on Higgsfield (vs 12,375 for Nano Banana)
+## Phase 2: Scraping
 
-## Phase 2: Scraping (in progress)
+### Higgsfield (completed)
+- 84/84 downloaded, 0 failures
+- Models: `openai_hazel` (62, PNG), `text2image_gpt` (22, JPEG)
+- Confirmed only 84 total via full pagination — GPT-Image not popular on Higgsfield
 
-### Scrapers Launched (2026-03-14 ~04:05 UTC)
-- **Civitai** (PID 4125737): `--config configs/chatgpt.py --max-images 20000` — both model versions
-- **Higgsfield** (PID 4126127): `--config configs/chatgpt.py --max-images 200` — 84 images expected
+### Civitai (in progress)
+- **v1.5** (PID 81377): Scraping model_version:2512167, ~14% CDN success
+- **v1** (PID 251290): Scraping model_version:1733399, ~3% CDN success
+- Added 4 concurrent download workers (was 1 sequential) — ~4x throughput
+- Fixed progress bar to track total items processed, not just successes
+- Estimated yield: ~200-600 from v1.5, ~100-400 from v1
 
-### Config Created
-- `configs/chatgpt.py` — GPT-Image-1 + 1.5 profile
-- Only 3 aspect ratios (very tight structural filtering)
-- Reddit intentionally empty — provenance too uncertain
-- Civitai tool_id = None (unreliable)
+### Reddit (completed)
+- **1,276 images downloaded** from 11,554 fetched posts
+- Strict filtering: date gate (April 1, 2025+), flair gate (only "Image - ChatGPT" and "GPT-4o"), title keywords, domain allowlist
+- Filter stats: 5,924 wrong flair, 1,960 too old (DALL-E 3 era), 4,242 duplicate, 162 title keywords
+- r/AIArt was primary source (high volume), r/dalle2 supplemental
 
-### Notes
-- Civitai estimated runtime: ~50 hours (18K images × ~10s/image with delays)
-- ~7-10% of Civitai entries may be mp4 videos (filtered by scraper)
-- Running caption+pipeline sweeps every 15-20 min as images arrive
+## Phase 3: Validation
+
+### Content Classification (JoyCaption booru tags)
+- **57% overall rejection rate** (higher than Nano Banana's 18%)
+- Dominant signal: "digital art" (50%+ of rejections) — GPT-Image heavily used for non-photo content
+- Other signals: illustration, anime, cartoon, digital painting, cgi, sketch
+
+### Keyword Refinement
+- **Added**: "clipart", "clip art", "graphic design", "minimalistic art"
+- **Tested and rejected**: "logo", "icon", "silhouette", "sticker", "badge", "emblem", "decal"
+  - These appear as *elements within* photorealistic images (Nike logo on shirt, boat silhouettes at sunset)
+  - Too many false positives — reverted 34 wrongly-rejected images
+
+### Spot Checks
+- **Accepts**: 10/10 correct (photorealistic portraits, product shots, architecture, surreal photorealistic)
+- **Rejects**: 7/8 correct (cartoon, illustration, anime, vector art)
+- **False negative found**: "Happy Thanksgiving" vector/clipart slipped through because JoyCaption hallucinated wrong content ("photograph, black background, minimal light"). Manually moved to rejected. Added "minimalistic art" keyword which catches this case.
+- **False positive concern**: JoyCaption sometimes tags photorealistic images containing logos/silhouettes. Must keep reject keywords narrow to avoid false positives.
+
+### Structural Validation
+- ~5-8% structural rejection rate (non-standard aspect ratios, too small)
+- GPT-Image has only 3 aspect ratios (1:1, 3:2, 2:3) — very tight structural filter
+
+## Current State (as of 05:00 UTC)
+
+| Metric | Count |
+|--------|-------|
+| Validated (images/) | ~497 |
+| Staging (awaiting sweep) | ~1 |
+| Rejected | ~977 |
+| Manifest entries | ~1,500+ |
+
+### Scrapers Status
+- **Higgsfield**: Done (84 images)
+- **Reddit**: Done (1,276 images)
+- **Civitai v1.5**: Running (~200+ downloads so far)
+- **Civitai v1**: Running (~50+ downloads so far)
+
+## Pending
+
+- [ ] Continue Civitai scraping until both v1 and v1.5 exhausted
+- [ ] Caption+pipeline sweeps as Civitai images arrive
+- [ ] FSD scoring on final validated images
+- [ ] Final metadata.csv rebuild with source breakdown
+- [ ] Manifest deduplication
+- [ ] Distill lessons into LESSONS_CHATGPT.md
