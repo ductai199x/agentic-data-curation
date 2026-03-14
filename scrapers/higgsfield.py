@@ -46,7 +46,7 @@ class HiggsFieldScraper(BaseScraper):
 
     def run(self):
         """Synchronous scraper — no async needed for sequential pagination."""
-        pbar = tqdm(total=self.max_images, desc="Higgsfield", unit="img", file=sys.stderr)
+        pbar = tqdm(desc="Higgsfield", unit="img", file=sys.stderr)
 
         for model in self.models:
             if self.done:
@@ -137,10 +137,15 @@ class HiggsFieldScraper(BaseScraper):
             }
 
             success = self.download_image(url, source=f"higgsfield_{model}", metadata=metadata)
-            if success:
-                pbar.update(1)
-                pbar.set_postfix(dl=self.stats["downloaded"], model=model)
+            pbar.update(1)
+            pbar.set_postfix(
+                dl=self.stats["downloaded"],
+                fail=self.stats["failed"],
+                skip=self.stats["skipped_duplicate_url"] + self.stats["skipped_duplicate_hash"],
+                model=model,
+            )
 
+            if success:
                 # Rate limit between downloads (CDN, not API)
                 time.sleep(random.uniform(1.0, 2.0))
 

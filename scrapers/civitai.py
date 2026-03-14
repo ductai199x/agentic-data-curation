@@ -97,6 +97,8 @@ class CivitaiScraper(BaseScraper):
         if api_key:
             self.session.headers["Authorization"] = f"Bearer {api_key}"
 
+        self.download_workers = getattr(config, "CIVITAI_DOWNLOAD_WORKERS", 4)
+
         self.stats.update({
             "pages_fetched": 0,
             "urls_found": 0,
@@ -109,13 +111,20 @@ class CivitaiScraper(BaseScraper):
         """Run the full Civitai scraping pipeline with async producer/consumer."""
         self._setup_signals()
 
-        tqdm.write(f"Starting Civitai scraper (target: {self.max_images} images)")
+        tqdm.write(f"Starting Civitai scraper (target: {self.max_images}, workers: {self.download_workers})")
         tqdm.write(f"Already downloaded: {len(self.downloaded_urls)} URLs")
+        self._pbar = tqdm(desc="Civitai", unit="img")
+        self._processed = 0
 
         item_queue: asyncio.Queue = asyncio.Queue(maxsize=200)
         producer = asyncio.create_task(self._produce_items(item_queue))
-        consumer = asyncio.create_task(self._consume_items(item_queue))
-        await asyncio.gather(producer, consumer)
+        consumers = [
+            asyncio.create_task(self._consume_items(item_queue, worker_id=i))
+            for i in range(self.download_workers)
+        ]
+        await producer
+        await asyncio.gather(*consumers)
+        self._pbar.close()
         self.print_stats()
 
     async def _produce_items(self, item_queue: asyncio.Queue):
@@ -136,7 +145,8 @@ class CivitaiScraper(BaseScraper):
                 tool_id=self.tool_id, is_onsite=False,
             )
 
-        await item_queue.put(_DONE)
+        for _ in range(self.download_workers):
+            await item_queue.put(_DONE)
 
     async def _paginate_source(
         self,
@@ -182,11 +192,8 @@ class CivitaiScraper(BaseScraper):
             cursor = next_cursor
             await asyncio.sleep(random.uniform(*self.api_delay))
 
-    async def _consume_items(self, item_queue: asyncio.Queue):
-        """Pull items from queue, download each, show tqdm progress."""
-        pbar = tqdm(total=self.max_images, desc="Civitai downloads", unit="img")
-        pbar.update(0)
-
+    async def _consume_items(self, item_queue: asyncio.Queue, worker_id: int = 0):
+        """Pull items from queue, download each. Multiple workers run concurrently."""
         while True:
             item = await item_queue.get()
             if item is _DONE:
@@ -197,8 +204,14 @@ class CivitaiScraper(BaseScraper):
             await asyncio.to_thread(
                 self._download_item, raw_item, label, is_onsite,
             )
-            pbar.n = self.stats["downloaded"]
-            pbar.refresh()
+            self._processed += 1
+            self._pbar.n = self._processed
+            self._pbar.set_postfix(
+                dl=self.stats["downloaded"],
+                fail=self.stats["failed"],
+                skip=self.stats["skipped_duplicate_url"] + self.stats["skipped_duplicate_hash"],
+            )
+            self._pbar.refresh()
             item_queue.task_done()
 
             if self._should_stop:
@@ -206,15 +219,14 @@ class CivitaiScraper(BaseScraper):
 
             await asyncio.sleep(random.uniform(*self.download_delay))
 
-        # Drain remaining items so producer isn't stuck on a full queue
-        while not item_queue.empty():
-            try:
-                item_queue.get_nowait()
-                item_queue.task_done()
-            except asyncio.QueueEmpty:
-                break
-
-        pbar.close()
+        # Only worker 0 drains remaining items
+        if worker_id == 0:
+            while not item_queue.empty():
+                try:
+                    item_queue.get_nowait()
+                    item_queue.task_done()
+                except asyncio.QueueEmpty:
+                    break
 
     # ── Sync helpers (called via asyncio.to_thread) ───────────────
 
