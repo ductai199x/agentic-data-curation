@@ -10,7 +10,7 @@ All outputs include SynthID (invisible watermark) and C2PA metadata.
 """
 
 # === Generator identity ===
-NAME = "nano_banana"
+NAME = "nano_banana_1_2"
 DISPLAY_NAME = "Nano Banana"
 
 # === Image characteristics ===
@@ -155,16 +155,8 @@ REDDIT_SKIP_SELF_POSTS = True
 TWITTER_BOT_USERNAME = "NanoBanana"
 TWITTER_MEDIA_URL = "https://x.com/NanoBanana/media"
 TWITTER_COOKIES_PATH = "data/cookies-x.txt"
-TWITTER_SEARCH_QUERIES = [
-    "@NanoBanana generate",
-    "@NanoBanana create",
-    "@NanoBanana make",
-    "@NanoBanana draw",
-    "@NanoBanana can you generate",
-    "@NanoBanana can you make",
-    "@NanoBanana image of",
-    "@NanoBanana picture of",
-]
+# Direct image search: auto-generates daily "from:NanoBanana filter:images until:YYYY-MM-DD"
+TWITTER_DIRECT_SEARCH_DAYS = 365
 
 # === Safety / provenance ===
 # Nano Banana hard-blocks: nudity, sexual content, violence/gore, hate, deepfakes, minors
@@ -178,7 +170,7 @@ BLOCKED_CONTENT_TAGS = [
 REJECT_KEYWORDS = [
     # Non-photorealistic content (body text matches)
     "illustration", "cartoon", "anime", "cgi", "comic",
-    "line drawing", "sketch", "digital art", "digital painting",
+    "line drawing", "sketch", "digital painting",
     "3d render", "pixel art", "vector art", "watercolor",
     "oil painting", "pencil drawing", "manga",
     # Screenshots / UI
