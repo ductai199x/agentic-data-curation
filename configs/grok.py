@@ -132,17 +132,10 @@ REDDIT_SKIP_SELF_POSTS = True
 TWITTER_BOT_USERNAME = "grok"
 TWITTER_MEDIA_URL = "https://x.com/grok/media"
 TWITTER_COOKIES_PATH = "data/cookies-x.txt"
-# Search for user request tweets, then follow thread to find @grok's image reply
-TWITTER_SEARCH_QUERIES = [
-    "@grok generate",
-    "@grok create",
-    "@grok make",
-    "@grok draw",
-    "@grok can you generate",
-    "@grok can you make",
-    "@grok image of",
-    "@grok picture of",
-]
+
+# Direct image search: auto-generates daily "from:grok filter:images until:YYYY-MM-DD"
+# queries going back N days. Each day gets its own query.
+TWITTER_DIRECT_SEARCH_DAYS = 365
 
 # === Safety / provenance ===
 # Grok blocks exposed genitalia — images with these tags are NOT pure Grok output
@@ -160,13 +153,26 @@ BLOCKED_CONTENT_TAGS = [
 # Matched with word boundaries (\b) to avoid "graph" matching "photograph".
 
 REJECT_KEYWORDS = [
-    # Screenshots / UI — unambiguously non-image
+    # Explicit genital exposure only (other NSFW is acceptable)
+    "penis", "vagina", "vulva", "genitals", "testicle",
+    "labia", "clitoris", "phallus",
+    "cum", "ejaculation", "cumshot",
+    "penetration", "intercourse", "sex act",
+    # Non-photorealistic content
+    "illustration", "cartoon", "anime", "cgi", "comic",
+    "line drawing", "sketch", "digital painting", "digital drawing",
+    "3d render", "pixel art", "vector art", "watercolor",
+    "oil painting", "oil on canvas", "pencil drawing", "manga",
+    # Screenshots / UI
     "screenshot", "user interface", "app interface", "chat interface",
     "settings page", "settings menu", "status bar",
     "navigation bar", "toolbar", "menu bar", "dialog box",
     "browser window", "browser tab", "address bar", "url bar",
-    "home screen", "lock screen",
+    "home screen", "lock screen", "search bar",
     "file manager", "task manager", "control panel",
+    # Maps / satellite UI
+    "google maps", "google earth", "map pin",
+    "satellite view", "map interface",
     # Social media UI
     "tweet", "retweet", "like button", "follow button",
     "comment section", "social media post",
@@ -176,6 +182,8 @@ REJECT_KEYWORDS = [
     "meme", "impact font", "text overlay",
     "top text", "bottom text", "demotivational",
     "reaction image", "rage comic",
+    "speech bubble", "speech bubbles", "thought bubble",
+    "word balloon", "dialogue bubble",
     # Technical / error
     "error message", "error screen", "loading screen",
     "code snippet", "terminal", "command line",
@@ -183,6 +191,11 @@ REJECT_KEYWORDS = [
     "api response", "json output", "xml output",
     # Unambiguous data/document content
     "spreadsheet", "powerpoint", "presentation slide",
+    # Leaderboards / rankings
+    "leaderboard", "ranking", "scoreboard",
+    # Graphic design / clipart
+    "clipart", "clip art", "graphic design",
+    "minimalistic art",
 ]
 
 # These keywords are ambiguous — "table" could be furniture, "conversation"
