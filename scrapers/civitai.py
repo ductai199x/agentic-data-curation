@@ -162,9 +162,17 @@ class CivitaiScraper(BaseScraper):
         empty_pages = 0
 
         while not self._should_stop:
-            items, next_cursor = await asyncio.to_thread(
-                self._fetch_page, cursor, tool_id, model_version_id,
-            )
+            try:
+                items, next_cursor = await asyncio.wait_for(
+                    asyncio.to_thread(
+                        self._fetch_page, cursor, tool_id, model_version_id,
+                    ),
+                    timeout=180,  # 3 min hard timeout per page fetch
+                )
+            except asyncio.TimeoutError:
+                tqdm.write(f"  Page fetch timed out after 180s, retrying...")
+                await asyncio.sleep(10)
+                continue
             self.stats["pages_fetched"] += 1
             self.stats["urls_found"] += len(items)
 
@@ -201,9 +209,16 @@ class CivitaiScraper(BaseScraper):
                 break
 
             raw_item, label, is_onsite = item
-            await asyncio.to_thread(
-                self._download_item, raw_item, label, is_onsite,
-            )
+            try:
+                success = await asyncio.wait_for(
+                    asyncio.to_thread(
+                        self._download_item, raw_item, label, is_onsite,
+                    ),
+                    timeout=120,  # 2 min hard timeout per download
+                )
+            except asyncio.TimeoutError:
+                tqdm.write(f"  Download timed out, skipping...")
+                success = False
             self._processed += 1
             self._pbar.n = self._processed
             self._pbar.set_postfix(
@@ -217,7 +232,9 @@ class CivitaiScraper(BaseScraper):
             if self._should_stop:
                 break
 
-            await asyncio.sleep(random.uniform(*self.download_delay))
+            # Only delay after actual downloads, not skips
+            if success:
+                await asyncio.sleep(random.uniform(*self.download_delay))
 
         # Only worker 0 drains remaining items
         if worker_id == 0:

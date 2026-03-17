@@ -4,7 +4,7 @@ Scrapes the public community API at fnf.higgsfield.ai.
 Cursor-based pagination, full-res PNGs on CloudFront CDN.
 
 Usage:
-    uv run python -m scrapers.higgsfield --config configs/nano_banana.py --max-images 5000
+    uv run python -m scrapers.higgsfield --config configs/nano_banana_1_2.py --max-images 5000
 """
 
 import argparse

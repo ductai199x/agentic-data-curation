@@ -34,7 +34,7 @@ MODEL_NAME = "fancyfeast/llama-joycaption-beta-one-hf-llava"
 
 
 @serve.deployment(
-    ray_actor_options={"num_gpus": 0.25, "num_cpus": 1},
+    ray_actor_options={"num_gpus": 0.33, "num_cpus": 1},
     max_ongoing_requests=1,
 )
 class JoyCaptionService:

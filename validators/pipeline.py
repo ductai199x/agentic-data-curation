@@ -207,6 +207,7 @@ def run_pipeline(
         rejected_content = {
             k: v for k, v in joycaption.items()
             if v.get("should_reject", False) or len(v.get("reject_signals", [])) > 0
+            or "error" in v  # Reject images where captioning failed
         }
         print(f"Tier 0: JoyCaption content filter")
         print(f"  {len(joycaption)} tagged, "
