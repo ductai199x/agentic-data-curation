@@ -9,7 +9,7 @@ Only 3 aspect ratios supported via API: 1:1, 3:2, 2:3.
 """
 
 # === Generator identity ===
-NAME = "chatgpt"
+NAME = "gpt_image_1"
 DISPLAY_NAME = "ChatGPT (GPT-Image-1 / 1.5)"
 
 # === Image characteristics ===
@@ -149,7 +149,7 @@ BLOCKED_CONTENT_TAGS = [
 REJECT_KEYWORDS = [
     # Non-photorealistic content (body text matches)
     "illustration", "cartoon", "anime", "cgi", "comic",
-    "line drawing", "sketch", "digital art", "digital painting",
+    "line drawing", "sketch", "digital painting",
     "3d render", "pixel art", "vector art", "watercolor",
     "oil painting", "oil on canvas", "pencil drawing", "manga",
     # Screenshots / UI
@@ -171,6 +171,8 @@ REJECT_KEYWORDS = [
     "meme", "impact font", "text overlay",
     "top text", "bottom text", "demotivational",
     "reaction image", "rage comic",
+    "speech bubble", "speech bubbles", "thought bubble",
+    "word balloon", "dialogue bubble",
     # Technical / error
     "error message", "error screen", "loading screen",
     "code snippet", "terminal", "command line",
