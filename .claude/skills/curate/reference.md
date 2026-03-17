@@ -40,10 +40,11 @@ CAMERA_EXIF_TAGS = ["Make", "Model", "ExposureTime", "FNumber", "ISOSpeedRatings
 CIVITAI_MODEL_VERSIONS = []
 CIVITAI_TOOL_ID = None  # fallback only — user-uploaded, less trustworthy
 
-# X.com — bot media timeline (every image IS a generation)
-TWITTER_MEDIA_URL = None     # e.g. "https://x.com/grok/media"
-TWITTER_SEARCH_QUERIES = []  # generally unreliable — prefer media timeline
+# X.com — bot media timeline + direct image search
+TWITTER_BOT_USERNAME = None     # e.g. "grok", "NanoBanana"
+TWITTER_MEDIA_URL = None        # e.g. "https://x.com/grok/media"
 TWITTER_COOKIES_PATH = "data/cookies-x.txt"
+TWITTER_DIRECT_SEARCH_DAYS = 365  # auto-generates daily "from:bot filter:images until:YYYY-MM-DD"
 
 # Higgsfield — community gallery API (if applicable)
 HIGGSFIELD_MODELS = []       # e.g. ["nano_banana", "nano_banana_2"]
@@ -67,7 +68,7 @@ REDDIT_ALLOWED_IMAGE_DOMAINS = {"i.redd.it", "preview.redd.it", "i.imgur.com"}
 REDDIT_SKIP_SELF_POSTS = True
 
 # Content classification keywords (used by classify.py)
-# See configs/nano_banana.py for comprehensive example
+# See configs/nano_banana_1_2.py for comprehensive example
 REJECT_KEYWORDS = [
     "illustration", "cartoon", "anime", "cgi", "comic", "screenshot",
     "digital_art", "3d_render", "pixel_art", "watercolor",
@@ -123,13 +124,15 @@ uv run python -m scrapers.grok_imagine -c configs/grok.py --cookies data/cookies
 - Check CDN filenames for `ComfyUI_*` if using tool_id
 - Rate limit: 5-12s between API calls, 1-3s between downloads
 
-**3. X.com/Twitter** (bot media timeline)
+**3. X.com/Twitter** (media timeline + direct image search)
 - Only scrape the generator's OFFICIAL bot account (e.g. @grok, @NanoBanana)
-- Never use search queries — they match user request tweets, not bot replies
+- Two methods: `/media` timeline (gallery-dl) + direct search (`from:bot filter:images`)
+- Direct search: auto-generates daily `until:YYYY-MM-DD` windows going back N days
+  - Every result is a bot image — 100% provenance, no thread checking needed
+  - Config: `TWITTER_BOT_USERNAME` + `TWITTER_DIRECT_SEARCH_DAYS = 365`
 - Never use third-party bot accounts — unverified provenance
 - Requires `cookies.txt` (Netscape format, expires ~2 weeks)
-- Server-side pagination cap: ~600 items for some accounts (tested exhaustively for @grok)
-- gallery-dl Python API with `ratelimit: "abort"` — sometimes downloads MP4 as .jpg
+- Be conservative with search scrolling — aggressive scrolling causes account soft-bans
 
 **4. Reddit** (supplemental only)
 - Public JSON API, no auth needed
@@ -179,8 +182,7 @@ uv run python -m validators.pipeline --config configs/<gen>.py
 uv run python -m validators.pipeline --config configs/<gen>.py --force
 
 # FSD scoring (run separately on final validated images)
-uv run fsd-score --dir data/<gen>/images/ --weights-dir validators/fsd-weights --csv \
-  > data/<gen>/fsd_scores.csv
+uv run fsd-score --dir data/<gen>/images/ --csv > data/<gen>/fsd_scores.csv
 
 # vLLM (alternative to JoyCaption, port 8001)
 CUDA_VISIBLE_DEVICES=3 uv run vllm serve Qwen/Qwen2.5-VL-7B-Instruct \
@@ -260,7 +262,7 @@ pipeline logic needed. Map source strings to version names (e.g. `higgsfield_nan
 - **Reddit**: r/grok, r/GrokAI, r/GrokImagine — 11.3% yield (1,500→169 validated)
 - **Final dataset (v3)**: 1,713 images — Twitter 40.7%, grok.com 35.0%, Civitai 10.7%, Reddit 9.9%
 
-### Nano Banana (Google Gemini Image) — `configs/nano_banana.py`
+### Nano Banana (Google Gemini Image) — `configs/nano_banana_1_2.py`
 - **Best source**: Higgsfield.ai community gallery (REST API, ~12,375 total posts exhausted)
   - API: paginated cursor, ~3s/image, CDN strips all metadata
   - Source field encodes model version: `nano_banana` (v1) vs `nano_banana_2` (v2)

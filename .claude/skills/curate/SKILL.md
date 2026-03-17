@@ -1,6 +1,6 @@
 ---
 name: curate
-description: Collect and validate AI-generated images from a specific generator for FSD forensic detector training. Use when the user wants to curate, scrape, or build a dataset of AI-generated images from a specific generator (e.g. grok, gemini, chatgpt, midjourney, nano_banana). Handles source research, scraping from Civitai/Twitter/Reddit/Higgsfield, multi-stage validation (JoyCaption + structural + FSD), and quality assurance. Invoke with /curate <generator_name>.
+description: Collect and validate AI-generated images from a specific generator for FSD forensic detector training. Use when the user wants to curate, scrape, or build a dataset of AI-generated images from a specific generator (e.g. grok, gemini, gpt_image_1, midjourney, nano_banana_1_2). Handles source research, scraping from Civitai/Twitter/Reddit/Higgsfield, multi-stage validation (JoyCaption + structural + FSD), and quality assurance. Invoke with /curate <generator_name>.
 argument-hint: "<generator> [--max-images N] [--sources civitai,reddit,twitter]"
 ---
 
