@@ -142,6 +142,30 @@ uv run python -m scrapers.grok_imagine -c configs/grok.py --cookies data/cookies
 - JPEGs get recompressed — only PNGs preserve forensic signal
 - Cap Reddit at 20-25% of final dataset
 
+**5. Discord** (Midjourney and other Discord-based generators)
+- REST API with user auth token: `GET /api/v10/channels/{id}/messages?limit=100&before=SNOWFLAKE`
+- Snowflake-based pagination: `snowflake = (unix_ms - 1420070400000) << 22`
+- Filter by bot author ID to get only generator messages
+- CDN URLs (`cdn.discordapp.com`) are public but expire in ~24h — download immediately
+- Rate limit: ~5 req/5s per route, use 3s delay between API calls
+
+**Midjourney version detection** (critical for version-specific datasets):
+- **Explicit version**: `--v X` in prompt text or `_vX_` in component `custom_id`
+- **Default version by date**: If no explicit version flag, use message timestamp against known default windows:
+  - v5: ~May 2023 – Dec 2023
+  - v5.2: ~Dec 2023 – Jul 2024
+  - v6: ~Jul 2024 – Jun 17, 2025
+  - v7: Jun 17, 2025 – present
+- **Never label as "unknown"** — every image must have a confirmed version or be skipped
+- This pattern applies to any future Midjourney version scraping (v6, v8, etc.)
+
+**Midjourney grid splitting**:
+- Discord posts contain 2x2 grids (4 variations) for initial generations
+- Upscaled images are singles — detect via "Upscaled" in Discord message content
+- Grid detection: image dimensions match 2× a known base tile size AND message does NOT contain "Upscaled"
+- Split at exact center (zero gap between tiles), name tiles `{parent_hash}_0.png` through `_3.png`
+- Known v7 base tiles: 1024×1024, 1456×816, 896×1344, 928×1232, 960×1200, 1232×928, etc.
+
 ### Data Layout
 
 ```

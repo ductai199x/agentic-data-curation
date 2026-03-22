@@ -27,6 +27,7 @@ MANIFEST_FIELDS = [
     "filename", "url", "content_hash", "source", "subreddit",
     "post_id", "post_title", "flair", "timestamp", "status",
     "width", "height", "format", "file_size",
+    "message_content", "is_upscaled", "post_date",
 ]
 
 
@@ -201,6 +202,9 @@ class BaseScraper:
                 "height": height,
                 "format": fmt,
                 "file_size": len(data),
+                "message_content": metadata.get("message_content", ""),
+                "is_upscaled": metadata.get("is_upscaled", ""),
+                "post_date": metadata.get("post_date", ""),
             })
             return True
 

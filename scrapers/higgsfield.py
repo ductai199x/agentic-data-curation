@@ -114,12 +114,12 @@ class HiggsFieldScraper(BaseScraper):
                 break
 
             # Extract image URL — prefer raw result
-            results = entry.get("results", {})
-            raw = results.get("raw", {})
-            result = entry.get("result", {})
+            results = entry.get("results") or {}
+            raw = results.get("raw") or {}
+            result = entry.get("result") or {}
 
-            url = raw.get("url") or (result.get("url", "") if result else "")
-            result_type = (result.get("type") if result else None) or (raw.get("type") if raw else None)
+            url = raw.get("url") or result.get("url", "")
+            result_type = raw.get("type") or result.get("type")
             if not url or result_type != "image":
                 continue
 
@@ -152,10 +152,10 @@ class HiggsFieldScraper(BaseScraper):
     def _page_all_seen(self, items: list) -> bool:
         """Check if all image URLs on a page are already downloaded."""
         for item in items:
-            results = item.get("results", {})
-            raw = results.get("raw", {})
-            result = item.get("result", {})
-            url = raw.get("url") or (result.get("url", "") if result else "")
+            results = item.get("results") or {}
+            raw = results.get("raw") or {}
+            result = item.get("result") or {}
+            url = raw.get("url") or result.get("url", "")
             if url and url not in self.downloaded_urls:
                 return False
         return True
