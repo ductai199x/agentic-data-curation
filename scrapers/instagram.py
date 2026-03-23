@@ -59,6 +59,13 @@ class InstagramScraper(BaseScraper):
             if self._downloaded_post_ids:
                 print(f"Loaded {len(self._downloaded_post_ids)} post_ids for fast-skip")
 
+        # Build username → tier mapping (if config has tiers)
+        self._user_tier: dict[str, str] = {}
+        if config and hasattr(config, "INSTAGRAM_TIERS"):
+            for tier, accounts in config.INSTAGRAM_TIERS.items():
+                for acct in accounts:
+                    self._user_tier[acct] = tier
+
         # Resolve usernames
         if usernames:
             self.usernames = usernames
@@ -160,7 +167,16 @@ class InstagramScraper(BaseScraper):
         user_downloaded = 0
         profile_url = f"https://www.instagram.com/{username}/"
 
-        print(f"\nScraping @{username}: {profile_url}", flush=True)
+        # If tiers exist, save to staging/<tier>/ instead of staging/
+        tier = self._user_tier.get(username)
+        if tier:
+            tier_dir = self.output_dir / "staging" / tier
+            tier_dir.mkdir(parents=True, exist_ok=True)
+            self._original_staging = self.staging_dir
+            self.staging_dir = tier_dir
+
+        print(f"\nScraping @{username}: {profile_url}" +
+              (f" [tier={tier}]" if tier else ""), flush=True)
 
         try:
             await page.goto(profile_url, wait_until="domcontentloaded", timeout=30000)
@@ -230,10 +246,11 @@ class InstagramScraper(BaseScraper):
                 new_count += 1
 
                 # Download immediately
+                flair = f"instagram:{username}:{tier}" if tier else f"instagram:{username}"
                 metadata = {
                     "post_id": "",
                     "post_title": "",
-                    "flair": f"instagram:{username}",
+                    "flair": flair,
                     "subreddit": "",
                     "post_date": "",
                 }
@@ -284,7 +301,9 @@ class InstagramScraper(BaseScraper):
 
         print(f"  @{username}: {user_downloaded} images downloaded, {scroll_count} scrolls", flush=True)
 
-        print(f"  @{username}: downloaded {user_downloaded} images", flush=True)
+        # Restore original staging dir if we swapped for tier
+        if tier and hasattr(self, '_original_staging'):
+            self.staging_dir = self._original_staging
 
     async def _collect_post_links(self, page, username: str) -> list[str]:
         """Scroll the profile grid and collect all unique post links."""
