@@ -114,17 +114,9 @@ fsd-score on images/
 5. Update worklog with final stats
 6. Commit and push (`git add`, small focused commits)
 
-## Hard-Won Rules
+## Lessons
 
-Read [reference.md → Critical Rules](reference.md#critical-rules) for the full list.
-The top 3 that cause the most damage when violated:
-
-1. **Always audit captions.json for `"error"` entries before running pipeline.**
-   JoyCaption outages caused 30K+ images to be wrongly rejected across multiple datasets.
-
-2. **Civitai: `model_version_id` only, never `tool_id`.**
-   tool_id includes user uploads with arbitrary multi-tool workflows — zero provenance.
-
-3. **"digital art" must NOT be in REJECT_KEYWORDS.**
-   JoyCaption uses it as a style qualifier on photorealistic images. Removing it
-   recovered 2,000+ images across 4 datasets.
+Read `docs/LESSONS_MASTER.md` — 14 hard-won lessons from 10 generator runs.
+It covers pipeline pitfalls, source selection, scraper building, and operations.
+Per-generator details are in `docs/LESSONS_<GENERATOR>.md` — read those only
+when working with a specific platform.
