@@ -96,19 +96,24 @@ post pages render blank in headless mode). Instead:
 deduplication, signal handling, and progress tracking. Every scraper we built
 extends it. Starting from scratch means re-implementing all of that.
 
+### 13. Make everything resumable from the start
+Every scraper, classifier, and processing script must be able to stop and restart
+without losing progress or re-doing work. This is not an optimization — it's a
+requirement. Long-running jobs WILL get interrupted (GPU reclaimed, rate limits,
+cookie expiry, context window compaction, machine restarts).
+- Scrapers: manifest tracks downloaded URLs and hashes — skip on restart
+- batch_classify: captions.json tracks processed images — skip on restart
+- Grid splitter: check if tile files exist before splitting
+- Instagram: post_id fast-skip avoids revisiting downloaded posts
+Design for interruption from line 1, not as an afterthought.
+
 ---
 
 ## Operations
 
-### 13. Parallelize everything
+### 14. Parallelize everything
 - Scrape from multiple sources simultaneously
 - Build new scrapers while existing ones run
 - Caption while scraping (producer/consumer)
 - Use all CPU cores for batch operations (grid splitting: 256 workers = 4 min vs 7 hours)
 - Never wait sequentially when you can overlap
-
-### 14. Resume by default, track everything in manifest
-Every scraper and classifier skips already-processed items via manifest or
-captions.json. This makes re-runs cheap, interruptions painless, and allows
-incremental progress across sessions. Use `--force` only for intentional clean
-reruns.
