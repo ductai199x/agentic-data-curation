@@ -12,7 +12,8 @@ import os
 import sys
 from pathlib import Path
 
-DATA_DIR = Path(__file__).parent / "data"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_ROOT / "data"
 
 METADATA_COLUMNS = [
     "filename", "source", "model_version",

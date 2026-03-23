@@ -4,6 +4,7 @@
 # Only syncs images/ staging/ and metadata.csv per dataset.
 # Excludes cookies, other CSVs, JSONs.
 
+cd "$(dirname "$0")/.." || exit 1
 SRC="data/"
 DST="$HOME/weka_data/tai/agentic-data-curation/ai_generated/"
 

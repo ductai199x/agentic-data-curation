@@ -2,8 +2,8 @@
 """Print stats on all curated datasets.
 
 Usage:
-    uv run python stats.py              # short summary
-    uv run python stats.py --detailed   # detailed per-dataset breakdown
+    uv run python scripts/stats.py              # short summary
+    uv run python scripts/stats.py --detailed   # detailed per-dataset breakdown
 """
 
 import argparse
@@ -16,7 +16,8 @@ from pathlib import Path
 from tabulate import tabulate
 
 
-DATA_DIR = Path("data")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = PROJECT_ROOT / "data"
 
 DATASETS = [
     "midjourney_v7", "soul2", "flux1", "nano_banana_1_2",

@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/tai/1-workdir/09-agent-data-curation
+cd "$(dirname "$0")/.." || exit 1
 while true; do
     STAGING_COUNT=$(ls data/grok/staging/ 2>/dev/null | wc -l)
     IMAGES_COUNT=$(ls data/grok/images/ 2>/dev/null | wc -l)

@@ -12,6 +12,7 @@ dependencies = [
     "fsd-detector",
     "ray[serve]>=2.53.0",
     "accelerate",
+    "tabulate",
 ]
 
 [project.optional-dependencies]
