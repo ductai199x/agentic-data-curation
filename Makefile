@@ -12,5 +12,5 @@ stats-detailed: ## Detailed per-dataset breakdown
 metadata: ## Rebuild metadata.csv for all datasets
 	uv run python scripts/build_all_metadata.py
 
-sync: ## Sync data/ to weka (images + metadata.csv only)
-	bash scripts/sync_data.sh
+sync: ## Sync data/ to weka (use ARGS="--dry-run" or ARGS="--dataset grok")
+	bash scripts/sync_data.sh $(ARGS)
