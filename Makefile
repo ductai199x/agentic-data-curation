@@ -14,6 +14,3 @@ metadata: ## Rebuild metadata.csv for all datasets
 
 sync: ## Sync data/ to weka (images + metadata.csv only)
 	bash scripts/sync_data.sh
-
-sweep-grok: ## Run Grok caption+pipeline sweep loop
-	bash scripts/sweep_grok.sh
