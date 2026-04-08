@@ -1,6 +1,6 @@
 # Master Lessons — Agentic Data Curation
 
-The most impactful lessons from curating 162K+ images across 10 generators.
+The most impactful lessons from curating 200K+ images and 17K+ videos across 12 sources.
 These apply to every current and future curation run. Per-generator details
 are in `docs/LESSONS_<GENERATOR>.md`.
 
@@ -117,3 +117,23 @@ Design for interruption from line 1, not as an afterthought.
 - Caption while scraping (producer/consumer)
 - Use all CPU cores for batch operations (grid splitting: 256 workers = 4 min vs 7 hours)
 - Never wait sequentially when you can overlap
+
+### 15. Test with minimal auth before assuming a challenge is required
+Sora's Sentinel proof-of-work looked mandatory — the real sentinel token expired
+in minutes and required browser-side JS to generate. But sending an empty sentinel
+(`{"p":"","t":"","c":""}`) returned 200. This saved the entire scraping run. Before
+building complex auth bypasses, always try: no auth → empty/dummy tokens → minimal
+tokens → full auth. The platform may not actually validate what it asks for.
+
+### 16. The obvious API endpoint isn't always the best source
+Sora's `/feed/videos` had 127 items. `/feed/featured` had 45,000+. Tensor.Art's
+FLUX tag had 1.1M posts. The endpoint that seems purpose-built for your use case
+may be artificially limited. Always enumerate ALL available endpoints, feed variants,
+sort orders, and filters — then compare volumes before committing to one.
+
+### 17. Async consumers must have timeouts
+Producer/consumer with `asyncio.Queue` is the right pattern for scraping, but
+consumers MUST have timeouts on both `queue.get()` (2 min) and download operations
+(5 min). Without timeouts, a stuck HTTP request or a producer that finishes without
+proper sentinel signaling causes the entire process to deadlock silently. The process
+appears alive but makes zero progress — the worst kind of failure.
