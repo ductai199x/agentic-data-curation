@@ -1,0 +1,431 @@
+# C15_animals_domestic — 151 approved channels
+# Pre-screened: 13 rejected, 1 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCQ-JKqNo_T0yoeDZff1y7Kw	4K Urban Life	20	7207	4K
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	20	12495	4K
+UC7JnIYJEPmoxXJdYb1BhrnQ	8K Scenic Relaxation	20	14240
+UCkwi3H7xoYTJKycMI9YAn0w	4K Ocean World	20	11984	4K
+UCLzXFWc1Dir4eQm3AHiE1nA	AQUALIO	20	10800	4K
+UC8D_NXFBh8A9KSwo7x-wFdQ	8K VIDEOS ULTRA HD	20	5570	4K
+UCQDHH2vUiBgYHvvOlfK385g	Animal Exploration Project	20	2296	4K
+UCTbUeinZGRls2TAfB50h8rg	ANIMAL TIKTOK	20	959
+UCtV0jyO_aGii8b_9oz0FktQ	Animals and Pets	20	4734	4K
+UCQWec3l2I_EBt4CpYFVWw5A	Animal Relax	20	2943	4K
+UCEiiBt7XwEyOceN2IZ1q0sQ	Aquarium Ocean 4K	20	12019	4K
+UCCkFJmUgzrZdkeHl_qPItsA	Anne of All Trades	20	1638
+UCqbxMNVhNuVuvigbQVWPPxA	BMTV Meditation and Sleep	20	34206	4K
+UCr8pJV6Y6wipiFNQxwKGgjQ	Awesome Nature	20	12535	4K
+UC1Cp5caGwHvJZxHoevGoDdA	BRAIN TIME	20	1968	4K
+UCBsL0f1FZylqqhuKs5jhXCQ	BVIRAL	20	150
+UCHFDcMgqAVWDGTMhf2AwX6g	Best Animal Videos for Kids	20	2879
+UCuZUSKAxEB_1l9hBpxEK_zQ	Best Friends Animal Society	20	633
+UCUTOwFZ5grVnUMvvleA_JMg	Balu - Relaxing Nature in 4K	20	5131	4K
+UCO4yGJQP1HwMgBvV7riQnlA	Bird Nuggets	20	673
+UC7wafFu5c8AO0YF5U7R7xFA	Birder King	20	28839	4K
+UC_zQfO9f_Ga9BsicDSS9VrA	Birdingtons	20	9691	4K
+UC5-JvmBeujLWY4s3ejCaK3w	Budgie Nation	20	4297	4K
+UCPRUgAl_MV9PajsrG_BmT9w	BuzzFeed Celeb	20	846
+UCpko_-a4wgz2u_DgDgd9fqA	BuzzFeedVideo	20	1088
+UCPdSUYS1xH0wpFZ8XHojyfg	C A T	20	621
+UCGM5DxO-vJJNM-UE6SXyklw	CanelaandRrronin	20	628
+UCU0nAvDjqfXo1fTA7xn527w	CaD Animals	20	662
+UCWvSciIialWIDd_X5L6mGqg	Canine Companions®	20	689
+UC3_PaZ3Eso1JkuJyE_v4-3g	Cartoon Clubhouse- Kids Songs	20	675
+UC8obQWKR1FLoObFmSWU3iOw	Cat Things	20	1481
+UCI-Ho-GaKYbtMzXJWmWAsrg	Cat Trumpet	20	26014	4K
+UCaAQioaeflqh04etu05PEag	Cog Hill Farm For Kids with Farmer Jason	20	1315
+UCbOFo3LkOSKMN1-0lEMqB5Q	CritterVision	20	468
+UCH18915fTE6yZzKrqdea8RQ	Clint's Reptiles	20	2578
+UCdC0An4ZPNr_YiFiYoVbwaw	Daily Dose Of Internet	20	953
+UC8fx-F5i8GuGBCY-u9Xt1UQ	Dino Wearing White Socks穿白袜子的迪诺	20	329
+UCcBWO-xdk19De0COwOL5ohA	Discover Relaxation Channel	20	18479	4K
+UCvn5y0zlNXW94D1cuelZzWQ	Dog PlayGroup Stories	20	28181
+UCX-x-FQxmad1uXV1FOR7TQA	Dowsley Pets	20	14471
+UCMSSvp2cS1PrlD-fkailNtA	Dream Life	20	42738	4K
+UCE_EyJyx0E8nXbSCatz1Rhw	Ellen Welk	20	749
+UCLcUS-8rn2CPz2Wg3cZJMvQ	Ejay's Adventures	20	915	4K
+UCn3FhD-2z-HLvX0-1ybInVQ	Elisa Wallace Eventing	20	492
+UCrozpXn44uk0V9uQWFhxJuA	ElleAndTheBirds	20	794
+UCE8FlPiAsuefsxA8DivkZgw	Emma Neilsen	20	1122
+UC_IxnxEC1gUD_tze6MQfH2Q	Elphick.Event.Ponies	20	2333
+UCjzrDTsJKtMQI33Vii_jEeA	Enlightenment Meditation Music	20	23345
+UCfC0RcYzDQcFtHrce2mpvbA	Explore Dogs	20	3804
+UCUI51bOvqtmh2NNIU1qaV_Q	Equine Mollie	20	598
+UC-2KSeUU5SMCX6XLRD-AEvw	Explore Live Nature Cams	20	455
+UCtOBhse5Ah5UcJ1XZwuUQGw	Farm Dog TV	20	29906
+UCeed1lteQEpFjKjRfbf0DPQ	Fast Forward Eventing	20	342
+UCwi9pjj_LAGcpmXpg3KYP0A	Four Paws TV	20	34216
+UCW_X3-IRNdOl9vrZ-zGthlQ	Funny And Cute Cat's Life	20	963
+UCPDis9pjXuqyI7RYLJ-TTSA	FailArmy	20	1245
+UC0YbFiLN8fcvtWC5Jtt1Vzw	Funny Pet's Life	20	831
+UCXT-KAfO6ZzaxM8uj4Whofw	Funny Funny Cats	20	9005
+UCsMRgE1IQFkgGvyfBDh3BAw	Funny Sofia Show	20	1581
+UC9ORjIFQdgFiJpV_Yz-UgXQ	Gallop TV	20	411
+UCZszCX_TfylksyABpzXiRtg	Great Music for DOGS	20	81369
+UC9ncpEi-ukT9MYyPU6OQ14w	Gumbys Imerial Media	20	222
+UCkCFnbLtWCxaZDc4jEvoIlQ	HG Virtual Tour	20	3129
+UCkwXupRgX4zOyqMHKRIBOww	Harlow Luna White	20	2606
+UCxKltFsfYsyq6BWQ9evYhTw	Heart Music	20	14113	4K
+UCNOqDHMt0vLcnaQOhqDpWXw	Harmony Hounds - Relaxing Music for Dogs	20	36001	4K
+UCWSXeILMn-aZTxqCMI3XptA	I am franzi	20	811	4K
+UC66OsWUVCCDG05GNDB0_cKA	HighDesertLabradors	20	7327
+UCrmDImtwMytYaqCrNeqsKZg	Into the Ambience	20	3011	4K
+UCbxQisOhtsUVXDA37wP_c4Q	Incredible Animal	20	823
+UC4QtAgICkjXAR_xWQrHiAbw	John Deere Kids	20	326
+UCheL-cUqfzUB8dfM_rFOfDQ	Jackson Galaxy	20	887
+UCFU1IubzLAHnoPA8uRt-SMA	Kiddopedia	20	381
+UCKCsVSA5THlkHbnkZTPm6-g	Learn Bright	20	298
+UCpM7ggiIMv2liE5_dv-1RvQ	Laffey and Amy	20	138
+UCQEjUMa3F-Em5o_JLx4PFqg	Kin Tin Plays - Roblox and More	20	1018
+UCqYXz2FwObo3-LpX2xD8tWw	Learn Too | Creative Learning and Fun for Kids	20	1562
+UCNKinUDsKcC10-MO6fwi5Ew	Lillie	20	1345
+UCRRi9jT43EehTp16gK2e-KQ	Lucky Ferals	20	1971
+UCnJ8Cj0MGGTEs3Cs5lp5PWQ	LensMyth	20	35670
+UCL__0tJGg6TeyIfEVhSEjtw	Lulu the Cat	20	643
+UCIqWFhsJm2VU1ZuGrZnx3Pw	MAI PM	20	886	4K
+UCqLL1A4385TyBJwN0_hX7cw	Matt Dean	20	421
+UCkqLi6mYCtnUn6_eMsNXVmw	Melodic Wildlife 4K	20	676
+UCGW6uDvCpubYIYq-Ej7-swg	Musical Feelings	20	37093	4K
+UCCixUSzmP0Ryp0QYkbmOQ1w	My horse Willow	20	389
+UC4KEcg1itpjZimMijhCiPWA	My Little Star English	20	451
+UC4lp9Emg1ci8eo2eDkB-Tag	Nature Relaxation Films	20	15086	4K
+UCV-CbqljSc5HUwK_lGnTXMw	Natural Calming Sounds	20	36003	4K
+UCvqlLgvEzy7LKQCNG7cOXkQ	Olivia Coolidge	20	302
+UCx33n0OpAYlhs5i_boGYx6w	NoCAT NoLiFE	20	527
+UCJ54QPMIGFIFqZ7hCizedGw	Pampel	20	20223	4K
+UCMVw4uhBuyz9GtO0r8t8r0Q	Papa Joel's English	20	4859
+UCVtdo4OmU52nCGX9NcOesAw	Parrot Town TV 🦜	20	10243
+UCnqPc-CwaYoNWr6s64kK1Lw	Parrots Fun TV	20	3513
+UCPJXfmxMYAoH02CFudZxmgg	Paul Dinning	20	21817	4K
+UCiWM0Ld5SguCFmMuV6hbyDQ	Pearl's Ragdolls	20	408
+UCn2R59-f5OyYHMoOXDh2t4A	Peaceful Relaxation	20	69908	4K
+UCY5ZJlaLJHkbyiyyEBATkbw	Pets Awesome	20	1839
+UCEfJcs-FZtdPCfUabByDVXQ	Pinoy Kids Channel	20	568
+UCTmuAFtEfOOYbzuu8gXjx-Q	REAL THAILAND 4K	20	3101	4K
+UCyv4CjP-o9omKvPo-dm7tpQ	RELAXATION MEDITATION LAB CHANNEL	20	5978	4K
+UCuYnb5UuQxCOvYb9-TBQxZQ	Red Barn Cavaliers	20	256
+UC-DqJ54Dx0a5SzANKdTKwPg	Red Squirrel Studios	20	23961	4K
+UCqZWyp6f8iU3GXYcahCAq_g	Relax Tank	20	15697
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film	20	14094	4K
+UCGj7m6bL-W1ULkL_Bh2yL2Q	Relief Side	20	36012
+UCQ9kZRH_QZTVb8egYYc-aaQ	Rhythm Emotion	20	10633	4K
+UCCi_yf4nkVmWaE0IoNweTlw	Robert Höck	20	861
+UC95bEkaIgwhxSjSsdMFXYGg	Scenic Relaxation	20	4387	4K
+UCue2DK0ccHtBrP9V__gYl6A	Scenic Scenes	20	1805	4K
+UCFeclNW0MMuoO00_BzISx0w	ST Travel	20	3160	4K
+UCR4ptcF922rTrd_KI0MHtzw	Shining Brains	20	536
+UCjJghDbsDNCP6bv88Qk34pg	Shy Animals	20	1213
+UCxoDMG0tvaYO5Xobvtqw5nw	Smile and Learn - English	20	477
+UCjzHeG1KWoonmf9d5KBvSiw	Soothing Relaxation	20	6474
+UC51gXJJQPIyGrH8mBWvgOtg	Spy Cat	20	1296
+UCLsooMJoIpl_7ux2jvdPB-Q	Super Simple Songs - Kids Songs	20	1629
+UCyhPKRdzGskJekibUnJiZyQ	South Florida PBS	20	520
+UCMUMa6wEK6rOgqlPcDEs0pQ	Synth Groove	20	837
+UCWQEr5cy4WEAmae-1LSBUsA	Tale Pets	20	671
+UCMFSkaC6CgOh4L3IcVP2P8g	Teddy Kittens	20	361
+UCBUi6fH91WeH4e_-V7e5oag	The Clever Cowgirl	20	1416
+UCINb0wqPz-A0dV9nARjJlOQ	The Dodo	20	138
+UCmLaO0FYZqRnXLOyegFmIYA	The Farm	20	2432
+UCmt5E37AREpVfiqFuloJTEA	The Parakeet	20	4480	4K
+UCUtC8mAxcV7ALdwK9EMwJAg	The Webby Awards	20	1101
+UCPIvT-zcQl2H0vabdXJGcpg	The Pet Collective	20	1315
+UC-nIJ_VwZtHwNNQ0_O15Wpg	The Wild Adventure Girls	20	670
+UCCkmgsl8W18oR6c_W7UZ1lQ	TheSilentWatcher	20	24859	4K
+UCfC25VLBBRILnPRS56aj6BQ	TheDogCam	20	36000
+UCyvB6v89RVGuU1-9fvB73zQ	This Esme	20	1945
+UC9obdDRxQkmn_4YpcBMTYLw	Tiger FunnyWorks	20	708
+UCtZ8w9jJUn5hoGhT0QxdzpQ	Tiny Kitten	20	193
+UCEndIEu-bDDHjrfg2gw0GaQ	Tony 98 - Discovery	20	2313
+UCURKSCTqhNYQpJU6tyINiSA	Tractor Ted	20	1739
+UCYwDsHiV2NClULcVRuoRuoQ	Tv for dogs, brought to you by Doggy Woods Retreat	20	27933
+UCyGSYv8dBUmCB7DcR_1fKpQ	ZeuneS	20	1812
+UCZqBGCBf3GzVyBnzf-61hCw	cat.404	20	1099
+UCm-mdIVSD-zlHZorEwiF0tg	a dude	20	948
+UCvun2zVIxo68AZrwH12mkVw	comadyret	20	1031	4K
+UCxZKZ-T6Res7lrwDP9i9iUA	el Cato	20	1475
+UC8P4HIRzjjnxU-MQX0QHLUw	walter santi	20	503
+UCBFfxL_7Ttp_uqP3yZwVi6Q	Background Company	17	32956	4K
+UCAiYAzqIIHCVrhyHPuTp5Aw	Above Relaxation	13	21697	4K
+UC8FzOYkS-2up8JyR96THhlg	Mini Pug Babies	13	470
+UC3EUZPh6hIe35VcDTdAx72g	Riding With Lucie	10	2797
+UCYKp3v9YOcv6UpFvrM-dzgw	Aura Video Art	7	12858	4K
+UCRIdzil33nN-Ag-rdnuAjCA	Little Cat Cafe	7	15414
+UCAK7DyD0UvhEE-V0Q4UOeIA	Studio Gerbrandt — Art & Life With Birds	5	5345
+UCVaQwUU0NLkBeO6m7_j2U2Q	NoCAT NoLiFE 2	6	466
+UCsr5zPWPBDAfMZ4LqVEEAOg	Around the world	0	0
+UCVzPwAu6CjSyPOHP4w-m_Vg	Driving Through Adventure	0	0
+UCV-fRKTds8J7hpWCh3zizWw	NY Best DJ	0	0
+UCCgMhNEAZDPmqU_UolMIrZA	Lime360VR	0	0
+UCGCCMGtbzjdkPP8_MixOCPg	The New Yorker	0	0
+UCLBZ747LLyrbuyxn9U7moxg	100M	0	0
+UCNVzNbXItEgp1JtiPxBvMvA	21	0	0
+UCQRLGaHLnkFG0HA4H03lR6Q	4K TRAVELINGS NATURE VIDEOS HD	0	0
+UCRMhyt1BRp7qvzg0aOt58iQ	4k Dream Scenic	0	0
+UCQ4bKDtre3IPKQRzYDEpX5w	4k Magic	0	0
+UCLL44RCPuw8XIslZBB8jf6A	4xOverland	0	0
+UCjYTbjLew6-QLAM53pT1p3A	4k Nature Videos Ultra HD	0	0
+UCVCAAXLO5RXSyi09P7P_-Fw	70s Gamer	0	0
+UCYEQqACUX7x-ggbixXwwe6A	82Bangla tv	0	0
+UChR6O2VdfEqx-GXXvUP0W7g	8K Dream Vision	0	0
+UCxsqWK2feeQMsXSAppd1v4Q	8K VIDEO COLLECTION	0	0
+UClJSj9WHd-P0HXDK2ayGYXQ	@Animal	0	0
+UC57y2gcbDlkknECIu694jOw	ALL MIXED	0	0
+UCEjARXg3bpsGt1g3gvayzCw	7 Birds of Joy - Topic	0	0
+UCbvBL1SLjNg9B7ontoemziQ	ASMRService	0	0
+UCvhngRjafOf0KUnW0H7BXjA	Adi Entertainment	0	0
+UCWJTR_566mevyIG30OveSBQ	African Bush Camps	0	0
+UCgNoSjQ2kv2A5bYcgMpdm7g	Albert & Mia, the Adventure Bengal Cat	0	0
+UCx0xLmuvfOY6Jht_iFIdCDA	AmazingANIMALjourneys	0	0
+UCK7durwa_YM6MpnUmAu9kxg	Amrita Bhortake	0	0
+UC_j77PU0rOsPINdbQpJlY3w	Anamika & Annesha	0	0
+UCmc8z3HB8ytQVXqIilk0PQA	Animal Behavior Corner	0	0
+UC6ppOh3ckLHWDn-AoXsnS5Q	Animal Calm 4K	0	0
+UCK-GTQ9HY1UOpJx-yqDcA-Q	Animal Facts (Fun Animal Videos)	0	0
+UC4tQ5jXSrxj2UtDCylz5grw	Animal House 4k	0	0
+UCdBNDFwMiFE5fFXmK5gj4Ig	Animal Spy	0	0
+UCaBBAKmwGedIgT8o9AcBy6g	Animal Kingdom 4K	0	0
+UCGMqW-qwL7dr0qdZ689hfhQ	Animals And Nature	0	0
+UCcF_JctMrRs1nSmGzIMvX0w	Aqua Serenity	0	0
+UC6pe_6JkkvuzeBCbpCkOaiA	ArtWavePulse	0	0
+UCLD9I4m4fKPzJllEFmHdEGg	Aquatic Sounds Relaxing Music	0	0
+UCybBR6eDMiLADbN7qdjaWvw	Asis Nature In 4K	0	0
+UCPHtet148IBR9UVWa16YYFw	Atmosyoutube	0	0
+UCBo_AOUlDRieOVNkqjk_mrA	Awesome World 奇妙世界	0	0
+UCBUbeIE7IUMNVcfyEzx8IEw	Aurelia Blue Ocean	0	0
+UC4OWIUYnoM3zeUf1aYXfV2Q	BARAK RIVER CHANNEL	0	0
+UCo5uT0gSXsMigtjK4A9q0BA	BEO Nature	0	0
+UCIAiO6GQKloSUZLOS4kA9bA	Best of Internet	0	0
+UCtGobtt0CpiQhUe-mDuB-aQ	Bird Relaxing Music	0	0
+UCqPwa8URAuHK42zzdm2tVKQ	Botanical Interests	0	0
+UCZ6i9TKe7MZiTEsabqIqVJA	Bouby	0	0
+UCtsT3z9zvVrBCnxI1hPFUeg	Bryce Broom	0	0
+UCHW9bDsSZ6lk02rijiXHApg	Cafe Jazz Vibes	0	0
+UCbJHfnWtshjo6zJg9Y8XzBw	Be YourSelf	0	0
+UCq93jfw13hj3I2gDfpwULNA	Calm Dreaming	0	0
+UClBcxJXHu1FSxSWK3hH4JYA	Calm Relaxing Ambience	0	0
+UCBDIr0QZkPO6nETd1G6VIaQ	Bowtie Life in the GARDEN	0	0
+UCjvoH4TE3Mp6vfP-YeDR0ag	Calming TV Worlds	0	0
+UCrcGo7lcNcGZb0dwmZDVcjQ	Cali Life Style - Topic	0	0
+UCaoqhErfANFUal25aGmSBeA	Calming Tones (Calming Tones/White Noise)	0	0
+UCmt1HKnG80Ny2bj7fHwYTjg	Casper	0	0
+UC7YtCn2_DoWgWCxS6cfg68g	Catherine Sarah Manna	0	0
+UCxMW-3u5fwf-ozD6NypJUFQ	Cats Mother	0	0
+UCXXApTVjoWIrNUTKV7HOx5Q	Central Park Conservancy	0	0
+UCAR-wsCZ0Xn9KPqX_l2fVzQ	Channel ZERO	0	0
+UCqXfz-cTI_AnGjaLKnb3FMg	Chatty Paws	0	0
+UCjh_-pSxi4Mw3cElsPMvvSw	ClearVibeMusic	0	0
+UCdlMlBZXJu-cgOM_yfr1MnQ	Cloudy Network	0	0
+UCS37XFeEfCP0VwwA2hyNgqQ	Curiosity Pet	0	0
+UCXpnKtPlNifPa1Mb8LULynA	Cuteness	0	0
+UC7AzlnaS5lix7JzFnVjr_iw	Cutest Lands	0	0
+UCIsz3XD8_E1ebhE4YScWeJg	Dean Schneider	0	0
+UCKnnIBx2EeU_EfSgnrGEosg	Deep Sleep & Relaxing Music Channel	0	0
+UCywfcfZ2d2phEbSyvmdBTaw	Deep Sleep for Dogs	0	0
+UC9elyU4jkHsfqk-eq5COYmw	Deep Sleep with Calm	0	0
+UCScxKIHk0td0zT5i7LXsJgw	Department of Film Services DFS	0	0
+UCwQ6FqXU-Rfh1quPp6Hvskg	DeriveGarden	0	0
+UCHas8hjllwtGFwzXV9P8YKA	Destined Dynamics	0	0
+UC0elx1WHB39ct7lnARLNEyQ	Doggy Digs	0	0
+UCofXFskZSRZV7ehHPhOlfiA	Dodo Kids	0	0
+UCGtrBL5704G42FS_0jwBREQ	Dr Deepak Jaybhaye Photography	0	0
+UChPiiB4QBycfddL7rRwUvlQ	Dr. Stefani Kappel	0	0
+UCSX9eQeIHJUeQINM9glz1_A	Emme Chatterton | Cozy Countryside Academia	0	0
+UCFAP81TIqe_KLZYUPdZdl2g	Dreamwave Ocean Views 4K	0	0
+UCQPf1CAzNrxHIJLJuleZ68A	Epic Private Journeys	0	0
+UCOoVrygy3T2wvczdjTy5sBQ	Everblue Relaxation	0	0
+UCjKDFGHanWaELmnE-VUe02g	Esra's Style	0	0
+UCVn7JTbU3wxFw2kPkUS00tw	Exotic Animal Relaxation	0	0
+UCilwZiBBfI9X6yiZRzWty8Q	FaZe Rug	0	0
+UCtXn8EDGHrAL9gLppoHZXSg	Feline Fanatics	0	0
+UC1yWvD192f3gHZ08_T-k5lQ	Family Plot Garden	0	0
+UCVYvOBpWNmWF7lG240rDFvg	Flash Vidéos	0	0
+UCAWCq5WRj-HWlOeN5uHROpw	Flight of the Conchords	0	0
+UCYRq9BVFf7A_mzZcBH44BTQ	FlipsydeOfficial	0	0
+UC5olU9tsN4ZjObekdf_0X3Q	Fluffy Ambience	0	0
+UC7PkjuxoWqJveUYKMb52IZA	Focused Nature And Wildlife By AJ	0	0
+UCwqCIM1AJsEL-QXfgD-qp-Q	Freewalker African Travel Content	0	0
+UC9TcuDlGy9FTaYxhkOet0Ig	Frugal Solutions	0	0
+UCNv1df5uPna6Khv-nsXJ9iQ	FunAnimalVideozToday	0	0
+UCjBV8uf4OjklgupleWlixGw	Funny and Cute Animal Videos	0	0
+UCEj_qUqV-jOOHoHVGhbOlig	Fur Real Shortz	0	0
+UCdpU1yQ_RmJHvs9MSHG30lA	GMusic	0	0
+UC4jWHdSxCLbSxCmRJQaVraQ	Garden Well Eat Well	0	0
+UC_zpbwKenyARPy8gNKxK8XA	Garden Sprout Home & Gardening	0	0
+UCptL6_qMImyW_yZwiMjQdpg	Gary Pilarchik (The Rusted Garden)	0	0
+UC76DdSU0Wcf-KSIJMxa5qvA	Garonga Safari Company	0	0
+UCU0zC0L4o0qOos83NLhK5ug	Ginger Cat	0	0
+UC3uc5xWud86cIk9R7Y-Vtsw	Giggle Pet Club	0	0
+UCHU5UeXu3gszoBebugRJh4Q	Graeham Goble	0	0
+UCuTS_bIrQ02uepmIVKqYjBw	Green'Vault	0	0
+UC2npU1Wwx6L6D-rq_LW8ROQ	GrowNest Home & Garden	0	0
+UCuBrUgsac-Mpz43NUmLUmsg	Harvest Homestead Hacks	0	0
+UCnLjr0czO5zPsJYubbrvHCw	Healing Soul	0	0
+UC9efHirmggRkJzJUp2yVuOQ	Henk Den Hollander, Prompt to Pop	0	0
+UCiB2VwnJoPDDq26pB7y4H8g	Herbal Jedi	0	0
+UCQWxcS3ssoK5dzzAajf3D6A	Holla bettafish Multi	0	0
+UCv4mwZ_92t6MsAsJZEjf6TA	Holy Hip Hop Hymnal	0	0
+UChajkcPS2cwubmrykAvTqpA	Hooked and Rooted	0	0
+UC9GG901peelHWNe6ck_UGvg	Homestead Pilgrim	0	0
+UCvNFEyv4q6QvZ4Of2GKhzSw	Hunxho	0	0
+UCmiPRcKSVG1FgtL57MVE0uA	I Love Dogs	0	0
+UC-hVOGj2apTeEvc49CrjQlg	Inner Lotus Music	0	0
+UCiXlU1p0O6HQJINEfhTjy-A	In the Garden with Amy	0	0
+UCXYJ2-TZtheK8SZmsrPKNLw	Inomjon Relaxing 4K	0	0
+UCfHTrA_ceeXZePMJRtuCuNQ	Jaw-Dropping Facts	0	0
+UCZpvLeZDtm8mmmvwgBrNVyg	KLR Productions	0	0
+UClMAfgR4z-6r_rg8t-zKWkQ	Jerzy Bałuszyński Musiq	0	0
+UCrR0-x3QZPwCf9mHQO61TdQ	Kapper Outdoors 2.0 Excavation & Land Management	0	0
+UCPABC_YI-zetyMtrjHoDc1A	Kelly Price	0	0
+UCoGwHbzh-hxC2bsNYG-pcWA	Keshi Betta House	0	0
+UCOzOPuYMyFiu2EojCWQ-VbA	KimmyHoney	0	0
+UCDsElQQt_gCZ9LgnW-7v-cQ	Kirsten Dirksen	0	0
+UCKn2s0c4Ptf8IPIc6OIVh9A	KittyTips	0	0
+UCjt3qnpWNZjFQCzCFM1bEew	Komik Animasi AI	0	0
+UCg3RbyWJ4IupVWgqilQx3gg	LINNYandFINNY	0	0
+UChElXf8PNinhlU_WyCQlo4Q	Lanyula  Cultural Village	0	0
+UC6fQYeU_u2emBM2l2GOiLqA	LULANKO	0	0
+UC7T7Aet2wZUpSiito4hJanw	Laura Ramos Adams	0	0
+UCyEM4Sfyous2XuWbKep38jg	Lil Poppa	0	0
+UCjPrlE4amOZQ6ltr2f-ZSqw	Lennart Hessel	0	0
+UC5zgk8gsz5O-2ANhEr5mIwQ	Lazy Wanderer	0	0
+UCoUaFwRR-GHowgFXfkSS_7w	Lil Scoom89	0	0
+UC1QxWenZXnABJUoyXFyBSRQ	Lish Daelnar	0	0
+UCQou9U8B6voit3dGizoOj4w	Lotus	0	0
+UCmwx57yUXkvs5DpifCFbeGA	Loud emotions	0	0
+UClWAgIi7bNiYONzvPy12xVA	Lovely Nature Scenes	0	0
+UCoPL8HFwada-gM5rr6faZDg	Lullaby Baby	0	0
+UCUI7GO4cOH33uyL0j3fRumQ	Lyrics Loft	0	0
+UCaX3y-TuOceRJlP4toYAjKA	Magic Feathers	0	0
+UC4r30j_pFPteTwVI5bWgYrA	Magic of Music	0	0
+UCXBexZ-MxdGtAcd4KWFAfbw	MickeyMunch	0	0
+UCyUnpPShcQzlPsG1ESUznlg	Meditation Paradise Harmony	0	0
+UCb_kshGodseYhLPcDtxWv5w	Meditation Relax Music	0	0
+UCY9M8QB819VgCDklht0T96Q	Milli Dawg Travels with Mike!	0	0
+UCWFYoJu8hJCTzhLF7l49sKA	Mimi Cafe BGM	0	0
+UCKLTq5nqt06Mw7gV203fo6Q	More Than Farmers	0	0
+UC9Rvucb-TgcRaa7p_WCOV6A	Mindful Melodies	0	0
+UCfVJ_-zdASq6HR-ocI8yTww	Music for Body and Spirit - Meditation Music	0	0
+UCtxf1dYWb_ky6y2a7XMV-BQ	My Alabama Farm Life	0	0
+UCHaRNI8hPODjKSu7BjB8-oQ	MyFigStix	0	0
+UCMePBDaNUNwp7ETgNpbPR6A	Mystery Archives	0	0
+UCuGZPf-QK0cq3JbzS7vRpAw	My Happy Husky	0	0
+UC2c0Pg0QCG2OMBY0mDsOY5w	NWRT Aquarium	0	0
+UChE4aVxHHk5Mx9fZ2DaPJGw	Nas	0	0
+UCQJ4VMm7_lWyv8EmQFaMTig	NATUREALM	0	0
+UCqqopNt7DTTaMApTb-FvHFQ	Natural beauty	0	0
+UCVC3oqXBBThbgP30Ieo0Fiw	Nature nest TV	0	0
+UCKv5EgqvmwOauqmfbYi8Zfg	Nature Bird Sound	0	0
+UCWsl-DGSoGzaSntd7RjJieA	Nature's symphony	0	0
+UCrGBp-w6CLIuwFTjccUwZxQ	Nature's Whispers	0	0
+UC043YRvkxgZSgNKRKW_twDA	NatureZen	0	0
+UCwmZiChSryoWQCZMIQezgTg	National Geographic 4K	0	0
+UCcJceGUaevGlP7s2xzL9akA	Next Level Gardening	0	0
+UCb1ANUIW7arUUDI-Mwz65rw	Ocb Relax	0	0
+UCYnriBqJ6W9NkSM229oi0Ag	Nick Cannon	0	0
+UC9VO3tayfASye5P3_ZIX3jw	Ocean Blue Echo 8K	0	0
+UCGDFTHycYgF9EpQqZwUXJUg	Ocean Sanctuary	0	0
+UCK-KFTtMRNz6zoJYD4NDMwQ	Ocean Serenity 8K	0	0
+UCL32JshKeIft7ZXNAd_8Ofg	Ocean Vibes	0	0
+UCgf2dDk7P85ysuqRTpClq0Q	OneCalmCookie	0	0
+UC4L-dSrzbPoZcr1Av5GvwKw	Open Heart Music - Helios 4K	0	0
+UCAl1gjRd_u9GCp2CXPtKCDQ	Our Planet Lives - Animal Videos in 4K	0	0
+UCx7xGBGYXneFxrf0bwgYQeA	PHARCYDE TV	0	0
+UCtk45y3Pug-MBrlAyaJIMrg	Paw Logs	0	0
+UCkhGCGk1vCtm0tOHZ1UznXA	Paws & Claws	0	0
+UCdOA48DT7BRnYvS4JP9-E_g	Pennsylvania Prepper	0	0
+UChZzSSkWdLVM0hldn8x3ERA	Peaceful James Minh Official	0	0
+UCzd9r_zQAbWj0kkLDRIcIKg	Pet Gagsi	0	0
+UCgu5qaoxbyT0Q7I5Tsrcc4Q	PiterP GT	0	0
+UCpdTu5COQEEBm7pqLLqX34g	Planetlenz	0	0
+UCOO8G09CDjmN9QrXM8iMHfA	Province	0	0
+UCx0cVxtCluGJ7TrqLHZT4vw	Pleasant	0	0
+UC8s2rNmNuY6MLkFQD-zvDAg	Psychedelic Zen	0	0
+UCZiUDb8qjkPZcg-ShFy_7uQ	Pure Crush Drama	0	0
+UC46fZkmsP85pUQDLw1UKezg	PurpleStars02	0	0
+UCTMys9WkYs-Rg1zpFvTJAEg	Purely Garden	0	0
+UCz5SDAR7GV7QaF-XqOLFF_w	Raja Konin	0	0
+UCK8o45wku6UFQTzxLCjg8dQ	Random Videos Plus	0	0
+UC-fBozHDwV6sBDM9gybFmhQ	RechargeScape	0	0
+UCO4gqK9SOR5X4hrLNBGk1bA	Relax With Me	0	0
+UCVSaNtZoJMlx8SxLxsNa1lw	Relaxing Calming Music	0	0
+UCX5CNODgFM7z5OViyt8QMmw	Relaxing Video	0	0
+UCK4v1jYeFSN0kN7F6v73xvg	Rescue Animal Official	0	0
+UCehmSk_0FJB35bZQmwjvK5Q	Retired Happy	0	0
+UCuBhKLn7DYGHSsGnEFRrK-Q	RiversEdge West	0	0
+UCYpoXvqO-XakTbq6Cyfaddw	Rocky Reacts	0	0
+UCnmGIkw-KdI0W5siakKPKog	Ryan Trahan	0	0
+UCT5gkBsymS_W12xKor8EBZA	Roundat 4K ♠ Capturing Life's Colors ♠	0	0
+UCTGBz8XAVysINSJagYS9W8A	SLEEP BOT	0	0
+UC8LcA3grYZg0GNpxlXh8owg	SMG4	0	0
+UCURcNrmIXR7vIhtpOYD60sA	Sanctuary Gardens	0	0
+UCPfBYJi4HENEyxRx234ue7g	Seahorse Seasons	0	0
+UCyOZikRX4wFr8wOzDkGS0qg	Scenic Wildlife Film	0	0
+UCMKzoEfJ8xzdLuFjyw0Dvyw	Seasons in Garden	0	0
+UCnCALMh5O4Ykpv_ESjZ6WqA	Senior Garden Guide	0	0
+UCdOVR68Bhzhmi11BXt0t-7g	Shahzad ilamdin	0	0
+UCkyg_w1hdmVYfimoACcBBsA	Slot Zombie	0	0
+UC65GPVG6Th-WArH0E3e-jZQ	Silaghi's Journal	0	0
+UCmEb7rZRwejgRZ98HwAimLA	Safari Sounds - Topic	0	0
+UCiiACM4rk_p_tJVXZOHAdRA	Simply Bananas	0	0
+UC3QFQlg4qs9Sf1o23OikOyw	Sounds Of Nature	0	0
+UC6CMuddJGs8DUK2-blRcCeA	Sound Asleep ASMR	0	0
+UCZmAixeX48BhtAHXmD9l5Ug	Soothing Soul	0	0
+UCIaiCw0tTelnI-ekmNjmxHw	Solutions Pest & Lawn	0	0
+UC_BrWk74yF67_M0a9Kn9Pwg	Sweet Waves	0	0
+UCohP7CxHFI6AaIPhhTivk_w	SproutCycle Garden	0	0
+UCIk1YXnhC0pM5kIB601qTKQ	TOP_BEST_VIDEO Tik Tok	0	0
+UCSbAUOXfXPLmBraJmlJCZ5A	TRUE Nature	0	0
+UCDR3675YhRPegmHuCm3kAbQ	Tatz Kie	0	0
+UCY1-vvLeWRsrMErxFz7wPeg	The Dog Brain	0	0
+UCocO2tqnEdZ7nVSFLtwJfdw	The Good, The Bad & The Football	0	0
+UCazeTXRvGoETWKPbcA_LXrw	The Best Relaxing Aquarium 4K	0	0
+UCi8wqezBudeAiTdKOX571ug	The Jazz Hop Café	0	0
+UC4jWo5kiyOCt4PnvF4jbaLg	The Honest Guys - Meditations - Relaxation	0	0
+UCpE5mudZIeVulsqiszCtZAw	The Healing Resonance	0	0
+UCAXUwGU47XVY-0lH9qhUr1Q	The Millennial Gardener	0	0
+UCaIeqK1StqjahDGEkXEUt6w	The Party Animals	0	0
+UC4fQiKjcaUli11O0N3_6gvw	The SA Jewish Report	0	0
+UCzyLEytvsUHLSE4NPPAeKbA	The Visual Canvas Production	0	0
+UCpk-H9G8HPq6DAJiwuhCugw	The Waters of Heaven	0	0
+UCO0_zcvTswZQOid9DgpZY8A	ThinkElix Documentary	0	0
+UCYE9-0P2EYFC-Q8kC-BQ5Ug	This Is Texas Gardening	0	0
+UCiM8rswKElWMcqaUA0FqMwg	ThinkRelaxSleep	0	0
+UCmJiQa0WUzPaRDjQrtkYnJg	ThyEdgar	0	0
+UCSn3ZYk1FNuzIfUDUBjZcdQ	TikTok Funny Comps	0	0
+UCGeBV1i0Kl_THtkoQlbdMJg	Time to relax	0	0
+UCth4T2x3EnU5elwgmUFu1FA	Time Well Spent	0	0
+UCuETdlvNUIyLdXId_b7QEqQ	Travels and Other Things	0	0
+UCOj9WICwHqV_smQj-ucj1AA	Trend Central	0	0
+UC-uvbydW0gCb66RdfkUypfQ	Tryzz Games	0	0
+UCmMiaxQlA_wfG1LM1EVuIIg	Tyler Lloyd	0	0
+UC-QvL-m2Npr3KaVizEra1mw	Ultimate Pet Nutrition	0	0
+UCcI9K0Zw3Z9BBlNSxf-9EmA	Veggie Mastery	0	0
+UCaXf7pOC5KIclUlHciyPSWw	Virtual Walks Australia	0	0
+UCP-mBs7qdcEYE9iVncH2HYA	Virtual Zoo	0	0
+UCxyrgNrB6WXBdOxQ_BZKtxA	Walk and Capture	0	0
+UC6DmJVv7G8NCwbmgBKo_Aqg	Wayneinthewild	0	0
+UC9CaALAEikgXaPUb9KTHlYQ	Wild Eye	0	0
+UCIeBZZkv3H4SglgztTycNJw	Wild Food and Happy Soul	0	0
+UC-7UNmzXAluah6sg8I8KXSw	Wild Things	0	0
+UCo5JkRVziPY8hl5VCpukMkQ	White Noise - Topic	0	0
+UCZM3YQ3elVT2xJyamAjxCCg	Wild Eden Nature Sounds - Topic	0	0
+UCALBePY9_4dVatkKHr8m3ug	World Explorer's Awe-Inspiring Sights & Smiles	0	0
+UC4dD7XXdwPIrTLStHwfsJOQ	World List	0	0
+UCuwdplPbuTFZj_64d03tSBA	Young Thug	0	0
+UCQ7E2JpZ7j8NTEeaClQJDHw	Zephyr the 7th	0	0
+UCixJPY7Gx-OBA4JEusHKILw	anythingANDeverything	0	0
+UCA7zLSOm7WBRpPxT5ub3oOA	Zenful Melodies	0	0
+UCDnAEpr_P6e_vCnwZr21qDA	beneah	0	0
+UCaz1Ft6i3HBZRCxKKQHnUxw	bih roh	0	0
+UC6Px-j7Wt3Vx5p7K4j_FEeg	funny memes	0	0
+UC6mVeSk1Vst7dKaCQ8tyzSA	hello cats	0	0
+UCdgCtYJjMTSOZsdPRwuj4aA	jesusmessages	0	0
+UCXbhTyFxancDrEKPYmpypZA	inspiration relaxation meditation world	0	0
+UCYpKcHMXXHGhTEqcVWJOevQ	mytech_kh	0	0
+UCN199uuGp-GLDeICZ_JNYlw	knockbaun	0	0
+UCk8GzjMOrta8yxDcKfylJYw	✿ Kids Diana Show	0	0
+UCNIKva6iDURgVxf44pMZlKA	动漫魔女	0	0
+UCfBSljE8uWg6aUSTyywNiZA	漫剧不打烊	0	0
+UCob5ARq-xMJVyX4zC_jb3bQ	西嘻影业官方频道 XiXi Pictures Official Channel	0	0
+UC3lJznlawC1-ozs00v3X-QQ	그의 취향, his favorites.	0	0

@@ -1,0 +1,647 @@
+# C12_vehicles_pov — 214 channels
+# Auto-discovered, needs pre-screening
+# Format: channel_id<tab>channel_name
+
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel
+UCMY_bElzxAzLkekF-xGWkfQ	A Freightdog's Life
+UCNIFiHaLZkYASaWDdkC1njg	A&E
+UCFvGKq8YiuGQKmrgHCZFakg	AKSense - Zurich
+UC-3qkQrEsePHLOOaPwiiAWQ	AMAROBEAST
+UC1T_pR-Rt-NdHgytn2GkTeA	Abao Vision
+UCT4AXeTk6x2j1085ZaKargg	Abyssal Detective 2
+UCgjTWiRNnjPJBO6nB-TRoNg	Activities Through My Eyes
+UCHw4XxOMjRfWK3k7G9ANeGw	AdventureEveryDay
+UCT6jFU-BtWiWjaCR8X69vQg	AirplaneAdventures
+UCRw_CkTaPZlSST59yiULN7Q	Alex Golubovs
+UCAAS_uE2oDq9tbmMhwNwzWA	Alvaro Trujillo
+UCXbXfisDHV_gDjawCKTyTIw	Ambient Renders
+UCPN5x1hrgE7EEmQEH5CTAjg	Amir Rimer Relaxing
+UC3Idk9HGqE3stnMlqWh58UQ	Approach and Departure Videos
+UC4UrxLHn8-tt9DjGO3oSDuA	Aviation Attract
+UCdsaWk-WigY5q8CB_cA3z2g	BLACKVUE
+UCPy-vsBDyrEu3I3DJRUuvyg	Beautiful World 4k
+UCWXNvnztTNz99SYgTnyltwg	Bike the World
+UClul0ktljpWQRckvy_n25Vw	BkM-SE
+UCv2w4Pe6Ad9NxM-FU0MR4wg	BlackboxMyCar Dash Cams | North America
+UCmGEY8pUmxVYK57mnq1C14w	CalmYourStress
+UCJuMbdKSMThk2RpALASyXVQ	Calmed By Nature
+UC1H7eAblsYHUoE_KwnPA7jA	Captain Boeing
+UCXxDRCdS8yNmjB3x0VSCtfA	CaptainPadde
+UCl-S930ulKMPY_YAsQM226Q	Cassette & Media Archives
+UCc4tkQ7RB0X3ARhamI8_bGQ	Chezzoid
+UCGAmpBtWveYp0-3v9npnhvQ	Chilling Scares
+UCN64HIrZNqFQYZ2BuyY-4zg	Chills
+UC_WiXW9ikysvhG9rFMzl4GA	City & Nature Ambience
+UCvu2kAXqUZ2oUbcEOTT1uUg	Cyclify
+UCyqaHaofzJ6UgDFxOOqTBgQ	DC Travels
+UCoOBdZD9kJJDggaeHaBn78w	Dad's Dash Cam
+UCj_ARBxhCoF5JxUItcEUs7Q	DailyDrivenExotics
+UC1dcRoXHbZ0QFOBB6DKPmdg	Dan Robinson
+UCvfqpaehdaqtkXPNhvJRyGA	Dash Cam Owners Australia
+UC_H5eI8VcRh7EZEXIwdRqyw	Dash Cam Tours
+UC5PYebaTivUwvjse7LOEbOw	DashCam World
+UCPcdTd01RgLEyMw6kVq0p4g	Dashcam China
+UCx9oqsaoc3tc41iS5-sdanQ	Dashcam Drive
+UCBXVYK0wPSo8Mp171xwlpoQ	Dashcam Focus
+UCnetiRHPnIMBCm-yY4m69qA	Dashcam Lessons
+UCOS7jdle9zw_HnKW4ytZnDw	Dashcam Nation
+UC12FUHVhwpC5lMYsMPMbmyg	Dashcam Roadshow
+UCRHaN_1ZB8yqpNeTEJNkGjA	Digital Tourist
+UCElnyZv_ztf9Dx7Hu6cnpgA	DreamOnTwoWheels
+UC7i3b9SF2vIeE-CgHR5jBIQ	Driver Eddie
+UCBqZNIMbZnYN5fiyro3Zfgg	Driver Matty
+UCnn00LcOevDIq77W8IYskcA	Driving Tour 4K
+UCnItzwzLYL7-HakwrcT7ouQ	Eugene
+UCEDgiHtaWsLPhZ4cp8pyx7A	Explify
+UCxIlACNetQDzDfdpLFQCShw	Exposed: UK Dash Cams
+UCPDis9pjXuqyI7RYLJ-TTSA	FailArmy
+UC3nQvwReP4H7BlXJa5nkb1w	FastFlowKC
+UChrjj1J9n4ZwMxHxQHac0Nw	Flavas of Chill
+UCcGI_kXwKl_QhyW9jK_8gIA	Flightradar24
+UCSGFAUoX8ba_Ql2jA2-dD2w	Fox Mooder AMBIENCE WORLDS
+UCuNEwmkTyMh6V-e6UJi_8Sg	Framic window views
+UCpXzxd3uoc3Uu3nMM6VozSA	Free Background Videos - No Copyright
+UCKFjNynYRgDfnSIXzELPqTA	Free Documentary - Engineering
+UC2Alm9dKXWmgQBrrlWct9fg	Frequent Driver
+UCj2xtCfUX4tY0AouuOvEhNA	Geek Street
+UC0-FyZgw7KD3aDXh92KgrsA	Heartland Reporter
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea
+UCopOnltjd_os9EhR0nE_tSA	High Pressure Aviation Films
+UCYhidJRWXFOVwbQ0-2MOjqA	Hold my POV
+UCegyzkgtWO8n4tjicJaI_yw	Hugo Bazin
+UCxmlSBBViOpRV-dD52lid6g	Ian Alleyne Network
+UCTqj1Kosn0gcqfzLoW1buUA	InZeAir84
+UC3qWcF49rv8VMZO7Vg6kj5w	Insta360
+UCCXWTF0NfFq5fTmyi6LGMlA	Iokone
+UCWlIIfkd-_5HnA0_Pt0nc-w	Isaac RC
+UCBcVQr-07MH-p9e2kRTdB3A	J Utah
+UC76FdRjoBXibky_VC6ycroQ	Jay Jankulovski
+UC0XHf9CaMAakafmhkTuNuPA	Jimjam1121
+UCrJSRatDd3AzoqLfJbbdp5Q	Josh Kwan
+UCGxwyc86db9-73jJrsvUjog	Just Pilots
+UCr8T9rFNMB3tLAW2TSFZc2A	Just Planes
+UCuuEvjdTfJK62ow09hWZbUg	Justin Bikes
+UC9FnMwhb0FTPVKSTnsLu1zw	Katzenwagen TV
+UCg5eBECNDdwbcxvDLbYUmnw	King of Road
+UCxnQJLuKHZnUhvFMP3t_MHQ	Kzrunner
+UCkmVouTx2x97tMFHMJJ6fjA	LLWProductions
+UCyBZ-e9O5aargzSbjd5iPhw	LOS ANGELES ASMR🇺🇸
+UC9_1gWfdaRwjaNLCoTcDmqA	Let's Ride POV
+UClgs65WlvTeM9xodmRUY70w	Live from the Flight Deck
+UCBPnGS40b6RqJvsGKkTHw9w	Lucas Dias
+UCsi1eGd6Ex_LX0AjEeJW9xg	Luis.Media_
+UCvyRIb6-1J7DaW-PAi_yPTQ	Luna__r6
+UCOFSy_FSeuRsNTm1Z1YAi2w	MOTOSCOUT
+UCinjrjmOO5kMkUvXVkLLz5w	Marmorean
+UCKIrZr7WuPFgFy7OfkAuHOw	MegaDrivingSchool - Dashcam Hub
+UC0efX7ScW1zf0Q5f_KwarFg	Mike Andrews
+UCBvhsMwOmIpw-s2hpAOX8Tw	Modern Screensavers
+UCS67mNnpfnHsU3IQYNHLToA	Most Dangerous
+UC7JgQRrrz6E_QZgdjPMP-3Q	Motocolo125 (Trevor Fearson)
+UC-YiVIw2zZjdJ3F7rMitsew	Motolaxin
+UCxvxh04R-XtERJ_7fG8OwLg	Motoring Mayhem SA
+UCnM02drQP-dF7WMgtJHR4Xw	Mr. Nightmare
+UC9jWcAMlUtBXdJytn6W0Scg	Murtanio
+UC2IcTVb8f5oWNuX3bwbLGng	Mystery Man
+UCIDTgYVs-rEHx-fE4qSPZhQ	NIPPON WANDERING TV
+UCvB29TzKDY69TbuCZ_B2Snw	NP Urbanlife
+UC8Bc5QNL44fSwNjq1D0QElg	Nathanael Newton
+UCqw0TVng0f5RuM6kj2Q3Psg	National Rail
+UC0H-Sa4Ua_wWGYMmc6ITpRg	Neon Driving Tours
+UCoxzAHCvaFTRYRT8iZd2Q1A	Ninja Nick
+UCnIefzNHDEcyNFyRLBtVPZg	Ninja Oni
+UCqRTj-Nu_8to3jIBlXptOtA	Nomadic Ambience
+UCrl_wECEtMUjz36ti0ZlECw	Norfolk Dash Cam
+UC41teAqTN0o7bpt54q3u9DA	Odin Magnus
+UCUf1BwuT-R3ptsTjA2uO13A	Oliver Hinz
+UCRydUssvoRDakMZyBbaQpIA	Onacomeuppp
+UCGU4TulBtAV90tYxnsMyARw	Only TERRA
+UCHNLd8zLvE6s6AXE03Op8Lw	PNG TRADING
+UCTtF3wsT3zRo1Pqy7wydiKw	POV Trains | Shuotography
+UCAjJdOrRnbJim6eUC4HG5GA	Passing Stranger
+UCLCRzjSn5DskvWYhAqWnrlQ	Peter Heavey
+UCPodHiwPCO5DiI92NQFS9Rw	Pilot View
+UCXVQjjLUVKtssYMQHFG37zQ	Police Chase Zone
+UCTSohjGNGa8bW3HZE5kMIvg	Private Hire Guy
+UCocG_Olecuav7A6c_AFzTTg	Product Guide
+UC2rzsm1Qi6N1X-wuOg_p0Ng	Project Farm
+UCNzul4dnciIlDg8BAcn5-cQ	Prowalk Tours
+UCFPwTGe4DBfcoOKNOrvEjAw	Q
+UCZ5rn1Iie-hwUWBJQsHVZTA	RIDE POV
+UC8FpG11hqfqr8n9a9LcxKzA	RR&BD Driving School
+UCYiCCZin0P_evnq3y1TOjzQ	RRphotographer
+UCyDyLiRxV0mW8qT4X5es3rw	Rail Relaxation
+UCj-Xm8j6WBgKY8OG7s9r2vQ	RailCowGirl
+UCSA88X3AjOWruavjhXTaxng	Rain for Relaxing
+UCWiF3UplSn1W11xSNQtxp9Q	Relax Baby - DEEP SLEEP
+UC84ZBFAOplZfvi1Ht00lhjw	Relax with Nemo's Dreamscapes
+UChyRMEp8zRio9nFnAjvzSnA	Relaxing Ambience ASMR
+UCX_uGzVgYJuo_iuYSBqEr4g	Relaxing Scenes - Driving
+UCLkpnHm-KEmEACcYHX6cX5w	RelaxingASMR
+UCHo54VtDYaS_fJ2_HQNGyqQ	ReviewSet
+UC9ncSf0Vz8H1kZBKsdoJ2Xg	Ride to Food
+UCaZz1T9w5C-1PK_fo5l2UdQ	RideScapes
+UC2aVB4F2IGoUTenwuAn9sRA	Road Clips
+UChywVJaXBQwxImhSlxFCIsA	RoadRage
+UCt5C09O7OLL6B4QLUT28qhg	Roadside Reality Drama
+UCTsHfJLtRf6Xtu556RXpwuQ	Rumbly Rides
+UC_wCbFZHCh9amfaXXI4yq_g	Rémy Métailler
+UCagea3etjIts0crwCl5ssQg	Rémy Métailler RAW
+UC-gU2vv3ekNpFLlNaeGQdMg	SA Trucker
+UCX1cKCS0LURMO1wQWLfeiUg	SAFA Brian
+UC-gW4TeZAlKm7UATp24JsWQ	SMii7Yplus
+UCf4j-woz1ja7MXvwUNJKTzw	ScanVerdict
+UC9-yN4rSJ2jOifV8R2unDBw	Scotts Car Cameras
+UC2BCI5FaZ3Uwx8XPsIOtk_g	Seoul Drive
+UC60dSWML4jiMRFKLkfgwbmA	Sightseeing with Julie
+UCixMlmdY1xka_KHx1FfQjxQ	Smart Drive Test
+UCBkpnT9iKVpSORsErvhMQWg	Star Calming
+UCeYUKvRrRY9V3DYdZd1Z_eQ	Strolling The City
+UCqtvtIWuk0W6P0B1JlKeblg	Sunset Drive California
+UCfV30f4JDx4hSpbcgikvB6g	SuperBike Racer
+UCVT_dmXuWdhwrkuqPG3pFQg	Swayne Martin
+UC5Jtm0Sazf_Hm3dAQZgG7gw	TaxiWarrior
+UC5I2hjZYiW9gZPVkvzM8_Cw	Techmoan
+UC_fPIWV9iiCpmatgZQtjMSQ	Tez The Truckie
+UCLWRpqrZy8j3Xq0mhvN1aug	That Biker Guy
+UCV-nnsRs8QZx_Fqu8_eDJPA	The Best Picked
+UCtmEArToh11Rr48C1krd4wQ	The Best Selection
+UCMtOahnlBU7Qms6xcQp0BkA	The Hollywood Edge Sound Effects Library - Topic
+UC2gyzKcHbYfqoXA5xbyGXtQ	The Hook Up
+UCj2iKgD_qxNLabPu_FEB3Xw	The Joy of Trucking
+UCoDoWCuTvehYkxRDKWXbgLA	The Masked Aviator
+UCDk5ULSVea7bEv2J69qH2Hg	The Rain Driver
+UCIzXayRP7-P0ANpq-nD-h5g	The Sun
+UCK7tptUDHh-RYDsdxO1-5QQ	The Wall Street Journal
+UC-SumwxzNCdm8OMM9-QVViA	TimeCtrl
+UCK-jKj5ymiPP_cy1Kw4Iviw	Tokyo Virtual Ride
+UCl127AQQfhbXtxq57Rblr-g	Tourist Car
+UCNRS9hLh_bqeiuR4GSoezuQ	Train Ambience
+UC-h9p4_RIwiurfOl_P-S1rg	Transferd AS
+UC_Lf7jaHMbla1YBgkAEKdvw	Transit Observer
+UCwu4l0DGXV-rnknLmtccGZw	Transit Talks Club
+UCVTVMdKY9rEZmF1T15-_-0Q	Travel Cubed
+UCiCHd1_SCQUeztV7GPrkw6Q	Traveller Explorer
+UCfV0wtzumYCRuvLhY5n6hug	Trucker Dashcam // Sweden
+UCMscH8VRIQ32lOL88WEPXQg	Tw8kmoney
+UCfZwNd8i7spJmLr4qq1_Gyw	UK Dash Cameras
+UChUEUQHFcbboQ3DQxEOR1ag	Unclecoolie Productions
+UCMTv_Dg1BXFUglzWIIincpQ	VIRTUAL JAPAN
+UCP554b-nJfaIOIiRKsGnY3Q	VISUALDON
+UCI2Lu5iOGVTRo9vfnJHWVFQ	VR Around
+UChFXvlxmWNvI0jWbRv55PzQ	Virtual Tours TV
+UCVSNOxehfALut52NbkfRBaA	Voice of America
+UCgLr7xoTU3XgAeLrEYp51sw	Vortex Radar
+UCTvZcgH_rsvaGuZ8mU5jpnA	WHAS11
+UCMSiQ4Jpk1DA6l2SU98zaZg	Wander London
+UC9ZlpaOTM5PfQ6BK5FCXkjg	Wanderizm
+UCxqRDvZ-z1ngOV3Te0mKkJQ	We Think Together
+UCJZpPG8wegZJ3rsnc6-Bpnw	Wham Baam Dashcam
+UCjJ5hCRsVfzFVZ8D_fU34YA	Wheels And Footsteps
+UCx8OU39d9DhBNkwRdm0-M2A	Wilderness Whispers
+UC3RZje4CAUAM-V2-HTgsBVw	William Hacker
+UCPur06mx78RtwgHJzxpu2ew	Wind Walk Travel Videos ʬ
+UCV1pWJ2AdacG_MValkFu18w	Wings Over Paro
+UC0k173Oca1nPZurW2ITHlYw	Wonder World
+UCj0VQx_rJuOM8JAeV4tiQ_w	World Driving Tours
+UCUKcmsAb2t80-IArEn3iJKQ	YourPeacefulSound
+UC5NVvmIfn4-v8rhD_Bealpw	dial2fast
+UCVlp63hzHZx0dXSz0wT5LAQ	dreamy sound
+UCglVjGyY8ydqfPRMWI-y7PQ	dulevoz
+UCNvqtvsiczNTQLwuUwHGndQ	lorirocks777
+UC1f_3hPWm0bJVMe4FIQVu1A	nem dashcam
+UCrkjOmbpVt4-W5l6AZvrWCA	randomnewstube
+UCJfwmrvgqLA90VPU38pSifQ	s1krocket
+UChFQMkB4K19Z5hP6sSusaRA	tuck
+UCvxPDeaDkQtdxP4HeUu-HCw	vertigo only
+UCODfaI5xXm_1JkrHtGlmJkQ	☔️Driving in the Rain
+UCuAz0umV0HrTj0XWrWBpGhQ	🇿🇦 The Moonoveraquarius Experience SA
+
+# === Expansion queries (367 new channels) ===
+UC2kYsSRSWL7M26v6_nBEOrg	10 Star
+UC7h6FsPqoBZslm4II_rbqag	1slowtv
+UCn0X7KFQfXptn4CZdLbOjQQ	3 Minute Tours
+UCESn3LWmzpMDqYggDNMPd7w	360 Sobre Rodas
+UCvIAf7Wk3jHTyypg3PGy-0w	4K Healing Drives
+UC1qGkowWvMguk4X0jUvjWag	4k Dashcam New York
+UC-T03GZu5HucZhEqugv9yPg	4k Driving Brasil
+UCIYLOcEUX6TbBo7HQVF2PKA	9 News Australia
+UCG3gp-T-oQNfR9SfOHRQGCQ	A Terra em 4K
+UCikfKNNx-Poh6N_m6WJ2O3Q	AUNZ RAILFAN
+UCSia4V9T2GxM7eN9MzjRCSw	Aaron Lumbroso
+UCAv5d8knSA-hRtD27lD_E_w	Abao Ambience
+UC7mGv2vvo4XVakp3gJPaz4w	Adventures with tcs
+UC64dZZ1MoR4-zJCaGndrJ0w	Alena the Explorer
+UC3bIRtYVJXgWJT02IsV0Pbg	Alex Kids Fun
+UCcVv-21gqHsF2yIq8HQY3Lg	Alien World Facts
+UCg1dqsnzDdHCsJPkXSimR6g	Amateur Travel Vlogger
+UCqROFpwrzPDC8B8oa45rjwg	Amazing Scenic Drives
+UCi2zCF7OEs0UCWrIBRQYxjw	Amazing Switzerland
+UCpTg4zvyzKSIA9EZaFh3Qyg	Andins House
+UCiSa58-DPAuxz1-u71bwW0A	Ao Volante
+UChuGR8MaMjYiE29gUXZpKQA	Arjen V Führerstand TV
+UCjzt-yLTsDbjUsbTSZk07yA	Around Us
+UCCm8QLwBXnp632H8Bh8A1xw	AsukaNoChanneru
+UCbDGvfJHf0r_WjS9voB8POA	Attractions 360°
+UC_5rZPfasWthCQQVoaxS-4A	Audi Drive Music
+UC3tHnQRWUL-5Pb1nyK5U6nQ	Audio Odyssey
+UCf4i2bhrqdQP_sErqjNIBQQ	Australian Outback Trucks in Action
+UCaxW6r282iWvzJmr3BwGc-A	Auto Addiction
+UCY4pXj_NOSCmP20CQKjrm-w	Auto Minute
+UCpYAQ8iVPlQwXWN7BE2chgQ	AutoFun
+UC9DXAsBD4-ITVuvpd68401Q	AutoTopNL
+UChRPxEtVjOnubXwXC0dm6Uw	Away Together w/ Nik and Allie
+UCUvoulvwzCnUVk7yoduI_Gw	BEST OF DASHCAM EUROPE
+UC36eJAggghx5aI_hjXa_jvQ	BESTT Cooking & Adventure Family
+UCyZuq5NWGmh7BHWnJGYRDOQ	BUS TAGO
+UCtoIHpRLL1aw4l81H0Q9WJw	Barry Kenny
+UCW_rEYQYqLXsAAlzsTOJKyQ	Ben Wang
+UC2ERZM-h-cxU1Mrgqcb44WA	Beyond The Windows
+UCG1QcV31eoSaX4rE8avQL4A	Bjørn Nyland
+UCytMjLrjDmCxj9HV9knrjzQ	Bombay & Beyond
+UCYhF012r6FrBeG6ay2pksRw	Boosted Films
+UCrtHjYwDyLSVoZ533WhQQJg	BoundlessHorizons222
+UCfO7SDes9lYbVE-Eeo6qWMw	Brazil Streets Live
+UCX3_u4oCtjwve9TDqk_khyA	Bristolian Days Out
+UCO5iTmDFwklyjcKni62IY_g	Bryce Menzies
+UCUwmX6iT6LvVsD2bBJzIWDA	CANAL VIA PARÁ
+UC3gjdHed1sn16lBLp43Y4KQ	CRAAAB-SHOTS
+UCCb4Sb6Uxp3L1D4G8Yj4Kow	Caiminho
+UCZFRs1R9ECKDwnLy5IQzwkg	California Through My Lens
+UC8We0KIG_JQaIZYH0FCgG6A	Calm Together
+UCwhJI0SySxTl8Zybz1oBcQg	Calm Walk
+UC5WnHfF0fQyIMyeLH498LHA	Canadian Gearhead
+UCscU9HlmADvsIFgUv71oCig	Cape May - Lewes Ferry
+UCJfbiBuwIehfxMjb6wlaGNw	Carl Byington
+UCv_tX9MBE1GXMRNSyWtBAxw	Cars Unlocked
+UCyR9C6ocv0yTbn6YDWDZbAQ	Cedar Point
+UCk44YAELxu3FHf3Fu56x2fg	Cocinando con El Salvador 4K
+UCIp8QiA-mZlgYe3izMRPsHA	Conducir
+UC1NA4B-r2v4NxB9C7Czy9rQ	Coucou! Gabrielle
+UCF8__2NpdbQz8-diEOuMy5Q	Crocodile Andi
+UCEwRG0RekjSvmN8D-CXiDsA	Curious2travel
+UCSbPHTteAPEFSSAr7UG2FMg	DANIEL Rogness
+UCnKthBWzq-_D2GXNMB1MT9A	DDD
+UCrzn3d7MSffMv1S7Ild8ZqQ	DDPAI Global
+UCyo3FdxKWiVZt0b7zJwb7vw	DJ Hammers Transport
+UCgCRwZRd9cMmpcDQltL2QQA	DJ☆STARTER
+UCPq5plRkeS5rxWAc5qr561Q	DMV Adventures
+UCCRHuL-SWWWJOm1q0RoFprw	DNOstalgia
+UC3hnh3Dy0dQIYIJew45cvHQ	DRIVE LIFE
+UChf3NphE7vLBw6gEBx3tTUA	DRIVESCAPE4K
+UCAR3_SjG3tbr2NDB0IKd6CQ	DRIVING AWAY
+UCwWYjnSVJc31C3CwHOO5BdQ	DT Roadscape
+UCGjt9H1gm88nwNO88muT_bw	Daily Driver
+UCraNeYp1J69U9mWe08_LxcQ	Dan's Dashcam Life
+UCsOyiC5qvnchUfKr7vH8Q0g	DashCamTrips
+UCGc8V2Em_lyn8zJEcJOY4OA	DashKing
+UC1e4sczzfMYQV7yJWNFUFbg	Dashcam-Streaming
+UC7mVaSmpVWvkfmShsTC6Lqg	David’s World Journey
+UCdCFUWnxFIp9ipNfHmtVKug	Dawid Kłoda
+UCeAdMTirKTfBBY2kBJ75Dzg	Denis (33)
+UCZ0GeNLv7sHuKnRksLv26QA	Discovering New York City
+UC4eca0eBuMaNofNaUcwITSw	Dixon Varghese
+UCjwwP4pE6B_lsn3T1jiNqbg	Diário de Bordo das Estradas
+UCP-Cg9CAZynGPjozApE0kVQ	Diário de Bordo de um Caminhoneiro (Jair José Pereira)
+UCvjJzc-UcTv2P5LR6NGP2lg	DownieLive
+UC59PDa7WgIsgTWSJYTxRFug	Dr's Classroom
+UCDhmYvAIy-zmtn0cHhBqSJw	Drive & Walk Seoul, Korea
+UCqCJbSNDUsV0Hjxdtx7R1eg	Drive in Japan (Dashcam Video)
+UCYQG_bSRzx1ldg57n4zUChQ	DriveKor 🇰🇷
+UCxIhZsyeMsjCH-4XkpTkCYw	Driving Around
+UClS5ce_xPaPIRhnYqH_zjkg	Driving Australia
+UCd2Ww9pkPwP4JSPzCyFBcBg	Driving Europe
+UCG_ycargZd1EaH2HXBalzjw	Driving Hawaii 4K
+UC8zMiM6lJ4Yi4KAXuq9LxVw	Driving Korea
+UC4tMmcfwzRXlnzpe0iR7qpg	Driving View - susumiro
+UCA6uStqqqVUc1q_1lzhRMrA	Driving With JK
+UCJQ7q-kuyadLD-8MD-VUXjQ	Driving in Korea
+UCJtq8n4Rj69U_5zk8IzFgOA	Driving the South
+UCmy45DfkyKSaftC0vuDYroQ	Driviviviviving in JaJaJapapan
+UCLCl6c8X19Zko_u1tvOy8Hw	Dusty Roads Australia
+UCcU3Fp1tli0UTQwDp-otuBA	Düsseldorf Forever
+UCGa8dk76O4TwWD2nhVRF-kQ	EXPLORE THAILAND 4K
+UCtBPYN9YBPU9P2qkvn51Qow	EarlyAprilWay
+UCpVzUs97axE-6U0014MmQCQ	Edgardo Medina
+UCX47OnjPBsN07RphNdEmyLw	Euro Travels
+UClBcNizYri7Z-VTdU_exJmw	EuroDiaries ByBN
+UCM0fFACS2gXFvEddnKJ7QpQ	Experience JAPAN
+UC4jhla6dQ-M2yhKBf6sPIRA	Felipe Almeida
+UC4Yi4CDpJBtuj2fAuG_dgeg	Felipe Garage
+UCsbNijrUfsWRQooTlfIhU6A	FilterGrade
+UC7uVppHNCjCMSV3xnXnwnQw	Filud
+UC_Se32jLBjnOuftl1u3zfLw	Fluctus
+UCc77xjLi2koAOjUYIsUeMBg	Forest of wing
+UC1bzPG8RWSIiXAJbG4UugAg	Frank Drobny
+UCvc98ehTqvboCo85N2Q_EaQ	Freizeitpark News
+UCXLhPsJVdYheXijczTJK5xQ	Frenchineer
+UC2oVzOD215ivg-W-fVD0iLA	Friends from Thailand travel guide
+UC2JOJLAYqW0muUdvC1oqLrA	From the Window Seat
+UCpG4BFd6-vQeNJIWHw-_ovw	Fukuoka_Travel Japan
+UCrYS46r5hT5dbSzhWcb19bA	Full Road View
+UC_tsAk8OnbufRkHg_k9C9Tw	GPS on
+UCIXlLRUKrunAJvZsSjc-qmg	GYE WALKER – Caminando por Guayaquil
+UCqBRppysVk8bIFt_0Mzkx9g	Gemstory
+UC01hITJjkFmOcck9zqQGi2w	Get Lost
+UC2RYr0gGF9CTeoFuI1LbYfQ	Glacier Express
+UChaXP5MiZxH0BPMIBJsIXKg	Gourmet
+UC0srPhJbaHZwOzeTM9AwaLA	Greg Hughes
+UCCiA6IrFYl01xbhmZ_sS2cA	HK OFW TWINSISTER TV
+UCUVtqkL3Vr0-p7vh7AoPahw	HOUExplorer
+UC_23vC8Z9SufCXr5GQxCTdg	Hayden Schreier
+UCa29yPFetXx7fLltHzqC3Kg	Highland Ambience
+UC1C8QYSdyUM8jEDMehvJkWQ	Hiking High and Low
+UCqocL4Ik8WwBj7xZob76oPQ	Horizon Driver
+UCD12T5lQiHc0hirItutM-ug	HubNotes
+UC0yu3sl7hNhyZd51HZSeljw	HypnoDriving
+UCdRLemnEIARAlSnjvAs6BmA	Igor Nikolaiev
+UCCzuex1Ss422zv1r4gko6Mg	Ihcimil
+UCQOnPQ91-eJQTt0VKw-j4Qg	Ilya Fomin
+UC7MOUQ4mSMcwUT_twW-z6kQ	India Drive Cam
+UC8bm77VYvSvenuozwmDhNBg	Ines D
+UCzOQGlpUmKOIjLc5M_YjRtw	Ivan Tukhtin
+UCCumVARNyOZvikODa6Ivv9Q	J movie
+UC1mwls6PVoAg5Q_ILDjbgSw	JAPAN CAR VIEW ASMR
+UCOJefZ3S0IU2Lcro6Yky71g	JAPAN VIEW
+UCHI1pSpShxSRsfjH0pIiFug	Jake's DIY
+UC0cK-XQL072j6bHkle7SIqw	Japan Ambient Sounds
+UCVW-14D3vVgGhCAMJ-CLiNA	Japan Moving【 Train, Cycle, Drive 】
+UCi6euTy6tcTD9fn28j1Kvig	Japan Train Travel
+UCv4_wsNMnwr0zjyz6RU3n_w	Japan Travel Rec
+UCLRxnjF6MsqJK5BPTP08wGA	Japanese Train Passing By | Real Station Sounds
+UCsQLTECz1bCA56JIryaw-lA	Jeb Brooks
+UCI1R9Pde2j6bWsR670vEcbg	Joe Quintero
+UCmKNW9ontOlTd_p4Dg51sRQ	Jon Barr
+UC0uuoszAG6iVTwcw3o9lltw	Josh Goes Slow
+UCu9Ytoq8Zat8R7BRdD06Gkg	Journey With Sushma
+UCLdTYHvdML-EXsPeiiYJLqA	Kim Java
+UCkFvWwIjSFzDMa_Sr7hWXaw	KingPosh Tours
+UCfM-3hDSJkd2M_YGSn8oVkw	Kinolibrary
+UCxdPBzK9H4qSxZSZy-NIygQ	Know Freedom
+UCAaFgEjClG0ffy4GCwAjwog	Korea Driving View
+UCsSmM2dexuXBRxpsh9xaYuA	Korea Road Driver
+UCjGr3_H4zM1R-AQFTYgx8UA	Korea Road Trip
+UCEKv6YWMqeDYHwZdQWtVm6A	Korean roads
+UCTqdu_OgpYYDkhFnRSUZ24Q	Krishna Giri
+UC_1zBQw_2K7KX5VG7brSLQQ	Kristin and Svein's Journeys
+UC_yPHUE4Tph0jCUvSC5U2WQ	Kuga's Travel 2nd
+UC-Kt7e2Sc2juGLVm9q8p17g	Kuro's Labo
+UCpRAM8vmxUYQcV2Dku7y8Eg	L1PEX
+UCGjcfxD7zMHo1u3dccrF51g	LesClésDuPermis
+UCn9wR2xEbaltRQCZTK78O5w	Let's Drive in Japan
+UCS2w-BZ82NNJrxPskK4C4PQ	Lexursa
+UCaK-wxqqDa6MbbbftYHOe4w	Libero's Train Travels
+UCfu-xWiprDEjhDTAL6QxKnw	Lundry
+UCU8t-Q4ApDjRY-ilA7hNuTA	MJGK Adventures
+UCJmPRYeg96hy3_41xJA9Clw	Magellan and Greyhound
+UCZiEHhHQbSpSvHTGCQdR_5Q	MagicAce
+UCtwVwRLUDGl4CBtgy32xfbw	Majestic Earth
+UCtD2YhRjspaDeDT3GK_cvZg	Mark's Parks
+UCHWQ-EehzZ0qHnCwbGKer8Q	Mark-G Adventures
+UCcAtEy9UaB9o221baJHCQug	Matlidz TNL Channel
+UCBlU1MT_vhW5nbcbB2Hw3Ew	Matthew Mason
+UCTT5eiQiZLUd0mt7VuZ1bxA	MemorySeekers
+UCRFLt0xhagnkzIiBFa-vWSg	Miao-Travel
+UCMofElKP5RZI5tj2HX9cmfQ	MikesCarInfo
+UCsg9aL4IjPwnqOe9lDnSFUA	Mr 90
+UCKYB1gOvZfE9txZ5wfC1zEw	NATURE'S DOSE
+UCinWtRislklGlJa47XpR4tQ	NSB
+UC01LxV1NB8l7A8BCsx1DzRg	Nicnic
+UCJD2Br_xC-3vY4nkJ9YPYDA	Nippon Television News Japan
+UCLEd5IX_q_AjMiSenrFnAsA	OUK Sitha
+UCN9nlY9eq8ZDoFahyOvarEg	Omwami360
+UCSaSZtWdkgNovKZGv116gqQ	Open Road Tafreeh
+UCPLJobkbrlzXU6_xV3gR2pw	OsmoVision
+UCps44nJRcJFdw9N32k8pmMA	Outback Truckers
+UCSsaPjBNsH3TDcoDak9dXfw	Outbackofftrack
+UCnp2Jvx6gsgovfkirDsKAmw	Over The Hills - Mid Wales Van Man UK
+UCQavnOTQBNE1yA2ce5gSdGA	Overland Unimog Explorers
+UCn7yXxH1fNbvzrS4Ccmi5Iw	POV Autos BR
+UCBxZjtkZzhriWIwGYkAoTXg	Papo de Mercedes
+UC5Qe0IHcmLk7VkBptEnLd2Q	Paraná Drone
+UCWNqS8P4Lh-ynyw-svL5P5A	Peter Hallows
+UCzcjxzNHVwsa2gZHpA4bfrA	PetrolHead
+UCtquqkF-bBUdWw0Yp4TTJkQ	Pierre TV
+UCqxXkhoVKkfa4LwlYQ-ie5Q	Ponta do Gi
+UCO_hswMzsuKR1B3SKa-sgYQ	PonyDrive
+UCPy5h9nZdoWgLEZCkmP0v_g	PrincesShy
+UCPFedBRvmuG1J1EpFuJW_zQ	Pure Dead Brilliant Adventures
+UCLbHoJTbw4v2WUb1g4QxrKA	Pure Driving
+UCI9Ro8nRa2qJjfgpHAZt97Q	R u M i K o
+UC14UrfOdoDVUDQ2CBXylxqA	RAFERMO
+UCl_PfDebtyfwC2WJqLa31oA	REDTIGER DASH CAM
+UCRbE4v8sN5aBzmxh27OSmuw	RIDE ON
+UCQv0P1Uodgqv78SE1gc_cgQ	RODANDO TOUR
+UCP8wWzfUcral_E6iNMdIdKg	RailWay
+UCvUi-CDZB7FkFPfyTVB0cQQ	Railtrotter
+UCG501nuhr-fHNE9P5VTNn9w	Railway Squirrel
+UCrKoa4Aql6Ut63kCrPrLZXw	Rainy Night Studios
+UCPRura6L9ERr1-qBUpXglfw	Realidad Canadá
+UCqeax2QrReFpcxP_Fd91r0Q	RecorDrive
+UC3UgiQCB5cp4xP2kHU7uXhg	Reiny S. Roadtrips
+UCqs9MZGdtARj8bbiScTNlkw	Relaxed Travellers
+UCu_mRZC-sGZBWPztcIFAhKA	Relaxing Driving Brazil
+UC62XLEy4ZRTL2q8YzOJBDow	Relaxing Roads 4K
+UCdu4FVz3g-Cc8FW8yOyhwDw	Relaxing drive KOREA 4K(한국 도로여행)
+UCuil7AL7oFbNPbs9SmssBLg	Rev GearShift
+UC5SzjTQtE_W4ZXGTqO5rtIQ	Ride & Relax 4K
+UCr8nZYwGxGg9D2iDHb8N9Mg	Ridge Chaser
+UCw7bZLoUtUERk4X1MLP4VoA	Riviera Drives & Walks
+UCG_IV8XJ3bfsJ9sf0y2e5hg	RoadSketch
+UCy-6zqa18JXf91hOuDXScgA	Roadcamz
+UCY6FptxAGPcPHZhCzwC8MXw	Roads & Clouds
+UCKe92r0SA2CO_36AJhH-aHA	Roaming Relaxation
+UCwW3BLJEs6PP3TTEW3zXdQA	Roaming Sarathi
+UC60RkJ3vOgrwEbaH8W1GmbA	Roller Coasters of Thailand
+UCig75dRezOaxX6qpbNghjRA	Rollers_NY6
+UCXtc4dLUKpEo6OcwXklJwCw	Ross Angell
+UCwIpHcPImSNdCL0nlIT2QIA	RustyRockets
+UCakacYCP3IUTGsE-n3kQj4g	Saalbahnhof
+UCSbo_KZbEZww3BwT0cZUG9Q	Safe Drive Solutions - Dash Cam Specialists
+UCnEpSBXMtRrObI89vS8jlUg	Safety Compass Japan🎦
+UCai3g3DK3DYDN3iRtbhQteA	Sam Drinkstea
+UCpRuoVt0Tbv4imjn9oM5rUg	Sasonation
+UC7OAYCQ0awMMJ7_veSJBe4Q	Saudeep Banik
+UCnAqJCGXXAPPnxP7r_M4FsA	Scenic Drive Vision
+UC3UHBUNQX-3yNClgq_kxWDQ	Scenic Route
+UCgIaQY_c8oRskxhojyEKPEQ	SenNavi / Music & Drive
+UC6R1EyqqTXJKIqrTkB_t2Rg	SeryK
+UCBkhP2Euy30eso5cZxx_Z2A	Shalini Travellife
+UCzjxQJtI4GqGaBwFagqv1AQ	Shev and Dev
+UCXchop7bexq8JB38Jvo13Kw	Sim Gurewitz
+UC_WimEd38j6SptiWHLwtmIg	Simon Andersen
+UCgWYuHCYx1TAEEpAo_QZhww	Simon Rees
+UC8b8yBzIDnjLSCxGEEgQy-w	Slothy Nomads
+UCNpRsQL_eSPLgUu3NtdyjDA	Slow Paced Nomads
+UCtKSBH_lkYBMtTf4QS8YDAQ	Solo Solo Travel
+UCdGKSlwxi-Lw2gvICynmkFw	Soltau Cruiser
+UCnymq1F0RxXc6KSyCZhmMXA	Spirit of Japan TV
+UCvtafBirTl5woRRyHjeGOUg	St8True
+UCJSa_ZUmXFu-uOm5KhBYAtA	StealthFan
+UCNI9FHJ32eO3z48iROSZggQ	Steve Medlin
+UCBhQuxcHU3aydk_zTXcbdTg	SteveMarsh
+UCaDXHKdMoYGk9PPVpA0guOQ	Strange Wilderness
+UCUWvQEoeXp2N1ihCQw7cIxA	Sugoii Japan
+UCocXzvCaXDyVJigGyzCZbDA	Sunny in Tokyo
+UCBN8Yz1IFMt0zn8k_fikzfQ	Supercar Driver
+UCwXtp38uhG7ODHE8PwQf8Pg	Swiss Roads & Places
+UCGBDNMouiWOCVTP1Ae5xS5w	Swiss View
+UCyY4paazburI3_FQPKrrCfg	Sämis Insel
+UCHhJMH7BgVgm7W5qCfCfoEQ	TLT - Canada
+UCxy4n3U5alO0PTzSX_PHXiw	TRANSPORT IDF MAG
+UCzg9z8gc3VoK2uJMsiFr_Sw	TYO Walk ch.
+UCSKbNogNyJVQD5PGX9xn0xQ	TamTabs
+UCJKkXT3kjHHfvJWIICQihCQ	That BMW Guy
+UCntiEapGA6r5ZoI8i_Rhwhw	The Ambient Café
+UCSevVEtu8xjNQx-6nCbr_Vg	The Best Trip
+UC8gCwZPoh3Vza-pGZAA8E0w	The Driver Real
+UCTWbWeyQbZ6wPZWhVUtDY4A	The Megan Daily
+UCrXBlhc-yDLaLXYTkfEcMhg	The Perfect Walk
+UCnX7E9oaJOCtLlHTzex_bmQ	The Red Coaster Channel
+UCSwKkLjut_zXkTb31wQM6bg	The Sounds of City
+UCGQVX3EyShSitrtuMDz_VmA	The Trail Out There
+UCGnbTTfDadvLkoVWzuj-R0w	Theme Park James
+UCT-LpxQVr4JlrC_mYwJGJ3Q	Theme Park Review
+UCWyPjY3I86JQt1u3mV8OyUw	Through My Lens
+UC0XYvNNU8u2HKMtgeU6v3TA	Thu Huyen
+UCfJD_AU7DQPdAH140gCGFFw	Tiago
+UC8mWulo_qPrlXZZw98nbR7g	Timsvideochannel1
+UCPEtbc1N8YoaSh0yg3wT2_w	Tobias
+UC-fQSnpnGfA55dt8r5TK85A	Tokyo Trails
+UC01Am2RbYxCPgqJrA1PukqA	Tony Enso
+UCJO9jEXnv7m_lRhuXOOfUIg	Train H
+UCMlwNOuiMOUybXVg01spa-A	Train driver's view channel
+UCE5yFyspE9MiCmzwHOiKl8A	Trains
+UC5lJgX6ATb7WEruPkCb_6-A	Travel HK
+UCECrB3wAMHOG3dyQbfvQw8w	Travel Peek360 - Ideas & Inspiration
+UCgUk9MZoEU0wsMOa8AZax7w	Travel Sigma
+UCTBcQ4gtSn-RsEnlPxfX5jA	Travel With ME Now
+UC2M8buYn-wRK1k0sQGT7Dlw	Travel Within Reach
+UCUdsSmViuSGFbZy8jOoU6Bw	Travel with rck
+UCutdaLGgaExMOvQoZbEf-Cw	Traveling Fun
+UCbpWlWaDaQUc9Uz_Ap06cIA	TravellerARKO
+UCHimPuWxxAN-y8sa7oh2qlg	Travelspot
+UCA-INNhGIUOcGBX8gN7dX8Q	Trillionex Travel
+UCRkVeV7L5dZWKnxVFe5E_kw	Tsephun Channel
+UCR6fqVbJmu9p6Y2YN_75hjA	UNIVERSAL MIND FACTORY
+UCkjJyLxx36BJiXAOFaY_5EA	Unknown Planet
+UCIwm5PjbQtpl-OvRjrHdHNw	Unreal Planet TV 4K
+UCyXOHLKjZhArRfgrTjPMDOg	Upbeat Traveler
+UCZ0GhKB8QydKH5xcMhmnGdw	Urban Caffeine
+UCmHCfEXOiWDz2CW9fl9GWhg	Video Street View Japan
+UC_V2-rK2e97fZNCQUDGO7zA	VideoMap
+UCahtlZN56njstyFGbbAFx4A	Viral Today
+UCko097VBUlDAjEyA_vWvwVw	Virtual Relaxation - Driving & Walking Tours
+UCNnsWJsSZIeQHXruukfQR_Q	Virtual Tours Travel
+UCSnUoB_TXU2wmmxyATjfvMw	Visão do Rio
+UC_ahWk1OYv1BTITiKroa9fg	Vlog do Edilson Cabral USA
+UC3JYI3sF0ITOUXC_pFHlfAA	W Adventurer
+UCHxdw1t500gQDn2vrWs9Njg	WULFI
+UC5ISB0VMarXLOMRm2B8bN2g	Walk China - Driving Channel
+UCatg528Dvi51V-HbktjrIiw	WalkItOut10K
+UChBlhRaqZKnRJmMkvSb7wNA	WalkTube 4K
+UCVw_apf76yZ__qzTJCEol4A	Wander Go Walking
+UCf1YwZ5daI94R98uFNlWZWw	Wandering Wombat Asia
+UCaDplZ0mYMP3EkAXNG5L7kw	Wandervogel123
+UCpTTvO4l6ceAF831I9Dz40Q	Wellington Silva
+UC6rdql95sraGOqoEjtGvMqw	Window Seat View
+UCZSuToryFU4DxFykq_kYGrg	World Uncover Travel
+UC5WKuKecClO1oedTJhkEmBQ	World of Drives
+UC_G8XEPcHYW1YoT7DYGPZbQ	Wyatt and Reyka
+UC8GizQBGsGusQSCPYJIZFog	Xpress Magazine
+UCJOWZthUMfNsfWekadmleXw	Yotopian
+UCqBwzN09mBc05LVIX0ZdnyA	Zee in Japan
+UCO-MxkFZ6hKAWJngNDGDNFA	autoescuelavideos
+UC4OxHmuyY9JkdvnBw25-FuQ	beatniq
+UC6HCw1_iDhvWN9dNhUDvKlg	beforetheinternet
+UCrMmA1NPUe5qbKl7XlF-6NQ	blueskyblue
+UCbmZCB5Mac0MN8zUS09wh9g	eyeofthestorm.
+UC6oDUKQDwTe4BnIlRupHsyg	fat and broke
+UCUKzKq9rtLali0coLVm4i5w	flowinghorizons
+UCm7ctPP5GTQKA8sf-OlRgiA	fumika
+UCU4sjFOAfJ6kvEzXW7ov53g	inselvideo
+UCo83OnV1SoOZHPQd1UNMx-g	ithemepark
+UC8kOLD5CdIOioU0NBYU4e5w	lanmodo
+UCU8oNUoZohy_70fMBX1r4OQ	meowmeow@deep
+UCGH_exmEPc2ZjoetHbt_JXg	mufaproductions
+UCtWWry0cgjWi9C0Ye9sh6og	news.com.au
+UCr6QtF2drXGWNiprDfOzaLQ	niiii
+UCONSaPCg1P5QTq6dTTGcX0w	pov drive 4K
+UCKV9MXGcVRVpCytEDc-3tdw	qwertyuiop777
+UC3Nsp6aV2bFbFuti3W9_8cw	ramdarook
+UClJATTjBztwHax0ayrPBC3A	roamrx
+UC5Ofya1Xs4Btx3nvTgzCpLQ	rudyexe
+UC46vymTwoNxszJ8SCDXploQ	saopaulo_vibes
+UCzRNQZ9wJOvk7z4oJDy8svA	the dash camurai - pov japan
+UCz04Ip2qcKG246jPUUp0x1w	viertausendneunhunde
+UCxL0_kbGBelFpN_uMYlTVmQ	viraj sushi Karnik
+UCtWhwGrOmHs3rvvjWO-kWHg	wandering moo
+UCVfkMENLVujHrJwqS1PvfNQ	zatta
+UC7MtLAJEPeqwHAX92dNorOA	ᏰᎬȵ ᎶᏋᎡᎦȶᎬᎥȠ
+UCnturhYcvC7WkcsIDHjyo8Q	モチモチ
+UCjfciUxB1yhhP_OlZ3CD44g	中国街景 China Street View
+UC9y7jEtG7Wt5fhAC57HQ1EA	四季の鉄道風景 / Four Seasons Railways Japan
+UC8I1WZ4z-oKefzWfJfOxH_Q	미생 in ATL
+UCXCeAhRtOOCRyL4J98PGttQ	제로백 0-100km
+UCJ5AANaTGSD6xAznOWukuUQ	코리아 드라이브 KOREA DRiVE
+UCtSOpCaGX-CPw4qkq3TK4kw	🚗 Mountain Drive
+
+# === Related channel expansion (58 new) ===
+UCnO9G8hvsuoaOftXv8dNBug	ADDONRACER
+UCU3w6FL71G3RqbD84T0pArA	BGZTV
+UCoZuua30-YqB2tuoTSuGepA	Beyond Orlando
+UCXIorhcMiuhSsg9niuFZDOQ	Brendan Egan
+UCjLGhSnSZODr8z-2bWbBFxA	CAiN / The Cyber Riders
+UC2NRhSBfGlpBa13WsLkOKOA	COLORS
+UCjmWcGHZaegtC9harkptQVQ	Cellopurehp
+UClk2gq93pQ8akCsGjEFhxlQ	DK1 Travel
+UCIzjpKAYFC617bR8W-WSVzA	Doc.
+UCUJxBI3duREuSPVq1fcfS0w	Drew Randall
+UCJXv3ekRzxGPTZy2Cc0GUSw	Epic Family Quests
+UCPcaXS3yww1uT3-rluuIQVw	Ernest Welborn
+UCrhR5s7-huHYPx3dSu0933g	Frank delvalle
+UC5O3-VCaStAE-gSoOJvx0Kg	HighlyRegretted
+UCGIdAzBKcktdCQWrMauIK2Q	ItsJustJake
+UCZ8wCAMojgXr3W-nFDjRWmw	JDL Moto
+UC_Ey264S2lwuVpJ9DMmqLuA	JustLooking
+UC1v6b0Rnjqh_yujT_AnKfwQ	LearnEnglishFlorida
+UCPIAbXQ8L9EsG5POAXHs8vw	Let's Go Usa | Travels
+UCztLcDel9pzP50ZMGQE24tg	Let's Ride
+UCmju6aNF7G6fecihOoAuB5w	LifeOfMr.Brown101
+UCGdoBF1ojsRBa_V7YgOow2g	Live Sessions Mixed
+UC-69UhuHDzRW-6O03sSvJxA	Marcowitdapolo
+UCHnn0fuRBFvrciED-jJ9w-w	Mats Andersson
+UCjkGXhZsu5H64fWuNQNf1Xw	Mike Chen
+UCaSOUjLxkB_-KySLXx0z2nw	MotoSol
+UC271OWWh7SnfywBZ05FEJAQ	Motomann
+UCWj_kLm7AW2V91HvxZPuV8g	Multi-Mash Travel, Fun, and More !
+UCi1chiZPrJZjk7iwi093kfQ	Oxygen
+UC3N7CFkZ4tdvo5uReQgcJ4g	Patagonia Motorcycles Miami
+UCObsq2hYyt15z-EKgX-hEbw	Poohmedia
+UCkv4BN7sFChc2FDvMbszM3Q	Premier Sotheby's International Realty
+UCqwoG1KjM3vFp3qSfs6eHPQ	Pure Engine Sounds
+UCBu3578KZ4CWbDgbZWmdEMQ	QuickJoe
+UCotyVluwycJ3K3DQ4B-38bQ	ROBO0o_
+UCTSwvUxYBLaIF1oC9vHpdFg	RawSoundRider
+UC3cOHHPq9EMw52EiCyyNbjQ	SDMV
+UCyDS9p6NWHpU9XbbbYLFLBw	SOCO Films
+UCG-oqzeLIBU-wzSnJiDLxiQ	Steele in the Parks
+UCXOKEdfOFxsHO_-Su3K8SHg	Strictly Dumpling
+UCtdGm6vEmyI4rs1yZ1A1f2g	The Pugh Two
+UCQ8BFmR3enqz8XmcI8XdMAw	TheKilaCam
+UCsxATEQi6hzhC14JFqZ4cuw	Theme Park Brandon
+UCxc8C5V8ZrCYRC6TxjRabog	Tiffany Pantozzi
+UCEkf1wWMKimc7uErFbUb9FA	Uncle Bob Soups
+UCiWJEhp3EVsgaCLy8LR10mw	Videira
+UCVcFRJanRQj4RcX36px5fYQ	Visit Orlando
+UC3KfWBNabLDy3RwmXavv1uQ	WATCHYAH FILMZ
+UCjpzEgbbDUg4YC6vpSrzsyg	WKMG News 6 ClickOrlando
+UCAhWyXzSgJX7EQ-AVDRkEDQ	Yachiri
+UC_7z4nngWLd_mQ88Jmg0rgA	Yoki Sturrup
+UCMUYBEAjCt17CND85EbykNA	bigstepperMT09
+UCy30ZMcFnE_QigR4ka05mmQ	carter lee
+UCy1iVwBS25kb97T0nVVCDAg	favoriteshotels
+UCJY03HGnNP965UIB3sgVjfA	geneoppa
+UCds0s5EBPqMLDc69oUbgSdw	kirby_ridezz
+UCb3ubOb06dNzP5lWdrCapkg	mt09 v2 dialy ride
+UC13IMHIQpL-E63agAu_Yg2A	rase

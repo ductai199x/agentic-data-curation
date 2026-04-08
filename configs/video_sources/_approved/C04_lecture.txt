@@ -1,0 +1,866 @@
+# C04_lecture — 503 approved channels
+# Pre-screened: 19 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCwM4EI8mqvsSUR7Ou1D0qrA	Academic Lesson	20	16600
+UCBi2mrWuNuyYy4gbM6fU18Q	ABC News	20	704
+UCf15nomGgDFPuH4QHG02Yfg	ALZO Digital	20	242	4K
+UCYO_jab_esuFRV4b17AJtAw	3Blue1Brown	20	1951
+UC-rZbNdZSGa1Uan8aTj_SsQ	American Diabetes Association	20	1272
+UCO5QSoES5yn2Dw7YixDYT5Q	Aperture	20	2066
+UC9mWmo5Kj0S0DErM17BXUoQ	BRI UCLA	20	3425
+UCNYRXycLpyp_ozeRbopJUQw	After Earnings	20	1602
+UC52X5wxOL_s5yw0dQk7NtgA	Associated Press	20	155
+UClc6qI9iOpbEKcmi32gNfWQ	BLMKHealthandCare	20	402
+UCOQPxDKP_Y5ldb1ldI0rVVA	Bedtime History	20	7878
+UCGgy9QqFwElrVg4vf6QNX_A	BestGuyEver	20	4700
+UChVUSXFzV8QCOKNWGfE56YQ	BriTheMathGuy	20	1019
+UCvQECJukTDE2i6aCoMnS-Vg	Big Think	20	2155
+UCb--64Gl51jIEVE-GLDAVTg	C-SPAN	20	1284
+UCrp_UI8XtuYfpiqluWLD7Lw	CNBC Television	20	850
+UCcabW7890RKJzL968QWEykA	CS50	20	3636
+UChYfrRp_CWyqOt-ZYJGOgmA	Chuck Severance	20	2109
+UCf-COwmdNelXvbj-KaMCuLw	Carnegie Mellon University	20	273
+UCEynwwTuAn2Es1fdB8eJbWg	Churchill College, University of Cambridge	20	1294
+UCk8aLmjQ-IKVZCuGJks0rkw	Colby Martel	20	654
+UCX6b17PVsYBQ0ip5gyeme-Q	CrashCourse	20	609
+UCnloa5e9Sj-K7qXHnROKnkA	CosmoLearning	20	3758
+UCZ50rYSkYQG31YDEJm9Di_g	Coursera	20	259
+UCdRh7jY1CMPTTBAWnLEXcRA	DMUStudentGateway	20	120
+UC3Jivn57V6HIAY_Id_XNkYQ	Daniel Bonevac	20	954
+UCrrXvYmau-9oMA6XJKZS2fQ	DWS News	20	2301
+UC11RRI571HrJkBUJWNGYsxg	DardenMBA	20	1492
+UC0a_pO439rhcyHBZq3AKdrw	David Perell	20	3979
+UCzkDUC-IEBl-KQeZLCxgBqw	Department of Energy, Environment & Climate Action	20	965
+UCwRXb5dUK4cvsHbx-rGzSgw	Derek Banas	20	7916
+UCYwVpRH-VqWfySKZntMhP9A	Department of Physics University of Oxford	20	1517
+UCheZwe5ar7r7l2Yit8HS3qg	Dr Jessica Gomez	20	893
+UCUGwVgtUewevtLvu7NaxVrw	Dr. Roy Casagranda	20	5181
+UCynaHas-XyaZniL7Zi94cUQ	DrAzevedoEcon	20	3779
+UCxqAWLTk1CmBvZFPzeZMd9A	Domain of Science	20	1171
+UCU6f-Yvey1jKxB4TB3J-Ofg	Dreamoria	20	6944
+UC3aLJ1xBz6GioP6IHqOBHwQ	Drexel Libraries, Collections & Archives	20	2103
+UCXl4i9dYBrFOabk0xGmbkRA	Dwarkesh Patel	20	5778
+UClWa-JWAa86DApHjQRcKLXg	E I	20	1461
+UCdksaQxXH13BMeHo09MorBg	Edutopia	20	217
+UC8cYP25sx4WUC0guQ6qLHYA	Emmanuel Duncan	20	1806
+UCO2rkQFzgEgznXNm0p3gUpw	Emerging Pathogens Institute (UF EPI)	20	197
+UCC4leKu2BwJZpv9jaUXpC4w	FIRE	20	1722
+UCNjfNLnQYbjBEvnS8KFuyGQ	FOX 10 Phoenix	20	449
+UCjHWv2DU5-HLpogAAr386DQ	FOX 5 Atlanta	20	574
+UClwddNv0Cr6SIEGkzVK886w	FOX 9 Minneapolis-St. Paul	20	340
+UCwdVyruxCCqMR4DtPLhtwlg	Fight Hub TV	20	559
+UCaTfEJdCihhaczaQnm1I_qg	Filmshake	20	8008
+UCbyE5OvaP4GJhKvPCXxjWvw	Fire of Learning	20	1798
+UCsBjURrPoezykLs9EqgamOA	Fireship	20	323
+UCXIJgqnII2ZOINSWNOGFThA	Fox News	20	592
+UCSdPpMokMoGCSSNShOecP9w	General Conference of The Church of Jesus Christ	20	1146
+UCQi6-30wTMF7xbioD4h5h-g	GRCCtv	20	3217
+UCPk2s5c4R_d-EUUNvFFODoA	Gohar Khan	20	794
+UCsPUaA0HfT2OK4oAB7nkGqw	Gradehacker	20	646
+UCvyaZhkGWT2qvBRsta2jBgQ	Han Zhango	20	936
+UCTy8D3wAtiJtSuA-2YOEfAw	GreeneMath.com	20	4018
+UC1t6kKXoBvjdr8m9KJ2Fx7A	Gresham College	20	2924
+UCk8n46m74K5XWfdeBzOXDfA	Harvard Business School	20	127
+UCcA1don221rKq1EmbvQB27g	Harvard GSD	20	5502
+UCm_WkN0wg49-eG4SymAQ_4g	Harvard Innovation Labs	20	986
+UCZgHOeJBfMKOZ5PMlZysy8Q	Harvard Mathematics Department	20	4007
+UCjG-bUhM813LndEDNOJNCcw	Harvard Medical School	20	367
+UC-GdDwqCXXeg_AF1XgN6DwA	Harvard Museum of the Ancient Near East	20	590
+UCzpmZG4iOtnq0NK1z8h9unQ	Harvard Radcliffe Institute	20	3064
+UC-w3aQyKGcYe9JnhnhExaNQ	Herbie Hancock	20	667
+UCLv7Gzc3VTO6ggFlXY0sOyw	Harvard University	20	1067
+UCPjFuX4Uw_8EGlwCWaowS8w	History Weekly	20	2275
+UCudqVyQYnmi8NwWfd11Rmvw	Hillsdale College	20	1700
+UCZzqG2zfeRKMoJwDwk1FTvQ	History with Cy	20	1931
+UCfPyVJEBD7Di1YYjTdS2v8g	Homeschool Pop	20	488
+UCzWwWbbKHg4aodl0S35R6XA	Hoover Institution	20	3122
+UCVeuau7DLrg7zlAjxxDbdww	HubSpot Marketing	20	898
+UCoUkea_dZioNSJbi1vWDZkA	Jabzy	20	5138
+UCCQEbqDL8i40d83Au55lYMQ	Jacob Clifford	20	381
+UC2Kyj04yISmHr1V-UlJz4eg	Jared Henderson	20	2168
+UCZovC61jTNT1aQ_JDFoeZwQ	JensenMath	20	1495
+UCCrl9a26fDCZvofnCnA5A8g	Johnathan Bi	20	4234
+UCL_f53ZEJxp8TtlOkHwMV9Q	Jordan B Peterson	20	3977
+UC4a-Gbdw7vOaccHmFo40b9g	Khan Academy	20	860
+UC2ri4rEb8abnNwXvTjg5ARw	Khan Academy Kids	20	157
+UCuCuEKq1xuRA0dFQj1qg9-Q	Knowledgia	20	2213
+UCL9No2CVecC_8WazyduwHaw	Krassimir Petrov	20	2756
+UCw_LFe2pS8x3NyipGNJgeEA	Learn with Lukas	20	659
+UCiEHVhv0SBMpP75JbzJShqw	Lectures by Walter Lewin. They will make you ♥ Physics.	20	282
+UCshAR9ZLx11OV3ilVrpFzmA	Leeds University Library	20	1699
+UCSHZKyawb77ixDdsGog4iWA	Lex Fridman	20	12578
+UCEBb1b_L6zDS3xTUrIALZOw	MIT OpenCourseWare	20	4146
+UCtL5WjEYhlHzmOan57lJgnw	Lilia Vernigora	20	428
+UCmY69vmNOddHuO9mppYbilQ	Loyola University - Music Industry Studies	20	2588
+UCxQfUu6vIJGZDODSwhr0m9w	MMA Junkie	20	739
+UCKjEtnnXEHsXE9IvCb92V7g	March Madness	20	587
+UCaXkIU1QidjPwiAYu6GcHjg	MS NOW	20	989
+UC3RwLOQ2myWSyrPvcH4ohdA	Maddie's Fund Education	20	3194
+UCTWzwnlOYjOPPfSh1iAHfqw	Mark Copeman	20	491
+UCZjVE44LOvxPyKA-tymFoyQ	Martik Finance	20	672
+UCFaYLR_1aryjfB7hLrKGRaQ	Michael Sugrue	20	3002
+UCzAK43aElv1wDOQUHrB-UoA	Mbs Progetto Virgilio	20	2591
+UCfp5MBK2IC90Bdm5IQUJvYw	Michigan Medicine	20	1078
+UCkaNo2FUEWips2z4BkOHl6Q	Monster Energy Supercross	20	732
+UCLA_DiR1FfKNvjuUpBHmylQ	NASA	20	318
+UCeY0bbntWzzVIaj2z3QigXg	NBC News	20	1060
+UCrgvg3HpIT-MuwvTDVRm9mA	Muon Ray	20	338
+UCyFWoLmPTgZ3BkHIKMRSV1g	Nerd's lesson	20	41735
+UCU7U1Mly_RuSsk4QjQD4WNw	OLLI UCSC	20	4039
+UC6QYFutt9cluQ3uSM963_KQ	Ninja Nerd	20	5083
+UCV-yCAXMS-nWrHtORuDfSuQ	Odyssey - Ancient History Documentaries	20	2701
+UC3wxPA1Sph--HxKGdOGVjrg	Official Alan Watts Org	20	717
+UCLnGGRG__uGSPLBLzyhg8dQ	Oxford Mathematics	20	2379
+UC6ZFN9Tx6xh-skXCuRHCDpQ	PBS NewsHour	20	455
+UCE3icW9aKl2zYQ8BQj9qYTg	PW MHT CET	20	371
+UCpHvNclapYpq8b0ZnGRoMeg	Perimeter Institute for Theoretical Physics	20	1288
+UC7q-GcHyjCHkTpXCUTLzy7Q	Philosophy Overdose	20	2210
+UC11aHtNnc5bEPLI4jf6mnYg	Predictive History	20	3100
+UCqvaXJ1K3HheTPNjH-KpwXQ	Principles by Ray Dalio	20	533
+UCsqdrv1lCNvZX8Gdt7Z1kzw	Prof Ryan	20	932
+UC-tLyAaPbRZiYrOJxAGB7dQ	Pursuit of Wonder	20	776
+UC0uVZd8N7FfIZnPu0y7o95A	ReasonTV	20	784
+UC1DEn65PU4WPaO7wG8UCecA	RACE IAS	20	1819
+UC2-Q6VJ4ozwkxUKdVGz-ClQ	ReviewEcon	20	518
+UCHqC-yWZ1kri4YzwRSt6RGQ	Right Side Broadcasting Network	20	1060
+UC6FO-Up1-oLj5nNivCNHL-Q	Ryan Chapman	20	1305
+UCsguRUxh-0DiryIdPPWFeCQ	Rise Above Reality	20	573
+UCfCAy6CkaliVqbwqKT2VSYw	SUCCESS CHASERS	20	6866
+UCVN6Tv1HBnw_H-UpKU8VG1g	STEVKONS MATHEMATICS TUTORIALS	20	1689
+UCPzbxGA8ETrTDXZDEbbwuEw	SciencexMedia at Global Development (Cornell University)	20	3244
+UCZS6ALSJ4ozRiwmdCKmNK1g	SleepNomad	20	10654
+UCpAaVBsACXjESbGOYkynjXQ	Sleepy Philosophy	20	11286
+UCXRSNxnGdfXAKmlucGIdQ2Q	SleepWise	20	7528
+UCMm3HX0VlUfM_UzU1j-w-BQ	Smarter While You Sleep	20	10886
+UC-EnprmCZ3OXyAoG7vjVNCA	Stanford	20	149
+UCNoz7zRzEcHhp3TBU6spaXA	Stanford Alumni	20	742
+UCGwuxdEeCf0TIA2RbPOj-8g	Stanford Graduate School of Business	20	696
+UChugFTK0KyrES9terTid8vA	Stanford HAI	20	2682
+UCBOm2pt6QvO3vG8fdWTcGeg	Stanford Iranian Studies Program	20	4084
+UCGxGC5RCVFOEebFfepv6frQ	Stanford Medicine 25	20	456
+UCBa5G_ESCn8Yd4vw5U-gIcg	Stanford Online	20	3964
+UCvHsVEr9Qos5r5Sd9L54N-g	Syracuse University iSchool	20	2152
+UCAuUUnT6oDeKwE6v1NGQxug	TED	20	1008
+UCsT0YIqwnpJCM-mx7-gSA4Q	TEDx Talks	20	698
+UCklcXGbIGt_LSXMQaL3PzAg	Stanford Understand Energy	20	2767
+UCZv_xZ5eE6YSFiEtWCkteDQ	Tech Upskill	20	4351
+UCr7lmzIk63PZnBw3bezl-Mg	The Math Sorcerer	20	237
+UCIEKcW_Xb6SFqQSkgGqkV7Q	The Philosophy of Tragedy	20	4186
+UCEWpbFLzoYGPfuWUMFPSaoA	The Organic Chemistry Tutor	20	457
+UCF2IdSvpCUXPLQ1Q_r5JW1A	The PhysicsMaths Wizard	20	587
+UCYeF244yNGuFefuFKqxIAXw	The Royal Institution	20	3327
+UCGINcKuFbysZAslgL46KeOA	The University of Chicago	20	2034
+UCkS_HP3m9NXOgswVAKbMeJQ	Then & Now	20	5401
+UCYxRlFDqcWM4y7FfpiAN3KQ	The White House	20	358
+UCDNV_icoEH_3bE7VUz8NS0w	Thomas Mennella	20	3710
+UCS7tJlcUA6PzVHEMo-X7ddg	This Week in Startups Clips	20	292
+UCb8fvnW_oO5EsjV1X3ENS6g	The University of Manchester	20	589
+UC2UXDak6o7rBm23k3Vv5dww	Tina Huang	20	1473
+UCqHktcPJV7C7T3e9Cg4T4iw	Treehouse	20	1686
+UCsZydS6Ww6KdeGsYao4lniw	Tuitions Tonight	20	373
+UCF6U5Z2Ok9wmHcXsQK2OHgw	UCIBrenICS	20	2732
+UCnOLTlgl8_NsUHTY5b1s1Uw	UCTVSeminars	20	3040
+UCV_eWNVYGuEkv6wFPfeDdFQ	UMassEconomics	20	2198
+UC-3teWDSOHlJhT8U6UyJdog	UNC Learning Center	20	2733
+UCZ5C1HBPMEcCA1YGQmqj6Iw	USA TODAY Sports	20	1182
+UCS1YNEY54RYgt9ObzGW2mfg	UltimateAlgebra	20	1219
+UCh6KFtW4a4Ozr81GI1cxaBQ	University of California Television (UCTV)	20	2016
+UCK8f1CUe8y403u3b0gCINww	University of Oxford	20	655
+UC9oGkwvSJtqryHe5hPqbx3w	University of South Australia	20	3383
+UCe31f1W7Q48G5GWvNTPebcA	University of Texas Institute for Geophysics	20	3710
+UCMWg8e_4hC6p5abek1VGuMw	University of Virginia School of Law	20	3357
+UC0HeJC5p3XNiIGU5AzW0i3A	Upskill with Catherine	20	559
+UCtnWlJ_4k2E90luVGfeArdg	Vanderbilt University	20	952
+UCftwRNsjfRo08xYE31tkiyw	WIRED	20	1426
+UCHnyfMqiRRG1u-2MsSQLbXA	Veritasium	20	2189
+UCFKmJzfXBm8yLRNIOiqDEoA	Witten	20	3744
+UCS-k1MlL0heTVU--8f-nPiw	YES Academy for CS	20	2316
+UCSh-dNnqe1agUSzPM01LgBA	Yale University	20	2710
+UC4EY_qnSeAP1xGsh61eOoJA	YaleCourses	20	2963
+UCpsrJufAUNXwot-znspubbg	essentialsalts	20	5840
+UC8butISFwT-Wl7EV0hUK0BQ	freeCodeCamp.org	20	16812
+UCvn1b9uPKrXdmzY_c5foz7Q	giesbusiness	20	789
+UCJayvjGvKEblkA3KYK1BQQw	khanacademymedicine	20	622
+UCBuMwlP7kHkNxdPAqtFSJTw	mathantics	20	462
+UC6YafiOh8B3Vk92sJIivKfQ	meschian	20	1382
+UC640y4UvDAlya_WOj5U4pfA	nptelhrd	20	743
+UCAs7ne6yNAFSMA1KLpfS_bQ	A Probability Space	20	2225
+UCFRUDZUCGDlZGeGfftBovXw	simple, actually	20	321
+UCt4lEYBZC6awysqR0Eo_BzQ	A+ Talks Podcast	20	2469
+UC6FobDVGsc8A5suOycwTkcA	AORI channel	20	2441
+UCpN19HufMW5nc6PrYIsg3gQ	Aapka Vijendra [IIT KGP]	20	611
+UCqjqODwQi4AUED79UTxAiFw	AdaptiBar	20	2268
+UCMI1E-H6bJ3lG2576ENBo1g	Alex Kontorovich	20	4272
+UCLLQ2NRTQD_UpLfHwLviU9g	Akash Jaiswal (IITB)	20	538
+UCtslD4DGH6PKyG_1gFAX7sg	Alexander Amini	20	3579
+UC5kiv6AZ4EXpcQsLpQ1yhbg	Afzaal Chemist	20	266
+UCoOae5nYA7VqaXzerajD0lg	Ali Abdaal	20	1370
+UC-4D2FWJmdr5gjpDjiskf8g	American Academy of Neurology	20	577
+UCZ63_krMvEtdO3KPMov_iTg	Andrew Ainsworth	20	3795
+UCGkP8eCPut_4mW-KEKKnzqw	Allen Institute	20	2219
+UCk6aV9a1MNH9Fvci2wFMo-w	Anselmo Rodiel Review Center	20	2910
+UCmFyiFKnO4bUr6k9KArYwdg	Anthony Marinac	20	197
+UCAPAAmGyPPJKqEk26r9iNYQ	BBVA Foundation	20	619
+UCqfuQDFKYu63EmnCsNNOHSQ	Baran Lab	20	5033
+UCajRLbcUE43jiEc8VpGXe9w	Bari Science Lab	20	1023
+UCtYpAa5Q_1Jb8rsgraXphXA	Benzene Classes	20	1497
+UCKV0U8AoniJsHC32wkupUcg	Biola University	20	850
+UCcMjLgeWNwqL2LBGS-iPb1A	Bishop Robert Barron	20	1135
+UCUMZ7gohGI9HcU9VNsr2FJQ	Bloomberg Originals	20	977
+UCW56M_vzj72sBPFzI-8hTuQ	CAMLab, ETH Zürich	20	4277
+UCjnWysJh9-r9wo82zlbMT3A	Brown University	20	2526
+UCTycaUqopZ4km6sDQbm3XKw	CASW ScienceWriting	20	3239
+UCzno-z2lWDjrjU9J3Xd-L3Q	CCARE at Stanford University	20	1355
+UC3Zv0XxBjYlWMjbMv8ODE8Q	CH-22 Chemistry [ IIT-PAL]	20	3296
+UCFDcc23zdHGP724v959HD7A	CD Duka Law	20	1382
+UCQLK_Aqoe7p4xDA2QdLVYJA	CNTrendZ	20	798
+UCUwB3LvDrfa2JlUi2yqnR_w	CSS PMS Exam Preparation	20	4352
+UCKpz_4qERjwMB7oFMW1RmHw	Cambridge Law Faculty	20	2102
+UCl3lEILSFI3InXa5C__Phug	Cambridge University Cosmology	20	2378
+UCc5vZEM1MLUzCrg_aZIJdeA	Cambridge University	20	1046
+UCy8beowbgU83Jyyly65rCIw	CambridgeEDUC	20	1707
+UCKKTzzdnA1VBvlpixxaI0Ow	Cambridge University Press ELT	20	1685
+UCC7w3An3dU6YsruHvP3Y2Og	CambridgeComputerLab	20	223
+UC5XhBLIJs11l7dQI4zWuk6w	Carleton University	20	1023
+UCXPqF6wEXTcFtml-mF7_J9w	Chemistry in a Nutshell	20	662
+UChzhFUxUZFAQSJZ_Tp4B1fA	Columbia University	20	359
+UCHpmDwPSPJMwYtKnMCQF8lg	Christian Sermon Videos	20	2387
+UCO8npE8Tv3znMWY767ub5UQ	Central Book Supply Inc. - Official	20	10103
+UCVdivxPqyuTxeJs3rc1J2Cg	Constitutional Law	20	1058
+UCs2S1ybINAeCozMbISQqfIA	Cornell CSES	20	3352
+UCiWYVt47GMGE4XAlPHUaarQ	Cottage Health	20	1858
+UCdWIQh9DGG6uhJk8eyIFl1w	Curt Jaimungal	20	3404
+UC777p_NbvB_cbAVFs7jS_xg	DIGITAL LAW VILLAGE	20	1946
+UCH51kwMWyGSn9m0WCBDtT0w	DTM SNU	20	593
+UCgf7oJ61-3ElUUUasK3bHvg	DN Brand Organic Chemistry	20	1989
+UCmzAvLjPYUfY0ELVz-TOPbw	Dartmouth	20	807
+UC6KD6HqLbd24LOI26GeHeWw	Darwin College Lecture Series	20	3450
+UCn8ujwUInbJkBhffxqAPBVQ	Dave Ebbelaar	20	3014
+UCoUQ3YN-wq9NZu8tdnyHvXw	Department of Comparative Literature, NYU	20	4670
+UCpL1A9fSlFjItQ1br_5tzpg	Department of Biosystems Science, ETH Zurich	20	964
+UCTbx32B5FnL7fCn5rZOW_Mw	Det Norske Videnskaps-Akademi	20	3762
+UCHN43U7Xe0oKfPUDkJrojAg	DigitalFUTURES	20	408
+UCoDpMmSogY8KcDnc0MvFBBQ	Dr. Chris Thompson	20	2751
+UC9IjtqlOB8QKQvCcdU7jpfg	Dreamy Academy	20	8253
+UCEInGSUWzF2pB1REfRbZgmw	Dr. Jorge S. Diaz	20	1328
+UCQZCYn0xmNrkrlszmpUPf-w	Duke University School of Law	20	1140
+UCRNo2gqj3GiHlmT_OnqkouA	ETH Zürich	20	939
+UC2c59JNqxuCmwV9fu9Jmnsg	Edinburgh Neuroscience (Ed-Neuro)	20	3177
+UCdsFw-tO0HrZfOVK7aH7f0g	Easy Explained 2.0	20	568
+UC6B-8q01CqGJmZ5NswbYGDw	EduNex Nepal	20	2743
+UC_1qgj_lAOfUm0QhBRSQQww	Elektrotechnik ETH	20	1261
+UCiuvIXoJsLBVgkhDA8gTuJg	Engineering Gone Wild	20	854
+UCETMXtWTOl0M27EYE07EJFQ	Excellence Academy	20	2635
+UC6GWtMMc4RnjcJAOHbr7XKA	Extra Mural Lectures IIT Madras	20	3884
+UC7OtUZuGeKcsXkdiP_ETXDg	Entri Coding മലയാളം	20	344
+UCxfJKJnKtssIVGRCfqbWlPw	Faculty of Economics, University of Cambridge	20	1307
+UCSzx-qTK2639JBWgrb6mTmw	Fields Institute	20	4387
+UC9l2Z1amr9PgckjdZbw50pA	Faculty of English, University of Oxford	20	3518
+UCdRo_HPKLo8XjKlyZlw3j7A	Fakultas Hukum UI	20	3648
+UCOfLm6gZGt3vwTMKRg-irhg	For the Love of Physics	20	2361
+UCbcymZiDyq0pXkqD3XhE87w	Francis Madden	20	930
+UCrpEdhTAYc7n0_KIZZ9ofqg	Fine Theoretical Physics Institute	20	4222
+UC6SaWe7xeOp31Vo8cQG1oXw	Frederic Schuller	20	6610
+UCkjt2kGOUb1HQEJSGNKLrcQ	GHANA LAW  TV	20	5477
+UCKXx22vOENUyHrVAADq7Z_g	Geek's Lesson	20	10442
+UCAbFXOPq0sx03ev-kO3FE2A	GallaudetU	20	297
+UCJ5AhXSIPW3VYNFo58m5omw	GW Institute for Korean Studies	20	4997
+UCJ9CklGQK-b_iSSuFvEVDXg	GeeksforGeeks GATE English	20	531
+UCGTJ0jTxO32UhyLZefwk9MQ	Geometric Structures	20	2848
+UCOg9e1XhgrEsFraNgmI_QEA	Ghislain Fourny's lectures	20	2319
+UCyAM_Yoac4NSCs077_j_bzQ	Georgia Tech Research	20	450
+UCig0KhrB5NClMvX9QrbXcrw	Global Health with Greg Martin	20	492
+UCHac4-z13FBSD-ue8Jt40Eg	Grad Coach	20	409
+UCObs0kLIrDjX2LLSybqNaEA	Great Learning	20	785
+UCST7O07V0HwBkK_wCB6EB5g	H C VERMA	20	1119
+UCnHExFMoKq_A3TVFglVhXZA	Harvard Divinity School	20	3359
+UC1Up4TuDvGZraQUj9vxUaxQ	Harvard Graduate School of Education	20	3020
+UCBcn1VNOJUsPNrsCJGTcquw	Harvard Law School	20	3025
+UCcWodF6K9bwle1f3x6fwnLQ	Healing Quest	20	418	4K
+UCErspNRt2s493YrheWJbukQ	Hellenic Society	20	2295
+UCKWaEZ-_VweaEx1j62do_vQ	IBM Technology	20	1204
+UCIdajcgyfqnD9PwDnv_xqmg	IIT Kanpur	20	1340
+UCzCMyBy0VRoQBF8x-TsXTnQ	IIIT Hyderabad	20	3690
+UCvKzzGO37oT83K0FwnUucxw	IIT Madras - B.S. Degree Programme	20	2652
+UCcRV5FPxxWFdS4Fjnk9FQvA	Imperial College London	20	361
+UCktMIWomeuj4pwvBb-OBwMw	Infinite Codes	20	594
+UC0ipBeo9FMotlO9NyTEH3cA	Institute for Strategic Dialogue	20	658
+UCCktnahuRFYIBtNnKT5IYyg	Intellipaat	20	10132
+UC5ZjjewaceFDVGok-x3KzXQ	Ip Laboratory	20	1224
+UC5PNwf9yv-6mAn_W0Ng89Og	Jackson Powers	20	2853
+UCc1Pn7FxieMohCZFPYEbs7w	Jake Wright	20	990
+UCdGkmb5zEDXnPSmQlV43t0Q	JamesRandiFoundation	20	2364
+UCbV60AGIHKz2xIGvbk0LLvg	Jay Shetty	20	681
+UCN3-h-iXcsWw-UH2ayc5vjQ	Jonathan Shock	20	3357
+UCnNVlMl7ZIy2laJ4Md8AdLA	Jesus College Oxford	20	1234
+UCxQJj0F-N3eSAILu__OR75w	Judiciary By PW	20	875
+UCIEwIiQDKB94S_XhZNI0wAQ	Justice Nariman Official Channel	20	3848
+UC8JOLZ-YA34ylQTz2tqSlGw	KAIST	20	1442
+UC7yCYetBqmvEX_yVXbKi_xA	KCSE BIOLOGY	20	1497
+UCPSSPu8A5LWsYEoQ0Cz4iBw	KAATSU Global	20	3998
+UCR7foIuaAacscGM_Jzm6qPg	KSERS	20	453
+UCjDOIgX6zkUOUcs6o_H1zdA	Kieran in Shanghai	20	463
+UCcfXZMIxCrB10tMEHDDAyZw	King's College Cambridge	20	2265
+UCNU_lfiiWBdtULKOw6X0Dig	Krish Naik	20	2995
+UCR6RTNmSsSe0gpbiz9wlcCA	Kyoto-U OCW	20	831
+UCubEOERXxog-PmiWxMSCkSQ	Kyoto-U OCW - Unofficial	20	3406
+UCYCeangJz_Ow_bTjVhCl5gw	LAW SCHOOL MADE EASY	20	835
+UCHBzu78II8gQ5FV7ZuWu8xw	LGBTQ Cam	20	1930
+UCBA2RfegJd2mu9AAG2shHXg	LawNeuro.org	20	2120
+UCqyBfm_H9ugGirk1ufYA2YA	Learn Skills Daily	20	5154
+UCbYmF43dpGHz8gi2ugiXr0Q	Lecturio Medical	20	1365
+UCJIUORy6lPnPiKW9RcLPnjw	Legally Fit	20	4148
+UCzbl7kMeR3Qrh8Gb8AC3q1Q	Lex in Motion	20	518
+UCFk__1iexL3T5gvGcMpeHNA	Looking Glass Universe	20	1074
+UCVHeGD5ub1KdWXr7djMQyrQ	MSE of Seoul National University	20	449
+UCoM11WIgJnI-0RMDRxsQoHQ	MATH AND CHEM TUTOR	20	1575
+UCwp1TFPWo6JLvfQ3Y_o0vHQ	MaapsIndia	20	902
+UChcoeBvt1fM3gsZnlXC2AYQ	Mainz Institute for Theoretical Physics	20	5543
+UCYgL81lc7DOLNhnel1_J6Vg	Math and Science	20	1371
+UCeAnrUKcxFGrMXfHgj0eMjg	Manocha Academy	20	2745
+UCe3HfH-xCEDGU-XrOhMzgkA	Mathnet Korea	20	3036
+UCnbgFHBaEmKLaLfg5rB2zDA	Matias del Campo	20	1766
+UCYFCL-XB3gbkPO_ltZSzVww	Matthew Cline	20	710
+UCBnX4VJ4ishsrH-BsfVJtHg	Maths Center	20	4925
+UCfyknMfdde2bkIBDG9djIYg	Michael Sandel	20	610
+UCl-J-ovSJhA3or73Q2uVpow	Medicosis Perfectionalis	20	1772
+UCASVJPUf-W-v33eCfUIhCYA	Mehul Mehta	20	1777
+UCVUjsfIErUfWI57ep1L7B6Q	Motion - NV Sir	20	902
+UCTHAIlSOqquwOKnd_nCJgAQ	My Lesson	20	37347
+UChUCS3rXjLR7kDIHTByM1eQ	MrGrodskiChemistry	20	1160
+UC5Eo-Z7D-nrBQU5nyJ8w9cQ	NCCR Digital Fabrication	20	1298
+UCWDzDbksxT5BGvNtK3mtdmA	Munil Sir	20	393
+UCLI5I1QwKqQn0Cf4nzdGKeQ	NPTEL IIT Bombay	20	1647
+UCgp23vdLNaUitOkCxxVnRrg	NPTEL IIT Kharagpur	20	1331
+UC_ltCdLVMRZ7r3IPzF2Toyg	Najam Academy	20	679
+UCpV3b2k6z9LBlnU4FEXSQIA	Narayan Behera	20	692
+UCaEoARzRIn0VHQZRftaabvA	National Canine Research Council	20	2793
+UCY7GiWDPV-JrrrUt-eVOyow	Neuroscience Online	20	1575
+UCWbOgmmhIvrmcxKiAF8twPA	New York University	20	671
+UCUgZq9PkDp1xaEivtcfJPSg	Neuroscientifically Challenged	20	299
+UCgGj2fHUQSHyJ_uGCWg2bIQ	Next Toppers - 11th Science	20	3131
+UCa2QhpsmxD0ae6fhu8AFJNw	Nishant [IIT Bombay]	20	775
+UC-V6odR7HzLCuqjYeowPjLA	Nobel Prize	20	1402
+UC640eqPsRET4cH09dPI5ZSg	Norman Foster Foundation	20	683
+UC07bkZdcDK1QGskWenAdeBg	Notre Dame Science	20	2470
+UCU-wSBoNw5C2AK1yOH1vZGA	Oakeshott Lectures	20	4975
+UCvzhkIinfe7hDRQXHkVzMcA	Nurse Bright	20	1222
+UCppLucDTFXP4zn1bxJSsd9Q	OCW	20	5817
+UCMPwUBfQerqVwHO_TiKjuxg	Oninab Resources	20	272
+UCI_NaQbrtQBF24HF_dvWBFg	Okinawa Institute of Science and Technology (OIST)	20	4046
+UCIwQ8uOeRFgOEvBLYc3kc3g	Onur Mutlu Lectures	20	2856
+UCv8Ngyqvzuf48OC9t3YYGdg	Oxford Engineering	20	1238
+UC7JTTBUY9pHw9islCDI-lZw	Oxford Neuroscience	20	3129
+UCiT9K1pYCJi3gWwRaE9F6ig	Oxford Law Faculty	20	3086
+UC0v3cYyU84ILmYS1wz4p-Lw	OxfordSmithSchool	20	3424
+UCY7dD6waquGnKTZSumPMTlQ	OxfordUnion	20	1301
+UCoKhI1PBOKdebYcG-m5Wing	PLAY Chemistry	20	517
+UCFOGWcvwHEb2Nev73Bd-V5g	PAGE / UTokyo English Academia	20	619
+UCpxWOYMpBz1vBFGO5VJ2rMQ	Paideia Media	20	2820
+UC20JvMah3yzx8SthM5OOCzA	Peter Singer	20	879
+UC-Brpo1XqtGmqURNK727d8w	Posthumans	20	957
+UCgBmfNILAlXmGv3CsJ8oFJA	Physics Galaxy	20	486
+UCSsWSeP4L9VyKGTt8ZQyPZQ	Princeton Engineering	20	264
+UCll9iGqbBfzxRtHKXp3j1Jg	Princeton SPIA	20	2681
+UCcBYSgQTxc126-lj_gdrO8Q	Princeton University	20	633
+UCBe7osb_jSwrO0PfPgREWBQ	Princeton Theological Seminary	20	572
+UCxGjdKIO_jhXHhoX0qb-pIQ	Princeton University Bendheim Center for Finance	20	2201
+UChF3S6HiuSywOlIJKreYXWw	Princeton University Press	20	492
+UCCtI6Gd9F6L2pqn3NRB6ehg	Prof. Soohyung Lee, SNU	20	910
+UCItJsxqZNWUyxFn-A2tzizQ	Priya Jain	20	1017
+UCoHhuummRZaIVX7bD4t2czg	Professor Leonard	20	2445
+UCdD3S9iWAg8y6fKSO2LrpoQ	Program Magister Ilmu Biomedik FKUI (PMIB FKUI)	20	958
+UCWv7vMbMWH4-V0ZXdmDpPBA	Programming with Mosh	20	1905
+UCyxdesDitekozIxr0uvTB_w	Punjab Bible College & Theological Seminary	20	7241	4K
+UCaMesRbcx8iJjKd9HH8qANA	RAEFOSnet TV	20	621
+UCopfpd-YuLDYt5DBD3AMVYw	RJ McMurtrey MD MSc	20	244
+UCXgnGdV5nH211t0GyOP93GQ	Rohit Shaw [IITD]	20	729
+UCuASRVNVmk1ylwHHkfcrx8w	Rajan Chopra	20	2306
+UCTpHtASQ7JzM2Vh683D_uPQ	SAKURA SCIENCE Channel : さくらサイエンス・チャンネル	20	894
+UClztbEWboZVqQc_WaSYpUSw	SNU College of Engineering 서울대학교 공과대학	20	462
+UClSXbjIdwNw3N9N7v7ZLmeA	SNU DAAE	20	2879
+UCj_3iDGRgsrO8uyxVFtuMIg	SNUOGA	20	322
+UC1yNl2E66ZzKApQdRuTQ4tw	Sabine Hossenfelder	20	549
+UCkcqmxjMXaBb0kDWqqSEU1g	Sahil & Sarra	20	576
+UCwmwVL0ArY6fDnmLx_1IuKQ	Saidur Rahman	20	282
+UCHIqMEje_NFJ2u24CVaNQvg	Saïd Business School, University of Oxford	20	1689
+UCcN3IuIAR6Fn74FWMQf6lFA	Science ABC	20	256
+UCN5SeO7nBgyVjiklAT_Pn6Q	Science Academy	20	2820
+UCXj09ax1QE_ksrQKd8kD_LQ	Seeking Wisdom: Value Investing & Worldly Wisdom	20	818
+UC46APEf4DlOgj2qP2trK1_w	Seung-ki Joo	20	1964
+UCZnbPR4h39dg4jkHHAknqjA	Selwyn College, Cambridge	20	2439
+UCgY2ugmW-BV2nMRFu-0qPZA	Shaastra IITM	20	659
+UCa9gErQ9AE5jT2DZLjXBIdA	Shaw Talebi	20	1395
+UCuLgfhXLVT7o1EUx8YNwV6A	Sheryians AI School	20	9755
+UCFwU6m4bvOPVsdJXtrsaQzg	Shirish Gupta (shirishgee)	20	942
+UCZVjCmJOQRpAQ_EruAIPqXg	Simons Foundation	20	2813
+UCiiyrRcEuDSzInajTud90Sw	Simple Learning Pro	20	429
+UCsvqVGtbbyHaMoevxPAq9Fg	Simplilearn	20	24817
+UCYOSe17Kuib_MPKfirM5mQQ	Sleepy Science	20	15111
+UCubSiEFHH6l3SMTLumpdVeQ	Sophion Bioscience	20	1743
+UC2cpgxddGajKvWi_sMtExzg	Societas Koreana	20	3007
+UC2-zvxhC4aFsjjqQQJZUf_A	St John's College Cambridge	20	662
+UCqoAEDirJPjEUFcF2FklnBA	StarTalk	20	2502
+UCm5mt-A4w61lknZ9lCsZtBw	Steve Brunton	20	1136
+UCHygQfA7AXqysCCwElRBuvw	Students Guide to Cognitive Neuroscience	20	1741
+UCwHlQocBSCkopoT159_7tKA	Studicata	20	305
+UCN7o1HviHP3yOtrA-S2b0Dg	THE LAW LAB	20	1666
+UCt1MKif_I9tGgWNsFizYiHw	TEQIP IIT Kanpur	20	1908
+UCPvDKIsrjA_h3g5yZJwCIHA	Tech Classes	20	830
+UC4JX40jDee_tINbkjycV4Sg	Tech With Tim	20	1938
+UCKaGosfLdFntZ-sz8gTO6yQ	Teknik Informatika UNRAM	20	566
+UCech6f3osmQ_s54OsIZQDgA	Techfest IIT Bombay	20	295
+UCiJky5l3spKddy_rQKICE5g	Texas Science	20	1750
+UCN9qzrsT8gYS2I3tbYVKfcA	Tharun Speaks	20	501
+UCYmFl9_o2LbrGB318haw3mg	The Burisch Archive	20	3470
+UCcr5vuAH5TPlYox-QLj4ySw	The Alan Turing Institute	20	1250
+UCyl7zwI6giPG6zC3uC8GGVg	The Cato Institute	20	2198
+UCEATT6H3U5lu20eKPuHVN8A	The Chris Hedges YouTube Channel	20	1544
+UCjvBAHbYpYHRy5oPqzKCHjw	The Nap University	20	7699
+UC0VzbuupDkOzcaiAB1FU_yw	The Politics Academy	20	1801
+UC5Kf6iWcqdx3W1kT65_-Tmg	The Sleepy Scientist	20	10506
+UCzThCSAjnxUCuB_9ZF2MiLA	The Statistics Teacher	20	1529
+UCCSIveazurb4qrNIV7KV9fg	The Theoretical Neuroscience Channel	20	2677
+UCZv8UXOfXHaQaalmp7AMLwg	The University of Edinburgh	20	1844
+UCbQofpGfudo6nVDG8DyMFtg	The University of Melbourne	20	712
+UCxZC-5v-UccF6FXGI7VXgoQ	The iScale	20	3514
+UCUPeqtd5uZXBsjn-pVjrmUA	TheUltimateJew	20	854
+UCTWtgX8u8JslzZ38qN2Yz4w	Thiel College	20	869
+UCo7ghAs6Ls2EazZbIvEXY_g	Thomas Field	20	2120
+UC52kszkc08-acFOuogFl5jw	Tibees	20	1037
+UCRfo-DAifrP3lzcxUHtGm_A	Tom Rocks Maths	20	2624
+UCGI2NUAxXMyN8-Up3n4piaQ	Tokyo College	20	3660
+UCBQfynxNKHvKjGPOJXYQqzQ	Tsinghua University	20	305
+UCL-04PsJLEkSoHIKVYs0QrQ	UBC Asian Studies	20	6126
+UCiMot_7RdzQ0ORJ4OV_hkew	UCalgary Law	20	2627
+UCil2G-oUNzJ7Bzfv11kDjNQ	UChicago Social Sciences	20	1289
+UC3uaNGMpUL_Fqr7IWcebiFg	UP Department of Philosophy	20	6132
+UCvCPN-xoui6lhRexqB0XfVQ	UTMD 東京大学マーケットデザインセンター UTokyo Market Design center	20	4698
+UCFgoarxzQaZ2t3j-V-ktmGg	UTokyo Center for Global Education	20	1581
+UCQG5_6DwEXDL47_aNZ0SiNA	UTokyo Global Unit Courses	20	214
+UCdQwYksctqqiRwqp3PiJMWA	Unacademy NEET	20	827
+UCh8IuVJvRdporrHi-I9H7Vw	Unfold Data Science	20	1900
+UCh5wD9ZWmkWWB3Z_Sz29b2A	V Maharashtra Boards + MHT-CET	20	484
+UC4p6Iq2m-02R4Rn8j9IFEWA	Uttarapath (Uttarapath)	20	1910
+UC_XXlkhk4fgCgfrClRHwrlw	Vebleo - Scientific Conferences & Webinars	20	1580
+UCSDJUz9NdxnAPBGZN1b3JKA	VickkyMama	20	801
+UCkf5qWO4oNXfrrAWOsNHbmw	Vivek NISER | SciAstra	20	1029
+UCXwrpJ6ShqnOU_3E0jMEj7w	Vivekananda Study Circle IIT Madras	20	4023
+UCwxGr_R4cbgn7cDBxWPbHfQ	Vivekananda Samiti, IIT Kanpur	20	1723
+UCQVfY-ask5eSxnoFxVLHsBw	WebsEdgeScience	20	321
+UCkW4f98b10Sg-mFVq7rxNag	Wolfson College, Oxford	20	1828
+UCUMFpcTu0QtKCDUrJtoI3xw	World Federation of Neuroscience Nurses	20	1890
+UCW4lQ2ZZh9EaVNpVtA6hX1Q	World Governments Summit	20	1196
+UCShHFwKyhcDo3g7hr4f1R8A	World Science Festival	20	4834
+UCfFEE8vgtFJITrQuLQFgucA	Zachary Huang	20	1620
+UC5Pj1rlHA01aSmqoJOtUg2Q	constitutional Law	20	3213
+UClGTZDyz3CSl92TgDqIr0nw	caltech	20	2337
+UCX_QaedSrP-A7DplL2HryiQ	dfreemovement	20	1487
+UCkw4JCwteGrDHIsyIIKo4tQ	edureka!	20	2546
+UC4vQRWDwxO43l5QaB4CqMHg	ignousohs	20	2917
+UCdneJAyT6_8KADyUwZnQ5kw	mrtp	20	4189
+UC3UwrWtAFlAkFl_3Nia756g	numiqo	20	763
+UCjJDkzJX6cP3LNx5FOxGXdw	vsrr83	20	318
+UC64Wy1sGxReHxN8In6Zf17Q	princetonacademics	20	2008
+UCVKtRsfK1QPyHRP2QupyddQ	princetonmathematics	20	4246
+UC6AVa0vSrCpuskzGDDKz_EQ	zedstatistics	20	1146
+UCRR4L8gEnouv1K3ZRmKhdHQ	東京外国語大学 公式 TUFS Channel	20	1142
+UCYI6VqtL5HFWdVhfD4oFPoA	東京大学 / The University of Tokyo	20	2266
+UCrapqHgq--AdzOjjP64otvA	東京大学大学院理学系研究科・理学部 School of Science, The University of Tokyo	20	2273
+UCU4sC3ZLDpcFfcxN1xZJIjw	東京理科大学 / Tokyo University of Science	20	965
+UCZSGFgQ6-Unkgb1TVS98-Gw	東京農工大学	20	1533
+UCJ_3L5ElVq7fI0AAB91tfng	서울대학교 Seoul National University	20	1184
+UCGkctuF55veBi7xDGCgcYkw	東大TV / UTokyo TV	20	1799
+UCHVi0zaddN70P5d53hETkFg	서울대학교 아시아연구소	20	4596
+UCMFtInytGPb98UUCjJHdsQw	재단법인 지관	20	1582
+UCkBs3ET6tTCKPu1nFmoQUCQ	Michael Elrod-Erickson	19	1467
+UCc2ky_XjqGFReN3AnKuA9xQ	coursera guides	19	636
+UCKdqemCGLUNIBGQhx7aFsWw	TCMA Gaming	18	204	4K
+UC5U_5BKUdeVdMfmfFyAtYQg	Mojiverse	18	580
+UCeXzwvhZVRyXUKmkeUbbhqA	Geoffrey Jefferson Brain Research Centre	18	1529
+UCdCukASWQ1twVmS_Fev5AAQ	Yong He	18	4004
+UC9ZRaMRtVgYRfBc-ojzzTnQ	Adam's Axiom	17	995
+UCfoScwn69ekXXWNTN0CLGXA	Jakob Foerster	17	3976
+UC_zba9NxKAFdHHcObxNO_jw	PSU Graduate School	17	2467
+UCuPUeipIIdXYdo8wKyAKKdw	GECE at Seoul National University 서울대학교	16	2617
+UCA9BnYc_INM-nbHRpUxXBWA	IDEA League 2015	16	5313
+UCCyeYZAT7tGFLZrhOIodAkA	Barbara Oakley	14	1615
+UCnigNeGSTP6kl16gRvAViaQ	서울대 다양성위원회 학생인턴십	14	777
+UCHHkvupYInGs6sdcrWTOj6g	Oier Mees	15	970
+UC-fsW3Y0Q0txbPUfZC5Y4cg	Free Online Courses	13	570
+UC-QTh5HFiw28MwFrmFrRjzA	Beginning To Now	11	9350	4K
+UCvU7RlKUbYYYNKx1bF0DmcQ	LECTURES FOR SLEEP & STUDY	11	8477
+UC7a3SEYIXY2R4jOpqLAAdXA	Paid Course	9	343
+UCjGpgaQ0vmXKcw3wlLUJsYw	Simplified by Besim	9	503
+UCm21JYoQSv48fXAiMfkt02Q	ERC-ACI, Seoul National University	9	4777
+UCfRUDk3Y5zmrXM_COq3TSLg	Hello ACGS	9	597
+UC2VIfoXbB-cnUsClUOPC3hQ	Nap Academy	8	6860
+UCD3W__mDg62rH6IZimp0cgw	NPTEL Office, CE&T IIT Kharagpur	8	5717
+UC_fd5nm34D8lL8w4uODtOCg	NeuroZeug	7	837
+UC8VhAX-voAUegprM4SpHQJQ	Wacky Science	6	706
+UCumyt6mGLaVO4_N1LkAoXdA	Dr. Baland Jalal	6	1583
+UCi_MfcXU6fvE9HIC8VNYsbQ	NA	6	1564
+UCixIcIFAnsWJySQj1ruZb0w	Coursera	5	425
+UCpSFXjBMC1_tDT2MOj3VYKg	LSESU Economics Society	5	2064
+UChGDwNgX0xsA-lLkSQM_kag	MyGCSEMaths	5	10929
+UCC5SG4xFBms6xcAAl7ys_Lw	Sid Jain	5	3868
+UCDZTux4gXaqD4zKUSZ-1T-w	1stShoppingChannel	0	0
+UCOATykT1PEVAve3vDs6_Eeg	Adriel Brunson	0	0
+UCj_ftUuFQwBOiKJicsE_72A	AI For Beginners	0	0
+UCCstIG7wBV08IAEkRLnE2vA	Alex-5-dim-space	0	0
+UCLPeVIMErfiRaJP0apEYJmw	Alltrade Tools	0	0
+UC2tVlEuohl56ay0Qb4DoRTQ	Arivi by HCL GUVI	0	0
+UCq582z3D7TSkMobYATeuQNQ	Amrutha Nandan	0	0
+UCuTGXVZsBzi7lWti1Nnxg-g	Aryan Lodhi	0	0
+UCZ1ynxCvmghl5rR1gjJEkXw	Bella's Comic Chronicles	0	0
+UCnDHeordwqE0Np0Z7AUQtPA	BoomDrama	0	0
+UCab2KsB-yV9cyzrbwSJ1ZNw	BobHowToAndTravel	0	0
+UC_4tXIagxlT1O0le6LJsCPA	BrombergPhoto	0	0
+UCH_hHwkXLnSvpBFG2fd12yA	CTV Santa Cruz County	0	0
+UC8CpOwfEsl6svBQ1zPU0o9g	CheesyCam	0	0
+UCzKmHpeFesg08AOTYf7kf6Q	Chimera Lighting	0	0
+UC7vgBlrlf2EIx76xNrHyyHQ	College Friendly	0	0
+UC3UbGrV97_wjWYA6QT9gmEA	Content Creation with Matt	0	0
+UCTL9oSmoynjJqQBGOG7nkVQ	Cooper Lighting Solutions	0	0
+UCzhqzDgXa3b3umYUHHz3uLQ	Curiosity Atlas	0	0
+UCk4062RQXYoSLTtpNdwaO6g	Cyrus Mehdipour	0	0
+UCdbPil0VFKnBrOJjB2_4h4g	DEPSTAR, CHARUSAT	0	0
+UC9rzQDiRJ2bBA9RNuLPvPgQ	DMF Lighting	0	0
+UCR5wS0-GNU30yobwcF19j4A	Depuley Light Up Your Life	0	0
+UCApR0iC5vPzRsUsmjeY3r9Q	Digital Genius	0	0
+UCqwprxw2jfKT5bqSsxhQTvw	Dr K Seefeld	0	0
+UCbb2-08h7K4Q3_d6Pc4o9Rw	DramaBreak	0	0
+UCq0EGvLTyy-LLT1oUSO_0FQ	Eddie Woo	0	0
+UCltVEZ6GecWntoZ19FvaWhQ	Ekeeda	0	0
+UCzzbImfr45fazLZ_N4wMUBA	EliteFixtures.com	0	0
+UCe_wxUe-s32EEuEJyG00U2g	Ellie Richards	0	0
+UCylqgu2ojsCxojFpQogowOA	Ellie Sleightholm	0	0
+UCUvf00zSAFFH0X1FyZzNFUg	FOTEXON GÖRÜNTÜ TEKNOLOJİLERİ	0	0
+UCc0mXATpKbC9gb8lnHPzrFQ	FotonexOnline	0	0
+UCKaa_QKxOKv19FIfE0G5YDg	FPA Youtube	0	0
+UCAG2u2KEkkGy4yWGeKa_u7Q	GVSUmath	0	0
+UC6-NdwwgCY-DFaFDeEGr6BA	Gear Glasses & Gadgets	0	0
+UCH1oRy1dINbMVp3UFWrKP0w	Good Morning America	0	0
+UCZMvJVq-HD6n3O1pHEF88xw	GodART	0	0
+UC7RARH-RK6B4Mcze3x_0iZQ	Gray Technical	0	0
+UCtwvwdPeVRjN8Fr606RRv5g	HellermannTyton – Professional Cable Management	0	0
+UCT7uKjjnhi3eozGVrjKfTzQ	HouseCalls	0	0
+UCb2aFMZk4tlxotB14sNBQXA	Hussam Hourani	0	0
+UCwAnu01qlnVg1Ai2AbtTMaA	Jeff Su	0	0
+UC-yoGvOi4AyPNq9TLPDNMLQ	Jimmy Brown	0	0
+UC-f7g0ef1GOROf1CDuzb9dA	JimmyAmericaPhoto	0	0
+UCsbkK0T9L7Ng6yduhMBDvnA	Jkskks Jkokksn	0	0
+UC_iD0xppBwwsrM9DegC5cQQ	Jon Gjengset	0	0
+UCwmA2XoPBvSEM0T21NjTuwg	Kanao Recap	0	0
+UCMRKcgq93-fjM01aop1HSDQ	KerkinStore	0	0
+UCvU7tR4iGSmqyd0cJulRqcQ	Kupo Grip	0	0
+UCpaOtZlri4pq-0yI3UMF8tA	LED Light China Factory Manufacturer Supplier	0	0
+UCJIfeSCssxSC_Dhc5s7woww	Lex Clips	0	0
+UCwNWGO2DEVHTpcfExpZD0yg	Lighting & Studio	0	0
+UCS8aeJ4zisc7zCEfIFJoCBA	Lloyd Celeste	0	0
+UCSvAsTpVyYrDWuojyueX0sQ	Lowell Productions	0	0
+UC5UuXUBAlmxshXhajD1qSkA	MOOC UUM	0	0
+UClOR1BiPyOkkIAnv9Cmj4iw	Mario's Math Tutoring	0	0
+UCXROAAfrDEOjOY-toGCpatg	Marks Manual	0	0
+UCuqEFGkNJ5TpwpiYXpIMfxA	Matt Spaugh	0	0
+UC9HGzFGt7BLmWDqooUbWGBg	Matthew Hussey	0	0
+UCnIAWJt-H28cLC-qeovQqJQ	Michelle's List | Sharing Amazon Favorites	0	0
+UCsMica-v34Irf9KVTh6xx-g	Microsoft Developer	0	0
+UCN4caNO-iJ8-4jGB1WOdo9w	Miss Estruch	0	0
+UCKo9qYvg8ELZOXzXEG6Ft6A	NEW TRACK MATHEMATICS VIDEO	0	0
+UCJRVZa4-x0RJo0dffNGsSew	Nathan Humphrey	0	0
+UCiKqmXRiv7d5F6sqcf9893w	NewCeilingTiles	0	0
+UCASGBz9CIre1P7MQrOaar-Q	NiLTime	0	0
+UCGGxP6KHqkJPV_k3XyMe8rw	NotesNaka	0	0
+UCHsHcvXLRx-98HEkBLeQBHQ	Nuruzzaman Faruqui	0	0
+UClKKWBe2SCAEyv7ZNGhIe4g	Orange Data Mining	0	0
+UCK1rRpC7xNxet2Zb4pTIZjA	PankaZz	0	0
+UCwz55Mvn3AOOOc3xpJp9dXw	Plugged-in AV	0	0
+UCY9zVUgUhagBObrPo8fgarA	Proaimshop1	0	0
+UC2GUcyD6KYjmU_ofQtPTSSA	Robert Welsh	0	0
+UCfOm7ZB20KBET58SumuGNsA	Roberto mariani	0	0
+UCLPhWMHnvbPDbuC0rQnpRHg	STEM in Motion by Gaurav	0	0
+UC4L_JzU8JJoTXtGPB8wwVhg	Sak Study Hub	0	0
+UCOv72g6J1cfOoRODUHK0DOw	Sanjeev Kaushik	0	0
+UCANefQ-G575M34M7gAViSCg	SardonicSays	0	0
+UCs9lU3KF6bVh49qDJnK6zbA	ScienceWorld	0	0
+UC5g5E6QXAqDa4p5zbO3utRw	ShenZhen Rise Lighting Co.,ltd	0	0
+UCLg03Wur06QqH5n3mhX-Mhw	Sheryll Francis	0	0
+UCsq680qHdsrimFGbXG7BhSA	Smart EEE	0	0
+UCvlj0IzjSnNoduQF0l3VGng	Some More News	0	0
+UCf1y3FvYJYPbgMqHX7ZzeZA	SonLife Broadcasting Network	0	0
+UCtYLUTtgS3k1Fg4y5tAhLbw	StatQuest with Josh Starmer	0	0
+UCcyPL0h6l_1wrpyZkE3viFA	Studio K	0	0
+UCOvwywMHzbZTCc7bK1YF1GQ	Sushant Gaikwad	0	0
+UCoqWwPzCvvr5TyCqb7h0REw	Sydney Informatics Hub	0	0
+UCG6TZQdqxg7FJev2U9vMcNQ	TOMTOP	0	0
+UC4CDW9wUE670Qus8FHZhK3g	Tarek Said	0	0
+UCRjEzZ3v1IbkMMS6Bo-cyNg	The Orange WorkFlow	0	0
+UCnjgxChqYYnyoqO4k_Q1d6Q	The Diary Of A CEO Clips	0	0
+UCZfCEg238gC-1Czxg0-do-w	The Outdoor Adventure	0	0
+UCFoVqS_UET3tIF7A3H-ppUg	The Vertex	0	0
+UCQf0mZqvSZrc8An3nS9egeg	Transylvania Studio	0	0
+UCy-lxaEHH32nEC_xbChz5cg	TrendyBuzzz	0	0
+UC3mYNjFaGV4ucwSRR6JsbGA	Twilight Drama Dreams💫	0	0
+UCcDcn4rfCoJfQZZXnzv3SQQ	True Value	0	0
+UCCj2OoEe5iG1tei3Y2eTNBA	Veena Sarda	0	0
+UCNBmxc6FvKyxtCpUygcdINA	WKYC Channel 3	0	0
+UConVfxXodg78Tzh5nNu85Ew	Welch Labs	0	0
+UCdL_ou9aZvVHH5b7Nl-ogpA	WizardDetectors	0	0
+UCxxNfEtCtv-kiu0H36VVYZQ	WoW Price	0	0
+UChChu3MrCF_J1B30oG4Oscw	Wylal_tal	0	0
+UCe5ij4WOTMpHRVkReP-TL6w	cepwin	0	0
+UC_7zLR7fUgG3upHrvnQjcmg	Yiğit Şimşek	0	0
+UCh9nVJoWXmFb7sLApWGcLPQ	codebasics	0	0
+UCyLaAae5gnCA_7kJndtq7Wg	cookiepiggy1988	0	0
+UC8rMdiW-hBk4JjG1Q_oojZw	eAccess Solutions Inc	0	0
+UCQRcG9o2pBhMX9muqLYImmw	eHowEducation	0	0
+UCSE2Tcko-7NQKXwIsRKMELw	etrailer	0	0
+UChItHzo5AQpjq-pwuOWSHQw	giovanni slone	0	0
+UCTWzVeWPV-tu_gCtGblcuIw	optilearn	0	0
+UClkJxHVmfYqH25ZuQfNQGeA	starastronomer	0	0
+UCepecuejtz08zIcjYAXSdLw	theC47	0	0
+UC_IpSl6O_-IRAA6fiNs05Gg	ABC	0	0
+UCKXjkaYg4odQWPnwbDjaqYQ	AI Upload	0	0
+UCSNZR0NRGd_dmSmfutgLGGw	AXION	0	0
+UCTZauNK37RnacEE-V2hzvuw	Abdul Rafay Subhan	0	0
+UCWHKJfMRxMC5TlMVzZSdhng	Acronium	0	0
+UC5VKM0y3YkmEeCgnclfr2ng	AhaForge	0	0
+UCYRcdzyGQ_zGxxKcqJDFhqw	All Time	0	0
+UCM_ykqLrtM_EUB5AN135e_w	Amara Pictures	0	0
+UCh3LHx1kwcUdupBus4z1uxg	American History	0	0
+UC7f9888CwQq-XmKYRGa7k_g	American Lung Association	0	0
+UChtNhiwGJD7GtSIRBE3craA	American Public TV	0	0
+UCJktyOaYsS44Ff1i_-5xCfQ	Andrew Reiz	0	0
+UC30euz6ew8IOdo4g02C6GOg	Andrew Sotomayor	0	0
+UC0S4iXBlSvWR5dVGpVQShPg	Anime Craze	0	0
+UC7QwagKeKBBE-1RnXC9s6Ew	Anime English Club with Sally Amaki	0	0
+UC312dql2XYBUdoZtgeS393w	AnimeClub2020	0	0
+UCOsAfA06zghgALnXPp4VbGA	AnimeUproar	0	0
+UCMb8zKIDH61lAonsBj4GHVg	Archive of Strange Time	0	0
+UCYS2AltqOOZDDZlRMRGp5iA	Arizona Diagnostic Radiology	0	0
+UCf3BkFTwI4G1vMc6W-NpQNw	Australian Dept of Health, Disability and Ageing	0	0
+UC5CWvazLUNRkfIx8eJmP0sg	AxelBeats!	0	0
+UCyqlbzLoYtpqDXwRI9Yh5LA	BWB - Business With Brian	0	0
+UCSy7xxItn5xB2GILvsL0x1A	Behind The Scale	0	0
+UCCgnbEL97epv-RhIZWHEhuA	Berkeley Lab	0	0
+UCFbY6n5Ge7PJ98AtnMcD2eA	Big Data LDN	0	0
+UC0Hy4IFORHOZRgSZIVBk7lA	Beth Israel Deaconess Medical Center (BIDMC)	0	0
+UCrM7B7SL_g1edFOnmj-SDKg	Bloomberg Technology	0	0
+UC5Qz5efUK0wKhNAhjjRaJww	Book of Valis	0	0
+UC-I2cp3hAGPt7qD57CmioKA	Breakthrough	0	0
+UCHqnUEThVeZ8dtgnPmjk4MQ	Briaraptor	0	0
+UCJp7gd3QZvweXGnevptxJng	CBS19	0	0
+UCTz1gMQPp631wruQX3yAsFg	CHA Healthcare	0	0
+UCbldcYGi7cQMG0fcnY7GNng	CMO Confidential	0	0
+UCOpxVqbOoIJ_JeP9eRjgkAw	CHESS Health Solutions	0	0
+UCXMzgZiNJF4GUi8E7aat1Ew	CW39 Houston	0	0
+UCoqsI4BQjKoFanMQOy5VEIw	Cancer Council	0	0
+UC01Bpr4Rpq0sV0cWOb0Ul3w	Charlotte Radiology	0	0
+UCQyRzwszdJ_UL6CECgWMx6Q	Chronicles of the Lost	0	0
+UCENrPdmsIfFZat5RRsKDfbQ	Coinvure	0	0
+UCD16eo98AXl-9T61Xd711kQ	Competition Wallah	0	0
+UCHDr4RtxwA1KqKGwxgdK4Vg	Computer History Museum	0	0
+UCGHZpIpAWJQ-Jy_CeCdXhMA	Cool Worlds	0	0
+UCJEAWtn7nxebi5zmyvtpXEA	Cooper University Health Care	0	0
+UCX6Db96A7e_jyImXGFpABRg	Cosmic Research	0	0
+UC7GGDPk1ZoxT-gfui6ltZVg	Cosmic Sleep	0	0
+UCyJi3YHZPNkZGAYIix4FRLw	DLD Conference	0	0
+UC-ubecqPU-g1J_qb8y4R5Xw	DaedalSphallolalia	0	0
+UCrI9R9SFEzDWOvEMMKa5qww	Dale “DJ” Gottschalk	0	0
+UCN2GyOp5NJ99pe7OY6Agvtg	Dartmouth Health	0	0
+UCWBkBmz_nNliH1AfJpnlrkA	Dark Echoes with A.L. Whyte 👻🧿	0	0
+UC79Gv3mYp6zKiSwYemEik9A	DataCamp	0	0
+UC3q8O3Bh2Le8Rj1-Q-_UUbA	Databricks	0	0
+UCxBZaIrrt0ZzYMV2hefCriw	Deep Space Stories	0	0
+UC2LdCiAsuXTM5KxqScV_V8g	De Nieuwe Wereld	0	0
+UCflg8pIElTb9qdFVaDC7gMQ	Dennis Davis	0	0
+UCUD1kGslSabeQmKyPLtLO5w	Dennis Heller	0	0
+UCvCYE-3TrY1GAe2l8K08N-w	Digital Engine	0	0
+UCx_fzdw4ps8eSa1JPRrIsIw	Dr. Jenn Simmons	0	0
+UC9rTsvTxJnx1DNrDA3Rqa6A	Dr. Trefor Bazett	0	0
+UClWTCPVi-AU9TeCN6FkGARg	EO	0	0
+UCxhkSjd-fcUXYMXe1XGpoHg	Earth, Atmospheric and Planetary Sciences at MIT	0	0
+UC5t_kvsawqA6o4-l4PUIS-Q	Engg-Course-Made-Easy	0	0
+UCvPXiKxH-eH9xq-80vpgmKQ	Epic History	0	0
+UCQ7pW562r4rPNYD5dbt7NLw	Erik Demaine	0	0
+UC9xClggZY-gXZpIGktkVrYQ	Eustass “captain” Kid	0	0
+UCYYOYsxvHesv5bV2J57WbcA	Evythng Abt OnePiece	0	0
+UCrx3P3LngHZBW81mzbANndg	FINTECHTV	0	0
+UCz8QsOYD8s3RcQ_-mAWbGBg	FOX 5 San Diego	0	0
+UCVyksjY1z3ixZAMLCVfoIsQ	Faultlines Studio	0	0
+UCFlnKDqG512KkbDvPa2ybRw	Fexl	0	0
+UCxdWHEhEPiYhCADMrn4PdhQ	Fin Tek	0	0
+UCtAIs1VCQrymlAnw3mGonhw	Flammable Maths	0	0
+UCn0ShMNqXI3kQP-Eoaf7olg	Fortis Healthcare	0	0
+UCSOz6T52IsqvmcvHMQRxEgA	G4G Celebration	0	0
+UCsEukrAd64fqA7FjwkmZ_Dw	GQ	0	0
+UC2reRwDWsnWkonmK9t2uo5w	George W. Bush Presidential Center	0	0
+UCFkaWOGpyFBVRf5jEeD_wrA	Georgia Tech	0	0
+UC-EZEcmQpzE2rUGHaEA9m6w	Giovanni Trano	0	0
+UCMS4b6d89OuL5E_xMq9NVtg	Goji	0	0
+UC522meTsOjFWjSdLLrEMMBA	Google Zeitgeist	0	0
+UCQHX6ViZmPsWiYSFAyS0a3Q	GothamChess	0	0
+UCiw1X5Fobn5W2fri8cZ6WMg	HCA Healthcare UK: World-Class Private Healthcare	0	0
+UCtBYuLN80XIRR6IaKu468Rg	HIBY新聞	0	0
+UC513XF4pV2Iih8bj8mGolVg	Han Yong	0	0
+UCxLI85C8f4wYVxNRTYbbk3g	Hint Health	0	0
+UCa4enyt_xMjxJA2JUaNWQkw	History Untold	0	0
+UCawWUnrxPxhISIEZT5etVRw	Hᴜɴᴛᴇᴅ Pᴀsᴛ	0	0
+UCquT5NzE7P8_wP7m2tnbRjQ	IEFA TV	0	0
+UCQdZWRxu7uCjkCay0OCnvWw	ITU	0	0
+UCKXLq-LIvJB8eZDOAcVH8Gw	InHealth: A Washington Health Channel	0	0
+UCY99eAbrawSnQNpHuSX4Szg	Inside the Silicon Mind with Firas Sozan	0	0
+UCEhyfNc7tYSmfbFnMQmCgLw	Internet 2.0 Conference	0	0
+UC-beEh5L8QETtO1r32eXxqA	Jack Carpenter	0	0
+UCbuXJrPk44KOt19RNMDzdog	Jake the Jumpman	0	0
+UCLXSpirv8uZdhrytNW-R9Rw	Jason Abadi	0	0
+UCaFNRQX0ppK153omMBR4ikQ	Jefferson Lab	0	0
+UC_hukbByJP7OZ3Xm2tszacQ	Jeffrey Kaplan	0	0
+UCXWjqyzQwOcTYPbahanaP8w	Jhohan Kile Blake	0	0
+UCEszlI8-W79IsU8LSAiRbDg	John Michael Godier	0	0
+UC5cEHfCr6WOE1R1zcohd1IA	Jose Najarro Stocks	0	0
+UC4H1zHvU2Z2YLo4MC42Flqg	Joy Boys	0	0
+UCRFF8xw5dg9mL4r5ryFOtKw	Jumpers Jump	0	0
+UCyw0715Ggz6yVcSerh6-8TQ	KarmanosCancer	0	0
+UClmjQX0urqGb83Bnb8Np5NQ	Kasim Sir Classes	0	0
+UCLTAdq7116W7XUs8Jlijutw	King's College Hospital NHS Foundation Trust	0	0
+UCWOkV53dAW3zpDMzoqDMpCw	KirTop - Archaeology	0	0
+UC5z9sDKRTI2LrDKlxTUmU8Q	LSEG	0	0
+UCIqH5kGFOM_lP9x_AmPodjQ	Late Science	0	0
+UCPmndhZFhtO0yjCvuUVoUKQ	LeDuc Leadership & Media Group	0	0
+UC6CiWR0czKYqIK6XbZENuvQ	LumoScience	0	0
+UCJ8rPCWzEFnWpP8A3Czdr6w	Long Island Community Hospital	0	0
+UCpQi6au-iFiMzrAxcpSopHQ	Lung Cancer Foundation of America	0	0
+UCkVaGPeOBEgh4HojamX0PNw	Lung Cancer Initiative	0	0
+UCddp3o-ctW8rmYtfdDfVUkA	MAIN Conference	0	0
+UCOLc9GES9eIMliLT_8s9w7g	MIT Alumni Association	0	0
+UCBpxspUNl1Th33XbugiHJzw	MIT CSAIL	0	0
+UCbDs7CHAWVtyu81-6WIqZXg	MKS TUTORIALS by Manoj Sir	0	0
+UC57AdxF9_0fCLR_n2XnmiHg	Mad Cat Sphere	0	0
+UCfX3z8tqrGkHvln0PaJuxLA	Magic Math Stat	0	0
+UCEZRtl3IodK4uVol-ymOMGA	Mammography Saves	0	0
+UC_OTtwh8_-q-bA7DoS--syg	Mathematics Tutor	0	0
+UCnfhYMd3iRe5pzuJyopVuRQ	Manhood	0	0
+UCGS_2Mqg-ZzRL4Y73mg65NA	Matthew Weathers	0	0
+UCektsETexdg0RYiSdpv_9GA	McFarland Clinic	0	0
+UC3iD3ivnYflGgqsB8m3KCcQ	Michael Uccetta	0	0
+UC99n6V0a8mDNDkwucjrFh4g	Memorial Healthcare System	0	0
+UCu83TvQYrLnumeG9xE4MKwA	Milan Podbevšek	0	0
+UCHnj59g7jezwTy5GeL8EA_g	MindYourDecisions	0	0
+UCu2e-o9q5_hZgPHCv8m1Qzg	Mont Corvo	0	0
+UCzLJottjYPfuBvM-7fM2u4g	MountainView Hospital	0	0
+UC_hl3Y2jHHOKXuo4k5sVARA	MrMath	0	0
+UCjz16JJc5-mTHAHzYD9Mqdw	Mugiwara Review	0	0
+UCbVg41jzM8UroywvEr73Pdw	NHS	0	0
+UCl_TDbv_ZHo6AeQaPokmhYg	NHS BSW ICB	0	0
+UCPMS98KZWFYxKGBMn7rBvSA	NKC Health	0	0
+UCQYMhOMi_Cdj1CEAU-fv80A	Neso Academy	0	0
+UCvQQMY6TyUdt5VeHpuHv_Dg	New America	0	0
+UCZ6xKbZ7qnUplkzACsDyu6g	New Brunswick / Nouveau-Brunswick	0	0
+UC5yfDCJEgGy50jwhu51kKAw	New York Imaging Specialists	0	0
+UCaneUNoTyXPYQ_R-jYV_MFQ	New York Cancer & Blood Specialists	0	0
+UCG2B6emunc-8ACAChpHv0qQ	New York Stock Exchange	0	0
+UCT-_XJEMBYPcTjG1bzgtVfg	Night Science	0	0
+UCnCUj8ZOtbByl7AL4182OCQ	NoteBookLMVideo	0	0
+UC5_7zsINpA_ACcVfag4b9Ww	OFAPPIT Institute	0	0
+UCXwvhYQoX8AF7_LL69UQPVg	Oh Star Stuff	0	0
+UCTHjgl-7jw0QtSqsKA7RUuw	One Piece Journey	0	0
+UCR7UtO5H0cepHzH0yZxT9tQ	One Piece Videos HD	0	0
+UCdzCpJunix1Ym4Nj8pmrdGw	One Step Forward	0	0
+UCNibAtPet-4nC49VIGj6-EA	Openminded	0	0
+UCX4xIz5p4n3RecOSSm_buPA	Origin & Orbit	0	0
+UC4MehKmR3lji7a1K7kxCJWg	Overlake Medical Center	0	0
+UC0uO3IgxaHRBNsjXJw6Px9g	Oxford Internet Institute, University of Oxford	0	0
+UCkXVp9VhCnJFclzxh0P2Fjg	PBRLS	0	0
+UCrgyLs7vuu1lyy963Ycd-6A	PW Solutions	0	0
+UCwed6_f0WcDIioXvMQfcP2Q	Palantir	0	0
+UCcaTylSny8eiGSwSduJhX2Q	Perun Games	0	0
+UCDg_EVBPyUmKrR54mp9Wjyw	Pindex	0	0
+UCS09-dYUM1rlkIvf7qvA3gw	PlanetConnect Events	0	0
+UCb3mxept2WjksM6auhymQdg	Primal Status Elevated	0	0
+UCqFK50VbABTGJzwxpt8mtBA	Quentin Melson	0	0
+UCwaWAayMjisNrAM1PWTNWHQ	Rabbit Hole: Enter the Unknown	0	0
+UC8hJMBNW6voynFoL7Sr9NoA	Quicklet	0	0
+UCdlydbmfrgaOxwEKVOu-F0w	Raritan Bay Medical Center	0	0
+UCpZt18xTFZouCJ7ZQ56Wkyg	Ranjan Khatu	0	0
+UCFDLAPrpCuErw8Om24S_3ew	Riverside Health	0	0
+UC4JPuaeesjQRrguryopMr_g	Rise to the Equation	0	0
+UCpNC1Chk5S_YpGrAjKd_0xw	SHIV MATHS ACADEMY	0	0
+UCLdrmE43HwZDGS92Qi3KhbQ	SK Maths Tutorial	0	0
+UChbLQf0sdE2qYleWkvOvlgQ	Saint Joseph Mercy Health System	0	0
+UCwOILzAcxK5CM2M7oRBuWSg	SaaStr AI	0	0
+UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	0	0
+UCZYTClx2T1of7BRZ86-8fow	SciShow	0	0
+UCvDdNFx9v5zU1shCqKYYSIQ	Science and Tech	0	0
+UC3ZcdudbyF4maT7xrQGP_zw	Science Pulse	0	0
+UC9u3UqkoikJ9Nr8t4wvyNRQ	See U in History / Mythology	0	0
+UCzWQYUVCpZqtN93H8RR44Qw	Seeker	0	0
+UCk3DhV00o_q_FinKXr3GZgA	Sentara Health	0	0
+UCZGLoq8wbzSFxYuOn_t6StA	Shadow Time History	0	0
+UC661aYQGjG-yHSFEdrDODww	Simply Science	0	0
+UCFboqQ8JVdSh2zFwczVXU5A	Sleepy History	0	0
+UCxNvQ6PALSD9Y2nbTN55nDw	Sleepy Physicist	0	0
+UCExqs0i3A8CPCBJyv7NBDjg	Small Talk with Jonathan Small	0	0
+UCs10x-muRrTQMJ4Ya-fmIlw	Snowflake Inc.	0	0
+UC4-BHIihElaFcKpz5iOvFJQ	Society of Breast Imaging	0	0
+UCsApDHKF4SI0n3kkBkUHBQg	Software Huddle	0	0
+UCUuQ7n4fGjrF7tAsAVRIbjQ	Space Captain	0	0
+UC1-OVsDrNOWQlMByYoRnfgw	Space Dude	0	0
+UC2jkub9HD1-kHc4FRKhZh5w	Space Mate	0	0
+UCEENWVBdvDy-QWfuQoXC9HQ	Species | Documenting AGI	0	0
+UCPYXWr4J8t44gCmNYm6ORhw	Stanford Institute for Economic Policy Research (SIEPR)	0	0
+UCGie8GMlUo3kBKIopdvumVQ	Still Watching Netflix	0	0
+UCCWXov3PHr0kX9WG543svBw	StockInvest.us	0	0
+UC5DYGWSXcJrOyKO_SgpE74Q	Sunil Bakale	0	0
+UCtGoikgbxP4F3rgI9PldI9g	Super Eyepatch Wolf	0	0
+UCEA3TrdLv0vo4dRvRPk2hnQ	Swati Theng Mathematics	0	0
+UCIiet8Wnb5Zzel9LBw2M8BA	TEAM Education	0	0
+UCHip-wiEtSSRtJtA2OoChOA	THIRTEEN	0	0
+UCf-ZGgv5SxoK_fVJ0tnkWQQ	Techs New	0	0
+UCplNCzwzbpvJihsWTTYxyfg	Ten Golden Rules Internet Marketing for Law Firms	0	0
+UCr8ZlC6iUhMUvGNziD4H7Yg	The Bitcoin Revolution	0	0
+UCJl3S8A-5ExFMbeJN0KtOBA	The Bitcoin Conference	0	0
+UCHs4YRk1p9iVikstEIuRp6Q	The Boundary of Events	0	0
+UCFnExFCkTIUsAg7HMkH2p9A	The Finance Hydra	0	0
+UCtjeUt_ak5jq2SPhb3Fkadg	The Front Lines — GTM Media Network	0	0
+UCWea_KfCnTMD39uQuA5TKOQ	The New Stack	0	0
+UC7QSgYveZtZWozG4AVNF2Dg	The Multiverse Peek	0	0
+UCb8nGtVBhOVl3Gq6T3np3TQ	The Quantum Glitch	0	0
+UC7ekA5squ12MDEy5upvpo7A	The Why Minutes	0	0
+UCrjFKLCqZnx5XuvWt00y4Jg	TheSimplySpace	0	0
+UCGV0PIwpvyxginAeMNFLmFQ	Think LOOP	0	0
+UCkkhmBWfS7pILYIk0izkc3A	This Week in Startups	0	0
+UC7kCeZ53sli_9XwuQeFxLqw	Ticker Symbol: YOU	0	0
+UCLTcqjxNhju_E9eq_uO_wrg	Truth Initiative	0	0
+UCptda15--amT6JyBiJnWmNA	U.S. Securities and Exchange Commission	0	0
+UC8XPVMe7roWeS0gnFMuRSDQ	UCIM - United Conference of Internet Money	0	0
+UC7qEVCiRh8S7V-dlbWN0OpA	UMass Memorial Health	0	0
+UCztb58eHRnyv76YnMjqsFRg	USC Institute of Armenian Studies	0	0
+UCtrFDttZdb4QxBpQc3fi1Cg	Uncharted Mysteries	0	0
+UC88rG_IywDs1Tswj6GhtTJA	Universal Tv Explorer	0	0
+UCRxn6jf2MKoSOaHMCZ6q8Dw	University of Maryland Medical System	0	0
+UCAgyPO429NUFZgwUYXVzJtg	VHHS Math Team	0	0
+UCr9CdaBauTPv8e9rTkYOHsg	VCU Health	0	0
+UCVfU60kFK4DL5iDNbCQTIKw	Vermont Complex Systems Institute	0	0
+UCLXo7UDZvByw2ixzpQCufnA	Vox	0	0
+UCgfGNfLVl1GLsBWA-ifUjbA	ViralShortsHub	0	0
+UCQpzjKzlIqeOwp3EWmv61GQ	WASTV Creative	0	0
+UCCaklQ98ufViCAds5gdj49A	WLNS 6 News	0	0
+UCnwI-VN5jXWIGQKOI9PMDMw	WPRI	0	0
+UCkr9qZ5tj9dGd7JvE3a8X4Q	WLWT	0	0
+UC9ha3sh4YTCSK83dH6OlWTw	WTVR CBS 6	0	0
+UC_dqtETVW-zK3rk09sIWqAQ	WayCAM TV	0	0
+UCf-rjb_iuv3De7STLICGAoA	William E. Smith	0	0
+UCi1_erE861I2PmtDM_LP8wg	Well Ahead Philly	0	0
+UCCEP_kqjhI2_2sujWRCO-Gg	WoRlD UnToLd	0	0
+UCO114HeEDWyUZWmGEjbRLZg	WtyEletro2011	0	0
+UCwH_ASJVeM8Bg9MCai8e7mA	discovery - history	0	0
+UCigndoeX3fNh95WUbItusCg	ephemeralillusions	0	0
+UCi2QZmx5U4_MXyJYpmUQoJA	Xanimo	0	0
+UCqm86i0q1pYehz__Co3Zzww	financial audiobooks	0	0
+UCxmh9CHjpMmQGFHvZQt0GTQ	joost klein	0	0
+UCQFPRRCok68Q-Kv5i6XGwmw	welshgit	0	0
+UCfZC7WR8oXmBKj-1bUMY-Pw	overzealots	0	0
+UCPSopGu9F5VfSpKxPxkYZ8g	wogsland	0	0

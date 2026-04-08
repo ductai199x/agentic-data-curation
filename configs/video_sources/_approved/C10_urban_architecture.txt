@@ -1,0 +1,390 @@
+# C10_urban_architecture — 122 approved channels
+# Pre-screened: 18 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UC4CAxaO75mfkPr3GRiSGE_w	8K World	20	937
+UC17QRR5AVQWsrTcljGItrtA	Aastitva Architects	20	121
+UCwG4RwTm26PpZ8Wqs86zwWw	4K Natural Wonders	20	11506	4K
+UChB3UnDddahXU7FKZXmpzMA	8K Earth	20	7416	4K
+UClgEt8x2OAXqu6JhF2mzZuQ	Alex The History Guy	20	1075
+UCXbXfisDHV_gDjawCKTyTIw	Ambient Renders	20	26105	4K
+UC1Xv-eIqlHv9agR0DCWaXHw	Ambient Explorers	20	5936	4K
+UC1KLGYyoFKEFHHHTwuqCoVA	Action Walks	20	3915	4K
+UCY04Nk2nZkUkT4hqf_7suZA	Apartment Therapy	20	1089
+UC0k238zFx-Z8xFH0sxCrPJg	Architectural Digest	20	864
+UCySMIzA1MFSsSrkW7TU-jCQ	American Countess	20	2444
+UC7L6P29Eaom6FWGP2I-YmgQ	Andy's Awesome Adventures	20	570	4K
+UCP9ppOVBnkMvO09sd-SavSw	Atmos Walks	20	3218	4K
+UCTECQOketgtT8lCb3MjaxQA	Archwalks	20	1242	4K
+UCUuvM8Irrn-dk8j65QpzIQg	Brent Hull	20	609
+UCSp1I5DAJX6CnW_FutqNj5g	BlessedArch	20	1228
+UCx06USvd84IK217WlrHNswQ	Charlie Frise	20	628	4K
+UCgYoND3mgHqm4X7cB5PXC6w	City 4K	20	922	4K
+UCFgSWyCPCwkkjOuD8mDioYA	Bruce	20	304	4K
+UC5OJXUbPjR8JqoE099QwUOw	Brownstone Boys	20	785
+UClYhOGHRF0jDXDA3qHjzDNg	Design Will Save The World	20	801
+UCn5XzrXtuzLFAf_Mr1gVv_A	Designer Home Tours	20	2241
+UCJ_2hNMxOzNjviJBiLWHMqg	DamiLee	20	1119
+UC40Pjx7sXp8nvwi4HTZ16Fw	DroneWorldHD	20	832	4K
+UCHWbZM3BIGgZksvXegx_h3w	Enes Yilmazer	20	1526
+UCOlx478DxwYAwkLnz9ELNIQ	European Walking Tours	20	4987	4K
+UCu8ucb1LRJd1gwwXutYDgTg	Erik Van Conover	20	1433
+UCgbp1Idym1kVWGt2ErMDSLA	Fantasy Realms	20	425	4K
+UC5KhvlsYrr_hre3AKGFzeHA	Feadship	20	296
+UC31JDWzBBJnQ5SLToAHceyA	Fab Little Dish	20	1743
+UCg3mk3FN_3PewjoS82CMaPg	Fotógrafo Brasileiro em Paris	20	1074
+UC984Yd6tWwyLZgXxfppzKCA	Free Stock Footage 4K	20	282	4K
+UCV2_l3k3JuZwIhiY1H0kSxA	HP Walking Tours	20	3038	4K
+UCVDro8TZ8GiEj3B0RXBZhHw	HENI Talks	20	1772
+UCzsF1ghKHeif7AmTNlRYAzQ	Harper's BAZAAR	20	796
+UC-UtZiCARb-ImLGWmWlxK5A	Global Walks	20	3402	4K
+UCFnzFmFOlXt9InRRrtzm5qA	Holiday From Home - 4K Walking Tours	20	3531	4K
+UC2oAso3hNDqYxgqEEP-Esrw	Homeworthy	20	2831
+UCGcIF2Ir3b50IExp6mvuioQ	Health to maxim	20	435	4K
+UCq6H4g9eVY9WxoboCFd0iRA	House & Home	20	529
+UCQySZfn3B_fnmcr0XYq6TZw	Interior Insights	20	1734
+UCHHphhxRHZpMS96kUr4DuwA	Iowa PBS	20	1058
+UCTxYD92kxevI1I1-oITiQzg	JoBlo Action 4K	20	418	4K
+UCBcVQr-07MH-p9e2kRTdB3A	J Utah	20	4026	4K
+UCk1qvhkPMbF703QHR8qj8og	John Rogers	20	1458	4K
+UCxkXzJtYHLeLJZRTd3lDeyw	Just Live	20	269
+UCU29V2Jl2unpcOxm1kPDqmw	LADmob	20	3848	4K
+UCsobvBV5Zq9ySD_SLZ7R5LQ	LAUREN LIESS	20	1620
+UCJJJTchIR9TbEqDRfDQva6g	Lucas TUANG - Channel	20	334	4K
+UCU_VfIT4N1GUsUWhKOsUdfQ	Living and Walking	20	1679	4K
+UCbXqx35RHtTaUP0eqW7Jr9g	Luxury TV	20	6012
+UCYxsXxbjJO1YYa9yQ3lKC8w	Luxury Travel Expert	20	3215	4K
+UCpYUVZjvmu2VcnGITISqczA	MK timelapse	20	208	4K
+UCraJuq3OGqF_Wl8nryxN6iQ	Movie Trailers 4K HDR & Stereo and 5.1 Audio 🎧	20	136	4K
+UCEmp4AT8a9gIKg851w3Xsiw	MovieGuy365	20	458	4K
+UCbq3QlzTx-UpoSWfT44XAMA	My Barrio My Mundo	20	1070	4K
+UCqmrp68Ufn2uiaV6mpYAktw	Nats Can Fly	20	514
+UC5q2i47RjRTG-qmDSxg2ubQ	Our Restoration Nation	20	1417
+UC07v1rZ4g6vxjoHRAoJZWHg	OPEN SPACE	20	770
+UCdM2qeTbDck5YUdxTqcaflg	Nikiomahe	20	2910
+UCKwM-7sO1_Tw9EmYhKfpBBw	Perkins Builder Brothers	20	2037
+UCb57aRZr3KsykS_wNsD5Ptw	PRIMAL EARTH	20	11585	4K
+UCLW_iDFpAlbfhe8DJbdd8GQ	PixelPulse Travels	20	2973	4K
+UCfhqk1LwYmPBH8ALa3nqAdg	Peaceful Relaxation 4K	20	6363	4K
+UCfbkraMQPT7l9d1yTYpDR1w	Popcorn Picks	20	545
+UCFHQXJw7ND7kouS-QreyNLw	Portugal Walking Tour	20	4081	4K
+UCNzul4dnciIlDg8BAcn5-cQ	Prowalk Tours	20	7300	4K
+UCvnSyOfwtn7J14CYRbCaveQ	Rajiv Surendra	20	1124
+UC6-X3epFE06GDWRHLQG_YMA	Rebecca Robeson	20	1869
+UCqjD5UzXn11INaiKUSaUGcg	Relax Top Music	20	3472	4K
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film	20	14094	4K
+UCe4VXm18fMiBNQATSoCyQcQ	Relaxing Nature 4K	20	11471	4K
+UCchgIh8Tc4sTmBfnMQ5pDdg	Rick Steves' Europe	20	1112
+UCvHkbk1eZqQGbfNvtZ7msxQ	Robison Build Co.	20	1176	4K
+UC95bEkaIgwhxSjSsdMFXYGg	Scenic Relaxation	20	4387	4K
+UCsViJuCYqtWXpDFeadQHKLA	Schumacher1889	20	299
+UCUH4JpMio5gaH7mX0dxyr3Q	Screamin' Geek Media	20	780	4K
+UCwWc8q6ZnIKxMOhcUTFxrVQ	Shane Lee	20	781	4K
+UCvZj5rtpSJ6SnN7Uc0Mv48g	Singapore Walking Tours TV	20	3155	4K
+UCAHeAByxhlEoGK9eMn2rDDQ	Slideshow	20	22560	4K
+UCX4ppwcUldlxpuiRGoT1INQ	The Aesthetic City	20	1010
+UCw_XdTDBWdrGmKqjox882QA	The Art of Interiors	20	1201
+UCeDhIF1CHqX6fpF9O6Pw0rQ	The Intérieur	20	700
+UCgxg48_pay4R67s-7WOgWFA	The Local Project	20	409
+UCLYrUmw0L_bjFeQCvWuiijg	The Luxury Home Show	20	1506
+UCnXF08ViHVAlQCq8D85QeiA	The Old House Agent - Daniel Shew	20	1776
+UCSYUlIhGMCdM-oHxwvbhhLg	The Travel Docket	20	3738	4K
+UCeldhl2LRQRMz0bLSvGMYNg	The Traveler	20	7532
+UCkKRXhkY6fcLVT8MLc3FH3Q	This House	20	641
+UC-dJRBaU3UUC1ON8PFaRe8w	Tim Ung	20	436
+UCMcn-DGW8IRzoHWYTjErEAQ	Through Lucy's Lens	20	1238
+UCsyzJtUOLbgHicw8P-NKr_w	Torizta	20	1281	4K
+UCEZ_zB95xT6J8u33-pBF6UA	Tourister	20	11048	4K
+UCFj5HES0-944pC-tjA16XqQ	Travel + Leisure	20	289
+UCT8LvKOfhhPlyKyJnaF2ymw	TrailerNow	20	263	4K
+UC-9tnfp40b1IUcnUC1B9ajQ	Travel Diary of a Fighting Couple	20	404	4K
+UC-lWOADbab_K1f3gv-GpxPA	Travel HDefinition	20	541	4K
+UCq0OueAsdxH6b8nyAspwViw	Universal Pictures	20	399
+UCIHg3K4EaY-ziWc5CyzWAzQ	Universal Pictures At Home	20	626
+UCvHuibOYBaqt8WqcwDFCwBw	VG Top 10s	20	1450
+UChFXvlxmWNvI0jWbRv55PzQ	Virtual Tours TV	20	2101	4K
+UC2vB2ONcny-ZXi4aeGnjhXw	Visit the world 24	20	2037	4K
+UCUxxzb6KWpJFrCV3b3nFVeQ	WANDER WALKS ARGENTINA	20	1883	4K
+UC0TqihOw3aHbHDi-EWBfFeA	Walk The Tour	20	5442	4K
+UCwcoHMhu7Z0FLsqN8MXuqrg	WalkAround	20	911	4K
+UCb2plumnTsXcIroLdl9pDaA	Walker's Story	20	1389	4K
+UCnX4TNBFUxNjNSHu2IQB4Ew	Walking Tour For You	20	3503	4K
+UCieYPHYYkiGfNW9lfsW1_Gg	Walking and Food	20	2325	4K
+UCFyK2Fi66OPCIHiXfWjl_ng	Wallpaper*	20	295
+UCZSrRkUCYDrGuwhLaip2MEA	Wandering Momentz	20	1419	4K
+UCYulrOk4EbqL833oETw0bWQ	Wanderlust Travel Videos	20	2178	4K
+UCrhfr2rZijRYnPOhoj6cB4w	Where The Road Takes Us	20	1264
+UCPur06mx78RtwgHJzxpu2ew	Wind Walk Travel Videos ʬ	20	3185	4K
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours	20	6827	4K
+UCfQSiQRD2WApuxT-YP_45Aw	ZROBIM architects International	20	1284
+UChNyHgweyr-i51_Du87BEww	exploredbyus	20	192
+UCg9lLj5QLM9hvGoV3BCelyA	realities.io	20	421
+UCqv3b5EIRz-ZqBzUeEH7BKQ	myVideoMedia	20	770	4K
+UCRZKjZ3RgSW8nXcmzlnUuAw	Amazing World	16	4131	4K
+UCzw1Ge8HE3Wg6bwH4eEY_Fg	thelanoz video Comeback	20	642	4K
+UCtkoSkDFf6LDHlIU35Ze7GQ	Archizone Studio	16	148
+UCJSnCyvgN-OJS7z-lcVWBNw	Ivan Shane	9	163	4K
+UCoBL8gRrEPm49lp78h4U9bw	 Deepak Verma CAD Softwares	0	0
+UC-POZfHxncrs1N1LtZYTX7Q	16K Video ULTRA HD	0	0
+UCPgJ6lekEutiDFIOpyhSwbw	360hometours.ca	0	0
+UCl1X0WD2UZloaRK3j2Mdtfg	4K ULTRA HD	0	0
+UCtdSqnpjL6EI6RldWC-yVFg	8K COLORS	0	0
+UCbzKOwULMmhqaJgvtVVgIzw	8K Beautiful Earth	0	0
+UCyh00qL10nzsJVpWr4ZMn7g	AKRITHI architects	0	0
+UCG6vFngPFutip2OXi9W-DeA	8K Global Channel	0	0
+UCrlMC-rhuEB9EuSmpsvJclQ	Abhishek Gandhi	0	0
+UCY6E6915RVgUxUf7nZWv0KA	Advanced House Plans	0	0
+UCR6j6ULv98opmlJ1o15QUSw	Ank Architecture Visualizers	0	0
+UCAjKYgS9kXNzTmLxAJ_1fDQ	ArchStylus	0	0
+UCYnLtQve9M_80SlocLJuIgA	Archi sketch3d	0	0
+UCmffp4CQ-1B1bfdl7Xm0ZRA	Beautiful Nature Music	0	0
+UC_pRgGXEc-o4bpdViLzb3fg	Best Design	0	0
+UC93fHoH7WbSN9E1vv8riq8A	Civiconcepts - Bhushan Mahajan	0	0
+UCiunfudMsIhCj9bgY2gK8Og	Civil Site visit	0	0
+UCXCjr92Efqo2HH020QwIDYg	Construction Zone	0	0
+UCLRMaBNHKbRIsZR0u_IGj4g	Creative Architecture	0	0
+UCI4D8BuZQdhUKrAkII1CcyQ	Creators Desk	0	0
+UClflBrx-176kzBU-5v-CVfA	Digital Baklol	0	0
+UCQdhKhMRyI-5i--6KJJhOeA	Dluxe Interior	0	0
+UCFpUcRaZ7nmCmjN0NfYI8tQ	Earth Vision 12K	0	0
+UCd18zlzENWR7qOtAXnMADVQ	Encore Social Media	0	0
+UCFEkwFTrP1WrQym33cul9qQ	Eric - 8K Nature Film	0	0
+UCpNA1__eYIs0K3vHNoWLouQ	Eternit UK	0	0
+UCvdqteIb2gDX25TpqjOishA	FabTalk by Fab3D	0	0
+UC0rR21ER6AUh9I9ozGBYS6A	FireRock Building Materials	0	0
+UCNngTzwV9nM_ng_Lkpa9dcA	Gaffar Tech	0	0
+UCwwFQS_JjqGCE_U8iqzax8g	HABRIQ Construction AND Architects	0	0
+UC6JHT4HRAznHuVUy1VHbC1Q	HD EYE AV	0	0
+UCcCYOO2uYPnG-21WDOWdwew	HDTVTest	0	0
+UCa0uvkCrF7N730M0NyS0BAQ	Home Banao	0	0
+UC1xmZRCytMc1sPVnzlnShIg	Infra Design Hub	0	0
+UCLsRpB5Vfpm4cr1f-cbPUzA	Interior Coach- Construction & Interiors	0	0
+UCXW2ePIufWxpuYWTP74adVA	Luxury Living	0	0
+UCJ5oydrt4SvDZL9X-PB4lAQ	MIKE N DAD	0	0
+UCFfYZktQzl62gpIb4oCSHMw	Max Hasman | Vancouver Luxury Real Estate	0	0
+UCyMYiktAmCBE-_UIfMh8B-g	Mohh Interiors	0	0
+UCCfcBJylrCIuyd03dme0XEg	My Engineering Support	0	0
+UCRXN9t6udbb8g5oIYV_WxCA	Neo Rustic Architects	0	0
+UCQUF7BK9w7iNXgAJtbpE5Ww	Pushpa Interiors	0	0
+UCEoNF9_cEQxloONT7EZgOBg	QUID TO THE WORLD	0	0
+UCPD4KAz3Y8YD-bNkO0yKAbw	SK Home Style	0	0
+UCFtNmxu30quYY_RpyaC35Jw	Saddam Kassim	0	0
+UCTJ8Xw-V0miOx2ulwCOTQmw	TG ArchViz	0	0
+UCPRmFsWPlkvtrbC008Wg5Cw	Sahi Trade	0	0
+UCpuRk3tXvePIbx182qfJUFA	Tanzil Rahman	0	0
+UC_DfOBxaS3A11w4uiPQrsAQ	The Digital School by Prakash	0	0
+UCid1tLzKxrTAHwDoJvKh4-Q	Travel With Nom Nom	0	0
+UCsBY4HfpGLWCvQnBDMjEXGA	ThisIsStudio33	0	0
+UCzYINhxV-VCP5sXYtMXvNng	Wanderer Arrow	0	0
+UCiv_L8A8Sg8pklJMrhj6-6A	interior home expert-Construction & Interiors	0	0
+UCl5-WAzGfuVc8SqLjSxkYUg	Wea Design Pvt Ltd	0	0
+UCXyonl6j-aTFwbL8eT-BMxg	civil engineer Anupam pandey	0	0
+UCjkFs9zhw5FMVaqCUbdZYqg	4K California	0	0
+UCfE4Y-61_QO-JYg0WnT0n6Q	AA School of Architecture	0	0
+UCGBuB_AEdJhCeCR3sHzusGA	AG Design Agency	0	0
+UC1qHtZPDapqGlpFZUdWH_lw	ARHITEKTA	0	0
+UCc1GccxtPqTfPiEEb56Uggw	AUSENCIA CULTURAL	0	0
+UC_dBC-RDA9Z5WLc3ANRh66g	Aaron Battley	0	0
+UCwEhFtj3sVzHhBDAV7gZBaA	AceOfSpaceGaming “Thumbs”	0	0
+UC4tjY2tTltEKePusozUxtSA	Abel Mutua	0	0
+UCRN58bTxyDyo5sDe58omukQ	AlexTube 4K	0	0
+UC_ZqMtpInFLdQ5juQbvNihA	All Out Action	0	0
+UCyQ-DUV6lZgoL8wiPusYiUg	Amelia Dimoldenberg	0	0
+UCIS4wNyWohuTKwPwsvjkjlA	Amani Rakeia	0	0
+UCmtb8WyrXglztXw1wDZ4muQ	Andersons Arrive	0	0
+UCAAELXM-o3uCCTJyX0IRovQ	Angel	0	0
+UC_vTycRfKnd5GF0WQ4VypLw	Anglotec Academy	0	0
+UCm3aKesv1-PKjA0FyqdMYcg	Any	0	0
+UC3r_kdJocuqtDYb2GgM42Ng	ArchDaily	0	0
+UCUGT258ertX2Ib_pZlODG7A	Archaeological Paths	0	0
+UCOEFYd_3j4FFhpTlBJh6r-A	Architecture UIC	0	0
+UCrLHBCOz211YirQRg2QVJvA	ArchiTech Network	0	0
+UCPybiWK_JFm3OR2twzDjncw	Archland_Pro	0	0
+UCGYcbz0Qwe3CHOfj2n7cd9A	Axel Brandt	0	0
+UCQWjhaeG9J-DDMJXuvlhV7A	BD Travel Blog	0	0
+UC_oXeYUqSuccZ9-35YYzd6A	BE O.K.U	0	0
+UCbudMJZOEsN6tlLtGBPjwlg	BORDERLESS	0	0
+UCd2Q_1PaHXssJS9ucG0Hw5w	Bajan Englishman	0	0
+UCaq5kxmgrsVS-6PDT0DsVYQ	Bellwether Fields	0	0
+UCrROqvW0oqGLpJV2zlyRifw	Beauty by Ranjana	0	0
+UCSu7x-J8ESHojsq8mCvFOZw	Binge Central	0	0
+UCAAzBSiM8LTsiO4Ci3H6eMA	Bon Flaneur	0	0
+UCwKvgFP7gsNdlBQWOXq_fIg	Brendan Miller	0	0
+UCHudN_9O_OD5KQIueahpYvg	Bright Sun Travels	0	0
+UCUtZaxDF3hD5VK4xRYFBePQ	Britain's Got Talent	0	0
+UCD2DbJnKu7pTLRNd0bsUopA	Bros Of Decay	0	0
+UCSDwzYqZ6iFhaocnKMiw5hQ	Buckland Architects	0	0
+UCxWEpj1Hs_ZEu4vMfQdAxjQ	Building Centre	0	0
+UCjjZvi940GdvBVc5jW6cxPA	CAPT JAKE	0	0
+UCNE1mo4JCDZn0opB7VvGeZg	CEO 360	0	0
+UCRsUoZYC1ULUspipMRnMhwg	CHV Noticias	0	0
+UCbAKM2wl8hM6YnL1uWAEKYg	Calatrava Official	0	0
+UC-7qnabcv0At9xgS2N5ghHw	Cali Life	0	0
+UCTPwDmGQa8iC03V3bYHTw5Q	Carrão de Dois	0	0
+UCTJ7IDh5U24l9OTnECvtelw	Castles & Tiaras	0	0
+UCMJAieRyNoimyUyxq9PqOeg	Catherine Santa Monica	0	0
+UCnczwH3BnO7hVYCo9tOUg7A	Chamberlain Coffee	0	0
+UCAHvzv0ij9Kys9a0tK1eyeQ	Chateau Love	0	0
+UCRHU5z9y6ILmaLjvN1vlu-A	China Xinhua Español	0	0
+UC6C4B86v5ysNK7KSeYLGpFA	Chip Taylor Communications	0	0
+UCel80VZzpZnDJz86L1qHwyQ	Chris Lee Fine Properties	0	0
+UCyY30CnRPBM3zIdwzvGl_2A	Christos Kavathas	0	0
+UCYUQQgogVeQY8cMQamhHJcg	CinemaSins	0	0
+UCikxHnp_BNk9CJ6XC9hcC2w	CoolView Relaxing	0	0
+UCgns4enTpGgvrCT27xev6qQ	Curiosity Juice	0	0
+UCr9Es2w2tu3wnAt2hAmWh-A	Daniel Morales	0	0
+UCMst5tC0QFbH1nw73KfkN4w	Dave Keys	0	0
+UCA5S2GCCkv0dlsy5iJDzFIA	Dequitem	0	0
+UC5M6cGyugVVQlHXXZGZBgKQ	DesignCity Lab	0	0
+UC7oRXctDXIUMJzO6b5c0a0g	Development Victoria	0	0
+UClAgpfSVJD4AZsbZ-ok8bkA	Dianne Allen	0	0
+UCv5IvaN6fyiHrl2fyUOIDyg	Dim Mih	0	0
+UCPdOARsOBxoS7QQSTPfzTTw	Dream Tour Videos	0	0
+UCbAqhu_1Wj4hZEIViHi54oQ	DreamTour	0	0
+UC2pJcKRSpFO4Kcl78AZRlPg	Drone Video	0	0
+UCGkVg_cBPGTg9jrYaTgktkQ	EMERALD DEVELOPMENTS S.A.	0	0
+UCrlnY55LPIBRKyhkHWFNt-Q	Egyptoria Tours	0	0
+UC8C9HDtv5gZCs_IKSFRKrvA	Endless Walk	0	0
+UCyL9fpmGzZ0TAfAGBV8G8gg	Epic Cinema Vault--Full Movies	0	0
+UCWGxQ4mMBQbm1QUpENNZnjg	Escape To The Country	0	0
+UCN_1wmxeXl5PA6fgb_cB5FQ	Evangelist Nick Garrett	0	0
+UCAyddtOj10srUgBhHG71BzA	Exploration To Go	0	0
+UC9xHSE90mPrIB0DoHzcZxSA	Explore with Yashrika	0	0
+UCr7CxnjnZbAJ-5PPDftTJAg	Eye Magnet MGT	0	0
+UCSCDkxmX7WXcPYXs3MXjQmw	Finnish Horizon	0	0
+UCgbZy5u_UD5fM7pMGTxVvTQ	Future Projects	0	0
+UCN5PGHIurifMLpvEgP-8q_w	GBH Forum Network	0	0
+UCheCB_ewJf_L2kTk0649ZDQ	Gareth Leonard	0	0
+UC0g6ZRqY4ifa3fr4gaxsQaQ	Gaurab - A traveller's memoirs	0	0
+UCg4McFi0rIYKtdjYV7uVuWQ	HQROOM	0	0
+UCu307NXocW0GN1MKhxez2mg	Hector Torres	0	0
+UC1jCpQceGfZT6qf9i5H_XeA	Highlights Along the Way	0	0
+UCSz5ZGnYVu2u79dW71sTSUg	Hike & Drive Diaries	0	0
+UC9lw3K_VZLj1mHogN32kaCA	Hilo Pictures	0	0
+UCZwU2G-KVl-P-O-B35chZOQ	History Hit	0	0
+UCtA6gs2MhfqF-TJH5HFMNvA	História e Civilização	0	0
+UCTGQL6mwuBICDXdRHJrVQ6g	Il Faraone Tours	0	0
+UCKJjXgIiOCdLsIaU2KrMZqQ	Interesting videos	0	0
+UC6b18QLaJE6l2N96hZAfHnQ	Ioulietta Zindrou	0	0
+UCpQC3Z5_X_oBHeOT2Z9zlEA	Iva Y Denmark	0	0
+UCQ7xxNQDS57PXlAmJR0OLrA	Jasko	0	0
+UCG1Jo1IkQZ7uAQGY2rY3eLw	Joe Taricani	0	0
+UCJKE87wqkVvbP2hUJcAKJNw	Jordan Fringe	0	0
+UCy_b-3y4ua9H5GPwIosu0OA	Joyous Travel	0	0
+UCpgUM6AudvZ-WSlHKOKUWVQ	Kendra Gaylord	0	0
+UC47kJWRBD-NREBvmBg5kWeA	King Von	0	0
+UCFW9gIoEi_8cJSdUS1WoE0w	Kingdom of Warrior	0	0
+UCMmaBzfCCwZ2KqaBJjkj0fw	Kings and Generals	0	0
+UCy0BfAebCOmztxDkm9XzJ-g	LA Walking Tours	0	0
+UC78Jv3l5m_rLnBhMB8763yQ	LEGO Stop Motion World	0	0
+UCEQ_IiWGNvyvwSF3Sd-aQFA	La Tercera	0	0
+UCjWAk-N6q2BzKImJ_0McHQg	Leisure Pilot	0	0
+UCxIeuRK32SkKqFffs69hGZg	Liesel81	0	0
+UCY2mhw-XNZSxrUynsI5K8Zw	Louisiana Channel	0	0
+UCkwRXc1mUMbr2vHZ5GXu5-A	Living in Orange County CA	0	0
+UC-L8KJMtQprQCEu34s4qqKA	Lucas Real Estate | Luxury • Law • Tax • Trust	0	0
+UC9gpSQhBZbNcWB92458Kkzw	Luxury Redefined with Dr N	0	0
+UCC6qMhKFRXSyPr7FZGHCejw	MIBS Group	0	0
+UCtylTUUVIGY_i5afsQYeBZA	Lyrical Lemonade	0	0
+UC5OuAYfh_X0w15biwjrrXkg	Malayali Explorer	0	0
+UCDZpqUyw2qQ5JCVm2e5968Q	Marcorama	0	0
+UCdZGNOYhDdHJ8HtsLdMR88w	Manuel Bravo	0	0
+UCYnLQtTdSUxWqQg0Q-rnKcw	Mary Berry	0	0
+UCR0c7Zr11TXeV-pVRBuUiIw	MileMarker4K	0	0
+UCMjlDOf0UO9wSijFqPE9wBw	Modern History TV	0	0
+UCnPZ7YedLSjFn8gCACy9feA	MoneyVibez	0	0
+UCwHLD3os0i-tLUqQ4_-NaQg	Moss & Company Communities	0	0
+UC0UYzpddRCTqcFF1R2x8fRA	MsMi Scenes	0	0
+UC_zQ777U6YTyatP3P1wi3xw	NEVER TOO SMALL	0	0
+UC9pmiLqODQ0phoEfxImCipA	Mỹ-Thiên Mai	0	0
+UCuOy_u80Wh6Eak2beKwSU8g	NP in Color	0	0
+UCH4GLS6zNlw4-otcO45fdiw	Neon Horizons	0	0
+UC5BLG9DsamppspEjj70JdLA	New Media UFM English	0	0
+UCoVArbXKJuVkFLZ98424gSg	Noah Daniel	0	0
+UCwX8RD5ivBjTm1QHIv7fm_Q	Nookrium	0	0
+UCY6_zTACAOH9SdnPrkhfXyQ	Nordic by Nature	0	0
+UCn4sPeUomNGIr26bElVdDYg	NowThis Impact	0	0
+UC9qbQ4UCoJSN-fdD4B0PNFg	Pacific Motion	0	0
+UCMGHxDj3SN-BVqG0KXiR6fA	Orange County Living with Gabe Cole	0	0
+UCQMr7OFh4vRa71EcDuwJNCA	Pandora US	0	0
+UCkGDJyJO27OvHfxCCSbL_Mg	Parametric Architecture	0	0
+UCHtOMWLu66c72a0dR-yCUCw	Patrik Schumacher	0	0
+UCFbO4hidtlYDkNq9p2frAsg	Penny & Don Pattillo Team Laguna Beach Realtors	0	0
+UC0r-i3ACsOvItSrdPUJSXWg	Pick Me Manhwa	0	0
+UC9AYi_dOtlu1aCqWx--tlHw	Piere Pirnejad	0	0
+UCfgUsXw2QTZ3re_BBP2dwjQ	Pretty Panda	0	0
+UCRM062tQZoyNipF30LKbqPg	Pro Plan Tours	0	0
+UC8Iic7XVEa2rYIrXFW9M8hw	Pure Nature World	0	0
+UCHADRWHiapCTu06_jr3FEZg	REVisuals LA	0	0
+UCkzFuZrK1B0Hv8mtXOlWmLw	Radio13c	0	0
+UCV8bbYovr6D3aggW-ytqx3Q	Rebel Faction Mod ROME TOTAL WAR	0	0
+UCg98YSeATrtommWkewRe2Eg	Richard Sheppard	0	0
+UCSPrt3N9hFKQ5_68Szz_jOw	Rosehomedesign	0	0
+UC-v-NVvOxMYb0Uf1E_yA9wg	Ruth Aisling	0	0
+UCsVk8bfOxPYR133xpUrg5sA	Royal Queen	0	0
+UC0W5TPO8nSXHlgr1VV94THQ	SNAP - Select Network Architectural Photography	0	0
+UChX6ggh_-mlfQ-lhroTJPBA	SOY MARIO	0	0
+UC89gJo5RgihkEKdlMFpgQtQ	SaltyBudha	0	0
+UCqrlnKSQlVU42TEn_-PAtWw	Santa Monica Closeup	0	0
+UCdQ9z6qW6mbT37hkOl9J_lA	Santa Monica, California	0	0
+UCcaFyLX49J3PWsCoWePk2iw	Sara B. Holt	0	0
+UCkmMACUKpQeIxN9D9ARli1Q	Shadiversity	0	0
+UCpeJjsO0xNuNeG7ASYAb4DQ	Sky Travel	0	0
+UCk8rK7tnHbaeEwnFpV204Gg	Sleep Soundly Rain	0	0
+UCjUQy6dEqR53NwoGgjxixLg	SnuggleBunny	0	0
+UCxkrk1mvcIZkE01cSvNh0UA	Stonehenge Dronescapes	0	0
+UC9a0sXTccGgXhde2kjNKPow	StreetBite	0	0
+UCMY0_hTvUo2gPaITWWDAvuA	Surterre Properties	0	0
+UCwxgFxGSckDmkVudIlY9gnA	THE CITY HOPPERS	0	0
+UCANqur-RuED9LgLU-GKdSeQ	Tasos	0	0
+UCu6twJ95P8UI2Hjzyd3qhYQ	THE ELLINIKON	0	0
+UCwWhs_6x42TyRM4Wstoq8HA	The Daily Show	0	0
+UCQcmb3lvx7hZCoOXvcCvgBg	Tele13 Radio	0	0
+UCFf03aa5ixxZKnpeWVBxzBQ	The David Neyts Show	0	0
+UCMES5ZofDheNtsBAQMraEeg	The Scenic View Traveler	0	0
+UC1Ydgfp2x8oLYG66KZHXs1g	TheThings Celebrity	0	0
+UCIejG_j_cqMSvzdbt6JZrpA	The Unseen	0	0
+UCatEzcVFeQ9GSyWKKQ0orfA	Third Eye Traveller	0	0
+UCJpEjASrHi89k8_DKhNY6ng	Tim Smith Real Estate Group	0	0
+UC7EVgWKLQ-9kn0_PQWU3GDg	ToORiMa	0	0
+UCcOZqqEndJKw5pfz7riPAtA	Times Real Estate California	0	0
+UC4be4gD_qCq7wg3na8lit9A	Today News US	0	0
+UC06Vy5KSUGfD6JTboubtRzg	Tommy World Walker	0	0
+UC3E2yyq7iXGLZcBPqEYOUmA	Top News 24h	0	0
+UCYgEbyCCZbTt805Gyo9rVng	Travel Ro	0	0
+UCHixfJpF5SgkNe1kuIUJAkA	Travel Suggestions	0	0
+UC6p3_AEcAQiRku0Ln39s2TQ	Travel Tips	0	0
+UCGwWcRB2fqMnaiR4kMTwCLA	Traveling with Luigi	0	0
+UCHMVJvXh_HqAwJo9Fo7BSYQ	Ultimate Bucket List	0	0
+UCQ0e15pyvpYIFQoya-5ghdg	Unseen Corners	0	0
+UCKHYa_nu5-pzqHXabpGF-zw	Virtual Vacation	0	0
+UCZV7oLSPYBgygi6FZ84rA2w	Virtual Walking Tours	0	0
+UCeM1rUJwXY8gFWplQzyJrpg	Vision Walking	0	0
+UCXnx_WrCdGDcsD5LgDdXVcQ	Visit Newport Beach	0	0
+UCRXiA3h1no_PFkb1JCP0yMA	Vogue	0	0
+UCekFJve_Kq2JMGJwSDJ5YAg	Voyage with Moune	0	0
+UCFf7iV6gCzk7dJXJKWwwaiA	WALKING TOURS CALIFORNIA	0	0
+UCaLl6Fl7Ewi2Vpkgl5u9_hQ	Voyatours	0	0
+UCHg7pDyc1igdrn45-CVTpnQ	Walk with AK	0	0
+UCnHkZAvQnqPLL1tHGeB78ow	Walking Around With Herb	0	0
+UCjuN9x47z4U92of799oqzMw	Walking Bunny	0	0
+UCn2YnnD2g33upkbSMkQK-Bw	Walking Tours	0	0
+UCWeh4Zw3TnXnN1jEjDKFv_g	Wanderlust Journeys	0	0
+UCmbjDTe_QzhnHtLTpOmhzLA	Wanderlust | Ad Astra Jean Dar	0	0
+UCeYgyGOcV39mjeAZGp7Nl3Q	West Elm	0	0
+UCk0gbMCABlY1KYxWRnSqcMA	Will and Alex Travel	0	0
+UCeqSAzZVmY0G0ZwGzEIFI3Q	Where's My Map	0	0
+UCVHZnWY_N9NEcqoM9UdUyJw	Wonder Walk	0	0
+UCA1AkonrljnCnZAzWDjKZ_Q	World Regional Geography	0	0
+UCkRd0MM77_ln_Tt8pQsRkOg	Worldspire	0	0
+UCrn6ODuU4bEUqPirTsjlBAA	World-Walking Ch	0	0
+UCryD-Ijh3z9Wd5HtirYkZQw	Xploreheritage	0	0
+UCpFAum9P9gKXwZ9uiqjyIMA	ZERO ONE	0	0
+UCW8janUfJjdN-XGUrppBUZA	ecommercialtours	0	0
+UC78cxCAcp7JfQPgKxYdyGrg	emma chamberlain	0	0
+UCdh_vT0lPjt_QEyh5D8qYiQ	eye loveL.A	0	0
+UCzd0LHznw2ZAbVkOOIWHKZw	trapteroffsham77	0	0
+UCk64U_r-2YwaJ9hinI6fUBg	jsargbah	0	0
+UCn_W6mZN-8dtiFEU9mxSifg	flypath with drone	0	0
+UCHXIVhMMqCvUyTmaN5S4AHw	travel experience	0	0
+UC-g4MjA_ZgEneY5fdpbMR3Q	𝗗𝗿𝗼𝗻𝗲𝘁𝘂𝗯𝗲_𝗚𝗥	0	0

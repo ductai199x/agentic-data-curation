@@ -1,0 +1,478 @@
+# C18_weather_atmosphere — 137 approved channels
+# Pre-screened: 34 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCMYlXK0jyerVnc3dmz-vjCA	10 Tampa Bay News	20	165
+UCYenDLnIHsoqQ6smwKXQ7Hg	#Mind Warehouse	20	1775
+UCXbXfisDHV_gDjawCKTyTIw	Ambient Renders	20	26105	4K
+UCzIJVoH2RGS9Pjzab9rywZg	Aerial Earth 🌎	20	12172	4K
+UCi7Zk9baY1tvdlgxIML8MXg	CTV News	20	644
+UCvIqVAaqpx1Q_e9DzIxgk1A	CFproductions	20	1216
+UCR_XR6iqhNCtpJhKT1gMrVQ	Babu's Relax TV	20	5810	4K
+UCAtpmRSweddbywYCMp0aOaQ	Blue Sky Channel	20	10253	4K
+UCN5lPxhU0fBHiLyd8jCjIJA	Boy​ Jamesboy​  EV​	20	506	4K
+UCLfN3U2O0sEYabjo2lxIttw	Celton Henderson	20	809
+UCpCV7SUJuOr9OMSaUIc4lag	Channel Art Background	20	2887	4K
+UCKQPEnBI3x65YPaI2rQbcLw	Calmbience	20	32415	4K
+UCbUj15SuNMMEIW5Z23JjhWw	Cinematic Sky Clouds 4K	20	124	4K
+UCC_hItej1hRuOehHNML_vOw	Chris Ewen Crosby Photography	20	492
+UCb0U1g5r4kH_NDMGiGRhysA	Connor Croff	20	1246
+UC0zYnUkhLrSqARPjfLFUn1w	Choolutter	20	28800
+UCrJbOydJzJ2jpLHFdAo0uwg	Cowboys in Rain	20	39939
+UCAAceS0bm1krBXtPLdsNUAQ	Cozy Timez	20	13320	4K
+UCrr6J2SOYZLJ2LF8RNnMnzg	DOVADO	20	36610
+UC1dcRoXHbZ0QFOBB6DKPmdg	Dan Robinson	20	276
+UC1r9yJErJiT3hOp5gW_JKUw	Danny Louis	20	43202
+UCeYuWoZdYq2CfFg6hbX3ONA	Dive into Tranquility: Relaxing Ocean Waves	20	23591	4K
+UC8FmeAPIsAom5x4dcVk4htg	Doctor Sleep	20	107317
+UCOG9_3PA7L4U2q121q7NUFA	Doctor Prowl	20	1998
+UCnn00LcOevDIq77W8IYskcA	Driving Tour 4K	20	5257	4K
+UC2sz4UUggmeUutsvzJWx7ww	Dustin Farrell	20	201	4K
+UCmla4OjsAqsyAbjS5XYqfPg	Easy Sounds & Relaxation Channel	20	30264
+UCA4bihGzNvofxVffJVhn6pA	Emeric	20	869	4K
+UCQn7aX0JAIfH0KVL7nqUzjw	Evosia Studios	20	556	4K
+UC0N8PbdkQcwjzvYMfpEPQHg	Farid Nurwahid	20	254
+UCr9g0auchzw33XJygByLeRw	Extreme Chase Tours	20	502
+UCGhkIS0aVQF4yOH9SF63ZVQ	Filippo Rivetti	20	962	4K
+UCe736xPCf6KlYjO-jrFF8dQ	Friction Collective	20	942	4K
+UCRnYUMtVuqVFbyqWYlF1Lhw	Grathumi	20	280	4K
+UCGpPbdVAtTUgW_w98lXC9nw	HIGH RISK Chris	20	1044
+UC42u_SybiDgchmrLe5W189g	GustavoMedina	20	262	4K
+UC99TKlHsWfV4s3qgzVNzc8g	Harles Garage	20	551
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea	20	42472	4K
+UC4sDLIDj5NCw2NcRlatGnxQ	Hopscotch Interactive	20	470
+UCDCh_co9bI5yMjTsLeHYAVA	Helsinki Walks 🇫🇮	20	2049	4K
+UC8och8EKY5QBTrur8RIRAAw	Hwaiting Shiba	20	484	4K
+UC67XV8UEDv8upye3CxhxhQg	InfoGeek	20	231	4K
+UCaImaqpnh-cXppgT0hTmnfA	Jack Bem	20	36002
+UC3F8X7uNoIBGMeFNKBdo6RA	Jesse Clark - Small Business Resources	20	257
+UCXwRxm0zS0jBNTMOVI6xZJw	KHOU 11	20	242
+UC5kWCUX3rUNAmIHAw4g475g	Jonathan Huynh	20	945	4K
+UCscxjikLimBHIW4b-pUnoPA	Kevin Fedde	20	374	4K
+UC1K1IzBPyNOcEzL9JEB6VFg	Kharak Photo	20	172	4K
+UC1wmY76V4BMHzQD9mR-o26A	LEYTES INTROVERT SPACE	20	3569
+UCE5jf-aHkKPjmfJMSU9iaxQ	LONG STORM JONES	20	36610
+UCKCsVSA5THlkHbnkZTPm6-g	Learn Bright	20	298
+UC7XfOukIyx4zCSjsV-6Pu_Q	Lostranquility	20	2807	4K
+UCFhiqk0Hh-xJvGQLyTc-giw	LuxDalet	20	4001	4K
+UCpDWTY8lvtQJ4KlLc2B-Z1A	Majestic Flights	20	165	4K
+UCnZTaK9RWk8rhstiYIhQjaA	Mariana Ianovska	20	1169	4K
+UCuYyqln40kpGDGWQHkEJS_Q	Max Olson Chasing	20	2625
+UCFr12GgBUVYraet3FXSIlmA	Motionless Nature	20	10151	4K
+UCopMlh9gz8P27dpHg-4GXeA	Mike Olbinski Photography	20	601
+UCMSSWlp1I2UhKl3dwfdyV7g	MyTranquilitee	20	17900	4K
+UCpVm7bg6pXKo1Pr6k5kxG9A	National Geographic	20	3274
+UCtHMWzSaSBnNjoCCNddvp2g	Nature Relaxation 4K	20	41513
+UC4lp9Emg1ci8eo2eDkB-Tag	Nature Relaxation Films	20	15086	4K
+UClVfgITZYaZw32NWQmMUFCA	Nature Sounds TV	20	27417
+UCjoFckSzE1jUM_kmtVHNlKg	Nature Soundscapes	20	28912	4K
+UCBKFF-7j2D-1TR0oFPK0Gyw	Naturescapes: Relax with Nature	20	10800	4K
+UCvjdJXI9un8E2oC-HixorwQ	Nature Therapy	20	36000
+UC-gjtyoUTzGEwWM5Y1J4J7Q	New Bliss	20	19856
+UCVP2sEDtXU2gPQsiCF13Rvg	News Radar Extreme	20	1090
+UCAOjTkwgj7v3Lk5j8Lk5tSQ	Nick	20	470	4K
+UC9iKeMA38rOzVU2A3Ji7jVQ	Paul M Smith Photography	20	260	4K
+UC-0JKmwmfF0aE-rTtSU3XVg	Night Sky Time Lapse	20	34751	4K
+UCAQpSHsgUcNt6uCOjpgD8kw	Pecos Hank	20	496
+UCw385wfnuiRoB_panBZ1cRQ	REST EASY FILMS	20	7200	4K
+UCPhADRTIwDxB0vVSU33CijA	Pure Relaxing Vibes	20	32414
+UCJdjS80X44hIr8CRTz84B_g	Premium Footage Planet	20	419	4K
+UCqm_1QkdNvO1r3BAUkddj5A	Raining Sound	20	28801
+UCQCbhVcbVnctKfPMeE5V7og	Rainy Room	20	43259
+UC7xR1oKtkbZ18E4zG5PvveA	Rainy Bedroom	20	43200
+UCKT_F6XMWt8e3H3IXVXTJjA	Rainy Guy	20	37273
+UCV6hWxB0-u_IX7e-h4fEBAw	Reed Timmer	20	986
+UCk9eAdsYNUSX7VIR_Cq_Ytg	Relax Chill Sleep	20	9586	4K
+UCmEb7rZRwejgRZ98HwAimLA	Relax Night and Day - Beautiful Nature & Sounds	20	36001	4K
+UCZNk2huvU7zJhi0gQJ1xZMQ	Relax Sleep ASMR	20	34217	4K
+UCqjD5UzXn11INaiKUSaUGcg	Relax Top Music	20	3472	4K
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film	20	14094	4K
+UC-he8--TRguZ-nNUSiH77Uw	Relaxation Windows 4K Nature	20	36337	4K
+UChyRMEp8zRio9nFnAjvzSnA	Relaxing Ambience ASMR	20	32507
+UCgPTdd30E_8A697iMoR7EYw	Relaxing Guru	20	33075
+UCdHJWnU3walYJn4UZhElwkg	Relaxing Screensavers	20	8460	4K
+UCKBpKeRhhCQOQwbPz4aYZWg	Relaxing Sounds Of Nature	20	10220
+UCrILBI7SUyvBCeoJxFpJNhA	Relaxing Soundzzz	20	22351	4K
+UCbunYN0o9Yaid7zHaor_UHA	Relaxing White Noise	20	36005
+UCSkLEC-P3Z8GJWZbZp1bQhA	Rohit Adukia	20	238
+UC0PSlXpaUcLrj0eWsIj38xA	Serena Winter	20	11652
+UC7hNFckN0qmoGP7zmw_LVGA	Ruslan Merzlyakov | astrorms	20	607	4K
+UC4CU00bEVdvKGl20L9VCcnw	Silent Field	20	12153
+UCkB7RBehEqHvsD60C1yfAAg	Skip Talbot Storm Chasing	20	840
+UCycNWQoqcSzsQsF3R8P-pFg	Stardust Vibes - Relaxing Sounds	20	36001
+UCaiDBhRFBf86xJq3DnQmS4w	Sound of Planet	20	302937
+UCZTme3vf6kXmXfSsIr06lvQ	Swegle Studios	20	1217
+UCxFQofXJq9WxWWqlsTiQ-Aw	Temponaut Timelapse	20	373
+UCs53rI6Y6VPQ_XFSm_iXE4A	The Indian Ambience	20	9978	4K
+UCQn-BUWyUqJ80S-aEuFvjYg	The Raining Room	20	11289
+UCGfgKimGJ4yueKEtFVPpHtw	The Relaxed Guy	20	167216
+UCl_6vX90htxZcj8fw95bgeg	The Tungsten Room - A Meditative Space	20	36000	4K
+UCGTUbwceCMibvpbd2NaIP7A	The Weather Channel	20	139
+UCCkmgsl8W18oR6c_W7UZ1lQ	TheSilentWatcher	20	24859	4K
+UCuokXmHnnrx-FphDJ9IqTUA	Time-Lapse Photography	20	206
+UCMw0NWLxfCHWwRXcunrbHEw	Tokyo Ninja Walk	20	4197	4K
+UC1uOrCBxDaIYoN637EIcYQw	TravelByTy	20	685	4K
+UCbWZYnRfcZ8bhnKrP2oFO2Q	Travelix	20	319	4K
+UCmEaSVXltCz6s6HVCZHfUsw	Tropmet | Storm Chasing	20	517	4K
+UCUDA_CGXq8k1ojZz5LijnHA	USD 385 - Andover Public Schools	20	134
+UCu6H0owNo5Cm_J2znpYBjGA	Underworld	20	1334
+UC5Vk86cRGGiQ_V9Hvk2NnAQ	Une Bolée D'Air	20	1477
+UCCRSaRxwIJ6BMFeoC_DQIHQ	Urban Rain Beats	20	86401
+UCMTv_Dg1BXFUglzWIIincpQ	VIRTUAL JAPAN	20	2535	4K
+UCYCWjrBtL8sU2ug7MMjD1ww	White Noise	20	17371
+UCU1bikXMEjUE3vTykDt_-wg	Wild Wanderlust	20	3206	4K
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours	20	6827	4K
+UCrAz19rpu5NHjZHd_lUFhtw	Worse Than Chiggers	20	536	4K
+UCQ9U250Y8D-ZJHIAMH9L9SQ	discovery plus	20	363
+UC2A5S9gryP7Ad67N4UNwlRg	healing by nature	20	27043
+UCVA12g4V_HX_MPQCiFj93PA	the white room	20	39445
+UC6tH4kzQOIPGkfFmazTXQew	𝒞𝑜𝓏𝓎 𝒲𝒶𝓇𝓂 𝒜𝓂𝒷𝒾𝑒𝓃𝒸𝑒	20	86401
+UCD_7wCQh8W0a2VSJ6ddtzzw	Scapes	17	29783	4K
+UCu-k-GbIKnh4TiTjwAmT5HQ	Boha Studios	16	181	4K
+UCF4bgHJFTgv09eogSu3uV4A	Francesco Dall'Olmo	16	357	4K
+UCTRPdC_jSFKsBVOUFQ52jGg	Out Of The Whirlwind	16	2649
+UCuer9Sw2UAD5LWZpVXbgKTA	TornadoTRX	16	1260
+UC0_lTLe117H7Bvor8BPykAQ	DhukiID	15	1078	4K
+UCMebdv6hmIddqPee9AtO6Nw	Nova_Max	13	167	4K
+UC6VV94CgpvnRhp4KHnxQkqQ	Nature's Melody	11	4403	4K
+UCWeQLEyIBETemrhwPG0qHSg	billy	9	3277
+UCG2nbXdNzfvaw-i3-Qdx_Gw	Best Relax Music for Sleeping	7	5729	4K
+UCPSdCeEj6F0AJLqS2NqVfRA	NON-COPYRIGHT BACKGROUND VIDEOS	6	998	4K
+UCAKRO2dUzRyYw2FNJTPt_NQ	Rain That Hugs	6	27246
+UCODc8Pa-_WUMaVRp9dvmNmw	13News Now	0	0
+UCPkdOzRWTXeIqCthZUUMvJg	4K VISION BACKGROUND	0	0
+UCw77677G3EAODp61b0izs7w	6abc Philadelphia	0	0
+UCms1elqsSL0O2M0BRCCBq_Q	A Mom Explores	0	0
+UC-0td1u5jNbGmcjznCV9ZxA	ASMR Weekly	0	0
+UCdhPL4qXZl156VPK4biTpBA	Anders Armstrong	0	0
+UC9wS-nZ2cq_dN0UtPlNI1dg	Background Lights	0	0
+UC43OIjo38h1rt45MYX6wA4w	Blue Fox Sensory	0	0
+UCFJ2RDc1krJlu38MQUZIsWQ	Boston 25 News	0	0
+UCdXTPA_sojn24GDwfTaqhGQ	Calming White Noise	0	0
+UCEwerf41h-LZCkKxS1N3nLw	Cave Sound	0	0
+UCA-hg-ZulJ81FCawJvR5Z0A	Colorful Play Button	0	0
+UCS-F1LhmPXc_kyXbUCYqK2A	Colors in focus	0	0
+UCBVkJWJGZfVfGHMQ1Uh60Pw	Dreamy Sleep Ambience	0	0
+UCqsDMOucTPxRHDgsvfrwxWw	Eyewitness News WEHT WTVW	0	0
+UC13mSI38YWz5zfvxXDPpePA	FOX 13 Tampa Bay	0	0
+UCl-XkdX1q963zn3cchegPlg	FROSTA	0	0
+UCxYJamd5Vfum3F6z30S80bA	ForceLabs	0	0
+UCF0MmMUUlawSE5kMON-J_1Q	GS RELAXING  NATURE	0	0
+UCSQfaS91S1bzjtMw2vcbQvw	Gentle Rain ASMR	0	0
+UCn70zMRoK9xueMgdlP9PuIA	Garfield Park Conservatory Alliance	0	0
+UCzrJMtcJv6GqwN6WPnQq1_w	GeoVara	0	0
+UC2OJvv_LGa54SoCsYJPtQrA	HypnoRimaVisuals	0	0
+UCWqWzRxpRrao44LZgxEfsOg	KosSnix	0	0
+UCHmjgXAshWbR7j78h50ktFg	Jashbir Singh 007	0	0
+UCAvM85RyHxoAU3lrJPWIASg	LUCASTA	0	0
+UCdLOMEcP3MsENdei0ZexiWg	Lew's Sensory Therapy	0	0
+UCvTTndwv0ZYKP_s37Xk27Mg	LightLoops (Bedtime Sounds)	0	0
+UCLcDe55nKpQflEOUChBT1TA	Living Forward - Life is a Journey	0	0
+UC8u9IYwEKUXUZOAobZoRXXw	MoodStuff	0	0
+UCLw3GDZW4VaQ1-l8mN3D7Vw	Loopable Video Backgrounds	0	0
+UCDVYQ4Zhbm3S2dlz7P1GBDg	NFL	0	0
+UCz8SWVKTThbMV4mHVdIc7gg	NS Music	0	0
+UCqM2_rpBA9fKd1vD2Oq56iw	NeonXMD	0	0
+UCU97toco-mWjc1bkAtxEB8Q	No Copyright Videos	0	0
+UClECsq2DX4Q1S1itTSV5MWQ	NoctisRain Studio	0	0
+UCp_BoNRjsYONbhA3y_RSKiA	Nograpix	0	0
+UCnHE4pj4Li24--Y2RYRw3mQ	Oleh Pustovoit	0	0
+UCb_10xfCkpK6FBf5H3Hc8pw	Pictures of stuff for 10 hours	0	0
+UCReqmesGUBYFYLqBkfPyTDw	Phil Hollandsworth	0	0
+UC_DFP7vn6dvYjSBLUITQRlQ	Premium Stock Footage	0	0
+UC5STFz4Am37dGiJLJVdGRIA	ROYALTY FREE 4K VIDEOS	0	0
+UC0IyrCqyKkoNQMuvh80ql_g	Rain Melody	0	0
+UCYjcSYtiSqaFgzJMql6TEuw	RainLoverszzz	0	0
+UCIJne4PmkVGikxqEtE-Mr2g	RainVibes - 비오는 느낌	0	0
+UCKb01beaadPFb90JRJjutxg	Rainy Night Sleep Sound	0	0
+UCwefk24-hJ4zNUeb_FIFeDw	Random Videos	0	0
+UCwsQTJiCt6ZcLcaditgIzxQ	Rainy Retreat	0	0
+UCDo0fj0KBIVNig9Zf3s_D4Q	Relax Ambience	0	0
+UC4Lxax4eXb699n7QIfg2Quw	Relaxation	0	0
+UClkxnnhOOUQlwMojdwHodvg	Relaxing sounds	0	0
+UCx7YP6NTdbPY_2H9k5zc2Kw	Rent Free Media Club Free VJ Loops and Stock Video	0	0
+UCJpvqspkOAIChr_lGImWPAA	SINISTER	0	0
+UCz1-9rgiZ4QRFtMp4mL0ntA	Seasonal Ambience	0	0
+UCY63iHl4jNNqh5dUO_4H3oQ	Selcuk Celebi Ambient & Music	0	0
+UCH2yy_7V7wgKeZyIXqtN21A	Shin Sawano's World	0	0
+UC67dKTEwpAhKv2oYDATwR8g	Silver Cymbal	0	0
+UCJ00lvZsTVvgOZJrlPXMBRQ	Sleep Soundly - HDR	0	0
+UCJkWqlhR1-tJpygPdylMl8A	SleepTube - Hypnotic Relaxation	0	0
+UC_Ss9OtxcVZb-Zqk0GUnSUg	Som Maravilhoso	0	0
+UCpdmJkta9G4yQ-ISq9uhD5Q	Sound of Winter	0	0
+UCOvPB0TKAFfAAY0fDl3sVrg	Stock Footage For Youtube	0	0
+UCK0UUsCjtMRNtS3BPh1Yc4w	Tampa Bay 28	0	0
+UCJ-LRsQq0OF0DR-U5LLS53g	The Flower of Life	0	0
+UCXrpeTQr5eRrq-GwcxNMKDw	The Relaxing Town	0	0
+UC6uOgMfaaJMMOJzUSTtskaw	The best screensavers	0	0
+UCqsP9hg1SzjatkOvchDDmuQ	Tranquil Scenes	0	0
+UCFoXrc2TI1KwEuDPplih-8Q	VISUALKC	0	0
+UCdg1kGGVuPh5GdCpWjb2OrQ	Visual Loops	0	0
+UCarpqAWmTDGkYyJj5syhAxA	WGRZ-TV	0	0
+UC0bCUnP5RrkJZUtd3bBz6Kw	WPTV News - FL Palm Beaches and Treasure Coast	0	0
+UCTDfJ5sk6bLV_4VOfWV1BuQ	Weather With Travis	0	0
+UCb__DzArv7Y5zVTXZUK1BNQ	White Noise Tranquility	0	0
+UCBW3llJjZZqwBf_TfAnnQvQ	YT Share —RoyaltyFree	0	0
+UCD4qbrgeyL-j8eMKv9LUdAg	ender4life	0	0
+UCzKoCXQ3yXwOrbpcTmhDvpQ	max relaxvideo	0	0
+UCqX2UpG7_00l0pkUVuXe2oA	ozan_1327	0	0
+UCnJk9mmcKpBN8hlxyjRDj9Q	myNoise • Focus • Relax • Sleep	0	0
+UCGpDnuX2z7z3LZLbC90VTWw	reifenhalter	0	0
+UCSQH3qItz0gZ5oXw8cSNR2w	 Ryan Scholl	0	0
+UC6Y7ZgjAEZUY8rLmqJu0rpQ	4K Free - No Copyright	0	0
+UCUsZ4v_cL0C78PwIsAg4KRw	4K Nature Backgrounds	0	0
+UCilPIl-SwFbtsoH8WLnvlfA	AA-VFX	0	0
+UC3hBvpqhhlnNhHPZyjRlwsQ	AB-fishing Channel	0	0
+UCjjZm4uZ2fYGVMnYa4h2Isw	AS1Report	0	0
+UCwFrz5e8usFs8vqqMULabJw	Abdul Mueez	0	0
+UC5pllr0CVOjLWJ2LR37cM8A	Acme	0	0
+UCpNTksWMyK_5Z3lVsgsDkfA	Advocateshilpaofficial	0	0
+UC-Zcq-V-BdSN3J6wvqvwpBQ	Ahhyeah	0	0
+UCupEe-eQIUT8zUTJjA0OSvA	Alaaddin Avcı	0	0
+UCjC-vhlDXh6cJSwePxc-V_A	Alferia	0	0
+UCakDTg9dhhAsr3WmHyJDa-g	American English With Brent	0	0
+UCFPpeQn42ZS0ryRSZM5hyNg	Andrew Adkins	0	0
+UCznG63NKZpxcUMg2QQTk9hQ	Art Duo	0	0
+UCCVPuRx7s41QGCP3MU9A17A	Andrey Shalari	0	0
+UCr95i_hxXGbB5ciikoDv7Bg	BaaBin Drone	0	0
+UCxAStmlhiKB9uukrsAd1Zdw	Backyard Sky Station	0	0
+UCqTqEV2LSWcb3X6zy-6AwyA	Bari Lau	0	0
+UCgnF0pYeKzblr0ZiKGE5pUQ	Baron Wright	0	0
+UCXqIUfStaOVpulTydZ5Pbpw	BasCreative	0	0
+UCxyUUKdU84RpWJPyii3S-Jw	Beneco Packaging SoOPAK	0	0
+UCnYV7wwQ9uLTpD7fphECoIg	Bernardo Silva	0	0
+UC7ZDu-g8-DdYGJA0OImvtmg	Brett Wood	0	0
+UCkBS_xU1WQ7FVsDoQ_OPeDg	CBS Chicago	0	0
+UCo7a6riBFJ3tkeHjvkXPn1g	CNBC International	0	0
+UCE9roO5sj0EyaFHfF7gcFRQ	Camera Zone	0	0
+UCs3o4RhBiP2wcwqkZR2QVLw	CP24	0	0
+UCGRotpJAtI-mXNyNFBYaSAw	Chasing Reality OSTV	0	0
+UC1SeFBfz0CKS_nxQPce9Ofw	Chiang Mai One wheel travel	0	0
+UCnUhhsTt13fhN0ByQoRnmBA	Chico & Tina	0	0
+UC_OvBgiskHJSR3DxlX3Q5hA	Cloud 9	0	0
+UCKr40aAHWmIFNidlEX-tIhA	Christopher Michael Dortch	0	0
+UCcw7PWbtbzUJ9nnDRcFZrRQ	Colorful 4K	0	0
+UCSf_-1arcYx9FoED4jUjrKw	Combat Ward Stories	0	0
+UCRYYy0UrfyGmMKQDU1N1R3g	Convective Chronicles	0	0
+UCw6f6HfzRVRREwz-6Z88b4w	Crain's Chicago Business	0	0
+UCqN-TlMcyPRfsQAeflj9lJg	Crisis Craft	0	0
+UCvv0Zy25K_9wj_YyP4nDX3g	Dark Horizon	0	0
+UCMjVLe5pVw09TFLdh2IeA1w	Danny Law	0	0
+UCgcZiaGyp4fh4TemtTwwEdw	Dave Herring	0	0
+UC-olX6nUVy_lTXGzbZhhcxg	David Jones	0	0
+UCMnSRsLIHAGXC4_EdARDjzg	David Skok	0	0
+UCdjKIpmP_RkMe8AWNdOkrdA	Dean Cooper Photography	0	0
+UCKgZZ82_9cyvNayRSv23QZw	Denys VJ Animation	0	0
+UC59TtR-uQoe7ZQH_kHIAJYA	Dexter	0	0
+UC9Ps0yKyT_QKT7NufK5xEwQ	DiscGolfer55	0	0
+UCvuqxKs6tXSE2IFZ-u5KY0g	DragonSpitVT	0	0
+UCemSyM15ucKHl_wz3vbGA-Q	Dragon Studio	0	0
+UC9co1KfKFdx94X1AlMCCe0g	Drive Keng D	0	0
+UCkslqgtHmxDBs5dmToL39Nw	EasyStore	0	0
+UCkWM_kosyDLxySmRLq56QcA	FADSAYONG CHANNEL	0	0
+UCu1I9aXA5G3cwnUd2byR-_A	FREE MOVIE CHANNEL	0	0
+UC5dXJ7-Ge0E8IOsRlHIyBzg	FS27 HD™	0	0
+UCQM4yDhupFjyEQlusnvj6Dw	Fabricio Mendes	0	0
+UCkNYo1uLNy67xCfeyc1h-ZQ	Foveonyc	0	0
+UCZSDkxJS7PRw9V0_Sm6U7jg	Freddy McKinney	0	0
+UCy8fgmCsEDIKMWx4Zi0CvNQ	Free Stock Footage Archive	0	0
+UCQO5mE0KFhqL49RuLM0wa5Q	FreeMotionGraphics	0	0
+UCfLOKtc4l5J9HPVhpXoXocA	FronyMan	0	0
+UCx_SjDi4CS5ALkWCS9ffldQ	GBH News	0	0
+UCY5C8oEjTg7mAzo_bUrfelg	Good Timers	0	0
+UCIi_yUad_-H-iaqK_sxp2-Q	GotxkiMotion	0	0
+UC9YfuxAXd5ydM-CHp2IC0TQ	Hajir A.	0	0
+UCOI9qQfwIeHNZbwPEB2nRkw	HCTV Lectures	0	0
+UCmNGd58-07GOBHUmayCDP9g	GuelTube	0	0
+UC7z1RwdzqFfxmFIgISx-jww	Hakan Bacon	0	0
+UC3BFmx3gR4DIAM3fvVy6ksQ	Half Time Noel	0	0
+UCfbfVbW39K0YJ3XsEOi6sWA	Hannah Mills	0	0
+UCTCtTNaOO9efK5RYuWfiMJg	Hate Photography TV	0	0
+UCuIrCdawmlASSlUI7I-6i7w	History for Busy People	0	0
+UCuhXvsDr1iAZ1iqlINaN96g	Holly Wood	0	0
+UCGgeTLk_yCfLXjpceQc-X5w	HomeEnduro เอ็นดูโร่บ้านบ้าน	0	0
+UCdStp-0d7GOk7D7iiVvtg5A	Idrees Abbas	0	0
+UC4a4nQhZrVCJHmgdblYiAvg	Huw Alban	0	0
+UC3dEB6eigpCyNmnS7Q55hqQ	Ignite Creative	0	0
+UCaGtc0pRKmH1pjQmNgZ-cww	IgniteHDcom	0	0
+UCEaJGwjm6LzVrswVSUeEVwg	Igor Krakovsky	0	0
+UCuPDVUKTzWHbKV3zeMHZ_2A	Invest In Canada	0	0
+UCZmPpmweoSmxFKQTn8lVHCw	Iván Ferrero	0	0
+UC6lUxl1KxmI7TWnAA6go1EQ	Jaden Pappenheim	0	0
+UCaKv7vhoK6fh2UWKGX2gBkw	JOY RIDE 1188	0	0
+UCeIWUlAuHTPrflpQLn0BJKw	Jason Yap	0	0
+UCsaSK7QwjHtXM54bGxQcVtA	Jay Huang	0	0
+UC8QZ-OIqfWKek1CpMvs2O3g	Jayjack Storm Trax	0	0
+UCSvk2k8JlXusFCEuCy414VQ	Jen Swinburne	0	0
+UC6X9zIllhK3OJLUtthI-v7A	Jeff Walsh Photographer	0	0
+UCUbQmeRzhTT9dXMkvAb_d_A	JesseLikesWeather	0	0
+UCzXE8hKR0Zci59WX4uflmfQ	Joshua Tree Workshops	0	0
+UC3CDVcnFC67sICvYvqe8nsQ	JuLius L	0	0
+UCGEZlX4V82wv7_Z2LsXtjPA	June First	0	0
+UCe3aicTXYmAfyzUb2fd29Cg	Julian Baird | Dartmoor Photography	0	0
+UCL0nXDpzRLNFaUuEj5Kz_yg	KRL Photo	0	0
+UCfVYK-RtbTOw8WUU_5ntewA	Kawaegu	0	0
+UCjGl_OHhdyoSbIbL-z7YBFQ	Karlis Ceske	0	0
+UCXJ0KdAcOX1VunRe9suaT1g	KentFaith	0	0
+UCcLvZcsfus3K313o5JLZ7Mw	Kimo	0	0
+UCS6ZV1tNffV_ZmT_SDqPv_A	Klick In The Wild	0	0
+UCvAJV1d9-STK0_fRT2ks10g	LEK LEK PM	0	0
+UCIBo50_zkVAB8QxPrA8TurA	Lav Luka	0	0
+UC9oL5fV-5XfWKyg9Cwmnuxg	Layza Racing	0	0
+UCXUIQnwK0r1kJTD3lG0mfMg	LifeWalking	0	0
+UCdSKQ-z1pB4GywtfSPbDhLg	Mahesh Thapa	0	0
+UC3irqJIDIBtjSKdY3Tq5F0w	MOTO ART	0	0
+UCujr_HrX3ThMb34DV5YXHIg	Mark Denney	0	0
+UC4T8zgx05jxOEkgmTB9lz0g	Marque	0	0
+UC9Y_sKyerjEGdywnoB0XrXg	Mark Peyton Vlogs	0	0
+UCm-Ni8wZnzFtR92pp5LfiPg	Marshie	0	0
+UC_w0_gAv9willQR8Cds4Dbw	Mayoo u.	0	0
+UCT1IIkU3Yafr6nfNxQlWuSQ	Meteorologist Andrew Pritchard	0	0
+UCJ3h-SV7oAmAFSOsoMuZkew	Michael Manzone	0	0
+UCZ2rCa0tY8EjWYEwAzc10sg	Motion Loop	0	0
+UCyXD1jAZBdZ4u0K-GLYC77Q	Movie Recaps	0	0
+UCoiiY2M23i3MwloaGiHykLg	MrSoundtabel	0	0
+UCPH4F49OpY-ATKrLIYA6Q5w	Mr Stocky	0	0
+UCqU7XRJfMmCYVzawb9Zgy9g	MyRadar Weather News	0	0
+UCWs71f-4vLO2T19Jp0OG--g	NBC Connecticut	0	0
+UCksmDK8XsJvzXwMcfZpjCGQ	NEDD	0	0
+UCFhquISwX5EVwXIKVb1TJZw	NISHTAGRAM	0	0
+UCvYB8jyRP0Mf7tgtOVCcbCg	Na Netr	0	0
+UC2xK7mmTBDmQnkUp9ZAv4UQ	New England Public Media	0	0
+UC6qZUghxMVf5sW2uBKhWnrA	NeonVisual	0	0
+UCZJRpE5Snd7mq0_-F8FQDeg	Newsday	0	0
+UCgyIgyIHzpaE_AmsTDXlEOQ	Nice Man	0	0
+UC8gC-VnQEQQ14Y9liGcGBdg	Nick Zei	0	0
+UCfE-I4VCwDJL4PW4vrTVilA	Night Chill Room	0	0
+UC3p7du-8t57-PPBO3vI93NQ	NimBus	0	0
+UCcLDGCrzLem-le3k3E8VjXw	Nomad Cine Fx	0	0
+UC34MVsreWXxyh3seQRsuKCg	Norwegian Xplorer	0	0
+UCs1vzrgki9VH4NUdCIqvxiA	NonCopyrightVideos	0	0
+UCFhVENGLomiRoA5jE7c46GA	Oliver Ku	0	0
+UCHuAyU0X7hWUvbC1gNCaJgw	Nova+Form	0	0
+UCNbIDJNNgaRrXOD7VllIMRQ	One America News Network	0	0
+UCsVcOzT2w-_8zaILcfMXFow	Out There Videos	0	0
+UCJ3O7TqVeZ8PXuc7JidgSMQ	Online videos from Israel, Middle East & Jewish World	0	0
+UC2AkgzgQ_JRNjtfXFKSeq0Q	Over Rooftops	0	0
+UCec8E-ANt7o4wMNZxMrYdKA	Overtone Ambient	0	0
+UCNQgxmlpORRkFiXf-C0SZzA	PaiNaiPaiDai	0	0
+UCKXxDLobqATw7Cjhy5SPglw	Patrice Gaucher	0	0
+UCmF9cAOo14f60kPNRR9k7nQ	Packy Akaligo	0	0
+UCzkWeEk9P0DQXlt6RTp9B2Q	Patricia Kathleen Productions	0	0
+UCink819f5y_fA8T70Dc_Y5A	Patrol Nation	0	0
+UC4BqGzBboGZtqboFO3adZIg	Peaceful Vibes	0	0
+UCtzhDXqhZWXlOxxD-5rWDgw	Pedro Kin	0	0
+UC5jmBxt545F5OPs8wg8rE1w	Perdikaris Kozi	0	0
+UCBY0bNW4MHsJuz-6nCceTLw	Photo Masters	0	0
+UCBVWMR8Adip9IbqbIPHjnvg	PhotographyExplained	0	0
+UCCAMSbdYapEgZg5HJl2xhpA	PlusTvAfrica Lifestyle	0	0
+UCeJ58YHmlgs5SBFWb8IzbsQ	Popular Mechanics	0	0
+UCpER6on5XzvqO12VHdJ1rbQ	RD	0	0
+UC_LUXWBbN0XubYWvniFDszQ	Rain Day	0	0
+UCqchxkcfC6n6xfUOurFfagw	RDR2 ASMR	0	0
+UCsWxGNLzzBntXyL_cYa32uw	Rain and Chill	0	0
+UCR9r2ALHNxc8JytMjzbGuFg	Rashami Desai	0	0
+UCZqYxOEbXZT1WP2KfcD0nOQ	Rick Galloway	0	0
+UCChGdCzPeYF4Wa2We5QBv6Q	RedRoomCinema	0	0
+UCxr_NZPzIYfvRAxhYMA0HXQ	Royalty Free Footages	0	0
+UCVGm6rStUjrIbaPZfQWykvQ	RunFroggyRun	0	0
+UCQUgbBbby4YRfuFLZJxgcRw	Sahl Quran Studio	0	0
+UCBtbkVA3cw_oIfsAEsoN8wQ	STREET MEET	0	0
+UCfxHwyncD4bgf8Os0qJyRNA	Science101	0	0
+UCOlioFfKnJPOxQPIy0ynPKg	Scottish Youth Climate Strike	0	0
+UCR-kgPfDwP7SRcV0BKpcwgA	Skopelos Private Tours Zahos Stamoulis	0	0
+UCfHgjNGXXR9OHN3i11k2P0A	Sky and Clouds / Daily	0	0
+UCyHkquxeAq6NfcftOYoTLwQ	SnowshoeMountain	0	0
+UCVZdP8SPay9aIT8meSlxRvA	Sold out Media	0	0
+UCZcg9N2GcE4Ef6WurOF1ozA	Solution Everyday	0	0
+UCljYcuTFOpBmSsLBOVbznKQ	Still Point	0	0
+UC-dZfltY9T5T2AtbZl0OeJA	Space Stuff	0	0
+UCjb4P7zpp4wX4rOlHixLQ_w	Storm Chaser Aaron Rigsby	0	0
+UCj6aoh3tZuQoqfHs4ZWpHcA	Storm Chaser Brad Arnold	0	0
+UCPqLI_AohMn1jnFg8ocMyHA	Storm Chaser Brandon Copic	0	0
+UCzFN02qXTwlreaiHSfFju7A	Storm Chaser Brett Wright	0	0
+UCUBJzfRvBPA56lz4BHoXb8A	Storm Chaser Chad	0	0
+UClRu31ZLSw2wJBEwMYvbUEw	Storm Chaser Clint Hendricks IV	0	0
+UCx5ex9rJumpj-oKgVJrP4hA	Storm Chaser Corey Gerken	0	0
+UCemyFpFfu55JvAP_eWW1NdA	Storm Chaser Daniel Shaw	0	0
+UC86mOt7YnKgRUQxblDpsN-g	Storm Chaser Jordan Hall	0	0
+UCUBLqizQoTZnNI6Cnk2GSuQ	Storm Chaser Nick Gorman	0	0
+UCqAWcfd0BJBgCW8iyOLOF3g	Storm Chaser Scott Peake	0	0
+UC_pjiJ0qiODvMQFUH6Y9gMw	Storm Chasers of Ohio	0	0
+UCBmOfiL9LC3dT4Ps2veVCoQ	StormRunner Media	0	0
+UC38WsR6H3n_SsApy2nOkRWw	Summit Creative Australia	0	0
+UCbq9ORBfiKaOrBVBYxmRoQQ	Stow TV	0	0
+UCX16KnWujd15eLF3eSUkg6w	Summit Creative Global	0	0
+UCFwVP_BAbDataLI7RsGiMtA	T.T. Love	0	0
+UCxUIAw77iOn9KRzNK9RPp7g	TONG Jk	0	0
+UCRCiqyjyLDdt9qCg0BsyB5g	Taste Ride	0	0
+UC06BJsz2pQXE8KSf3t5JApA	Tawan Review	0	0
+UCljkVA13MOvtyotv4l-cuFA	Tech Trenders	0	0
+UCko5co8nRqZLkwc1r3g9_fQ	Technical Zubara	0	0
+UCNPvoDpoOWevcdTHr8GyTyA	Texas Storm Chasers	0	0
+UCULCQE8l1e6_D3xTtyYmTsw	ThatLifeLive	0	0
+UChc3YhaPNJMkIoAQ92nKbpA	The Art Of Flying Artist	0	0
+UCXW1EOTgrkpdexeLW5yVhsw	The Australian Drone	0	0
+UCWx7JXxm2xkTabER32I0GZg	The BarberShop with Shantanu	0	0
+UClTp7yY0dT3J6uis5QRC5vw	The Food Professor Podcast	0	0
+UCIDJ9Citi9BUMHINoHmJNSw	The Hode Group	0	0
+UCGHMjAIF2LNULPrCGOkVtgA	The OTUS Project	0	0
+UCEpPswl3DVKcM3NAuYfIRUw	The JAYKAY	0	0
+UC7_FcLFrEiA-nvipfLQEWWw	Tony Miller	0	0
+UC0CPqIPMHCELm208KiwBwdw	Tornado Forensics	0	0
+UC2aX3sFXft9UKCzAjL8ZEPQ	Tornadic Fanatic - Chaser Sean Voysey	0	0
+UCCzfjxXs0o9h1cOgnnmc2Zw	Tornado Paigeyy🌪️	0	0
+UCgGTo_tNrWxArxh3c3aI6bw	Tornado Warned	0	0
+UCSyZTFq1UsTaC0_AVG-kbHA	Tuan Nomoty	0	0
+UCgfOG1xq1TcLA3GIq6DH-dg	Tuta Travel	0	0
+UCFKmUPvoFaYeAMpeufgi98w	Underrated Wins	0	0
+UCwIWAbIeu0xI0ReKWOcw3eg	Unspeakable	0	0
+UCke29833zuRfTab0nWEQIww	Utmost Precision	0	0
+UCZgxGR6M8MLGEpkCXyMXZoQ	VENUS VIBES	0	0
+UC1ZCyDrX9fmp_YYOWtr_s9Q	VanMeekeren Farms	0	0
+UCpmwl6aTGW_rJRm0dfcLfRQ	Vintage America	0	0
+UC93wYnHblURD1iaBW3dd8ig	Vishnu Rajendran	0	0
+UCf6iGg_v-Nhg2nLYxM2rWVg	Visual Lifestyle	0	0
+UCgwF1962d3x0MZ6srolHFpg	Voices from the Farm	0	0
+UC5xtKkspax83S9sawT6db9A	WBGU-PBS	0	0
+UC72UssJ1DNQcakZXm-B2-zw	WCVB Channel 5 Boston	0	0
+UCByGc7P_siORkC1pum8T3_Q	WFSB 3	0	0
+UCKe4Fry0MyvT_SRrmn0_MiQ	WISH-TV	0	0
+UCrLGxsBRktzKo-KNWC-nfEw	WTOL11	0	0
+UCEkTIJnVSWaiElo4mnLbbcQ	Wanda Craswell Photography	0	0
+UC-4XLQqaY8y7K2aNGbOAJfQ	WhiteWeather	0	0
+UCYG45JrhqDDQl8d3M_XizFg	WorkingNation	0	0
+UCWNExzF8oDJgyUCPTjvU3LA	WukongExploring	0	0
+UCvO7FuAANyNZtg8AzqKdPAg	XAU Trader	0	0
+UCPSLqQkRGZ9TS12idypw5IA	Your New Zealand Family	0	0
+UCZVHSv4FwSo1Sv1L3JBbD0A	Yuga's Ambient Works	0	0
+UCI_3Yc2a-ieCkgJGuXvbelw	Z Sustain	0	0
+UCrPTmkNmaeyIx2-j5sdCV-A	Zaimah Sahmat	0	0
+UCoGViUGXoz14j1bDCHn_ipQ	Zoomscape	0	0
+UCmQpLyxkEU8SbGzTMF7NBng	Zinestage	0	0
+UC5bpfNgmYsmLnh7BgAl7x1g	andyfilm	0	0
+UCNzbSAecylbkx0PZjEsnL4A	anoer one	0	0
+UC6KVMlD2H7Rhjd-nywMqKVw	cleveland.com	0	0
+UC65pmw8EsaBgx23S_8dYnZw	dofair	0	0
+UC2Kyb5uN0jHskTtFHvO2oIA	enchanting nature	0	0
+UCj15zXRzRlPJzjFVJ3zaWhw	file91e	0	0
+UCDIvpqQbLfSoW1Q0rwZCQzA	gigi xschannel	0	0
+UCtpb_h__kiZgEAUZxyw6vuQ	iraqi songs 8d	0	0
+UCCoI3SQwEh-jlRKvzIE4Fsw	jions kity	0	0
+UC4C4fkh7if1tgF6InELdcSg	littlemansworld	0	0
+UCwgALw3Tq8tjEMrGIomXBzA	lotusbandicoot	0	0
+UC6smmr3qaBCGztOoLoM_aSQ	paultyree1	0	0
+UC-xm4i1UUZBiKwFsrOgEOhA	shufilm	0	0
+UCUk0Ue2reKIr9V3ZYtvfRog	tanawut naksuk	0	0
+UCJSEhqKnJ01a3_bf_fVH40w	typhoon creator	0	0
+UCGT_Xtbw6iBWvZ9iM_--EqQ	video supply	0	0
+UCCtYdNBm-8C_wZk0n6u8VnQ	weatherbox studios	0	0
+UCHzfXPMmV0lbiURiXDcsZ6A	wichai tangmunkong	0	0
+UC6ucN52MFRg8YiLDxIefK0w	บอยกะไอซ์ไปไหนไปกัน	0	0
+UCp_6sashH9i5rJ3afZ4NNmQ	บอลพาไปกลิ้ง	0	0
+UCyBhYykq2EPKRR1AMZu-7Mw	พี่ตั้ม TAMIYA สอนขับรถ	0	0
+UCBNHXPEorQXuagc7Zem-gVA	มุกกี้.ออนทัวร์	0	0
+UC04WubvQWJK-9DEaq8h9NKg	แว้น เที่ยวกับเรา	0	0
+UCyt66cJnqkwpVfCAsJmWMkQ	โรงละครกาแล็กซี	0	0
+UCkVMmnP27roBDL3QRVS_pfQ	リローデッド。	0	0
+UCfEQZ6Id5Z35PlW6NxlM0-g	甜剧热播	0	0

@@ -1,0 +1,334 @@
+# C19_macro_texture — 124 approved channels
+# Pre-screened: 47 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	20	12495	4K
+UCnIjJgJt3m2ePe3xYCO96cg	4K ProRes ULTRA HD	20	926	4K
+UCRauo6y9tx0FB0OLLtqLA-g	4K Video ULTRA HD	20	3595	4K
+UC8yrz9RAUzOq4CzRAdLg9MQ	4k Epic Horizon	20	553	4K
+UC9LOPZX4USf8oXGMIUhrtTw	8K Cinematic World	20	1086	4K
+UCGxO11YEar5LJghJJZxofQw	8K Clarity	20	916	4K
+UC-hKdAEl4c86O9lNTNrOqhw	8K VIDEOS HDR	20	1133	4K
+UC8D_NXFBh8A9KSwo7x-wFdQ	8K VIDEOS ULTRA HD	20	5570	4K
+UCeRAcc1Xg1S6_MCzahMb_nQ	8K VISION	20	5423	4K
+UCIB0ofqsYqnpqPf-Z_AOesQ	Adam Kappa	20	557
+UCPY8H_PeS_8dbVjwD81xUSA	Adaptalux	20	687
+UC3pkTy1web1jMFSj77cKFkA	A. Kenneth Nolan	20	356
+UCzIJVoH2RGS9Pjzab9rywZg	Aerial Earth 🌎	20	12172	4K
+UCltKNUUjx6X7X9ab93SQWxA	Andrew Murphy	20	1014
+UCwbR5A9Lit-fXwQyaxT3fXg	Andrew Lanxon Photography	20	1365
+UCtV0jyO_aGii8b_9oz0FktQ	Animals and Pets	20	4734	4K
+UCIZpKZH73Xr8udmjGmzp_IA	Another Perspective	20	178
+UCivA7_KLKWo43tFcCkFvydw	Applied Science	20	1232
+UCkraGGbcluHUsyGyLZU8qoA	BKVTD	20	129	4K
+UCWxiO_Br1awgEjy79VItspQ	Ant Lab	20	381
+UCwmZiChSryoWQCZMIQezgTg	BBC Earth	20	2405	4K
+UCiL9l2J57t5OG2aZ0huswZw	Boxlapse	20	281
+UClnY5W6H2XkHGLESrlkhoQA	Atka	20	1184	4K
+UCjHhhEEZyqM4oaWJmHfCoYQ	BEST BENGAL MOBILE PHOTOGRAPHY	20	148
+UCXnvLHEf5t4ncz2DCLRMmpQ	Beautiful Relaxation	20	37508	4K
+UCUlYQqIp-bgnh9KwZ0hrDHg	Bonfire Ambience	20	40924	4K
+UCk2m6Wfr7b4_6oUl0FwkUDA	Campfire Master	20	11530	4K
+UCzxrJKoiArcfvgIEm7SKNoQ	Camera Club Live	20	898
+UCI-Ho-GaKYbtMzXJWmWAsrg	Cat Trumpet	20	26014	4K
+UCpCV7SUJuOr9OMSaUIc4lag	Channel Art Background	20	2887	4K
+UCx6IrJIvDl1LKw_yIhzHT0Q	Chemical bouillon	20	122	4K
+UCo6tFdZtNrwV_EVfp__WM8w	Chem Demos	20	147
+UCPbFKka17wwyPHPksXPsCLQ	Clicks by Dk	20	153
+UCEITPapR7IfEmhspyNBogxw	College of Science and Engineering, UMN	20	451
+UCT_VUkAEBiCtbbTpioome2g	Crooksey	20	239
+UC_QUCa076Rh8mE3ZFP2yVow	Curtis Sleve	20	162
+UCqP1gIWh2SM3lRXf373gMNQ	DPReview TV	20	1772	4K
+UC9xyo1aB3R85hooBCJr1ZeA	Eugene Belsky HDR	20	600	4K
+UCRLH_hvTmyeTPZ6b1YZqhWw	Educational Innovations	20	840
+UCHz_K2AGbZd72dklF4kd8Hw	FIRE WORLD 8K HDR	20	4860
+UCaJs3QtwUWJ2u_sdQVBs4XA	FOBOS PLANET	20	18899	4K
+UC9eeCR_pS--W06xxmSF-nFQ	Fastec Imaging	20	155
+UCmc6gcMDwbJAz152K9beK7A	Fahad's Click	20	132
+UC8a40BCgmGBlBvKjdYmgOyQ	FOX NATURE	20	13488	4K
+UCwtHGEAtOm9Jdd1JwvS67gA	Fireplace 4K	20	6171	4K
+UC1iDFV0t2NJtLE9m9efIx2Q	Handsans	20	167
+UCZhHtNbZV0d9LP035D8Rgyw	Fireside Ambience	20	21606	4K
+UCjgd9I2VJ2dA09p2oQD-PwQ	Green Timelapse	20	620
+UCkDxvN-bcxsKkvJ3yyiGSVQ	Hedgeye	20	2511
+UCtQ0tVWoOTuGac0UcCYak9A	Joshua Sexton	20	208
+UCOScpfGhL60yBdDVde5XHxA	Jamie Spensley	20	965
+UCX-BbEqgGi6z0Nf1mYYR6bw	Khabir Outdoors	20	22591	4K
+UC6nJLzpsncQW4d88YrpZAsg	Legendary Shots	20	187
+UC497r18hyShx1ffsYcgK_kg	Kuma Films	20	283	4K
+UCKPXEGIHdjdqG1yr5-K0u9w	Look at the world 4K	20	252	4K
+UCBLBaTZqjr8-VEjXBnz7tOA	Macro Room	20	145
+UCtaykeSsGhtn2o2BsPm-rsw	Make Something	20	1302
+UC3tDMDSIVQ3RNASqnpX-IAw	Matt Molloy	20	158
+UCJ9XPzyAZ4JP1HqxAN71dMQ	Micael Widell	20	605
+UCZhw5e8FZd8dN9uAicgDLOQ	Mark Kerton	20	1306
+UC8tvhT7GNFDmmT0GBZkuMsg	Mike Shaw	20	688
+UCtwGcl131uEO960goiJiW9Q	Nature Shots	20	199
+UCpVm7bg6pXKo1Pr6k5kxG9A	National Geographic	20	3274
+UCE_WiQFez8FZcICpbwblyyg	MooMooMath and Science	20	211
+UCxpVq8L5rqY7OTRUfpNzoKg	Nick Smith Photography	20	975
+UCgzbXVZe1lUTrKLH8CW01oA	Norwegian Fireplace and Campfire	20	5733	4K
+UCWYr9nwkynyYNLjQkZZ5p5g	Photo Owl Time Lapse	20	317
+UC-qk3-NeHYXe_trkvS7MNrA	Oblivex Phonk	20	1164
+UCzW1vsUdcnHQLKw_ryQcy0g	Questacon	20	376
+UC3a_6huUNyrRXHRxN5GrNHg	Photron Marketing	20	193	4K
+UC7AjBt9oy_IHUSKO7y4LECg	R&D VIDEO	20	609	4K
+UCMiW-YAIlZwVXp3Ip_akE_Q	Relaxation Time - 4K Amazing Relaxing Screensavers	20	7582	4K
+UCvYMqNuLYKaGrlLhIC_cVwg	Relaxing Music Source	20	7650	4K
+UCGRNnkhDkrvupaSn9xETCqQ	Relax with TV Backgrounds	20	36720	4K
+UCjcjr8OhwzA1cvG_1BYnUlw	Roman De Giuli	20	325	4K
+UC--zKwiIvWCcfS8GxxTHc4w	Science Skool	20	179
+UCDryLYFAJpdiX4znoACX-dg	Science for everyone	20	1003
+UCyz8QclwSlcWrIClxG3shlQ	Seemingly Forever Timelapse	20	426
+UC4JBh_gxSh5UsyWcwGWc4Cg	Shelly VanCleave	20	233
+UCVqFFEjP38nLrD4nFJaPMkQ	Sea Tribe Films - Relaxing Music & Sounds Videos	20	11703	4K
+UCYJGS2zcG4tTYkzvHT6UtcQ	Sightseeing Stan	20	791
+UCdXCDBx-E4S28GCAypXXHiw	Stereokroma	20	969
+UC1WO8hZv8OqLILMcXYY12iw	Stewart Wood	20	821
+UCq-Fj5jknLsUf-MWSy4_brA	T-Series	20	322
+UCsooa4yRKGN_zEE8iknghZA	TED-Ed	20	359
+UCve7_yAZHFNipzeAGBI5t9g	The HDR Channel	20	456	4K
+UCEbVuPe6C8rcEaaevvuc-gg	TLC BIKES	20	156
+UCUK0HBIBWgM2c4vsPhkYY4w	The Slow Mo Guys	20	893
+UCzIQohdTClmgPQaK6cwtF_A	Timothy Stringer Creative	20	198
+UCLoF_HaNtCjt58jiB27ZCAg	ThunderZTRM	20	182	4K
+UCmBj7kk66IY375esveeXpjw	Travel Links Directory	20	190
+UCWKHORK-rmkUl5VLN3npUvA	UK Wildlife	20	540
+UCJnsavuFHGZaXgiGj4t88Dg	Wayne Schmidt	20	315
+UCbbtHuBeqqlRB9yNr_Hpc7w	WooGlobe	20	404
+UC-cOLcNeV-_U_fmcb7Bn9iw	Wild World TV	20	135
+UCqjP6H8ED_WimyBwAGC6rYQ	World Book	20	157
+UCozowCMJxRP_tg0JuVFhNmQ	arziben	20	208
+UCs5Yj969f7VDAgfF5AVHQAg	bagnik1	20	416
+UCFW82VbGbanu_ILKGcIklPQ	digitalthrills	20	764	4K
+UCgPuMUXlv6TmMY3MA4CX-NA	fullspeeddesign	20	412
+UCDyD3PjKXbcKf_NWXi6FtRg	8K HDR GLOW	19	401	4K
+UCvKmgjr1FPDBekay8HkLLEQ	oisiaa	20	1994
+UC4eHE88DdMK85cak3_9R8ew	Wilkerson Metal Works	19	168
+UCJUU0Zl5a3unMuVUBwsGq2A	Cozy ASMR Scene	18	34015	4K
+UC75UTIRAoMfb_kiZtfR8y-w	Lucky - Nature Relaxation in 8k	16	7129	4K
+UCAGLBxiQHcXjE0JWu05x_8A	Nature Lab	18	683	4K
+UCO887JY1EclfWYF9Kw8vthw	Under The Time	16	185	4K
+UCpiR1VNqQdGzN5sAglwMoMA	Alexander Sypolt (alexzanre)	15	163	4K
+UCvuqEEG9N0wTvtvtNojDuxw	AKJ Ambient Designs	14	4296	4K
+UCbLvU2Gj9bNG0kusKw-tbfQ	Crystalverse	12	572
+UCJhOTSphI8lINOEYH8pphNQ	Gautam Bhall	14	427
+UC_s2CG1ng_FCEDU5Ug2KGlg	Nature Sounds 4K	14	25728	4K
+UCWXHSs8eo4wCKNHkxGCK_mQ	Terra Nine	10	2900	4K
+UCj_fzgTfv5zJDttT-thOnug	Reynold	11	365
+UCCzUqFMahiUHDX4G9OlhZPg	Marius Balthasar	9	179
+UCl7wP2p4pDeoePX4azPjq5A	Limm Chemistry	9	180
+UCRjM21-t0C3Py0qe0fqMJmA	Matty Stevenson	9	600
+UCIdLc2ntjqhjHUU_dY9Mq7A	Flixventures	8	499
+UCSV6Ycn6NTV4t61OZ8wbI7A	About Everything	6	339
+UCEoR7u6GL8CSJLJQlbrH8BA	The Timelapse	8	159
+UCxgt-7ZSZqWcPo8NaAbNi-w	Lapsin' Around	6	121
+UCD5bgZvp2TYUZe211Me6IiA	Vasily Pojarkov	5	604
+UCATSgR6hKnQk9UlLJjC_r8A	Les Cheminées De Vincent	6	5290
+UCtE7ncA-Wq1JRmVKy8xZIlQ	SEM Energy	6	134
+UCaj3XybkgHXSwG8k_Dwz-Dg	4K HDR DEMO	0	0
+UCe8g9OPQGQWXzS5zI1t2qgQ	4K Video ULTRA HD Wonders	0	0
+UCsjND51fDodzbjh7XxHKoKA	4K ULTRA HD	0	0
+UCAqum-54cEQWhc3bKXnDpgw	4k Clips and Titles	0	0
+UCrz03N3HMlCarlnORxxi9nA	5.1 Test & Clips	0	0
+UCrv2z8Go_uQbr_B1MNgU4uA	8K HDR ULTIMATE	0	0
+UCQuT98EQ3P2Tdevr_mNkdFA	EarthPredators 4K	0	0
+UCCfBr6LvK1apcF5Bs5TWAtg	Gustavo Sicha 4K60	0	0
+UCUx3XfZwljM_D6PLaRvVUDQ	JR INDUSTRY	0	0
+UCPkKTw1MlCAnlQzSgNJq81w	HDR-X	0	0
+UC2SIWgqcys7Gcb6JxsFTm1Q	LG Global	0	0
+UC-_dLl34OKbAu6LfwxX2mag	Love What You Do	0	0
+UCenFN5qfgC18NkTvk7G_VjA	OLED Zone	0	0
+UCAFXpBcvkHnwoTXexZnXuew	Psychedelic Tales	0	0
+UC3O8-tKnz9VUn3sxZKyKN3w	Samsung India	0	0
+UCPd6RL99Yk5Eb5qJQVlbuTg	TRUE 8K	0	0
+UCuVnPBaktDVoV28GVxR6wIw	Terra Clarity 8K	0	0
+UCccXcNwSNFHcDQMX5dwxJ5w	jennifergala	0	0
+UCvUrLMjtFH3qe-TMpX4VDTw	UltrawideVideos	0	0
+UCRYOj4DmyxhBVrdvbsUwmAA	optimum	0	0
+UC9ecF5IRDY9Wp81TW9F41Rw	0Eyeball0	0	0
+UCtzI2I7DLXXF_RMNgPNoggw	 TRAVEL THE WORLD 901	0	0
+UCASPsfmVJkEsWoBY28dYaeQ	#StruggleNation	0	0
+UCdnBWzYQfkql-o460NTL1Tw	2 Guys & A Cooler	0	0
+UC8wUiXVcwHnquAQK2TsUEyQ	ADecentRoman	0	0
+UCjmVEdeaQe6Ys_xqSks5b4w	3rdTryProductions	0	0
+UCKU0u3VbuYn0wD3CUr-Yn6A	Adam Erhart	0	0
+UC3qB4xFJkl0EYoTVbhnn0OQ	Ac Hampton	0	0
+UCTuOzMGPEGWY6144uHJj8Iw	Alessio Vaccaro	0	0
+UCoKMBuQ8YejlCbNm77ZL8jg	Air Photography	0	0
+UCciXqP1w51Ukj-HdRaBfigA	Amplified Skills	0	0
+UC0pvgRCtfUGDVglD2MZOFDQ	Ahsan Abbas	0	0
+UCCbCjDEm0KR4WvEbEdf621A	Appetito - Italian Taste	0	0
+UCIrgpHvUm1FMtv-C1xwkJtw	Arizona’s Family (3TV / CBS 5)	0	0
+UCJZH8PEoRcAajBE5AWHbw7w	AssBorgor	0	0
+UCVVrASWe9lQQGuYFlh2eTIQ	Aura Drama	0	0
+UCVdE2LIYHS-ozeO2yPr3OqA	Autistic AF	0	0
+UCQHul4vCUMVazjsZ3mztU8A	Back to USSR	0	0
+UCZjKcVkwUdCK_RRrUQeUyLQ	Ben Plays Games	0	0
+UCPpGfrRcEhnzzx1PsphBNlg	BA Creator	0	0
+UCrOgnOLUW9_xJKjZAjBrUxw	Best Video VideoHive Envato	0	0
+UC5Vj8iveELt4WD2f-WklqNQ	Blue Vista Software	0	0
+UCsWE8nn2x1zS9vRId8ySAhA	Best Videos Of The Web	0	0
+UCTtU0HZ9LikZu7d9mOYt7Fw	Billy Diamond	0	0
+UCaF9wt2WbvfGrY5ncri9FmQ	Bog Life	0	0
+UC61YwYT_Nfso9f7BXRDi0NA	Borowski Media	0	0
+UCHTnEwQKNwm49CQeCVZogMw	Boundary Break	0	0
+UC-z13ORIL5XMZ8K4Q1E0iUg	Bows Garage	0	0
+UChCFbthWQF4MKA-43SCDB9g	Brad Browning	0	0
+UCQTcmLiL5_HMUnO1GRwCdjQ	Bro Pump	0	0
+UC0dWIxN5MmdsvMi1GBkmmxw	Brayden Noh	0	0
+UCscg7IEOvx4raq9EEcrdtTg	Broadway Barfly	0	0
+UCX32cxDfiJkVUeIlBHbnRmA	Calm Nature Escape 4K	0	0
+UCKCdikXGjhveCg3dsvPoNGQ	CameraManRev	0	0
+UCgl2tLfFNPGt-QnLk4ibh5w	Cameron England	0	0
+UCRiXux1MuGPv3lHiDbv9fuw	Capo-Obs	0	0
+UCzZLKNTJP5weiDJDMtZB_3Q	Carmine Taverna	0	0
+UCRte954rw0oeMWFroy_ClAw	Chris Hau	0	0
+UCZPcz_u99NG5Zp855NAerOA	Christian Eggbauer	0	0
+UCU9j9_inPFpsOCze_RX-41w	CineStill Film	0	0
+UCpLfM1_MIcIQ3jweRT19LVw	Cinecom.net	0	0
+UCEiui9T4ZYx8K8nuZ5YFSTw	Cocktail Time with Kevin Kos	0	0
+UCgDcCZDBaXtAQGSc-Chs0xw	Colleen Edits	0	0
+UCj9xO8EKnvIy6AE_xkSyW2A	Consequence	0	0
+UCmwf656_nAjxFGxfC6Yw0QQ	Cooking Italian with Joe	0	0
+UCTV19ViIuZVcBojkSmZkirw	Cooking With Ayeh	0	0
+UCpDH7cFw8cFwAShgqahdviw	Cooking with the Coias	0	0
+UCLdF7xavR-rseYhlr2HLPxg	Daily Profits Now	0	0
+UCcTa20zpKM6CkcvocFXVe6A	Dan Allen Gaming	0	0
+UCba-OKnXOFOe3eTXlXYuDTQ	Dan Vas	0	0
+UCiCWR8lXYmxSuiq4DOv6Y3Q	DaniB TV	0	0
+UCL-c-M3YcUZa5FY51pgB5Yw	DaveScuba	0	0
+UCrU96v4Nr2AljFuNri7Z3xw	Deaf Director	0	0
+UC7kPcKTWb4Wf3ql9TivVRoA	Degenerate Jay	0	0
+UCoV0d7UNRyqNWpbrZw9gzbQ	Destination Spooky	0	0
+UCamyHaE0S5ioiC46W_hR1TQ	Dina Mitchell	0	0
+UC1qRytOKBZgyU4G3RYj0QrQ	Drink In Creative	0	0
+UCW9JACosTnXzREUzH34Z98A	Drone Valley	0	0
+UCeO8Gmc2B-3G2fgcFnRR4Xw	Dylan Jahraus	0	0
+UCkldguJyfmmLv5pplZVBJ2A	Emil Ahangarzadeh (Dottore)	0	0
+UCekxiRKL3ivM2ZoviyzaNnQ	Fatality_89	0	0
+UCuu1PNmOFTb8i7NOg1fZyFQ	Film Photography Channel	0	0
+UC8IHAQMuiJdY6ALuhG7iU8Q	FilmRise Movies	0	0
+UCfe1_GW8m3f2698dZ8RE0ow	Finding My Sparkle	0	0
+UC82CF2rzY-QwBLd6FiaNqTg	Flour, Eggs and Yeast	0	0
+UCVd1jpccnbNnwJ-4ahGHKwQ	Forex Trading Software	0	0
+UChujSNPbb9216kZNyvXrZ0w	FreedomInHours	0	0
+UCbYeqN8GoCOSrWV0PjXw_VA	Gaming Master Race	0	0
+UC-we2gvccoWe-yggtUh_7AA	Gardener Coo	0	0
+UCd7fCXNAIR-1Ws1OVFitu3Q	Garrett	0	0
+UCY0ceNJ1gybHYUmGjoz0YsA	Gary Gough	0	0
+UCACwT5xqdlQmP1uPIND_GGQ	Geography Viz	0	0
+UCYeGh5VML5XPr5jYnzh3J6g	GeologyHub	0	0
+UCeW6othb8uc8h1-Ck5kY8AA	Green River	0	0
+UCrYkbyQODSiOYQJB4nWySLQ	HAYATO IKI PHOTOGRAPHY	0	0
+UCDAcUpbjdmKc7gMmFkQr6ag	Half Chrome	0	0
+UCoVuy9EyBIOVt4oK5642xyA	Honcho Media	0	0
+UCQ9PLXfoztPxsXM3dHLPUXw	Horizon Gaming	0	0
+UCdP4yGgQSPGci2B3qdmoJHw	Ian in London	0	0
+UC-8MJoAg-L93tStjnck7sNg	Idealnovate	0	0
+UCXoxY4LJeCc_GDIBWwhATpQ	Instant Drama	0	0
+UCDtnOp7jxs-OxlHrYw6QTAg	IrixGuy's Adventure Channel	0	0
+UCtTgeFbRSuFUq9raLxJLi4g	Jamie Oliver - Drinks	0	0
+UCgBwzRfT-AhKvDpaM4R-XIg	Jamerrill Stewart	0	0
+UC-JeIvuQm_bGMlnaqsxji2g	Jennifer Morilla	0	0
+UCt98f4qj-LeUuxdI6kbF6sQ	Joan in the Clouds	0	0
+UCmGSJVG3mCRXVOP4yZrU1Dw	Johnny Harris	0	0
+UC0fzS8ZTBti6L0In-HTeqmQ	Joe	0	0
+UCO0uJZBcQjq0-J5awEbM8_w	Jon McNeil	0	0
+UCOvQLYobl4blvDcpfHaKiWg	Jonathan Montoya	0	0
+UCqUDTb9DmDVB5iNl9kJlR8g	Kai Bax	0	0
+UC-uQ2xPpIZ9oMRppXc8_xRQ	Jungle Pedia	0	0
+UCRQ8p9FxtKTFSUEEdFjD3Cg	KazzaGamesTV	0	0
+UC3RYNOKIpKE_2P-5ZapWIYg	KingWoolz Games	0	0
+UClrl8a-LdfaNxzLM9wWrg_Q	LEVEE	0	0
+UCE4yn1Cdr9vu9lrsyfeoYmQ	L.Y. Marlow	0	0
+UC97EYP-ms09GCP5etd9Au2w	Larnuu's MEME Center	0	0
+UCF-llGNOiLL3mmrN9Fg0guw	La_Palmeraie	0	0
+UC3n3JJIrFUhfNOKM80T5T6g	Liam James Kay	0	0
+UCKYVBQUiPPWiUuYTZwtqTFw	LetsZoomIt	0	0
+UCWtmx6KqKNACnvxreMC-Wqg	Limi	0	0
+UCz_pGDkgI2jDH95X2ZDOGxA	Lost in 35mm	0	0
+UCkbamqyw007-DCA3XWFKNmQ	Lucius King- Cashflow Empire	0	0
+UCdrsQqKE3B5jKb71n2_zoPg	Mahma Comparisons	0	0
+UCNZMOOmPJStgwhiJ3x-MZ_A	Marvelous Videos	0	0
+UCj8orMezFWVcoN-4S545Wtw	Max Derrat	0	0
+UCPV7yqtc58_Ex_TYeHGPEGQ	Margus Uus - Entrepreneur & AI Enthusiast	0	0
+UCQwFuQLnLocj5F7ZcmcuWYQ	MetaBallStudios	0	0
+UCRVG9XDal0Fz7joA-QU9jjQ	Mikey Lee	0	0
+UCoQYt2Zxf_cqm8txhKJaFMA	Microworld Explorer	0	0
+UCcyktvkAdDOlzbUnEAKoxdg	Michael Sutton	0	0
+UCl9R9IHRyqVVFwU5hu38Prw	Millionaire Mindset - Jay Froneman	0	0
+UCpsE0FKwbZjt0uy3vgEUcWA	Mohamed Camara	0	0
+UCrvDWigpVALxl1HEmz1xLyg	Mr Ayaz	0	0
+UCDZO87Wbd51ZO-3XyUHnp-w	Mistertroshin	0	0
+UCoRvLevj4sQdjuwXFL4m_IA	Mr Michael’s Educational Resources	0	0
+UCF2yBZfHoRmqMCQxa0XNfFw	MrChandell	0	0
+UC2L6FurS9dMz25-AhG5sPJg	Nathan Hyratt	0	0
+UCMf1c_dX7WitphSNNjJs5bg	MyJuicyTv	0	0
+UCAY-SMFNfynqz1bdoaV8BeQ	NASA Goddard	0	0
+UCmg86wPcjLYttKNiZm0IffQ	Nature in 4K – Global Edition	0	0
+UCXveXck5X5SmBsQauduRDBw	Next Right Studios	0	0
+UCuhuR2bE_QISoSqkLUzYbkQ	Nature Clips	0	0
+UCO_gBdHekc74feh0bWqKJ1Q	Nebula Photos	0	0
+UC075E5hPkopSBmaP9wGhZ0A	Nick Merola	0	0
+UCKV5TMjUlLih4Hmo9ovimWQ	Oliver Kuiz	0	0
+UCxDJbNtgLYUwjPg_xYjvSwQ	Otto Julian	0	0
+UCxLrvjGBzYmj8W1rJToPasg	OzGeology	0	0
+UCSCx6Uhh6eb6zep6jHwK9RQ	PAST LIFE ExPLORER	0	0
+UCL37XR1YrpodR_HkAf3uGjQ	Paige Brunton Business	0	0
+UC3xE9K-djntP4aOPSg_95rg	Papa Pang	0	0
+UC1tKrA3PQlDzKzmhgq7wPPQ	Pasta Grammar	0	0
+UC2fXXdTx7bgpvsg_kZ1kLDw	Photography Training Channel	0	0
+UCkctXInfNh0Zf4p93itIVhw	Peter Forsgård	0	0
+UCyD17I0MFjwYdSsd9rR9KTQ	Photomatix	0	0
+UCvCm5Gp3KNR5XWFmFj_tI-A	Polka Cowboy	0	0
+UCe3OmUXohXrXnNZSRl5Z9kA	PraveenMohan	0	0
+UCXHVZyeVDdKp7aPt31i2fvQ	Prosperity Game Plan	0	0
+UCUfTtcFhHutEZOiqpP3gFhA	Rachel Harrison-Sund	0	0
+UCR4EXjl2MLY7i1ia_IsKXTA	RobHK	0	0
+UC8w-j3Xeky3yRIJv-Ast9GQ	Robin Hannevig	0	0
+UCSv0Fg47tb6zDoK6_fUVo8Q	Rodolfo Roca	0	0
+UC2Z0vkrJQVWkTMIHTkIIEFQ	Roo's Reviews	0	0
+UCagifyw1hiJsLeMjEP3GzZg	Science Animated	0	0
+UCZrGd-HMZafkpdgZn4XOSzQ	Science for Deep Sleep	0	0
+UCV6N3ojh6ecAKjyzlP1_4nA	SethxDecker	0	0
+UC5zzUCQ9mzKWIeiewmblHzQ	Seymour Mac Productions Ltd.	0	0
+UCMz5PBDbhJsVtVDWn4DP7_g	Shaiya Slayer TV	0	0
+UC62oK4gTQtOE4DvAFbFlt9Q	Shortcat	0	0
+UC9XiDskTaRkMPyBAk2m65vA	Silent Archives	0	0
+UCP21VZJKo9UTsuTqziL8lOw	Silver Wolf Drama	0	0
+UCoM4bkfN0EENw3RB5tsFj4Q	Sofa King Karaoke	0	0
+UCAON1jz3oEKgGI-V8ePRKSQ	Soheb in korea	0	0
+UCoR0HyA8enFnR8fIGJWAD9w	Spencer Parks	0	0
+UCYwcYcXFvVi6HFqS7CCf3aQ	Special Mark Productions	0	0
+UCjAb5egJsC8AzWo6gVxEMvw	Steven Bogda	0	0
+UCThY8lOKKkVDd9HVBT59zCg	Still It	0	0
+UCrw4aszwlry5bX7WGMn5wXQ	Sylwia's Marketing	0	0
+UCC-T6bIJfxiBz0V9GdQJDOA	Tamara Gabriel	0	0
+UCdYwtsdkLFUyKYb7hj-1Szg	Tech Court	0	0
+UCaIe9i_Cg2pj3LP9UxunaYQ	Tech Traveller	0	0
+UCy0tKL1T7wFoYcxCe0xjN6Q	Technology Connections	0	0
+UCJQjhL019_F0nckUU88JAJA	The Drone Creative	0	0
+UCcWQru9rDvuK7vs6sEUGuQA	The Photo Files	0	0
+UCK-0srt5hdY5m6Zos_NlJZg	The Secrets of the Universe	0	0
+UCC35QQYNMvWZLV20oo2NRoA	Tom Rich	0	0
+UCBk3DBvV-o5fbY84vO5nrUQ	The Tipsy Trope	0	0
+UCwsZ3mEOD9TpAwwuZ1c0DgQ	Video Mods	0	0
+UC41ry1ZT2WlN441MZQOv1Kw	Weird Al Stuff 2	0	0
+UCiu3fw2r_sAcGhs3WBa-vYA	Zain Riza	0	0
+UCOdp4h6e9uYv_CTUL50jSyQ	YUL GUY - TESLA, TECH & LIFESTYLE	0	0
+UCza1hvHVZmCh0Bzk3jl5NSw	Zenography	0	0
+UCYkPxTc8dQwse6VLso6uq1A	ben rumford	0	0
+UCw-tWyn6BVJnaWL0EyeRVdg	bulletsnbytes	0	0
+UCIwgJsnfRvVcIanU612cn4w	dailyplanetvideo	0	0
+UCxddeIv7GdHNcVPZI9JvGXQ	eurothug4000	0	0
+UCtfu_ydYvjd-fStcpslRkzA	gabbygolfgirl	0	0
+UC2j4ZeDzQRXqIG-Ui8EoLrA	grimmlifecollective	0	0
+UCVuhlP7wb8C1pyWACz33UvA	kikileaks, with kiki agbor	0	0
+UC0WIlqDGixeIdR8aWhe2t_g	macrofying	0	0
+UC7c8mE90qCtu11z47U0KErg	nature video	0	0
+UCC2LQuniwCupUUIxJIceVRQ	phoebe does everything	0	0
+UC4aEymjR3QJnEQsy1qoDZ3A	pyropaul566	0	0
+UCJnL-TBcsYrF2SLs7tmiC8Q	tripleS official	0	0
+UCbeBLRcLbQEIQCt8EOkF5GQ	wingswest328	0	0
+UCdBoMj5WeYG_K1EYo-HG0kQ	電影酷拉部	0	0

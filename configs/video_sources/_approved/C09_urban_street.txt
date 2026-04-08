@@ -1,0 +1,485 @@
+# C09_urban_street — 128 approved channels
+# Pre-screened: 33 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCx8zbeoZmHf8DpS_AJVaF0w	4K HDR WALK	20	4307	4K
+UCoXm66ArnAYGC0SCItOb2Tg	4K JAPAN	20	4114	4K
+UC1T_pR-Rt-NdHgytn2GkTeA	Abao Vision	20	4144
+UCBiW2ntOESWq4bpEsW7-IpA	4k Films by Adnan	20	1200	4K
+UCKrH6efUaOToC8ZDQhY7cmQ	Benoist	20	850	4K
+UCHw4XxOMjRfWK3k7G9ANeGw	AdventureEveryDay	20	6161	4K
+UCXbXfisDHV_gDjawCKTyTIw	Ambient Renders	20	26105	4K
+UCQt6T33djmtLkEmEI-M-g4A	BartSli	20	1426	4K
+UCua8A9T4kNv4hUaw_wRdrIw	Buzz And Roll	20	370
+UCfk4Df9QxO267wlFbStSyAw	Boxoffice Movie Scenes	20	393	4K
+UC4dRXF0zdzVguISkvlaST4w	Carl Rosa	20	596
+UCo_k1X7sH_uAXaBPNphZIiw	Buzzkraft	20	451
+UCKQPEnBI3x65YPaI2rQbcLw	Calmbience	20	32415	4K
+UCFhJJJVfXTr9XjYrU5khVXg	Cat Walks	20	785	4K
+UCgYoND3mgHqm4X7cB5PXC6w	City 4K	20	922	4K
+UCg_Uip5xo0jAFK3N7l51e-w	Cary Knoop	20	346	4K
+UC0zYnUkhLrSqARPjfLFUn1w	Choolutter	20	28800
+UCH5mcfU02i9ef5Eu48rdOEA	Cool New Media	20	200
+UCrXaYAnixY-U-xSeQPxHB5g	Cozy Bedroom	20	11767	4K
+UC-tSba_3nKvO5AGH5CXwu1g	ClipsFromStreet	20	1665	4K
+UChBNTDp2GcEFaih4E77MAMg	Dashcam Out East	20	336
+UC67uA1i1zR1Iu0UWUf8nBIw	Drifted Films	20	6699	4K
+UCBX_wRb6MXqG3WKIfseM4oA	DayDream Gaming	20	9728	4K
+UCZIdQhj-8h6oAqbyFi_a9Sw	Driving Japan	20	39693
+UCnn00LcOevDIq77W8IYskcA	Driving Tour 4K	20	5257	4K
+UC40Pjx7sXp8nvwi4HTZ16Fw	DroneWorldHD	20	832	4K
+UC6ZYF2VAod3-cL414wpOHHQ	Epix Ambience	20	9992	4K
+UCX8Rxrd3And6CNmNhWCrBWQ	Drone Profs	20	345	4K
+UCXPOO24BINKJ5ZKdqDjzNsQ	Editor	20	133
+UCu5uVKPpNUxb0gkWazjozmA	Floridaman Drone	20	693
+UCV95t9tjZ1Dx4kOcC-XUyCQ	Experiencing London	20	1514	4K
+UCgAk-RQ9MTdrSJ4twHoEcwA	Footsteps to Nowhere	20	8518	4K
+UC2Alm9dKXWmgQBrrlWct9fg	Frequent Driver	20	7155	4K
+UCkcNUKNEB0BJgZk9jIdI6OQ	Gaming Tours 4K	20	9170	4K
+UCqJbCMJ200YPexRCJdnbtTg	Free Footage - Videos for content creators	20	189
+UCqhnX4jA0A5paNd1v-zEysw	GoPro	20	271
+UCdXwJCI-7jOR4vgB3MasJyg	Japan 360	20	290	4K
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea	20	42472	4K
+UCjoWDPwU6goZ1KWvhuRFtaQ	JAPAN Promenade / Walking Around Japan	20	1032
+UCBcVQr-07MH-p9e2kRTdB3A	J Utah	20	4026	4K
+UCH1enUKl700Hn10NK8v4TRA	Japan Journey -4K-	20	855	4K
+UCJRYTUwfeeXRJDMmIvwl4CQ	Jeronimo Ambience	20	2886	4K
+UCVvsgQ_glD-W05t_1UQMGdA	Just Pattaya	20	1650
+UCtjqbDcN2ojpDWPKocup-hw	Japaview Walk tours & Videos of Japan	20	2886	4K
+UChZb5syQA8J_yZqMQhJGobA	Leon - 4K Nature Film	20	11576	4K
+UCU29V2Jl2unpcOxm1kPDqmw	LADmob	20	3848	4K
+UCunOiFZn42_G32ZMvndoLGA	Life In View	20	9720	4K
+UCE5jf-aHkKPjmfJMSU9iaxQ	LONG STORM JONES	20	36610
+UC17ObkiDFD2VLWbvt9a_pfg	Maximilian Krasnovsky	20	341	4K
+UCWK2EvwgBDSJogxf8tAhuZQ	Lofi Zen	20	12118	4K
+UCPDdorKbAsdIYCUwsbg58mw	Mileage Mike Travels	20	2641	4K
+UCllzb1aw-cfnq6pDtWuQBxw	Mood Transition	20	3690	4K
+UC3gNmTGu-TTbFPpfSs5kNkg	Movieclips	20	228	4K
+UCx6QQLpRolGQS6mDKayAHeQ	Mostly Walking	20	3735	4K
+UC8abMPJmTPmsaSc7j-lwIhQ	Nineteenth century videos. Back to life.	20	221	4K
+UClvDJQWivXXrITTl5f8jakw	MrReese	20	244	4K
+UC0H-Sa4Ua_wWGYMmc6ITpRg	Neon Driving Tours	20	20322	4K
+UCHwanJqap-ucqaDCBj8s_2A	Nomad Solo Travel	20	828
+UCaK6gtupBKPeQT-ZLSEWigg	PEACEFUL MIND	20	31744	4K
+UCqRTj-Nu_8to3jIBlXptOtA	Nomadic Ambience	20	4329	4K
+UCcFwQ2tAtj_ZVvx6ndOJhcQ	PalladiumTV	20	132	4K
+UCkV69aZ041agR5LyQIoV9Jw	OLED Safe Screensavers	20	37309	4K
+UCdKaQzCC_XkE8MFOI2M0_VQ	Paul Drive	20	2900	4K
+UCmye1eV9Uuw6TCqkUYJW1oQ	POV JAPAN	20	2815	4K
+UCuHPMEhw_DLb4xr1kAcuR_A	Philip Hamill	20	602	4K
+UCfhqk1LwYmPBH8ALa3nqAdg	Peaceful Relaxation 4K	20	6363	4K
+UCNzul4dnciIlDg8BAcn5-cQ	Prowalk Tours	20	7300	4K
+UCfbkraMQPT7l9d1yTYpDR1w	Popcorn Picks	20	545
+UCWf66qylPbIXt1OFcTu3ouA	RELAXOPIA Relaxing Music	20	1532	4K
+UCTmuAFtEfOOYbzuu8gXjx-Q	REAL THAILAND 4K	20	3101	4K
+UC6dvBWj05dbLxpZaZlpmbZQ	Rain City Life	20	39899
+UCLg8e3iLC1uc_10CTgmy1JA	RainMelody 비멜로디	20	86401
+UCAcsAE1tpLuP3y7UhxUoWpQ	Rambalac	20	4975
+UCqjD5UzXn11INaiKUSaUGcg	Relax Top Music	20	3472	4K
+UCT-uo-xs6NSWok1c9SQnflg	Rihard Travel	20	1014	4K
+UCEMU7EH61v91RUaCQFj38Xw	Relaxing	20	3842	4K
+UCqpaUtZOxtTt6L03-6Osn3w	Renee Gannon	20	148
+UCqtCCNUAwf8Tv3uD4VWjiUg	Scenes By Sevy	20	4117	4K
+UC07J-FrWO04H6B0eE_qh6ow	Seoul Trip Walk	20	3746	4K
+UCbyN2rYc7VOp32qEuEGskyA	Sentry 360	20	393	4K
+UCSZXwdBppzhYpcqf69WNOIg	Seoul Walker	20	3724	4K
+UCW3fRysHidYIHanAeqM4Qfw	Serpico Dreams PHLTV	20	524	4K
+UCZMXqLB3rFFMavUDqazI8wQ	ShiningstarTravel	20	2141
+UCH6tlt1xmwe4iPzcaQvvseQ	Soul Healing999	20	28238	4K
+UCqfN94oLgWYi_Mjw_vLQmVw	Soundrise Speaker Stands	20	133
+UCeYUKvRrRY9V3DYdZd1Z_eQ	Strolling The City	20	3751	4K
+UCDsM7CJHqn1_pqrlSrGSXRg	That Car Guy 1	20	398
+UCliVSFfevlGUhItfcceOiMw	SwissWalks4K	20	2870	4K
+UCUWaNOcKBi24MH9GNGAUKbw	The 4K Guy - Nature & Urban	20	4607	4K
+UCW__xtEbHGGnFEYwahxbzBg	The Cheapmunks	20	207
+UCxgndWM4UrZqXuX-Fmv2n5Q	The Movie Clips Dude 4K	20	245	4K
+UCFN_dQuFU6tXwVLXppqOwpA	The NYC Walking Show	20	2342	4K
+UCSYUlIhGMCdM-oHxwvbhhLg	The Travel Docket	20	3738	4K
+UC-uwguDW4NVcbrteg7ab0vQ	Through Streets & Tastes	20	4097	4K
+UCJuMMolzqSXGa5Up1ggi7QA	Tokyo Lensscape	20	564	4K
+UCAxMEpfzdJ2dkrplSWehgcA	TokyoStreetView - Japan The Beautiful	20	227
+UC_Lf7jaHMbla1YBgkAEKdvw	Transit Observer	20	1328	4K
+UCEZ_zB95xT6J8u33-pBF6UA	Tourister	20	11048	4K
+UCmBj7kk66IY375esveeXpjw	Travel Links Directory	20	190
+UC5MUVU_-OpPDTXMKsYcxT8w	Travel X Overland	20	3436	4K
+UCwnse0x8t5YNtMTxdKliZJA	TravelUSA_withme	20	2460	4K
+UCzlwplcC7kx5_YvMvQJXjLw	Travel at Home	20	2714	4K
+UCnPZTdhDoffZqkkmjgS1PJQ	Travel with Dante	20	710	4K
+UCCRSaRxwIJ6BMFeoC_DQIHQ	Urban Rain Beats	20	86401
+UCM-Y2arEt7fd-CILPVLB7Tg	VISUAL TRAVEL	20	2760	4K
+UCUc8mpd7aQROHAb-KxdoGww	View Escape	20	36190	4K
+UCP554b-nJfaIOIiRKsGnY3Q	VISUALDON	20	35161	4K
+UCnvLGayHxWh5YZjpJjZ6WRg	WALKS and the CITY	20	28726	4K
+UC20vyRWEaC2GIS8DkmeRQaA	Walking OZ	20	6766	4K
+UCQOU3PMT7Fc4s5HNazNn5ZQ	Walk This Way 4K	20	1357	4K
+UCiVSJutRI7WdDuXV93fRWvA	Walking Alice	20	3502	4K
+UC9gTnRWNLc5qIED3thaRe0w	Warped Lab	20	185
+UCPur06mx78RtwgHJzxpu2ew	Wind Walk Travel Videos ʬ	20	3185	4K
+UCj0VQx_rJuOM8JAeV4tiQ_w	World Driving Tours	20	4914	4K
+UCInI8V7BZc2HghONZWKFGgA	Window Scenes	20	10304	4K
+UC1rJC1fTt_vQV_nLhNdXVwg	World Scenery 4K	20	12134	4K
+UCdd_lCo2RDJxi-prcY66tHA	Your Virtual Passport TV	20	1857
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours	20	6827	4K
+UCtKu0FmGM0pwiYFuAinPXlw	illkoncept	20	1006
+UCnLi4uq97b--ATRdaxNsa9Q	神の空	20	460
+UC1W8ShdwtfgjRHdbl1Lctcw	NASS	17	529	4K
+UCGEl1j-xI5LU4re2miXyUVA	Wall Art Videos	17	7925	4K
+UCD8J_xbbBuGobmw_N5ga3MA	Denis Shiryaev	16	327	4K
+UCyXdr4AX48YOKC0wiWlxB4A	Taste Fit & Fun	14	3246	4K
+UCMlELrDWGIsZmve4i9ZZxVw	Dileep B G	9	123
+UCb77rPJ-F_B2q1j4iWloV8g	iliedtoyou.mp3	7	167	4K
+UCEOee30FNr_Lx-H06a_BJew	Free Stock Footage Cinematic 4K	8	212	4K
+UC9kJz-X0119ENOJImmPiPIA	Let's Walk - Travel POV 4K	6	3223	4K
+UC5LPbPp5DRKabKfWS9XMPWA	4K	0	0
+UC9fJ0Ic5ki8XL8p2KUs4hmA	 Mesmerizing Time	0	0
+UCkkeqkJGE5tnTezZsndN6_A	4K Cities by Adnan	0	0
+UCtz2BUySM6IOlt82RQ3mTTQ	4K Scenic Relaxation	0	0
+UCJQvXv_-IXoibYT4TWeQx4w	Adnan Akhtar	0	0
+UCpq_tutd0mGSzIa3HF7A09Q	Adventure Ambience	0	0
+UC_9XPoGXSj9LIEQIiXMyqvw	BeyondWilderness 4K Relaxation	0	0
+UChSpME3QaSFAWK8Hpmg-Dyw	Calm	0	0
+UCV__3m5-J6XIxBNPUZYDvYA	Canopy Soundworks	0	0
+UCRBxNo8g0KMaas3-Pvk6_gw	Cozy Ambient Escape	0	0
+UCfak21UYFUer7Nhucu3CuJA	Cozy Rain	0	0
+UC96eLg8sLRfLDLQVVjIAWhw	Csaba Czető	0	0
+UCz_O4d1R2Dmq_3xkdY6AkqA	Elliot Hair	0	0
+UCtGqQSpH-GMs6SjhgC_MPHg	Earth Relax TV	0	0
+UCFnFAtTOnrLWdkH7iOlikmA	Earth Vista 4K	0	0
+UCE0EZHiUixQiyApteP7ovvA	Explore Earth 8K	0	0
+UCpcqcjmoP794vZcEjhBLE2w	GoScenic	0	0
+UChK7ia5MI89iJpYQBDBiKCA	Hike The World	0	0
+UClHrno55WYH-bfhSmTRnNRw	Journey Across Earth	0	0
+UCfWCF37MI8ipa4_Bc7vbuIA	Legacy Travel	0	0
+UChI-cTok8fJePnryAd0mTvQ	Lifestyle Hal	0	0
+UC2VbiLtl4NjMYIzXzMzCLow	Luke Adventurous Spirit	0	0
+UC9MnIIO-899pbY97HdcjrQA	Lubos Benko	0	0
+UCxMeEu6qgNPQ0iz2b-0adUA	Mix Master Six	0	0
+UCQGWqQUSBwr-E_Qduirv5GQ	NL.Droneshot	0	0
+UCfsZsMaDMDpN-1lYeWnteMg	Nature SFX	0	0
+UCM3_5y5xvgqLfh1Ez9l2Rrw	Nature Sounds	0	0
+UCg4THfp6wZJ1yHEhVe2G-Pg	Night Rain	0	0
+UC00WgItwF2-1CNhnfEebbzQ	Peaceful World Views	0	0
+UCacDBJ-dYd6PHtFKj6cLToA	Peter Hanzes	0	0
+UCPQBZj9Cv4b9b89oh8qgHvA	Pure Nature Films	0	0
+UCa6DBGeztqfXOwcpUnk0Ccg	Pure Sleeping Vibes	0	0
+UCdvpva_ZgCAUYdbI1Ov-gWA	Rain - Sonic Meditation	0	0
+UCa2aRAISGzMawoUFDhundNQ	Qlobal Gist	0	0
+UCwKDfsEiTX4XLc6NQvMsYoA	Rainforest Recon	0	0
+UCvBeCYTRflgKv-KXVRt5GDA	Rainy Day	0	0
+UCiTyVU7qZ59SVbnye6xyOyg	Relaxation View	0	0
+UCtrKN4Ty-tI1S99zIOhq8lw	Relaxation Pharmacy	0	0
+UCswEuCy5TiEHMmfGCW_6AWQ	Relaxing Worldz of Legend	0	0
+UC2wPj_TG9CZ1_DZS69oyKnA	Relaxing Music Collection	0	0
+UCNdGwhwU7EU51MuBhQFRL1g	Sleep & Relaxation	0	0
+UCHUasKgaX8RiN7UjJxIvHPg	Slovakia Film	0	0
+UCpk3W9ZdKX83AakFh6j4uQw	Serene Places 4K	0	0
+UC1NaiiVy_jnY5qaJU11PZJw	Sleepy Rain	0	0
+UCIxpTD4vAehR9rtwZuLpwtg	Soothing Rain ♪	0	0
+UCtpR8yd5zItyPAa2uLFTPtQ	Time for Sleep	0	0
+UCrgZVe7PztRFCi6UtPgMTvQ	Soothing Sounds	0	0
+UCqcjI1_Z0OMbdSvONoYsGhg	Tour & Travel	0	0
+UCR-8Vk-r7HLTDHGaPvfJ0fg	Travel With A Plan	0	0
+UCF9KnzQ28vwosfVDfSmvjXg	Ultimate Ambient Noise Soundzzz	0	0
+UCckFgF1RFFbLn3bkaeLHI9A	Unseen World 4K	0	0
+UC1h4-dpT9xmqTM_k-IxVOAw	WhatsYourPriority	0	0
+UC_VnopgT41pP6ZFd-NJs10w	Wonderful nature 4K	0	0
+UCoaBUy9HDbcqvJQMrQp_YeA	unseen walking	0	0
+UCbhy5JHXn3IVZMksNSR7LkQ	ΣHAANTI - Virtual Environment	0	0
+UCQD_BSyG-1uspyCvX6ZagOA	 ax_bassax_bass	0	0
+UCKflNyxZMezC1ztol5H12JA	1StockFootage	0	0
+UChF91xDx6fjpYKd8vL5Lp4g	3arabsports23	0	0
+UC3q7a7hJHbhSWlE1z83TKUw	5 Facts	0	0
+UC9mWO6vm9kREdHlIOhMn-kg	595CSGL	0	0
+UCj87Qsp3k8DzlwZTGp16Jlg	5TimesTravel	0	0
+UCeWT3BW6ya9NJdEybY23x1Q	98K Views	0	0
+UCkrGLIKO56EY3NvK6HZMmQg	ALL SpoRts M.A	0	0
+UCuA2X0bGjSAsN4EurtuQlCw	AROUND JAPAN	0	0
+UChSX8BXAOFGhZnszQxxNxmw	ASMR DRIVE	0	0
+UCcb-pFNp5Tqc_YlfQsDaEZA	AcademyAwardClips	0	0
+UC-W9KMQwbgRjZ9X9ZPbyjqw	Ahmad AbduAllah	0	0
+UCeHFYuRlFUZFLKv7AL8TwfA	Adzee	0	0
+UCJ5_MfXG1rSTrkY3pxeBN0A	Alan xz	0	0
+UCMZWwO7gMk6FdyTK5zCeULQ	Alae rida vlog	0	0
+UCwSIJCMWZC5GDM59wj7pMsg	Amazon Prime Video UK & IE	0	0
+UCj-ZTw5RIniYcMn2OGSeL8A	AmbientDreams	0	0
+UCQtgBG6iMkcmPO0SxLdkRSA	Amy Birkett	0	0
+UCI0BtfsdB3efBiwTYLRRDIw	Andy Kuo	0	0
+UCJ5Xz72QxlzG86SKoPsbaRg	AngelOfThyNight	0	0
+UCUcJ60ESu_CBWp2__rwbnSQ	Aniket	0	0
+UCbsxBUrEBPv53gd0HKkFo3A	AnonymousAffection	0	0
+UCE8kbb2nJ0pgKKoo76vSjzw	AnonymousInfection	0	0
+UCgYOiNqMfeMscg1FI4i2DXA	Assiut Street	0	0
+UCgQnmU-HLPM4lxfGScOpbGA	Average Traveller	0	0
+UCTdWM8YCQGYVhLxyZ0NRVgw	Axel Hunter	0	0
+UCOzUXFP7J2k8zf3KN8ms6-A	B-Cam police	0	0
+UCTgCBbBiUCeWvj8v2uTY_sw	BakeryPilot	0	0
+UCCIvlYoPa9S1KqipA0k5b8w	Beto TR	0	0
+UC457V3eydK4jUJ4JhQq0LcA	Binge Society - Action	0	0
+UCwDWufHMcBwZKhknz3BxE5w	Borderless Mobile	0	0
+UClw7zuGRSlBJqdTrOR_6ETA	Brian Phipps	0	0
+UCSj_Ewo8V0CUKF0JT9s6sAA	Brad Williams	0	0
+UC6iJHoxMdGdscXUM0Qvh7ow	Btolat قناه	0	0
+UCR2GKAWfBpi_7lioy7mLGfw	CE-note_vision	0	0
+UChKrsg_-zkRRQFJ76_6Zkvw	CUT SOLO	0	0
+UCX4baPDYj7oQeMvzzZDIeSw	Canadian Cheer Videos	0	0
+UC4crI4mO0KbxO9SqWLNxmvw	Cartoon Space	0	0
+UCjmWlhAP5qu1D5z9NzMFXvw	City Ambience NSN	0	0
+UC6ufCArgk1CLB4v7pbbBvEw	Centsless Pictures Youtube	0	0
+UCNiGYwneyNvfAIAcl6eOqmw	City of Newark, NJ	0	0
+UCtMEpYpBm3YVo5ijQzUZdLg	Clip Empire	0	0
+UCy7G-lfkfdurEdTjFW9njdw	Clipped Vidz	0	0
+UCaZlM_FQAo0ZZ1A9NCd9l3w	CoachYourSelf	0	0
+UC20DNxT_UjT49mYOIocJAww	ComicBookCast2	0	0
+UCuIVkjuZ7om5jG-RxDgQQtA	Cosmic Siesta	0	0
+UCZFrZg_eWhLD_oCWTU9v0zQ	CrowNicle Games	0	0
+UCEEbKW8_JXWa22I98MdL_Vw	DJ Wiz Life	0	0
+UCCw3bX2H_-bf3ALCuPbNnKg	Daddy T Japan	0	0
+UCUO0B0xmGVDwJuTxQXKLF3A	Dani the Explorer	0	0
+UCyzjLb96Whbhh5RkSXZQGEg	DarkSpino306	0	0
+UCDQOGrdxNgqcErEmV_Q-yvA	DarkHaven	0	0
+UCZDYGzlLRDO_QS1TdWWVylg	Deep Calm Studio	0	0
+UCuDbrFD9zG05mvTcOwA450g	DenEmonMusic	0	0
+UCOCCcqrqdsEqlkMjZwEYwSA	Denki	0	0
+UCTWKJdqDll-mWG2Ob2F4oGg	Dragoo-Huntaz Cyclaz DHC	0	0
+UC4Mkc1afKX2skWtsFm-Lo7g	Drewski324 Plays	0	0
+UCUlP1MngXCZP3Wp-8rVhBww	Drive Japan	0	0
+UCbLGigix_x50nBAJDVRTyiQ	Echoes of the East	0	0
+UCZqhZ_ktrD_UfZY--lXU_ZA	Edina Explores	0	0
+UCwGZ0gavp_labowvu_h97mw	Eff yoo	0	0
+UC5MOWL6Po2zVEzlKY1EUIqg	Elevators, Trains, & More by Transportation930	0	0
+UCTtHcrE9yRonkg2q6YN45ew	Emad Masameer	0	0
+UCeF9g1p1rg1nC7IgpRqwlKg	EleynMarie	0	0
+UCTpVX5Rqs6JSBDEOHIuHr2Q	Epic Earth	0	0
+UCvzLTV-oskDiZ2NouAQCM0w	Etherealm	0	0
+UCqJ1KoFaw1SqnALuYyIFq7w	Exithamster	0	0
+UCmXvGGaL69PXcI3mSI-s5Tg	Eye in The Sky	0	0
+UCiipXeG2sXOSvZh7RkRlu2g	FOOT 4UHD	0	0
+UCNPW2H-xwp2TMTG0WBrIW2g	Falcon Media	0	0
+UCPD_ssNliyxReKVRkViacag	Family Flicks	0	0
+UCJCdiZtw9zStiR3xgnp7qlg	First Coast News	0	0
+UC-GAhNmY6bkuuRPUSaRI_oQ	Flashback FM	0	0
+UCgW2rvcP_ptNrgCw2QmiI0A	Flow Travellers	0	0
+UC7ORfbE_0wHGQW9h4uAfFuw	ForeverxAlways101	0	0
+UCZZi-YQEZofrzA4SZ4U8YXw	Frontiers of Nature & Curiosity	0	0
+UClFRMZ1yJT89Q3k8H5ebkGQ	GAvillain	0	0
+UCtw9Qo65cqjV3KezZ0F7wFg	GOALanho	0	0
+UCeie_F-OtH2dNG4LcwItMDw	Gameplay Decade	0	0
+UC94QN_kttlQtNDBeExGkErw	Gabserr - Cinematic Story Gameplays	0	0
+UC2tuYIUxRV1Kk1gTQyggJZw	Genki Gamer	0	0
+UC4CvP4ZrV5wZ57pixcUFI2g	Gosto11	0	0
+UCWZjP4g4G52DSpR9XQxeQzw	Gu Ti	0	0
+UCdtPGtqfX4Tj2bTIhxNH8tA	Gu1maz	0	0
+UCNmZxXf4VVW5xpa3s-Pll-A	Guspace	0	0
+UCed-NoTBRY_ILbbcf8cR28Q	Hall Of Heroes	0	0
+UC2_yLq2S1QgaV8qRxFZkAqA	Hannah Barge	0	0
+UCkloiYMQMiXWutjoU2u0zLg	Heart Calming Music	0	0
+UCU_i3oDBvGJTg7JC2MfYV1Q	Hidden Wonders	0	0
+UCKJLkcrrNyOMsmcoxpPDUtw	HideToMotor Japan Roads	0	0
+UCsFvZgrLVdQAgv2XGvU2sfQ	History Uncovered	0	0
+UCpEbBMzk9G8d1fu12THjsng	Hop Light	0	0
+UCgPMYMYnZara7G8aejCEDhA	Hound	0	0
+UCBRKUCgUJsb85rV0mUpvHXg	I-CHAPTER FILM	0	0
+UCELcmKOJJLMSiRYNkjYlBWw	ISE the travel picker	0	0
+UCfAgm2ONoRBLFdN2--VC8xg	Inspired Money	0	0
+UCcb1Z9y00SNSo5SvUwQxkxw	Ipragao	0	0
+UCNeMDuzREWzMyBlps4T5J0g	Isobutane	0	0
+UCbQ4fbi0fy3d6Hb7q2FIATw	It'sAGundam	0	0
+UC2XB8_88GOpzNKHqeqs3XPw	James Eric Tidwell	0	0
+UCn9Sy5xQttDp_a5NYf1M_Uw	JapaNomad - Video Tours	0	0
+UCfZheyP8picuxeKLQot4u4A	Japan Drive	0	0
+UCKdCEbeDBLUsY93XUS1yM8g	Japan Rain Walker tkviper	0	0
+UCCbnt4UokMxYG3jt2FKXtdw	Japan Shrine TV	0	0
+UCEBupxsmTWCbREdkVHXMwVA	Japan Space	0	0
+UCqPYhcdFgrlUXiGmPRAej1w	Jason Stephenson - Guided Sleep Meditation	0	0
+UCalcFcqOC_UdfxQAPHhwOqg	Jersey Shore	0	0
+UCMLmKYy3rUlrQhYdtE6ibgg	Jetset Explorer	0	0
+UCb4OdZSS0pgvHFlvLod-v9A	John Crisafulli	0	0
+UC5eLdius-QAABjYXDWDK7SA	Jonathan Zaharek	0	0
+UCMyvDILm_rR5Oob2lACU1LQ	KCP NihonGO!	0	0
+UCGN7VeYOJgZ7LXnnoYMyNLw	KNOWLEDGE ATHENAEUM	0	0
+UCinjnmQEwCddOudyCC1v7qA	KTLA 5	0	0
+UCdN4aXTrHAtfgbVG9HjBmxQ	Key & Peele	0	0
+UCWdWRoNp3hrzXbRqr_l61HQ	Khalid Yasser (‫التسويق الرقمي EDServices‬‎)	0	0
+UCvYJV7a0ZqM6Ly7t-xptm_Q	King Kennedy Hart	0	0
+UCHWTvHawJtbbwuRY8NBxWng	Kol Yoom Gded	0	0
+UC-49Q36NmhHko3xFCdmBwKA	LIFTED LINES	0	0
+UC9k8DFH4a1yYtPZs2P0BhtQ	Latha & Prem Around the World	0	0
+UCFurB2BS2iVs1esI4u_w15w	LazyManhwa	0	0
+UC8gSKqhV-X0BBjyvYSu9wqQ	Library of Wisdom	0	0
+UC4c52O2m7xp40a6Pp3T1g9A	LidiAI	0	0
+UC899EPU_dwppd5VbRDcrJLA	LifeUpgradeLab	0	0
+UC1IZNhMjk2JfU0xL-8ea9MQ	Liminal Studio	0	0
+UCrcKcnl7HDZ5jbLJQb3D2-A	Live Goals HD	0	0
+UCSJ4gkVC6NrvII8umztf0Ow	Lofi Girl	0	0
+UCVIaEd2qVJyoIDMtD9WkcSg	Lofi Lounge	0	0
+UCztaLI2JUBxcFcDOFEwnvcg	Lux Mentis Luminarium	0	0
+UC3qPevWmIloDq43h2Xtq8rQ	London Explorer	0	0
+UCcVPowRMtgETdeX7x_KJ9wA	MOHAMED EL MAKAOUI	0	0
+UCkzy2SbUftJEfjqTQErzuOw	Make Life Click	0	0
+UCOSJVk71utzoCmRxzcfhM-A	Masicka	0	0
+UCeiTVoOWkC5WxuSdf4WVDJA	Master Ada	0	0
+UCdf1NURDt0MN-mmWs2t8p9Q	Master of Gmes	0	0
+UC91V6D3nkhP89wUb9f_h17g	MeatCanyon	0	0
+UCaB1TemERfb3FF7jPx0bJ5A	Medieval Sounds	0	0
+UChedcjWAIK_J5t_zaYiftyw	Merk Life	0	0
+UCD12MTIsD5p1JrMZELcwUSw	Mery Brown	0	0
+UCYb2ju9EtiFW__bjKkudGzg	MiX - افندينا	0	0
+UCiOumh1r4X1vGgCBSD__NgQ	Mondo Made Magic	0	0
+UCwJzC-GSNWPC4t3Pkycd84g	More Bunny	0	0
+UC1_DgdElP0RnVah74g06b-A	Movie Jukebox - best movie scenes	0	0
+UCgWRHwKpfFffxeb_qpVyn9Q	Movie Logic	0	0
+UCi37K5Nrz9HlgNLsFBfhE-Q	Muaxh03	0	0
+UCERaV8DU76Z22BCWLnRj3iw	My Japan Experience	0	0
+UCBefBxNTPoNCQBU_Lta6Nvg	NEFFEX	0	0
+UCWmXjudJSKyIaIFUBwe1ZtQ	Nature Speaks to You	0	0
+UCBSs9x2KzSLhyyA9IKyt4YA	Netflix Anime	0	0
+UCW68oDJd1Dbd8-ley3G7fSA	Nerodynasty	0	0
+UCdjEFwphRW1lPEuJxf-jwQw	Nikita Spires Art	0	0
+UCt3TJzZvMkz3AhkpmysFThg	OurWildWorld	0	0
+UCBz3XIqavhbYRTHCr-aimmg	Oxmo Around The World	0	0
+UCdK8la4Jqaa5UGkCyhqSZrA	Passport Nuggets	0	0
+UC7tQzHho5NUXgpYaq1nrH5A	PenguinsOkay	0	0
+UCKk1DfbCOBm_42PMyz7HqEA	Punchline	0	0
+UCeQiJnrYpwUtkWnFLSWWtcQ	RC Family Travels	0	0
+UCrmI11fTLiWZpgvs-rC4qRw	Quick Travel	0	0
+UC4SGTFQps9OF4iM-5f9nSyw	Reddit Brew	0	0
+UCLP-JPVXvCEGL1Gb706hs9A	Rainhill Banter	0	0
+UC1NyCbx5Q9NLCK88ZA6sJpA	Relaxing Ambience	0	0
+UCZFoFDjjVq_t7RP4As45RIA	Relaxation Station	0	0
+UChJ3CppCX4P0nkLCvpWqfKw	Relaxing Room	0	0
+UCSDG3M0e2mGX9_qtHEtzj2Q	Ring	0	0
+UCacsfrsIEX2gHIbJFQ_PM4w	Rizwan Captures	0	0
+UC6JRT92lR2Q1dlA3Fs0nnTw	Rocket-Media * Juventus F.C. Legends	0	0
+UC5yUuQsoJN488WKiTlHhtlg	Roots of Time	0	0
+UCEIu40oedCGolSDN5RIMNGg	Roy Hans	0	0
+UCtT8fGWyOK9OlhttrbVHknA	Ryan Felmingham	0	0
+UC6E9LRz8DiWiEPwVgmiXv8A	SD | Media	0	0
+UCa4Wb-KLLLXIjCn0KRC6Q3Q	SH NEWS	0	0
+UCYrZHc31Ciaob_7lHYsNYTQ	SPORT FNI	0	0
+UCq8AsL5N5nHj23_acBbn44A	Samurai Directions	0	0
+UC_EKvVzHwuJKTYOkRUkv4gg	Sensory Sheep	0	0
+UCokYEohXuS2NH1Rld-Ssu4A	Seoul City	0	0
+UCXI2sj5kaCfMCkYcGk1m44A	Serious History	0	0
+UCESjGPG1z4NqS0QidZVD0kA	Sherrie Edgar	0	0
+UCivMv2jT152cuiE7is7E9zw	Shogunemperor	0	0
+UCrr82bRKIfFlmMBPeO7spKA	Shreddddder	0	0
+UCIkNZ5OtGHSsgm6Ja9hnLJg	SightsNSounds	0	0
+UCMMjqbXWsx2McZEdTs8IuhA	Silent Japan Drive	0	0
+UCytGXU22LXbt_NbH1mRBL8g	Simba	0	0
+UCZpGWKnO56t67JmCfBLwoYA	Smooth Jazz BGM	0	0
+UCYJPby9DRCteedh5tfxVbrw	Smosh Pit	0	0
+UC1pHTb2xQfdegrTaXhxGCbw	Snow Renkon	0	0
+UCATHv9twOcqTZ927mddsscw	Sohei Kakuta	0	0
+UCDlANlJjPMUo9j6Z_lkgSqA	Soothing Sights & Sounds	0	0
+UCkfE8dIkr19j7Ac4E0GTcjA	Soundscape	0	0
+UCxX4nw7bXwJXNDQI5Nxq59A	South FL&NYC Elevators And Beyond	0	0
+UCLCXvU8s-kgM8ePd8iZl2yA	Southeastern Pa. Community Watch	0	0
+UC-2vh3f5tIDkt4K01ZsGDXw	Statue of Wisdom	0	0
+UClAoHFQu0FI7ZQg2RdUByAw	Steven Rosberg	0	0
+UCaDmRqTq6yoZiRgGlykuy5g	StormySleep	0	0
+UCocQXijjm_TLg3af1W4Ie5g	Storytime Grandma	0	0
+UCc80v_GeypRR4J1xq4548fg	TIGER TV	0	0
+UCWgAmDnlxMxS2gJ5cqlEcnw	TOKYO 4K DRIVE	0	0
+UC9OIZ77MhlVoi4IxLFXl-nQ	TOKYO TONES	0	0
+UCZJEemrM4Ot6Oo5YV-IsIew	TOYOTAKIAS	0	0
+UCDIB942078BlAGqzRa4yEkw	TWK Adventures	0	0
+UCtUrcYnZk2UhXjO2iIBySGw	Tactical Peace	0	0
+UCAUxk2y1aILCVK5o_Jtd8Vw	Tales Lost In Time	0	0
+UCHb7wgS69oUwurcI_tvatVg	Tas Drive in JAPAN	0	0
+UCI_4xw1y0CV-1gVYK2PgW-A	Tastes Seoul Good테이스트서울굿	0	0
+UCQhcGRlM7dwEz-0IJgqApvQ	TgotSoul	0	0
+UCXAEqjQBhY4M0vGwC8K7ozw	The Broad Life	0	0
+UCF9-hyKg9Mzc__Q6JF-JEjw	The Christopher Dean Band	0	0
+UCE_tGX0y1gnONCwUL6MkaDA	The Elocutioner	0	0
+UC45HIV0AdQveF5z6istS9mQ	The Somers Team	0	0
+UChM5vUkgZBaW8lIGvmo6FfQ	Tj Blaze	0	0
+UCCNGKt-qmFPkrrJbUtZbkHw	The Unfolding Journey	0	0
+UCzn2lMnI2LR3qHSzXaT2PcQ	Tk	0	0
+UCYqwKbfsgnuC_9mgCSzNwHg	Tokyo Slow Velocity	0	0
+UCaaSp7JYkACHR-Sr-p3OHeQ	Tokyo Views	0	0
+UC3TB96_VjCUuaAXaAtvDEkQ	Travel Across The World	0	0
+UCvRPUod-KvLKHE3DgCQPK0w	Travel Titans	0	0
+UCfHfiZb-GZIXgx1TqrGCQ8A	Travelling Talks	0	0
+UCdXdz8_mHv7tdhjZRUeMffQ	Trip Taste Reviews	0	0
+UCHoRCZIwPBu3E8aFbJvu1JA	Tru Natura - Relaxing Rain	0	0
+UCzopXWRdJU5Bta4Af0IkdlQ	Truth Revealed	0	0
+UC_AUPzveIuso3cYXKgWvlqA	Unique Mecca Audio	0	0
+UCVtHlqfvXn-6m6A2IWUB8MQ	Unseen	0	0
+UCzUv4XPAHqkpyrdi7eTcmpQ	Unlimited Travel JP	0	0
+UCwlx8Uzmjewta4VeQRaAqWg	VS Basketball	0	0
+UCpFIFyodGNcj9MzFeatH9nA	VerbaVision	0	0
+UCa7EE1vkZpYnavB0KZAphRw	Viajero981	0	0
+UC1z43UdL_83ZpWgxf8ncYpw	ViBaCruise ビバクルーズ	0	0
+UCCDLunGhXN3QvWfvzVhZyRA	Vibes	0	0
+UCYY_gFZXgS8Dl0fwgoYfWmQ	Video HD	0	0
+UCvf6Q0GjtHvibO5zoCEn0UQ	View from car window	0	0
+UC-PXOmwhS-6RrSkuo1txlgA	ViralNewsNetwork	0	0
+UC2PeZFS241nBy63YllGvxtQ	Virtual Explore	0	0
+UCBpHtPJG3glSjjqKrKAF3xQ	Walk From Home 🇯🇵	0	0
+UCgKkNPU2Ib7_TcyAl8M2S-w	Warner Bros. Entertainment	0	0
+UCircJf-FlToBNjuy9xG-i5A	Watcher	0	0
+UCPuD3WYJ0rkpLqDdyavC2WA	Wax Museum Podcast	0	0
+UCcOLqiFXdz9g__oHIdoImKw	WayneWestland	0	0
+UCy-9H9smSzM9SkKRLVm6jgw	Wingspreader	0	0
+UCvRmcc2NGtfZYpplHoaskbA	Williams Morales	0	0
+UCViivo5KPJmAF5FysWXOQqA	Wisdom Insights Path	0	0
+UCjKV4Lsb9S_2pKUbnHfrYVw	WisdomBox	0	0
+UCkODG7pU-t0J1VK5T4UZIrg	World Holiday Vibes	0	0
+UCQSb6nZYMZLWBnHfxi6OV0g	WizArno: A Magical Journey Together 🪄	0	0
+UC7SjGy97WqHZTzR1MjMGxUQ	YGaaHung	0	0
+UC9ITaUW_LGR-wC7rltj7vRA	Yas Sports	0	0
+UCC-W_fYDbxAe1Wx05SMlQNQ	Yassine all	0	0
+UC0JMBKP-AszrW4J6Gv7P4SQ	Yazan jordan 22	0	0
+UCNjGGIUyC6KJsion044HaXQ	YetiAF | AI Universe	0	0
+UCsnQaDlVPbQMR_H45K4vm-w	Zenphonic	0	0
+UCKxCMTdW2-7s4Hi2crQgXoQ	aerial0	0	0
+UC9Lx2A2oCaPeHluoBTYPyVA	aramatsa	0	0
+UCipryUPpWH7hRhCc2B5zy9A	arcadiaunified	0	0
+UCmFfN69-rb7h9VL3ncVgnXg	djhichi	0	0
+UCIA2WTXb2VpnxzkJypTjP4g	el haref	0	0
+UCpnLLT1q3PY7_ZDdFwDPqYw	eko-easykorean	0	0
+UCZ2YmU9IkNVbeCCcBmX6oyQ	footagefarm	0	0
+UCK6sMTsM0JM6hmqe1IrlWSQ	hideto ODR	0	0
+UCtwZHlspvcrCJA8onQzkT9w	icedelgado860	0	0
+UC4jySKpDo0OYoBL7jC0x58w	homeandawayfan101	0	0
+UCDB2dtYugDTCkBoY-aNEtJw	iesuzume	0	0
+UCJ_Gd80prSNPNoiuN69Abaw	koto_chan 90年代後半のテレビカメラ	0	0
+UCZVVPzAvbSS65SSkOIoLIjw	love music	0	0
+UCwPvbQhUfpWux5tJ58RtTEw	mohamed rabea	0	0
+UCIxapChazpLOEZQa2X353Aw	mayorbloomberg	0	0
+UCE_S1IfcsmxaE-OLK2oeizA	moviestudioland	0	0
+UCmW6jm12Ead89XYdcRntzPg	njgruber	0	0
+UC6dFb0Wb2-a3szHmiCKPyhA	pe pe	0	0
+UCrhO2PcLBoknEkrIirMJkjw	oo	0	0
+UCWPfwBPtnyeE1wXp29MUvjQ	rcsguy664	0	0
+UCYV1gU-S3img0n2-fvfFPCg	revenge reddit	0	0
+UCvXcFMZ9zfMSt6P4eGkd5Jw	sakura2336	0	0
+UClUfgsf3Xxan8kh_iRFRNRg	rockandmetalnewz	0	0
+UCGKZLnw3CEVnIVUsjpoxMCA	skondi منوعات 😉👍	0	0
+UCKn-4rkC8ut_46d_jGnlLVQ	snemajo	0	0
+UCrYNlm1WVFqzHQyyTW-gk8w	tayla june	0	0
+UC3SVw0HRggtc__N2KymtTMA	the voice of wisdom academy of English language	0	0
+UCkiMgxQo7jnQEZsqRjYLwhw	tkviper	0	0
+UC_F_k3rPv_RADzkgq3GbqQA	tommy james most random	0	0
+UCb0xfM3HGOsqPYNAocXXNAQ	truTV	0	0
+UCuGOMh3NiLgAsMaycgDZtTg	vzoox 4d	0	0
+UCjNOW2OaRN6_wK3hQdeRrIg	أشنو داز فالراديو	0	0
+UCz7taFppR89t1MgOeSLyHew	اخبار بلس	0	0
+UCv_coNJ4fvRO1y4ERflfvvQ	الأخبار بين السطور	0	0
+UCsSdO-ueDY8SIil3Pdhf8iA	الإستاد الرياضي	0	0
+UCbH8eAkAKKkbLimDxCV84nQ	الدرجة التالتة مع حمدي الحسيني	0	0
+UC8CRFw3XwH8IC3Swa92Pt2g	ان سبورت	0	0
+UCaGDiQ72lBDllDdA4wPVHfA	جوه الـــ18	0	0
+UCRNbH0fvZzx7oLHmOrVMFLw	بتاع كورة - bta3 kora	0	0
+UCHQ-7sSEFoGYY34J8bgK5tw	عاشقة الترجي	0	0
+UCVdBm8qNbTBa3SwXFXOMw0Q	فيديوهات منوعة	0	0
+UC6HCLVh7QmflNjPVyzSdBjg	قناة ابو يمن	0	0
+UCstpBe8MczV-IYjN1h6YBag	مملكه الأهلى	0	0
+UCO4FcZls_UOr1IbCI2p-4Pg	ٍSports ON	0	0
+UC39ZbEFNIVkD9roIR2ZhMxg	これすけの旅行	0	0
+UCWxt6CAERHxoMYQzb9AW3Aw	日本一周一人旅	0	0
+UCUfuoQEErdPHP2zbEWBjO5Q	タビトム サイクリング-富士ヒル挑戦を目標に毎日成長するロードバイクVLOG-	0	0
+UC1s4aRc578_PIRE82-Zs0SA	東京夜景コレクション	0	0
+UCqsSVUYOJCe2yM5lRfHbjjQ	柚米短剧	0	0
+UCVLaXn5DvZofIIp3527mSQw	神馬動漫	0	0
+UC19kr9a7XTY7vVTPsUczCdQ	🌿Sam's Relaxe🌿	0	0

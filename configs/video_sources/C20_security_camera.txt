@@ -1,0 +1,261 @@
+# C20_security_camera — 125 channels
+# Auto-discovered, needs pre-screening
+# Format: channel_id<tab>channel_name
+
+UCYenDLnIHsoqQ6smwKXQ7Hg	#Mind Warehouse
+UC2C3D_dv4QXgUQo9co9crPQ	50M Videos
+UCZ9xTqC2LWbD6V8AG-0YJmA	603Wild
+UC72nbKQLSDyiSARhg0Ywj4w	9NEWS
+UCBi2mrWuNuyYy4gbM6fU18Q	ABC News
+UCnBbQHNiSYbLqH8nybUSH8Q	Abyssal Detective
+UCv0qEwfL-69xRjjZkX51BTA	Ace Trail Cams
+UC_zEzzq54Rm0iy7lmmZbCIg	America's Funniest Home Videos
+UCn5a8OmjbfVdDAZ16eSMaBw	Archived'Case
+UCWElIIlFx2JiyI9UVrbrEcw	Atlanta News First
+UC8kRP4T6HbZnsheHCuIB_FQ	BBC Gardeners' World Magazine
+UC1Cp5caGwHvJZxHoevGoDdA	BRAIN TIME
+UCTdzcFC6sviYlFatClJhfAg	Boring Old Nature
+UCi4fcBVyo4CAnmdgXeO-NvA	CBS Boston
+UCkBS_xU1WQ7FVsDoQ_OPeDg	CBS Chicago
+UCi7Zk9baY1tvdlgxIML8MXg	CTV News
+UCLopFkPshvYo4Ei99MnlE5g	Camcreeps
+UCwWhUUe5eENBySxf1S-OWNA	Camera Security Now
+UCuzgAbIbNYUy5mUEpMMIxRA	Central Jersey Security Cameras
+UCc4tkQ7RB0X3ARhamI8_bGQ	Chezzoid
+UCGAmpBtWveYp0-3v9npnhvQ	Chilling Scares
+UCyMqEAi241amR78IjbprSOA	Creepy Cam
+UCC1j6kElTffGHgKkZBsnE8Q	Creepy Chronicles
+UCNS8QijmVzXxgWndUb0h1Cw	CreepyVids
+UCoAfOthCw3NVjyUrr2KW7UA	DOORBELL NEWS
+UCwqoZ7jW1hQr4A1lMaaUwNA	DPC Technology
+UCia6Ff5chPFAfdZR9RmieRw	DV Comm Systems, Inc.
+UCdC0An4ZPNr_YiFiYoVbwaw	Daily Dose Of Internet
+UC_sSJZnJdsnjuAKdr95D9HQ	David Manning
+UCb_EYtoBVoxjC9G2FGrWRyg	Dino
+UCiskgLcBYF-fsc4I2EtCHZw	Doorbell Stories
+UCJWKjrrUh2KL1d3zXQW79cQ	EXPLORE WITH US
+UC8A_HkoYNM62fFMNaF3a4hQ	FASTCABLING
+UCHLyP4MuA-JAFBCwxXOEDdA	FOX 5 Washington DC
+UCPDis9pjXuqyI7RYLJ-TTSA	FailArmy
+UCUKOZiRKuxh6peXL19oKjZw	FailArmy 2.0
+UCAu6179S9GhrhziSehyBZQw	Fear Tales
+UC5lBPQsMMJEE5PTJMzf_sug	Foremost Picks
+UCXIJgqnII2ZOINSWNOGFThA	Fox News
+UC5vuzzokDBCHItEvonfY8pw	Gadget Ten
+UCIptJSwOOKB6WP22uBjYy6w	George Langabeer
+UCWsi0qfIRf2-eFSODXqUVfA	GetSafeAndSound
+UCmomg9UXsci5lnlL8SxVoaA	Handy Homestead Reviews
+UC1nZYLl0iPTf3MXTra1Vw8w	Haunted Creeps
+UCK3ZW9f2JhXEScJhucMZspQ	Haunted Frequency
+UCQAEIHYXrg6IiPrAlgIaFUQ	Hidden Life Moments
+UCUv0nEbHnvMZ3Yv7nFlv99A	Home Fire Sprinkler Coalition
+UC9yvwp6Ve3VjRh7QML_c5uQ	HomeRestored Security
+UCcRjXjxtrgN72Nueyd6RmoQ	Hoodwatchnews
+UCtqFUxpLnV-RaraQVu1rMTw	KHON2 News
+UCp1KrVaZDZ7BOI_QBuTWWmg	KING 5 Seattle
+UCqsUiELj5m7vyzNqIuf0VbA	LAST SEEN ALIVE
+UCrjmJ7_O-tCJuF374YqO4rg	LVT
+UCAhvDdx7KbeJuLqybIRVnGg	Legacy Classic Homes
+UCr3zseJE_oWODbaDStGIayg	LifeHackster
+UCWpME6oSrCjyyNOnZYgXm7Q	ManShed
+UCdY46efKTiH5iThKgrKeifA	Michael Outside
+UC8sibhG707qg5AlVlj5P3mw	Momentum Productions
+UCmORuYM7k4gTzV1_lKEdhNA	Montana Outlaw
+UCBINYCmwE29fBXCpUI8DgTA	MostAmazingTop10
+UCDM5S7F6gocPxEDpHxHN_hQ	Mr Horror
+UCnM02drQP-dF7WMgtJHR4Xw	Mr. Nightmare
+UCtPrkXdtCM5DACLufB9jbsA	MrBallen
+UCf9BXjH8czK4t8hzYI-1Pmg	My Cluttered Garage - Outdoors and DIY
+UC2IcTVb8f5oWNuX3bwbLGng	Mystery Man
+UCeY0bbntWzzVIaj2z3QigXg	NBC News
+UCPhKMwKw3h6gZ8zNG3tp5UQ	Nelly's Security
+UCyXyxZuZ2udv7yAsuixeGVg	New Gen Home
+UCzSSoloGEz10HALUAbYhngQ	Newsflare
+UCIrZ8HRYj2DIIm4sZhKdqrA	Nick’s Trail Cams
+UCr625eA34vZlmEh1p9ivtvw	Ocho Verde Wildlife Channel
+UC6ryC0YQjeNPpnljYtqWTjA	Ongbunto
+UC2rWTDsj7Utv5i_-IeD6aqg	P E Struckman
+UCO8fQqYM_EeHxiGYONWt-fg	Peachy
+UCXOHKTKnu4yk0bTVP3fTI6g	PickNest
+UCbwFM-MBCq1v_8uL6XgVMJg	Pipl Systems
+UC2rzsm1Qi6N1X-wuOg_p0Ng	Project Farm
+UC6ygB5M3qnUNzbvxnNf6IRQ	Qubo - A Hero Group Venture
+UCPu4bS9AzNj6tSVMzYGrVTg	R Wayne Steiger
+UCu4XcDBdnZkV6-5z2f16M0g	Real Stories
+UCSDG3M0e2mGX9_qtHEtzj2Q	Ring
+UC7Z6ais32rsEJQNgK7P42Wg	SCARY COMP
+UCPaCgZkxuhHuP6ZNdGHf1yA	SCW - Security Technology
+UCewglH92gLwdm-jor6kIf4Q	Scam Sandwich
+UC6DS1pJ0Y9UsjS5jz3cvU1g	Security.org
+UCx9ORGdyRNDBasTLRBqUBxw	Signals And Suspect
+UCw4ccFtBN7dhQBcHmE0qylg	Slapped Ham
+UCz5EIrDJuuYRH_mNUexg0Eg	South Bay Communications & Security
+UC5G0-uMcGFhNts84d24BZqw	TODAY
+UCQzCw69UityYbuFwsgE1W_Q	TOP - Incredible Moments
+UCdZksupdwE9OsZTGiPV1dzQ	Tails and Scales
+UCUvEpOhD1BYa6J2dPZbEtTw	Tannerites
+UCjMVmz06abZGVdWjd1mAMnQ	Tech With Brett
+UCtmEArToh11Rr48C1krd4wQ	The Best Selection
+UCjdnhWbqBTLyEGSs2Tg18QQ	The Daily Viewer
+UCenKYNZ4yAl2jpE8wR7X2Zw	The Dashcam Store
+UCKUHl9qrizvt_cfldeVXuyw	The Grapevine
+UC2gyzKcHbYfqoXA5xbyGXtQ	The Hook Up
+UCjai-LbO-VZD7foh_PEc6eQ	The Outdoor Theater
+UCPIvT-zcQl2H0vabdXJGcpg	The Pet Collective
+UCO904hq0HBBShnHyRfZOH1g	The Security Experts
+UC3hQxO2yb4TjIar90ccXjfQ	The Ultimate Discovery
+UChKEz7vEp_muMNar39DO99g	TheTechMag
+UCaDBRJTQhIg_QhCkW7SxWGQ	TheUnlockr
+UCFCBGb13GJsbVD66N5OEqBQ	Tnwildcam
+UCRyIP2oznv4UPAl1jmKS5kA	Top 10s
+UCEj1SR_cOI55oL8n3F-5o3w	Top 5
+UCPzJA-8NIpwPMaAhdv5qjug	Trail Cam Guy
+UCgnk1n5SJ3pFRReP--9YN1A	UnBoxington Reviews
+UCu6H0owNo5Cm_J2znpYBjGA	Underworld
+UC-NPQYmHM9AagZg2GfaiiBw	Viral Now
+UC3339WgBDKIcxTfywuSmG8w	ViralHog
+UCdfsEkW7sox_AXRuRpIz-YQ	Voyageurs Wolf Project
+UCAKK8dbcSmckr2sWJhv5ezA	WBNS 10TV
+UCypQ8hJKXxd9qtFA7ZQrUsg	WHTL
+UCBoD9qWJVIwuqFMpImiqqDw	WOW TV
+UCaFgN6V43Xo1pRjQ4PjlSqw	WSLS 10
+UCuj2ovoP-bODin3pkpwsY5Q	Wild 906
+UCDvzlMB2PRsYEwYyiS6PqXQ	Wild Ontario Trail Cams
+UCaLACDf5aXquc4-i89vfyqg	Woodlands Critter Quest
+UCUsLUZWMVFVlEStTb3QxAag	YesTechie
+UC4j6HIHXVzUQeouX8ZzaZ8A	Yukon Wildlife Cams
+UC2mhTewm1SjghNRpeVG8DbQ	Zions Security Alarms
+UC5NVvmIfn4-v8rhD_Bealpw	dial2fast
+UCaKjtSZXjFLX-vynS5pRuYQ	tuv
+
+# === Related channel expansion (130 new) ===
+UCktPkW_bFfOLIUa1mYSBteg	2Spooky
+UCyass_94GhrSLxz480YFBPg	715 Trail Cams
+UCDmNmxF3ZVMeGyvWE9tOqPQ	ABC13 Houston
+UCVxBA3Cbu3pm8w8gEIoMEog	ABC7
+UCdjUf2_TWhs6ndl3t7XmpUg	ARC Capital
+UC2KBJSZ21741isRWvS9ctiA	Abyssal Toons
+UCAyx-w_4jZNLI1xJi1k9yCg	Adam Casto
+UCJ4LUmdqgWb6UgBCHqRYqww	Appalachian Wildlife Trail Cams
+UCHLOSoCgxLLvMZOoE2F9EKQ	Avant Coast
+UCkQO3QsgTpNTsOw6ujimT5Q	BE AMAZED
+UCwl4XbTfjlX7HU9oztvj-7A	Bankai Kwang
+UC3c4kGDD4hSmjsIIJ0DdpYg	Bertha Africa
+UCquwd3xBZPul-qGUNcpbRfA	Bogod
+UCYI_ychRnL7sJrG6PUSBpQA	CBN News
+UC_-gT7OYiRCK9Sp8SIv9WgQ	CBS Colorado
+UCNZyLULUQBp5e9Q1cKtvk6Q	CBS New York
+UCn5zm2pwj3Zgd2SNGWp1mTQ	CDFISH
+UCk3Sk4dAlwLdvg0bqg2B8sQ	Cactus Juice Unfiltered
+UC4XcnFw11bYtUbFKjVoz0XQ	Charles Horne
+UCm99dyZUE7Oa6Lm9-wZVlcg	Collard Valley Cooks
+UC-nHQIlX7u8o1-bUG-14h6A	Come Wheelin’ with John & Christie
+UCnOUhsMipuGIkvtSmV49nvA	County of Sacramento
+UCcn7OpUSDcHBIo2g0jKW2GQ	Creative Eye Presentations
+UCP3sSdrcCw7qC0qSrD8xOHQ	DC News Now
+UCqnrCi6DlOrkF9DPbjoIcAw	Dantavius
+UCNic7Bo3jHZ0ERDjGXr4GyQ	Delhi News
+UC-2MJlKSq9_pYk5-bdvMhnw	Denver7
+UCaPGKhms7rUVjpBceeJUdUQ	Diamondbolt
+UCoptSG3d832DMkHNsnNDbeA	ECHOLIXX
+UCfDO_4-o9H0hLHW00zWTVYQ	Ex Cop
+UC0ggS8bt4v7NiZpDfGqNpZQ	ExtinctZoo
+UCIjSUWHWp6KohfnR5OQTXnQ	FOX 5 New York
+UCLD2ZkdEkAKhDETsK6QeDnA	Farrell McGuire
+UCCXoCcu9Rp7NPbTzIvogpZg	Fox Business
+UCSWdtggn4s1uG92diBbtZng	Frankie Fey
+UCFX0pJrRHOsWTGxIP2qTcgw	Game Cam Wildlife
+UC6wsVyERAVc09v2W2rUCZgQ	GeeJayWare
+UCeJA2g4BNcZPue3kak4wK_A	Grant Critchfield's Texas Trail Cams
+UCqV7UZ1zHpgo0He4Rj2naMw	HardlyTommyNFG
+UCgWqDN4PaQa3PTe-qiv8pXw	HateHilal
+UC4wKN1tlnlNVMiRPOu7qyvQ	Home.Made.Nation
+UCUwPhb93KlpzZ25r42JDRJQ	Indiana Wild Trail Cams
+UC_hSjGOO67A6gIDUcyuv_8A	Infinite
+UCLRRT6VAR_cVbTGiPRAkN7A	JOSHINBETWEENER
+UCNfYgEPCgB0ZBi0-m-7XScw	JS Project Wild
+UCZtjTWxU9e365o67VUS3kCQ	Jason Kearney
+UCjPpQDQ0stctOYRgG0l_FAg	Jay Ronan
+UCXXXfFeG3fTPSvWpOsdSH4g	Jeff Campanella
+UCGRryxFxjXbVAtBPE9EbyMg	Joe Bartolozzi
+UCKATGvvbOznaWNZcOBCLGng	KCCI
+UCWTkpYvniGIUe1jeCncFzKw	KMBC 9
+UCUknL1K-YGAa5sIss9t0_ug	KOAA 5
+UCETE4rKzRRjqM0JaB7TlPpQ	KSAT 12
+UCmZJz1J64RD7Ur7tI09s-FA	KTSM 9 NEWS
+UCaLjq8bBXAA7lLlHaGHvI8w	KTVN 2 News Nevada
+UC2Ug_at-Omqpt6HerLJOWyQ	KingFrostmare
+UCjtIij1WYaQqZ9wsw4uCrIg	Leo Hashee
+UCjzEF5kUZypUftfHD1MKuCg	Lip Sync Battle
+UCg2T4p_iHyoZcWgzfs9Ww8Q	Mark Girardeau
+UCf6ZB5gQWr6wVb0NVhRTxHQ	Mark Reese
+UC40Tw2tFuMzK305mi7nj8rg	Met Office - UK Weather
+UCBwBI4HC5XcDv-A0ip-T9kw	Michael Schnarr
+UC04MG2jYbP561ht1qVvQKnw	MonoMania
+UCiVdCELHSdilQ8sTTGcmBDw	Mr Detective
+UCCQFP_5qJ5iKQFaDjQpBTUA	My life In 60 second
+UCib8z9RWBK1xucFXG_q-Siw	Mysterious-Fact
+UCw2-2fWWHX9Ks_O3tCrREBA	NGMS Bulldogs Volleyball 2021
+UCmJf6_W7W-Q7rTd5skVEgqA	NORTH 02
+UCJlPtbrcsqWoFkdPIS0xkCg	Nathanael McNaughton
+UCMX31RavkfUHJvw03RbUZnA	Nick Crowley
+UChQxrbcXcXjdmtV77VncYng	Nightfair
+UC-mLLoVz_fT__SkPTbjSnzw	OurWildBackyard
+UCgOcPePLQWEZf8wlMRGu6SQ	Outdoor Central Pennsylvania Trail Cameras
+UCreaqGajjVLZScidpAjaMEg	Paul White
+UCYKSxEMkJwgqwVoMFuE1ulA	PlaySundaySports
+UCSL3jzfWy0641cDhbMja5_A	Prep Hoops
+UCkuZ-C_aDeE_aK3Me-ZpmuQ	Prometheus
+UCeIKdSZRSAUm88iS4G9_ohA	Psychopoly
+UCwWg3lbc1lbeSIsefhesDvw	Rabbit-Senpai
+UCm9fJ_IhnpG4AmTpcwyNXBA	Rico Xenn 2
+UCfbMtKJQ0uZeqhLiAnoqxiQ	RidgeLife
+UCP_MAR-m1iBDShrQkjSL6kA	Rittik Baheti(IITIAN)
+UCsDDmFNk4ahIMalbru_qr4A	Rob's Outdoor Adventures
+UCzKm2m24ZV0aOSUy7O0R1kw	Rogue Encounters
+UC7znFW9x6jbXP6B1znCHFQw	Ross Whitley
+UCHyptQKq5lxkSHlyOk6bubA	SIRIUS
+UCX8qBZhl6doVtcdLzM--QsQ	SNAPCAM
+UCxAt0KkZZUxgG3yxl-WDM2A	Secret Origins
+UCUTzoehERsjLY36wEAI_kgg	SharpInternational
+UCEnRDejbZ78R7BrJhRQ_gmA	Shiloh Apostolic Church of Jamaica Inc.
+UC45OWitn6BWG20rxLCL109A	Snook
+UCYNUwpLfnkVEen8BRACO14w	Spooxa
+UCS8g2u97Xuk75FBRY1MZsrA	Swan Valley Connections
+UCOuWeOkMrq84u5LY6apWQ8Q	TREY the Explainer
+UC3ETCazlHenpXEsrEJH-k5A	The Anime Man
+UCUVa51UA_690sEKyRbHb-5A	The Finest
+UCdJNQfVFlrRbfB3SQTM0KCw	The Front 40 Alaska
+UCnwUjPK7dXety-AJ4fNw_RQ	The Paint Explainer
+UCGX1QMBfoq-vYQTr8MUCDqA	The Pharaoh Nerd
+UCj6NrJLWgrsTZ1FDIvvpa2Q	The Supreme
+UC2Ov0Hp4wB7QoVfuRII4hOA	The White Coyote
+UCIFk2uvCNcEmZ77g0ESKLcQ	The Why Files
+UCCsDTxYpPJBqP-Ng_prbLlA	TheRealFizzberg
+UC-AwiIvqGObkVwiGUmYTonw	Top 10 Central Dark
+UCmvqviNx70U0l4ZcvUAXxhA	Top 5 Best
+UCLwvhlZyZtYa44jLgzXQvZA	Top Generality
+UCDdGCxn-zXFvF2ymefoYNJQ	Trailcamology
+UCt3JiNkefsfbA2N4SgEkoiQ	Visual Venture
+UCgVZ0mrM3liHNhRYC5Mchgg	WPLG Local 10
+UCSFLs1nwzqSC3Tq6cXhJkLg	WTHR
+UCrJdCKIddUxHExmbMN6gZ9A	Wartime Stories
+UC3cpN6gcJQqcCM6mxRUo_dA	Wendigoon
+UCgMc3ErVX3BF68BuHg7zH3w	Western NC Backyard Trail Cam
+UCatDVRfUzSURPt8GP0tyDTg	Wild Iberia - Trail Cam Project
+UC9MIfUP6LRsaqD_xv-A79Sg	Witnessed
+UCRrqlLiqyYsmwez9Cl-QjYA	World Latest News
+UCgjfQQRlmySHBuNYc1e81Yw	babifi
+UCHo2FZuPMMIljjPuSx0HVIw	bazdaddy
+UCyncm2sfdZ9fZa52NiJhtSw	emiruLIVE
+UCeExxW2YhIhlnB8xRv9ywpQ	grdn
+UCB2VZlL3LBwe2p3r0f9QY5g	hollnes
+UC_kYuJYee7axrN-B9PyuU9w	lemontreat
+UC6Mjg5R5QOJYjrio1JmP8Fg	oompaville
+UC2NRf0-PH8IiMq5uA5FHJnA	quack doc
+UCS6VhoZT2Voh7gO1JJuURKw	sdmarkow
+UCW_wOOOnsFjQ-oNxAVQw3rA	sintax77
+UCtUVqO8NgGWqKjH2pWbA1lw	sourcebrew
+UC-CP26tozRRBob2PBhoLAJw	unruffled
+UC3blNNls5_SBMfvu8TPfjLw	viral 00
+UCMZi9Rjb-zv33XFpswSw9Rg	yapmaster

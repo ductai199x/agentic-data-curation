@@ -1,0 +1,284 @@
+# C07_nature_water — 210 channels
+# Auto-discovered, needs pre-screening
+# Format: channel_id<tab>channel_name
+
+UCYenDLnIHsoqQ6smwKXQ7Hg	#Mind Warehouse
+UCzF4Ryn8TKn64md77gS5Q5Q	11Alive
+UCQ5l8Hnz5InJ7-90BT0MOGA	2011 Japan Tsunami Archives
+UCvGwWJ_bcMkHRBuTNCL08cA	321 Relaxing - Meditation Relax Clips
+UCkwi3H7xoYTJKycMI9YAn0w	4K Ocean World
+UCzxUDuGP0B1btTvdOWOgnBw	4K Planet Earth
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel
+UC2nWvg9qqBnDCcqTMc5i6sg	8K Paradise
+UC72nbKQLSDyiSARhg0Ywj4w	9NEWS
+UC_vFLohxs5PkAxlk7Y6jEtw	ABC 7 Chicago
+UC86dbj-lbDks_hZ5gRKL49Q	AFP News Agency
+UCV3Nm3T-XAgVhKH9jT0ViRg	AJ+
+UCdmNPmp6tc-asu1sVbhv0bg	ALIVE SCREENS - Motion Backgrounds and Video Loops
+UCzIJVoH2RGS9Pjzab9rywZg	Aerial Earth 🌎
+UCpzqoA_3-u9qfmroFoKGNww	Akiko
+UCXbXfisDHV_gDjawCKTyTIw	Ambient Renders
+UCFdPAgHoknlgkeluXNUa7mA	Ambient Silence
+UC6GVQINScqOLjjEg8SjGjog	American Leaves
+UCtA0GAkiz6ui3wHxneziLyA	Anders Bixbe
+UCp3hK5ZhyVXvzRDiIZk_WHw	Aquatic Images
+UC52X5wxOL_s5yw0dQk7NtgA	Associated Press
+UCMtmjdcTIEvVkhQbSlBKJ-A	Ausable Freshwater Center
+UCwmZiChSryoWQCZMIQezgTg	BBC Earth
+UC4dMNPt9AGb_o2GwVBf_qNA	BBC Earth Relax
+UC16niRr50-MSBwiO3YDb3RA	BBC News
+UCLl46BWTrgkmiXPWWe9fJrg	BRIGHT SIDE VR 360 VIDEOS
+UCdn2zHVJ7NiiCDjTtg7VOxw	Barny Dillarstone
+UCH4BNI0-FOK2dMXoFtViWHw	Be Smart
+UCXnvLHEf5t4ncz2DCLRMmpQ	Beautiful Relaxation
+UCfdyhdY_-5AA4hRI8cW3zOg	Beautiful World 4K Film Music
+UCPy-vsBDyrEu3I3DJRUuvyg	Beautiful World 4k
+UCh3koX_52F_WSFDPwB32omQ	Blue Ocean 4K
+UCFH-Qa1s6rQRTrQjFg8N84Q	BlueWorldTV
+UCH7XCMobvkWbkKPpoMzxSMA	Breathe
+UCA2-LvvWk8fa_QQV2qqAtow	Calm Amongst the Storm
+UC7stZUKIfIpY1ZoG9JswdMA	Catastrophe Records
+UCc4tkQ7RB0X3ARhamI8_bGQ	Chezzoid
+UCGAmpBtWveYp0-3v9npnhvQ	Chilling Scares
+UCjj4U2YZKlC_t1AxwgSh-Eg	Chris Ahern Photography
+UCQybjqHrbHOFKS-gmvu0PEg	Chris Underwater
+UCRDJcwYEWmDPSmYd3lsBtvg	Cody & Kellie
+UCrJbOydJzJ2jpLHFdAo0uwg	Cowboys in Rain
+UC_jBJgoQjnJc40teH5f3Xeg	Cozy Melodies 4K
+UCAAceS0bm1krBXtPLdsNUAQ	Cozy Timez
+UCI4fHQkguBNW3SwTqmehzjw	DALLMYD
+UC-WxV2tCb2LgC_tzLuYqiJQ	DD
+UCL9oIFoVMW0h5hE_dSQ7pJA	Dane Jackson
+UCOvgWihGavpJx2C0nZQcGgw	Daniel skots
+UClb6yg8d7eoZF6vnL4e8mog	Dark Records
+UChQiQ_TBQtluXTW98tgXb4A	Dayton 24/7 Now
+UCeYuWoZdYq2CfFg6hbX3ONA	Dive into Tranquility: Relaxing Ocean Waves
+UCMjYBXI4Q1t5r3fd0jhGm3Q	Dive&Discover
+UCYHkMWAhmvcH02V1qDM1-8w	Diver's Lens
+UCjowNwGBR4kGcBVFXDLPeYQ	Divers Institute of Technology
+UCfhA4w10-U9zZz5aMmbZfxw	Diving for seafood
+UCOG9_3PA7L4U2q121q7NUFA	Doctor Prowl
+UC4btop-KHM1ZnCTVUPJXJWA	Downstream V Creations (Matt Wallin)
+UCmla4OjsAqsyAbjS5XYqfPg	Easy Sounds & Relaxation Channel
+UCQn7aX0JAIfH0KVL7nqUzjw	Evosia Studios
+UCyhNSrgbeqssoVd7ec9IwlQ	FINE ART
+UCqAItR0uweJWQsYd92L0OQQ	Fly&Dive
+UCT7tj6swUL8aF_stTHUj3Sw	Gatewood Brown
+UCS0pbRqDVOf28toP1f0SqFg	Geo Relaxation
+UCVkVXDFVq5q5yt-7tyD4sRA	Gerry Green
+UC8PWgKyLppVkN2EzIAKp9UQ	Global Journey 4K
+UCqhnX4jA0A5paNd1v-zEysw	GoPro
+UCUL6DB9CxMPkgpgGbPO-e0w	Good Dream  (Walls It)
+UCyx7ezrqlzOBRDHhWNIZ51A	Great Escapes
+UCIRYBXDze5krPDzAEOxFGVA	Guardian News
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea
+UCb_unKIlLa_zawkNG2irrfg	High Sight Drone POV
+UCFQgi22Ht00CpaOQLtvZx2A	ITV News
+UCfxQO62PAoY3inULfv3VbpA	Infinitely sound
+UC9k-yiEpRHMNVOnOi_aQK8w	Inside Edition
+UC50uCdUubc04xXZz7bqv5ng	Investigation
+UCNfjdh-1-O3FabTsb2yxU9w	Jason Wish
+UCyWrPb2_ggpjoHcna_Sw0wg	John Thompson
+UCI6gB6eZS0c3ZrjcJq7xAtA	Jon B.
+UC4rT7GG-X25CvTdYUitZhQQ	Julian Hadden
+UCo9yHnYQXD7RXSXiSQbpW6g	Jurrien Wiss
+UCoYKpuwY88h2lpb377vdloQ	Kajakkguiden
+UCBC1fkdgOIWhPD3zSSPD-CA	KayakPOV
+UCRoH50mfPbRuoX7IyBRmgzg	KayakSessionTV
+UCKQOhYTL2zHy4r60MWgrumA	Ken Bezeau
+UCq1McBIjys-xtjBpLskfa8Q	KickinTheirBASSTV
+UC7_q-9hrY0meFKCBIZG7A7w	LKO - Incredible Moments
+UCE5jf-aHkKPjmfJMSU9iaxQ	LONG STORM JONES
+UC7XfOukIyx4zCSjsV-6Pu_Q	Lostranquility
+UCdAlL9TjhJeu0hedodCz1pA	Lullaby Of Nature
+UCeDnpWZapyw4rwORykzLbFg	Luxury Island
+UCyr06aC8BDlJ6dObel52XJw	Machine Eye
+UCfdmAsuxBFKc43Oe3PJG_ig	Matthew Sieverin
+UCuYyqln40kpGDGWQHkEJS_Q	Max Olson Chasing
+UCopMlh9gz8P27dpHg-4GXeA	Mike Olbinski Photography
+UCS67mNnpfnHsU3IQYNHLToA	Most Dangerous
+UCUlcY3AvQAXXwydlP-8u5-w	Mother Nature
+UCFr12GgBUVYraet3FXSIlmA	Motionless Nature
+UCBc01aqyTMZUzLXpCPzeznQ	NATURE MOODS & TRANQUILITY
+UCrsyJ9xoqtNr-X8Ec_L1QMQ	NATURE VIBES ESCAPE
+UCKvGDawHMafffeu4zV-Rs8g	NOAA Weather Partners
+UC-87aDLv5WFJ83fxt21gsEQ	NOAAVisualizations
+UCXVCgDuD_QCkI7gTKU7-tpg	Nat Geo Kids
+UCpVm7bg6pXKo1Pr6k5kxG9A	National Geographic
+UCNjGqISO6V2WFpOFWPC8pIw	Naturaleza Viva - Ocean Sounds For Sleeping
+UCgVYiT6rDNYjf-0k4OOz3Ng	Nature Ambience
+UC4lp9Emg1ci8eo2eDkB-Tag	Nature Relaxation Films
+UClVfgITZYaZw32NWQmMUFCA	Nature Sounds TV
+UCjoFckSzE1jUM_kmtVHNlKg	Nature Soundscapes
+UCvjdJXI9un8E2oC-HixorwQ	Nature Therapy
+UCDmvEp5Rtjw817rMw_Z-S1A	Nature Zilla
+UChItPcmjTg_TXi6WynZw2sg	Nature's Eye
+UC6VV94CgpvnRhp4KHnxQkqQ	Nature's Melody
+UCBKFF-7j2D-1TR0oFPK0Gyw	Naturescapes: Relax with Nature
+UC-gjtyoUTzGEwWM5Y1J4J7Q	New Bliss
+UCrvhNP_lWuPIP6QZzJmM-bw	New York Post
+UCpsuSNiFkl4T4owtIb8QqWQ	News 4 (WOAI) San Antonio
+UCCQsezzlzO22UbqOUPtQPQg	NicheLoops
+UCuobYNIqgPxmhS-ZcqUGHvQ	Nichen
+UCRPNk3TA5cbyB-8hvNgsP5g	Nick Kratka
+UCqRTj-Nu_8to3jIBlXptOtA	Nomadic Ambience
+UCjeucX-wfAcFrrmie7qKfiQ	Northcoast Drone
+UCWr7XYWea0tPN2Ha-CSP89w	Northlandscapes, Jan Erik Waider
+UCx0s8a90nZCfrng20LI5srg	Ocean First
+UCHbQJC2jyeGedfTeXkgBXuw	Oled Demo
+UCM0r8m7wbqRunx3A_ee5VHw	OnlineBreakingNEWS9
+UC_Tuj8Ncewqb_t0BaWmIh-g	Outdoor Therapy
+UCVzXVA5qchbl2NsD5AwHfBA	Outside Chronicles
+UCb57aRZr3KsykS_wNsD5Ptw	PRIMAL EARTH
+UCJ55niCyRa7vVL5JJEO4Kwg	Paddle, Bike, Dive, Climb
+UC9iKeMA38rOzVU2A3Ji7jVQ	Paul M Smith Photography
+UCn2R59-f5OyYHMoOXDh2t4A	Peaceful Relaxation
+UCCjsik73gc_HFBxerIBHEHw	Photo & Travel Ryo-FoTo
+UCEiS8m8OLFI0REntmsTvzjA	Piano Relaxing
+UCKLUHjh0qsOKQNGZihnhebw	Pickled Minds
+UChwquFAnFfdabJehcYzJumw	Pined Apple
+UCwUS1mKzMx22JIn_0HrwTaQ	Planet Calm
+UCJdjS80X44hIr8CRTz84B_g	Premium Footage Planet
+UC-bkMqA8QqkHyz-KPCSD7QQ	Presence Videography
+UCrYB2eCu6M_aKVLYcTb6JUg	RED SIDE
+UCNknjhxz1dwMiR1lcQL7ozQ	Raf Ratay
+UCAKRO2dUzRyYw2FNJTPt_NQ	Rain That Hugs
+UCqm_1QkdNvO1r3BAUkddj5A	Raining Sound
+UC7xR1oKtkbZ18E4zG5PvveA	Rainy Bedroom
+UCQCbhVcbVnctKfPMeE5V7og	Rainy Room
+UCV6hWxB0-u_IX7e-h4fEBAw	Reed Timmer
+UCpcsczUPQseMb39FvOtEsAw	Relax & Sleep
+UCmEb7rZRwejgRZ98HwAimLA	Relax Night and Day - Beautiful Nature & Sounds
+UC6y61Zn2OytfNCcSWrjBq_w	Relaxation Channel - OneSmallPlanet
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film
+UC-he8--TRguZ-nNUSiH77Uw	Relaxation Windows 4K Nature
+UChyRMEp8zRio9nFnAjvzSnA	Relaxing Ambience ASMR
+UCKBpKeRhhCQOQwbPz4aYZWg	Relaxing Sounds Of Nature
+UCc6axxcoX_DC5SsMGzyGHiQ	River Kings
+UCTCKL7Pxqxq4GjevkAd_fhw	Robert Kort
+UCVZJgVNk9ciKCGsdwbrNTGA	SAM INDOWILD
+UCNXvmGafmrtJ7VPSqjRRbwg	Scary Interesting
+UCqtCCNUAwf8Tv3uD4VWjiUg	Scenes By Sevy
+UCUdsGKGfPfr163riPcrRHuw	Scenic Peace
+UC95bEkaIgwhxSjSsdMFXYGg	Scenic Relaxation
+UCvJiYiBUbw4tmpRSZT2r1Hw	Science Channel
+UCTebPM18auibXTMAB_fstwA	See the World
+UC3fmUyuCPnu4xl4-3sd2miA	Senders
+UCNzl2Y6j3TwnGp5CKIkqbpA	Serial Chill Zone
+UCQj-aao-K4NQCHRAh59cGuQ	Serrasolses Brothers
+UCkgiJK8OZB6636MXUOC_OPA	Severe Weather
+UC4CU00bEVdvKGl20L9VCcnw	Silent Field
+UCH6tlt1xmwe4iPzcaQvvseQ	Soul Healing999
+UC4Gr6Gw_FkzeBSF3fkQ00Ag	Sounds Of Nature
+UCTrUUbK-d9A__dsil6seuPw	Spencer - River Certified
+UCycNWQoqcSzsQsF3R8P-pFg	Stardust Vibes - Relaxing Sounds
+UC9gM5hKp2AMiN3B2As6pvuA	Steve Minehan
+UCPz0Wvwv3jkxsVX1lr5uYBg	Storified
+UCasqyif1E0ADnV3UWjjaQ8A	StormStock
+UC-UQT7JCj8JKxHbE2RIkkEw	THE DEPARTURES CHANNEL
+UC8Su5vZCXWRag13H53zWVwA	TIME
+UCziB6WaaUPEFSE2X1TNqUTg	Teton Gravity Research
+UCs53rI6Y6VPQ_XFSm_iXE4A	The Indian Ambience
+UCQn-BUWyUqJ80S-aEuFvjYg	The Raining Room
+UCGfgKimGJ4yueKEtFVPpHtw	The Relaxed Guy
+UChqtYrbbVLzrGB2BKk28byA	The Scenic Earth
+UCPgLNge0xqQHWM5B5EFH9Cg	The Telegraph
+UCbwp5B-uDBy-fS4bDA0TEaw	The Travel Edit
+UCGTUbwceCMibvpbd2NaIP7A	The Weather Channel
+UCCkmgsl8W18oR6c_W7UZ1lQ	TheSilentWatcher
+UCZyNBnVqOnocWFLQwTB9E9w	Think. Feel. Travel.
+UCfhW84xfA6gEc4hDK90rR1Q	Thomas Heaton
+UCdi8yQBdBfn1ECu3ayH_TnA	Tim Janis
+UCi_Sz7b1dYEYpcm7ZsleMFA	Timeless Aerial Photography
+UCHSKfZf17xVL0dGf-QqJrIw	Tomasz Furmanek
+UCHaygfWGKNr179ils22gc2w	Tourism Bell
+UCXx_w4bTzWz9WfGFtoggaTg	TrialQuest
+UCmEaSVXltCz6s6HVCZHfUsw	Tropmet | Storm Chasing
+UCjX58COleIWwvc0_e9r_oMA	UKRAINE TODAY
+UCu6H0owNo5Cm_J2znpYBjGA	Underworld
+UCCRSaRxwIJ6BMFeoC_DQIHQ	Urban Rain Beats
+UChpIihZo9kXfeS2OaxSsPTA	VarietyFountain
+UCKYcjdF3b_1EGFcj5n37WLQ	Welshbok
+UCwndzivbAGMaIcNbNLNVlRw	World Disaster Stories
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours
+UCan9THISCNeKWZ_SLGh6s6Q	Yard-Man TV News on Entertainment
+UCeZBPJV0fh4Dv4PPkBrh_qg	Yawi Vlogs By Tannerites
+UCHyPklaLgSnAL-nZNnlVJdQ	francischeefilms
+UCAQKJoIywD--0dh0tMWZo8Q	pestivideo - Peter Löseke
+UCveE4V8x22-NvmS309T6RmA	rankinstudio
+UCQ9f-ECNMGzw_qRscmRkoHA	surgeonfish1
+UCVA12g4V_HX_MPQCiFj93PA	the white room
+UC6bU73DoIEUR2INNq9JU0dg	vanderkooyIMAGES
+UCI_QELv03oS2fw5bJR9Om1Q	water_skipper
+UChvbBlrqYBMpZN-Fa7TQ3Bw	憩いタイム
+UC6tH4kzQOIPGkfFmazTXQew	𝒞𝑜𝓏𝓎 𝒲𝒶𝓇𝓂 𝒜𝓂𝒷𝒾𝑒𝓃𝒸𝑒
+
+# === Related channel expansion (68 new) ===
+UCRNf0_t4Qo5eojj8sSvd_8A	13WMAZ
+UC956J4YLv-8dzAXwGbJT14Q	A Reinoehl
+UCcrZcoUbIhE8n73vXxBGMGg	APEX VIEW
+UCpLEtz3H0jSfEneSdf1YKnw	APT
+UCtGzs4IZu4SH2ZZ49eb2HSA	Amelia Rain Sounds
+UCpfcwELvR1wtcRJ0UxNXHYw	Atlanta Hawks
+UCWElIIlFx2JiyI9UVrbrEcw	Atlanta News First
+UCAEJmOL1GtXoQUhY9l6UrkA	Big Machew
+UCmExSaXVBHIO8_Vohswo4UA	CBS News Atlanta
+UCNBrEs0XjyGkzWY_qqMM6Qw	CTN News
+UCAi5rce3W4LZJQHLj_wq10Q	Charles Orgbon
+UCsEXC2NCr08CIOKgHfGtGHQ	ChurchNext
+UCP5EtTAuQC6KGpc0jsFW21Q	Cocoa Daily Drama
+UCAaSwE-F_7ec1MWp4Rs9CFA	Curious Field
+UCrvG04V6wbOau6fVJI01OlQ	DRM News
+UCyQE1-W7Ftx7aXYSJkSEXiA	EPIC FOOTAGE
+UCyqvZ4H4fi2Z0E6L-rcL46Q	Eagle Z
+UCsZCOGMoZktFNBuD3IXQ53A	EarthquakeVideoCompilations
+UCHfF8wFnipMeDpJf8OmMxDg	FOX 11 Los Angeles
+UChpWFRZFJq_pyLO9ZQRYqoA	Flash Video
+UCEZHGNdB7x1caaWVh5kEPag	Grant Smith
+UCuKqwo5LRm3i_xDnLO3Kuog	HK Transmission line ⚡
+UCbNydcUPRzRm_FZyjnJOkWA	Haven
+UCBLQhJ28jwbcXaO6Kaw8tEw	Headline Heat
+UC3LcbDhqVqudmkyLKfWZMyw	Huk - Moments
+UC1wjrBtYqZtC3HeQydqZscA	Infinite Comparison
+UCV-oV8yecSfMZnzdKAhO_4A	Interesting Facts
+UCM3HZF0ozqX2_oLoTeQznRQ	JapanDokuReports
+UCyV7kToYpiG-0T4uw-SEbGA	Jenna Naccarato
+UC2hJltXThqYs6I9XW4IybfQ	JustMyMemphis
+UCH-bIk5OwU6HcjtH21H-WLQ	Kerry Mac
+UCF5wg1iG0aWiTSJk5CTlmpQ	Library of Inspiration
+UCZvWI9aiyzMp-osh-XbU7xA	Local 3 News
+UCX3tM-sW2NpWvy-xpmicGRA	Max TV
+UCSyNIDWAM9cRzkn7Uz4IwTw	MeditationRelaxClub - Sleep Music & Mindfulness
+UCn6X3tGcyO6VD5vTxUN9bHA	Mike Antonucci
+UCk3-3xJydA7m_pZt2ncCEXQ	NBA Cares
+UCVSSpcmZD2PwPBqb8yKQKBA	NBA on ESPN
+UCz08eyb3Noqa6yC0z2bWENw	Personal Power - Sleep Serenity & Meditation
+UCgwGLd4Xxr96veqjHOfwnjQ	Rand Paul
+UCQ8vcB4OwJbpL3xKlQ90azg	Redbeard
+UChqUTb7kYRX8-EiaN3XFrSQ	Reuters
+UCW9AtKkYNXylXmcPf2xhMVg	Road Miles
+UCViBdBG1pWbxQghWhN2u5Jg	Robren Angel Channel
+UCXEPDs5H50ITc2gBwChO0Mg	Ryan Hawk
+UCVCJ4qLnnBNxVB8pb65MdjQ	SIKANA English
+UCL_OEjsHTwsHK6WKWs7s7Uw	SNY
+UCv9O47osH4-FeVEtNXmTcYA	Super35 Media
+UCfdNM3NAhaBOXCafH7krzrA	The Infographics Show
+UCpZPRWnqb-jPhgegNS3DOaQ	The Mind Your Business Podcast
+UCUZNK80DemBN3kyxusDLwrA	The Soul of Wind
+UCNKe1zyFotx08CFh0s2V9pg	The Top
+UCFie5LGKPE9OKoGldk8jI1g	The Var East
+UC8BxSGcBKriJvoeyKOnJ6tA	The Washington Examiner
+UCOHv6aP47rRIcV4Qka4ukhQ	Thủy Nguyễn
+UCcS_nbso9ykhkAUuMIHVzyQ	Top 10 Videos
+UCh0_oEIReJmE7g3ZYVxxthA	UNINTERRUPTED
+UCusg9Be-vPAan_zvzqlEXGw	UNSORTED
+UC8Rohf4JGwlKIUSnYlUipvQ	WEWIN
+UCU_0ofvjo8FrkP2f6NFF7XQ	WEWIN NEW
+UCrTV1E9OCoJZY2JAp6BSPCw	WOW.THINGS
+UCoe5u1Hr0tHkJVzgsiKoMJg	WTVC NewsChannel 9
+UCNNiYxss21I55yw253YT2xg	WVU Marketing Communications
+UCHd62-u_v4DvJ8TCFtpi4GA	Washington Post
+UCUcgd6YHWbE4_VC8E8xyh8w	cryingforbread
+UCV3Gobx7Kwxa5SAcnwyI1GA	kudakumi channel
+UC04HhmuTH1L0IAttsAZR2Zw	tl-news
+UClWUtXTnWt6i75tTbgcCtpg	𝓒𝓸𝔃𝔂 𝓢𝓸𝓾𝓷𝓭

@@ -1,0 +1,89 @@
+{
+  "total_unique_channels": 3636,
+  "categories": {
+    "C01_people_casual": {
+      "channels": 275,
+      "queries": 15
+    },
+    "C02_people_action": {
+      "channels": 275,
+      "queries": 15
+    },
+    "C03_talking_head": {
+      "channels": 300,
+      "queries": 15
+    },
+    "C04_lecture": {
+      "channels": 206,
+      "queries": 17
+    },
+    "C05_nature_landscape": {
+      "channels": 196,
+      "queries": 14
+    },
+    "C06_nature_wildlife": {
+      "channels": 228,
+      "queries": 14
+    },
+    "C07_nature_water": {
+      "channels": 210,
+      "queries": 12
+    },
+    "C08_walking_biking_tour": {
+      "channels": 342,
+      "queries": 35
+    },
+    "C09_urban_street": {
+      "channels": 161,
+      "queries": 8
+    },
+    "C10_urban_architecture": {
+      "channels": 140,
+      "queries": 7
+    },
+    "C11_vehicles_exterior": {
+      "channels": 151,
+      "queries": 8
+    },
+    "C12_vehicles_pov": {
+      "channels": 214,
+      "queries": 15
+    },
+    "C13_cooking": {
+      "channels": 259,
+      "queries": 17
+    },
+    "C14_product_review": {
+      "channels": 144,
+      "queries": 8
+    },
+    "C15_animals_domestic": {
+      "channels": 165,
+      "queries": 9
+    },
+    "C16_hands_objects": {
+      "channels": 175,
+      "queries": 9
+    },
+    "C17_aerial_drone": {
+      "channels": 135,
+      "queries": 12
+    },
+    "C18_weather_atmosphere": {
+      "channels": 171,
+      "queries": 8
+    },
+    "C19_macro_texture": {
+      "channels": 171,
+      "queries": 8
+    },
+    "C20_security_camera": {
+      "channels": 125,
+      "queries": 8
+    },
+    "C21_indoor_everyday": {
+      "channels": 166,
+      "queries": 8
+    }
+  }
+}

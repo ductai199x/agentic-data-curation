@@ -1,0 +1,463 @@
+# C17_aerial_drone — 307 approved channels
+# Pre-screened: 32 rejected, 1 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	20	12495	4K
+UCBNsHkKPdnIQCZgmhd5EIOQ	 Scenic World 4K	20	12169	4K
+UCzxUDuGP0B1btTvdOWOgnBw	4K Planet Earth	20	11555	4K
+UCB4eKuHJuRQk9i20dCrUvnQ	4K Scenic Relaxation Film	20	5683	4K
+UC-hKdAEl4c86O9lNTNrOqhw	8K VIDEOS HDR	20	1133	4K
+UC8D_NXFBh8A9KSwo7x-wFdQ	8K VIDEOS ULTRA HD	20	5570	4K
+UCeRAcc1Xg1S6_MCzahMb_nQ	8K VISION	20	5423	4K
+UChsUcO0qb-McQkv0sUaxnRw	8K Xplore	20	902
+UCV_f3Ujmm7fDhmQNE4Lur7Q	AEVE DEEP	20	15362	4K
+UCzIJVoH2RGS9Pjzab9rywZg	Aerial Earth 🌎	20	12172	4K
+UCdTff6CR1MXSZE_fd_qWREA	Alejandro Torres	20	7854	4K
+UCi1Uc1bhlkNkO_YnfsRTw5Q	Aerial Landscapes	20	2122	4K
+UCnMpr9zbCYOhKXH8C3P595A	Anguilla Beaches	20	1280	4K
+UC0Dbz22_Xt9XiH3O0yK5G_w	Anatolian Airwaves	20	86341	4K
+UCLX3TX3sENLdP-ZiqUrmRbw	Arthur Caverly	20	5558	4K
+UCZYbdpG4VSnXwaxfa5gKW1w	Ankit Bhatia	20	1325
+UCaOiOeTQMYfJGj_n88Mgywg	Brodie Reed	20	1174
+UCHWtH_6ZAfHj7iqKLtN1K8Q	Azure Deep House	20	11317	4K
+UCfdyhdY_-5AA4hRI8cW3zOg	Beautiful World 4K Film Music	20	16771	4K
+UCpwCvBr-xxFEqjfml_qeBOQ	Bali Drone Production	20	176	4K
+UCI-Ho-GaKYbtMzXJWmWAsrg	Cat Trumpet	20	26014	4K
+UCsNGtpqGsyw0U6qEG-WHadA	DJI	20	155
+UCJJzSZFhdmEFgudowVwTevw	Christopher Pope	20	298
+UCV5_FNKj1x-EB4dGTUTltHA	Captain Vanover	20	309
+UCcBQDg7YrsL9jKMEXed_qGg	Destination Paradise	20	2914	4K
+UCCEqyHUgTk7weW3eZVkCiLQ	Denis Barbas	20	331	4K
+UCTXgJdaB-XRDXs-4g2HJb7g	DJI Ronin	20	190
+UCewJk3o-3DpDmRLl-RY-CgA	DM Productions	20	840
+UCPwtqRtonFA-RDyb6wO2w7Q	Dominic Hayles	20	199	4K
+UCpwh9JDV_gQETnISqmpFQSA	Dream Soul	20	12256	4K
+UCiVmHW7d57ICmEf9WGIp1CA	Drone Racing League	20	334
+UCl5vr81EX27YD0XeHU932fg	Drone Media Bangladesh	20	199	4K
+UCpTk764dmBfx2fvLWftYEfA	Drone Relaxation	20	1770	4K
+UCbDH6Ga-wuaam2IHqAxm3hg	Drone Snap	20	369	4K
+UCVQWy-DTLpRqnuA17WZkjRQ	Dustin Dunnill	20	2742
+UCzgFfD8FrAPspA-cx2a2qdg	Drone Shot	20	348	4K
+UCS4jPUCax8d3f-uke--YXXQ	Earth Relaxation	20	2858	4K
+UCNQVrgPYmkm4KGElhWkepLg	Explore The World 4K	20	830	4K
+UCeIn584P4Sn7Fxu9iqC2caw	Elliot Grafton	20	251
+UCklmj1MQuMDEszxGzyZo7bA	Ellis van Jason	20	330
+UCcSNcvoslI429tBF8FQAa_w	Exploropia	20	572	4K
+UC5pBNl48hhwI0Hm0sPoXEdg	Go Places Pro	20	1634	4K
+UC9PycnkleNM93xCRl_ZsIjA	FlytPath	20	475
+UC0h_KX-PqXYfFDy6Fe_UiCA	Flying Filmmaker	20	930
+UCM_EqPByKaet5rcEx_FUL-Q	Healing For Soul	20	24976	4K
+UCtmrw3M_HIuVOobiZg6bjUQ	Ivan Merino	20	288	4K
+UCyx7ezrqlzOBRDHhWNIZ51A	Great Escapes	20	28852	4K
+UCLkfQUPXy2KeungXwXmYeZA	Imago+ Studio	20	206	4K
+UC76FdRjoBXibky_VC6ycroQ	Jay Jankulovski	20	1191
+UCAJXw-FZ7Bs_EjwftbH2OlA	Jev FPV	20	210
+UCdTUsmg628C-9VJcfeHWtTg	Joshua Turner	20	171
+UCizB5yDLNSOQ_AL-L2oC6Gg	Kai Vertigoh	20	772
+UCV0Nvmwp8lclg5jWUfwFDGg	Kerni FPV	20	833	4K
+UClFT5x0LMg19kc_-24iXoHA	LUXURY LOUNGE MUSIC	20	3453	4K
+UCRELYiciuM2dG_7wkMOb5_A	Kószó András	20	166	4K
+UCWWq67D7TofEPq_eBiaYCWw	Learn Online Video	20	1030
+UC7XfOukIyx4zCSjsV-6Pu_Q	Lostranquility	20	2807	4K
+UCdAlL9TjhJeu0hedodCz1pA	Lullaby Of Nature	20	9011	4K
+UCyupwg56cb-DKlz8fg09Vbw	LoungeV Films - Relaxing Music and Nature Sounds	20	11380	4K
+UCMKbFfP3OAEb6gusqEOVDXw	Mads Halvorsen	20	423	4K
+UCcJ5sgPZQm5WcSNlrGunp9Q	Magic FPV	20	530	4K
+UCziVkZ1pVhwGKWQceXW2KPQ	Man From Earth	20	797	4K
+UCE7N59ZOJHU4bQz9zRfXajA	ManVsBando	20	180
+UCjl1vCSzTn6dZXS8-xh4Gug	Mikevisuals	20	325
+UCFr12GgBUVYraet3FXSIlmA	Motionless Nature	20	10151	4K
+UCQEqPV0AwJ6mQYLmSO0rcNA	Mr Steele	20	758
+UC7HKv4DCgHQ8jWiRd2wPUJw	My World Circle	20	9910	4K
+UCMSSWlp1I2UhKl3dwfdyV7g	MyTranquilitee	20	17900	4K
+UCmQY1TsMgn6LeuweFzElNSQ	NORTHSIDE	20	232	4K
+UC4lp9Emg1ci8eo2eDkB-Tag	Nature Relaxation Films	20	15086	4K
+UCtvsljLC4qHFdI4W9GmQPcA	Nature Relaxation Music	20	8149	4K
+UCs-qgtDwIwCk5b65CKrFu8g	Nature Videos	20	4025	4K
+UCjoFckSzE1jUM_kmtVHNlKg	Nature Soundscapes	20	28912	4K
+UCDmvEp5Rtjw817rMw_Z-S1A	Nature Zilla	20	36157	4K
+UCcSge2C-L8TRk2aROV5uQ3g	Nicholas Parkin	20	604	4K
+UCtve26ghqXpiPuE-5mkJnuA	Nicolas Grant	20	519
+UCqYuzgSCEl0IqWKxC8T4Gmg	Niklas Christl	20	1754
+UCb57aRZr3KsykS_wNsD5Ptw	PRIMAL EARTH	20	11585	4K
+UCNf7duTpPcKhKMzCcgV3nSQ	Ocean Blue Deep	20	12422	4K
+UCYJzhShXDqlwHzl0DUkd4_Q	Patrick Watkins	20	1192
+UC9QZjZuI9r0VaipT6rUINhg	Parker Sheppard	20	604	4K
+UCfhqk1LwYmPBH8ALa3nqAdg	Peaceful Relaxation 4K	20	6363	4K
+UCtM-xct7QQx0dL-swaMzYbg	Peter Lindgren	20	668
+UCEiS8m8OLFI0REntmsTvzjA	Piano Relaxing	20	1806	4K
+UCqOLDBE34WiqytAgCRManAg	PlatyFPV	20	424
+UCw385wfnuiRoB_panBZ1cRQ	REST EASY FILMS	20	7200	4K
+UCqpzY0_0ucWZQ8_LPGDxFtQ	Polychronis Film	20	13374	4K
+UCNJe8uQhM2G4jJFRWiM89Wg	Potato Jet	20	1122	4K
+UCNknjhxz1dwMiR1lcQL7ozQ	Raf Ratay	20	9223	4K
+UC6y61Zn2OytfNCcSWrjBq_w	Relaxation Channel - OneSmallPlanet	20	3244	4K
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film	20	14094	4K
+UCblfuW_4rakIf2h6aqANefA	Red Bull	20	1366
+UCe4VXm18fMiBNQATSoCyQcQ	Relaxing Nature 4K	20	11471	4K
+UC8SBCAtzorMu7doWx27mMtw	Relaxing Nature Music	20	9091	4K
+UCUdsGKGfPfr163riPcrRHuw	Scenic Peace	20	1571	4K
+UCUNGlsTp17UlSacxs5-1KIQ	Relaxing World	20	7447	4K
+UC95bEkaIgwhxSjSsdMFXYGg	Scenic Relaxation	20	4387	4K
+UCKVS-32Ngx2oqAQ6FQR6VYw	Sea Pulse 4K	20	11648	4K
+UCue2DK0ccHtBrP9V__gYl6A	Scenic Scenes	20	1805	4K
+UCu871EHrYBgOhG5BMvpihOA	Spiritual Energy Healing	20	23302	4K
+UCGXATjdD3Exhzq1c0EDGwiQ	Solidcaptures	20	409	4K
+UC4i3-yfVazfuqwoz71T79Sw	Surfline	20	302
+UCf4pjyNAPfpV5G0MYCYRKMA	Surfaround	20	3531	4K
+UC1WrVg7394BYwjxgGOwDdSQ	TOP PLACES	20	12026	4K
+UCs53rI6Y6VPQ_XFSm_iXE4A	The Indian Ambience	20	9978	4K
+UC6zl_U-HEajk9JSHkuTlaZQ	Timelab Pro	20	422
+UCNzITZbkNVFEb3T4nh_YL9g	Tranquil Aura 4K	20	21364	4K
+UCSNCAZHyxLYW7e-_WvUNSfw	TravelPixified	20	2722	4K
+UC3ioIOr3tH6Yz8qzr418R-g	UAVfutures	20	470
+UC-lTO5rbkJmgHS9AGzQJpsQ	Visual Escape - Relaxing Music with 4K Visuals	20	20974	4K
+UC5N2hzXORKz0pvBjWXCgP1Q	William Wei	20	194	4K
+UCnVMkgvrwDs4lOYhl5m64qw	Wonder Walks	20	1737	4K
+UCD65boxtIuvi1GF0d_fmjbg	Wonderful World 4K	20	9573	4K
+UC1rJC1fTt_vQV_nLhNdXVwg	World Scenery 4K	20	12134	4K
+UCULhxTUlbj7XEnip2y26xyQ	XDeep Melody	20	10863	4K
+UCX3XAJN6VahEbn6bRK0dDiA	darylswalker	20	449	4K
+UCRVKAqx91HRNk5RzF93uWwA	Xavier Arthur	20	886	4K
+UC7c1iZQpR8_mct1tCKcjWcw	quadmovr	20	167
+UCRZlHMBsvlwyiodMhPCyuzQ	fabreezy	20	590	4K
+UCwVzYLZVFtOilxQzgjtPMkQ	the Dronalist	20	821
+UCs_fyggHUWthGz9yz96qaYQ	timbo	20	484	4K
+UCR-W1hBvmDx4stuEvY3rP2A	 ⚡Iceland Explorer	20	464	4K
+UCqO9c8VjCqPpBIgQGmPd9mA	21Aerials	20	6910	4K
+UCwSg7hiikAmVJJ6kVNjgcUQ	4K Beautiful World	20	11365	4K
+UClGgIUtY9UlJzXtc6Hw5iVA	4K Cinematic Visions	20	8900	4K
+UCh_Y7mMdeWR-curzbxnw3-A	4K Fiction Factory	20	282	4K
+UCgqNATLEMhPPclcwfWgQtjA	4K Serenity Scenes	20	11690	4K
+UC_DtPUwD2qYCT5HpqMBgopQ	8K 4K World	20	1026	4K
+UCa9akbQMZuAWxvbnVmqT3VQ	4k Aerial Views with Relaxing Music - ONESTONE	20	4462	4K
+UCCAgjTpbjAd76bcKxTl543Q	8K Earth Wonders	20	4924	4K
+UC_EVDJ5geGIgtqvmjJTygcQ	8K Nature Symphony	20	198	4K
+UC9Q3Z5SudK2JIwhYCXWDpvw	AQUA Geo Graphic	20	302
+UC_56hae196GdseAW0anQLLg	Adyta Saha	20	3650	4K
+UC3JEo0biW_nsXuVgubQCptw	Ace Travel	20	370	4K
+UC-OlWxdmlFi_69C5285oGew	Africa Luxury Travel and Wildlife	20	150	4K
+UCYWJ32GJbOgtzU2uHh0OMCQ	Amazing Places on Our Planet	20	987	4K
+UCUSElbgKZpE4Xdh5aFWG-Ig	AirPano VR	20	420
+UCwcM21N93UetloDfMGxrMmg	Andrix	20	300
+UCM-k6wKC79S41DMDs_c3CZw	André Schütt	20	147	4K
+UCEHusS8u9G1W7LZZDgO5sDQ	Audio Expanse	20	3612	4K
+UCdrSwpMwe5WgYgziTMadS3w	BIG MUSIC STUDIO	20	633	4K
+UClQkg_dPdo25_0_ClzUk6zg	Baq Paq Jaq	20	293
+UCwO9naEwEdTuT9Q5Vze6XCA	BackPacker Steve	20	2252	4K
+UCGSYXxdexS8H-O0p-rfUgog	Beautiful Nature	20	771	4K
+UCHj38j5HL6EPajczILG-vzQ	Beautiful Places 4K	20	11916	4K
+UCFGjWB_VEEc2ihC4YC1HEvA	Been there Drone that	20	400	4K
+UCe-cQ2Y_ko7wbhvdqIsYENQ	Calm Scenes Studio	20	4421	4K
+UCUsNIrsczO0nZ8XqxNZsyZA	Cities, Nature and Relaxing Music	20	331	4K
+UCC_hrpJZIIhD7CU414M46IQ	CarlFurset	20	126	4K
+UCzP1Xt1lYTcdYEmWVs8gEew	Clairmont	20	214	4K
+UCaMdqI1SZgzB2dDWW_yab2w	Co-Ed Muro Cinema	20	763	4K
+UCRhyVw6VPpwjnJp0_ncOibQ	Come To The Path Of Light	20	329
+UCp-ISL9qZzlw3CGbLOr5uEQ	CoronaViking	20	542	4K
+UCaaw103z5y6nW-IQA2Ife7A	DEEBSAHARA	20	151	4K
+UCvv4-Mee28lINeJh_gjU3Lw	DEEP House Chill	20	11573	4K
+UCFG4fDa47pvdJQN61YnQ6Sg	CrazyTroll - Nordic Stories	20	283	4K
+UCdhK95UIacBxxtIPdkxGL0w	DJI JAPAN	20	155	4K
+UCQd7SWe8IDczOkb-EWSNyZQ	DREAM	20	4393	4K
+UCzlcaBgNEUQDsdd9PZdKMCQ	Danny Rest	20	580	4K
+UCb8WTSeDH2LcxPtkIrKwSEw	DRONE ENTERTAINMENT - Sakura Drone Project	20	160	4K
+UCFDlc7N90P15xuDTh8bBqCA	Deep Pulse 4K	20	11639	4K
+UCg-jBMU2-9RErt1gn9a5jWg	Deep Current 4K	20	12424	4K
+UCfk4juk7tFSlYoypylFKf0A	Deep Ocean Vibes 4K	20	12254	4K
+UC_cmvM6CDde5kIlkOO-aMSA	Dream Sky	20	26872	4K
+UCoHnsfDIwNH1eTz77H0va6Q	Drone Channel / 藤本ひろき	20	1260
+UCVjmdJlGFud-bPLSVKll5DQ	Drone Travel	20	235	4K
+UC6ENA2Sb8HZwyaTaDsHRLcw	DroneMon YT	20	1957	4K
+UCSCsHXyuejvZa3MuBfpM8GA	Drone Japan/ドローン・ジャパン [廃墟空撮写真集 通販中]	20	229	4K
+UChZR0QNnymubbizXxVlBreQ	Drone Travel World 4K	20	10947	4K
+UCA_vTgtgmgXk6feeUy2Bsbg	DroneSlow	20	500	4K
+UCNKeKXBZHoVCVM8LQT9F7_Q	Dronography	20	661	4K
+UCVf0Xqdn3KZrbUlznwAu3dw	Exploring The World	20	244	4K
+UCHtV-fxNmXuANJXW1IPBFvw	Espen Hatleskog	20	179	4K
+UCbaxm9ZpwyoQiM_hv-xXnww	FJTVNET1	20	492	4K
+UCS1nyL9_A6LPxykf0INyC0g	FILM GIANTS PRODUCTION	20	506
+UCKH9rsiO2lB-VXawF-ZUC-A	Free HD Videos - No Copyright Footage	20	494
+UC0b125eq_bCnRJrf0hCdqWQ	Friends travel	20	266	4K
+UCa_pp2zu1q971VM2yPzHEhg	Gaëtan Piolot	20	271	4K
+UCp95D-nVzOFhx0ifWNlZZug	GARY SOMEWHERE	20	1159	4K
+UCB1WPmHvw4jV8pEA6XwNF_A	Gorakh Bista	20	1887	4K
+UCN9rCKPpgzoB3W7D8yK8RzA	HDR WORLD	20	242	4K
+UC6cHvTXPlBiXUgmCMa-D3Jw	Guilherme Spengler	20	567	4K
+UC-gUMyR1pA1IW_6u794lcQA	HIMALAYAN BEAUTIES	20	529	4K
+UCxkTgKaqOK9KELxHcPDECZQ	Healing Soft Dream	20	30767
+UCxFWHXgibHNDiEtiBThLHmQ	Henthorne Explores	20	8365	4K
+UCFe3eedvbvDWD9xVdmFXn4A	I Can See The World Official	20	5928	4K
+UCJZP71MvWYLMkxyI05f2qFA	HighpointTrails	20	362	4K
+UCjmes-kmMze_IeeLpQQJNtA	Hermit Crab Life	20	1002	4K
+UCDA38HtNUTpGoV2fC-u8Epw	Infinite Planet TV	20	4271	4K
+UCmiSpyeI0QUlIqRJreJ-bfw	Idris iris	20	1752	4K
+UCFtYM0o5gzkKbtJtMIj4joQ	Japan Go!	20	691	4K
+UC3MTKWAn3WFcWTO26cJnaHQ	JAYDEEP MISHRA	20	498	4K
+UCZgJxTTNJXIiFH22yXUfQkQ	Jim Winter	20	330	4K
+UCHpBKRJAM4eFmUdfobwBM4Q	Just KC | Drone Travel Photographer	20	155	4K
+UC5vMtpA64o-xkCAgFICsd6g	KB4x4.pl	20	683	4K
+UCBIEIw23Q7ksZ107v_yVQtA	KUFFA CRUISES	20	654	4K
+UCtD01hIXTdtre9cvrniphzg	Kei Shinohara	20	1037	4K
+UC_SP2m4aLbyd-zgm3lU-EGg	L. Hartman - 4K World Escapades	20	13883	4K
+UCEQH35fuIolXZcONL1nMlPw	LUMIPC Deep Chill	20	11321	4K
+UCJnjfmc0bYnuYO_j9z8rNgQ	Lets Explore World	20	574	4K
+UC-SuHonAEkrikvs2oj7LLXg	Lifeder	20	8693	4K
+UCRn1EU8yEw7SHWa_RrqaEhg	Listen to the Dream	20	3807
+UCDTjS-qvuwCKMeI0hgPFBDw	Man And Drone	20	583	4K
+UCn77EctLoBfXssGArko37mQ	Marek Tuháček	20	301	4K
+UCZ3QSWABev5TdRapleAO9EA	Mariner Deep	20	12595	4K
+UCKjNkGY645qPhT3OaB2QGzg	Mikasu-Channel	20	1004
+UCB3zLfKlOYRZujLdQAHZe0A	Mtaka	20	173
+UCQlmHWB8gauLdQUPy5P12vg	Mojo	20	412
+UC5hVw-ZmzcNdXWRsrDmxaIw	Music Relaxing Places	20	2796	4K
+UCxQZ4JPQdkNpJUaQTeE2vug	Mário Birra	20	231	4K
+UCaVSfhpUXBKU4_ZMj6Nrpyg	NATURE AND WONDERS	20	770	4K
+UCF0R-gRnwrFVw9GTuZRVilg	Outdoor Escape Relaxation	20	21929	4K
+UCGfk55sI67rS0Kn_3hBe8Zg	One Blue Ocean	20	8553	4K
+UC-pxRRIiDRSu0IHMJJilb3A	Peaceful Odyssey	20	5074	4K
+UCQGMi85gdgx-yl0NmR97Xow	Peaceful Soul	20	12561	4K
+UCrNiZk7-_djlMkBHjKON5Bg	Petr Podroužek	20	1405	4K
+UC_vb5ilzdSf4U26EeY49aAA	Phil Gioia	20	530
+UCvv62HsDWDxfwH2oL10ilvQ	Planet Vista 4K	20	3339	4K
+UClsV3EtB0HP33l-7MulcfHA	Piecesのまちおこし	20	376	4K
+UCmNlHRHHalZpOzUJRmdAXog	Priti Wright	20	545
+UCrN1-RFiWWXHbTl5RxizK1g	QuickAssTutorials	20	868
+UCw0YWHOxcBizdfw-1hIpj0A	Quiet - Scenic Relaxation	20	2478	4K
+UCKKK9uxuJC1IqbcHVQ3i6Kg	Relax in 4K	20	1897	4K
+UCnFgyOcpa-mcZeKPaqS47hA	Relaxation Corner	20	506	4K
+UCUbrNUBa0TukzWKm7SQ3hmQ	Relaxation Landscapes Film Music	20	10033	4K
+UCGKMvvP7hyJztjGw9yP9V5w	Rhino Africa Safaris	20	188
+UCLcMD8R69uiHTgHTQvPf_1A	SOUL EASING	20	778	4K
+UCET2NCP7a1HtJFDnlDV4osQ	Sascha Jatzkowski	20	405	4K
+UCaurBTdATYuegha36iDnuDg	RoundRiverStudies	20	293
+UCKV_9NXnNbCpI19w22ucd3A	Scenic Nature Relaxation	20	3639	4K
+UC_tMfGT4G2E4Apoy3ciyD9g	Scenic Vision Films	20	1460	4K
+UC3Uf4hqm097iGXtJ8oP6VgA	Sergi Martínez Miró	20	346	4K
+UCD08KYYVEKRSnWGPUcesz8g	So Motion Pictures	20	971
+UCXHyp17Ce7_ACWJAemvFFXQ	Stefan Zimmermann	20	351	4K
+UCo-0AKfzB7HLh65a60Lqc6Q	TRAVELPORT	20	1618	4K
+UC2HFFEpnUN6lEnQ7pDfEIVg	Tally Talwar	20	645
+UC0VCq6M8lMMlRGavRTflklA	The Hippy Family	20	864
+UCyVrdwgjGP2BaYRPVho9U8g	The TMax Drones	20	1759	4K
+UCxpQFybFeQD_N45YqPXd3eg	The World as a Playground	20	279	4K
+UC2XqGAH-CMtuiSWNdjkRC6Q	Tips Publisher	20	362
+UC0-I1Do9H5_bGZfwhdkZOhg	Tranquility Horizon	20	402	4K
+UCEOaWUcNl0AG3jzDpT0z56Q	Trip For You	20	3952	4K
+UCcyOI2xMEfK940Tgwzb2VHg	Travpedia	20	7499
+UC-i-tppABPj922WkBmm7HGQ	Tripedia Today	20	3492	4K
+UClbu-Pv_A3YP73mjL1WgxKw	Vibe and Vision	20	4142	4K
+UCszhl8tXyt06_-9wOngdLjQ	Volkov - 4K Relaxation Film	20	9846	4K
+UCTopLgx4uH2EWCn-lW7MWKA	WONDER PLACES 4K	20	11879	4K
+UCg6gzoAckLMBZIJ4Fw5yBiQ	WE TRAVEL THE WORLD	20	244
+UCC3GlrpDCffAvZYJaXfMmvA	We Love Paradise Travel	20	623	4K
+UC9Ad6F4ZBaoOAmdOWQwpU1w	World via Drones	20	674	4K
+UCn26Q99wzsJav2S94_1OPCg	XDeep World Dream	20	11492	4K
+UCDiad2l5kWSQDfaQhg5rQjw	YOKOHAMA GUIDE WALKER	20	996	4K
+UCr6JvEfhLz4aq2X8mo93k_w	Yannis Pavlis Photography	20	142	4K
+UCQ21p8wUurV4VfZeGubOU5g	Yashvi Jethi	20	1165	4K
+UCwgURKfUA7e0Z7_qE3TvBFQ	devinsupertramp	20	274
+UCLJdRJVtwkUwFtp8_d6x2Yg	Yatsugatake21_4K_Japan	20	1383	4K
+UCxzFRIqNqJGp0Mp5SQp0tgg	oubo	20	836	4K
+UCT8wWbFM6vhzRgYMfqwlsZw	neerjafilms	20	479
+UCKNGeqtKQihyMbmw3cOmJcg	pun chan	20	1191
+UCJLz5azj8Ib3-DSUUQjwhVQ	venm	20	149	4K
+UCQjtYGH-4vjkFRLySqULMNg	winteroptix 〜ドローン絶景映像&SKI〜	20	503
+UC2POX1IxK981aa3T6DOrRMw	おかちゃんBASE	20	690	4K
+UCeTw4MVjh7qveNvcqznmklg	たっかー【登山チャンネル】	20	1475
+UCG6YpB7dm3fDLgQlsJaSfYw	なゆトラベル	20	860
+UCRvFZvnqmjnyMJ9k1ZVpZzQ	カワイコージ	20	1085
+UCyTdQ3Ev--GEKHW6JMkBj4w	ドローン男子 7sky creative	20	308
+UCHbiwXeFZribF91QLPXn7CA	サラクールのドローン空撮&ハウツーチャンネル -Sara-cool Sky Salon-	20	703
+UCUEWLi4B8OhVk5hLop7CgJg	ディーのドローンLife	20	608
+UC8UXXTaoP6Xf-zGRLf0R46w	ワタナベカズマサ	20	893
+UCx92VL1D-uLtVDiumk9u1-g	Thomas Nord	19	250	4K
+UC4NJtxoRUP4ZkO7omcaVqww	American Cities | 4K Ultra HD	18	720	4K
+UCh-PQ66r_sajHRXcj1EpogQ	dji hawk	19	324	4K
+UCQ8wKvyR--JdlDUvCKxhAmg	Drone and Stuff	18	236	4K
+UCXABBHdoUMiW2wYyiF6S3-w	DroneScape	18	344	4K
+UC4j3i2E5fo3Au0NfyaW9yzg	Phil Hevican	18	191	4K
+UCn5ZwuWGzniVoP1ZLf6D6fA	Melodic scenes	17	3951	4K
+UCEWdLr23PPmT5weuj0im4gA	Yaron's Drone	18	523	4K
+UCZjqSb1WBsbb8suEVYGPR2g	Roman Palii — Drone N’ Travel	17	845	4K
+UC1Mru0BjE7bm4mLyMNAO2Mw	Earth with Tom	16	176	4K
+UCVe_N5cy_CI76LYfQtErUfQ	Stunning Globe	16	1331	4K
+UC_Xe6sxfUiwCkg6UgFTFYbA	Karan blyr	16	497	4K
+UCsEpvV1wCOsFPxAYG04PRXg	Global Relaxation	15	3179	4K
+UC0QZOon4oSXAx_-KnMxuN9A	AetherFPV	13	372
+UCJy9_IdiMzW5GDtrnSN7HqA	World in 4K HDR	15	1411	4K
+UCWt2OgI49FTzfE1KSnaogNw	Daniel Ellender	14	275
+UCniG2kwghbRAsqGzhbNjmWQ	uk suraj	13	443	4K
+UC31SuIREm4_oGkPs_3TDsqg	Dennis Rethers	12	421	4K
+UCI7NBpt0NHx0v1gb9mHclnw	Alan Aguiar	12	165	4K
+UCjrPLYKqjj0J3uXCaiaGs7g	Enjoy Moment	11	62469	4K
+UC-wR4UUlBphou3smmOizZXw	Sony Music	11	251	4K
+UCRlOBZC1RGM_03ddNzK_HYQ	Deep Horizon 4K	9	11393	4K
+UCvlKA_VSQtrGRZBfX14QnoA	Nacho Ballester	9	327	4K
+UCRFrofzBB4JyGPCk-QNeydQ	Swedish Drone Pilot	9	189	4K
+UCVJd1Rk55xQMjrwXnHBaD7A	Thomas W Messerer	9	242	4K
+UCgOhGBXRKY4JmP7AbENxc4g	J E Cinematics	8	286	4K
+UCh5UR9uBiT_buUShEhH3l6Q	Amazing Places 4K	8	881	4K
+UC97-UlJD0lKq--VjAsSu4ew	Daniel Toennies	8	433	4K
+UCNeV4u-aUj3NHtn2QqnT4yg	Zakyy	8	125	4K
+UCitWZuEzHSqxEFgcxryK3tg	Vasja	7	218	4K
+UC8Q22OTplGu2vGwMbXINf0A	4K Cinematic India	7	293	4K
+UC4c1v1Qc4Kby0NUj4bNiShQ	Norway Travel	6	436	4K
+UCk9YnqM-Bts6O1774Eg2XBw	Edward.W	6	187
+UCvOvc9QPd-mZDimw00sL3MA	RYTB《ドローンチャンネル》	6	142	4K
+UC6Cm8QPhNRUNm7nRy2nzXjA	Scenic Relaxation 4k	6	34812	4K
+UCM9FT3egpASem8RGcembnww	Muscopolo	5	462	4K
+UCNxP_mxqYFy5Be6RoQQ9K_Q	Soft Rock Memories	5	7502	4K
+UCBapY-Wle4h48d5A4Y2-xNg	Xtian FanTastic	5	378	4K
+UCOXXL_IzZ3oL_dlO1Z7I70g	4k Dolby WORLD	0	0
+UCoU9unOh5isGd7cUq2q40OQ	8K Dolby Colors	0	0
+UC2b9XdIei9CSVmVUemPWvlg	8K HDR Dolby World	0	0
+UCdKIA43AzmdTR-84VyDUeyw	8K HDR WORLD	0	0
+UCXjW1ZLy-WC68GaffZgeOFQ	8K Witness	0	0
+UCuD2fDIrDuzG0XQQdq6M-Bw	8k Chill	0	0
+UCEoEWl2cm0vArU0FIJGHoqg	ASMR FUNNY ANIMALS TV	0	0
+UC08NS8fyPpkYgnhj69fMXLg	Beautiful Destinations	0	0
+UCnIj5hcjER3a5LibzLV8yaQ	Brian Stivale VOICE ACTOR	0	0
+UCmHLGOGvlqcCs3d9gXx0XvQ	Connec-tech Studio	0	0
+UC-bzXcajSEVuB6n6lVtI1Iw	Documenta	0	0
+UCR3_oPaarzDyPCQqCiJgyRg	Don Marsh	0	0
+UC2dlG8BF_QJPYkxQ28Z5A-w	Dream View Journey	0	0
+UCD-93DxGMSCMeyctPSOerHw	Germany travel	0	0
+UCajXeitgFL-rb5-gXI-aG8Q	Great Big Story	0	0
+UCRcBYrDy7APh5oIyLdKGrMQ	Ethan Vale	0	0
+UCRlmhj54_bNtwJqTpg6PFxg	Hidden Horizons 4K	0	0
+UCfNFSybaNWIZj4T1kRNWO_g	Kenneth Lawrence	0	0
+UCtqkjx-O61HwdNPPmmeTXHQ	Kisah Dari Hati	0	0
+UC9EFlCsJ2Sy3o3BGMShzgow	MH Worldwide	0	0
+UCHMWqNTptrnsmkPlnKbpoyg	OLED Premium	0	0
+UCJFcaxmd2enfwsranX_fsPw	Ocean Life 8K	0	0
+UChGe8xxSvanqlBkZT_Qw6Hg	Peaceful Music	0	0
+UCi1_zvSxj7UntHjNlOSYVsg	Ocean Relaxation 8K	0	0
+UCJ0ITE-Ap7OerO_6uUlNLvA	Premium Wonders	0	0
+UCBEQCGepxOuLPx1gof12C4g	Recap By Matthew	0	0
+UCoxRX5Nr1fnEDmuADElgG5w	RVSH  8K ULTRA HD	0	0
+UCuzG-VM3uTUy3nBN5AQ3w5w	Relaxing Places 4K	0	0
+UCVGK24KekfoSh0FtfShB4Jg	SatguruTravel	0	0
+UCycrkpskgxtpWowjGnqLf7g	Scenic Beats	0	0
+UC8yTs7sm3LAwn0doqhZ-5qQ	Secret Scapes 4K	0	0
+UCTir38b40-O3mU5ahgC1Wrw	Shay Dodds	0	0
+UCuDPeihj6EfHeny4jY7eNKw	Soul Relaxation Music	0	0
+UCP77UNXxzT9uZndoz6s9M9A	TRAVEL HIDDEN PORTALS	0	0
+UCgHIAv2tl2yJ471uCz7PwbQ	Top Places 8K	0	0
+UC4fFW3oLwRVuNjfLt5bIJkA	Transitions Film Festival	0	0
+UCAiUkF7HmqLNOXe3aT2uF0Q	Travel Med	0	0
+UCStOUTAF7TCQheECH1xgUmQ	Travelistia	0	0
+UCXcpMW-PCE8rYEwkoNJHBIQ	Travelusha	0	0
+UCHDdtFY_GyWPqN01qryLelw	Tribal Earth Travel	0	0
+UC5QS58xJny6PKGelEmnyJ0A	VoyageVista	0	0
+UC-DotzYSEVDGquz_I-zbrRA	Wout of the World	0	0
+UCmnxIjObfh9mRqHOstKOQWA	WILDLIFE PLANET HINDI	0	0
+UCf0PWm32tDJkKp7s7Dm4Nlg	4K Discover	0	0
+UClOC3NnapHJ35_8nitF9MUA	Zentravel	0	0
+UC2EcBEYp-KxgKJSvL0pnBiQ	8K Gallery	0	0
+UCtGUvq4zCwyc3PUKZcnywjA	8K Relaxing vibes	0	0
+UC3Hb09RdRIqmAkbg0jo7upQ	8K Safari	0	0
+UCS_CdW5SH6I8bqPQQ-X9L9g	8K Top Wonders	0	0
+UC2kUQPQAK4mKJhbEiP_8iWQ	8K UHD World	0	0
+UCwqFSYW_esVqlFCBZRvypnQ	8K Ultra HD Relaxation	0	0
+UCpS6PZLYc2jL1Baoa438U9g	8k Colors	0	0
+UC_rSnRG4P1o4asSknounTSQ	9 to 5 Drone	0	0
+UCZh21ySiZK3QxUpj6B6bshw	ADPM Agent	0	0
+UCmRpVDT5WiQgZXshH9fK6Fg	8k plus	0	0
+UCZyCposXwcyopaACep44maQ	Alex Costa	0	0
+UCTnRFtRPVXzp3JIHTiRJrLw	Alex Nicoll	0	0
+UC4GlBM1GNB9UTtPYNaOcOyg	All Background Videos	0	0
+UCbDIZcES12NrGjytJKBcsGQ	Amazing World 8K	0	0
+UCaIIaOU5-SXghdU3YJ4xCqA	Andre Christopher Rivera (ACR Media)	0	0
+UCv3fnbe7YOmwa_s0F6ZyBiw	Ambientium Sonitus	0	0
+UCZfBMqj1pN_jbtgn46qkIIA	Anthony Cumia	0	0
+UCeOBj-7ZlcwK8rByq4Fw9ew	Arta	0	0
+UCunKlnL5RqfMTGcWyye7wsw	Bagels & Walks	0	0
+UCK7OpxX9ZcTr1Hxvs37-HYw	Born to Ride 4ever	0	0
+UCyPrJiOikMYVc-pahelKQIw	Black Screen Ambient Sounds	0	0
+UCi4s3kO1-xxCDaw8yX56umw	Brett Conti	0	0
+UCtinbF-Q-fVthA0qrFQTgXQ	CaseyNeistat	0	0
+UCrwbBzP11NhxRUCRKx_BgoQ	Cash Jordan	0	0
+UCIunpmSN_Y9GC-vInoM3VIg	CUTE WORLD 8K	0	0
+UC_fssiqvRufw21TOM0ZbfeA	Chris Cote Business Photography	0	0
+UCRGWNojOqmfRcj6sv5rlusA	Coastal Dreams 4K	0	0
+UCbFWqPyjGrtol09QowcMW_A	Curly Dimples	0	0
+UC7qoxWYRgCrskqM4dWaH7yg	DRONE NOMAD	0	0
+UCx2RhEVtx2HkUb0FFA2IhaQ	DYTV+	0	0
+UC0xumS6KTKjXkZVzigHI8nw	Damali Goode	0	0
+UCH3YE3q073zdnDnDaqmK9xw	David Shibley	0	0
+UCooOf-YNp_4wiBOvuN7blEQ	Doga Can Taşkınsu	0	0
+UC8nyn0jNrgxy9EyyCicuW5Q	Endless Snow World	0	0
+UCJLpTkuqK6nNa2cn7vzBVDg	FacesMedia	0	0
+UCmEQRI1gmZ6ps6xKiqNZx7g	Explore the World	0	0
+UCim3aciUfV7Z5JbUuTruMuA	Fahad Khan	0	0
+UCg40OxZ1GYh3u3jBntB6DLg	Forbes Breaking News	0	0
+UCw5LfFcidzH-RM0mTNVr8wg	Gen_Oksi	0	0
+UCvqtzdcURSqNjY9RQEK4XmQ	Glenn Beck	0	0
+UCcioGAb3cgYKhgXBLz8TM6Q	Gus Zahariadis	0	0
+UCcNcsvxri61D-iFhqwRVBZw	Hannah JY Moon	0	0
+UCzIZ8HrzDgc-pNQDUG6avBA	IT'S HISTORY	0	0
+UC7ZddA__ewP3AtDefjl_tWg	I Will Teach You To Be Rich	0	0
+UCTWwhxxGL0jIMLU0DibkcvQ	IURETA e	0	0
+UC512bsMEMHHXLDtOZyMCoPg	Istambul world	0	0
+UC4_d3M_xjilgIpPcETS1itw	Inspirich	0	0
+UCUortpTUBTfak9qwnIsdjQQ	KD shorts	0	0
+UC0-SFHjGPnuJ52AUO46VE7w	Kamera Akcja	0	0
+UC1nJElGcVcTpeZJVyxEbzJw	Live Storms Media	0	0
+UC00MWxmClQsZSm9QCoj2fXw	Lotfi Travel Videos	0	0
+UCFbhOdWR46xXoqLrfOjQTUw	Lotus Snow	0	0
+UC3rKCAjiKAwBwsvb5GTSnUw	Luminous Rift	0	0
+UCHAT67LdK-BiuCNKphEvsjg	M.T.W_MUSIC	0	0
+UCRG1jxX3FR3E08dazMZ1H7w	MDK Drone Snaps	0	0
+UC3GnD8P70UTO_on4pYx2sLQ	Majestic Earth	0	0
+UCtQ43taw5FTRAIy0WThg3nw	Mediame	0	0
+UCENb4NNVaqSTbREy052M6PQ	Michael	0	0
+UCReJV9eFGPjcGFqSMmc_-vw	Michael Natale	0	0
+UCeofaJ2FPhzxsH8_FGWANjQ	Mickey Mi'Kmac	0	0
+UCU1Vj-zYwFWZQVCjdUx-o4Q	Mileage Mike	0	0
+UCO2l9n4L9cq0RLqyrixfFtw	Mind Blowing Travels	0	0
+UC25TttMB572sS3JwJeUd_WA	Mini Melody Kids	0	0
+UCxCfoSInadl-4i3F70zDt1A	NBC New York	0	0
+UCiZT_0S4GujJk1-9N9Z_aLg	Modern Orb Media	0	0
+UCltMFzyxez0nMEgKNGBt5-w	Nature Of World As7	0	0
+UCgNHO49mG3yQk6yTbg9DwfQ	New York Life VLOG	0	0
+UCIhf756SJDKFsvlBt2HgsRA	Nyasia C	0	0
+UCB6Z55T-81_YKt_mQs98tNg	Our 50 States	0	0
+UCvRRLMxYc06leo2MWH-PWgA	Paulo Olinger	0	0
+UCfQRCH280-EKgPPdIG41FJQ	Perfect Little Planet	0	0
+UCuFsWo1soR-fWa-LD5ULsaw	Peter Ward	0	0
+UCHh_Eesl6T_GrD-kYo3WXpg	PolarXTravels	0	0
+UCwg8uopQLbHbY_J_v-2ipZA	REBO	0	0
+UChpKg9g1YARSGuLB2k4oFPw	Property Show with Lounge Music	0	0
+UC4PT2qWVIlmajQrpigoHPVQ	Raaj 8k Vlogs	0	0
+UCKUqnvOmRnQqvFnj_nvwtkw	Relax Channel	0	0
+UCP6-9bAMrdTUbzhBBrn8k0Q	Relaxing Landscapes 4K	0	0
+UCPvoxCTG6kMJfsdNy949hmA	Relax Me TV	0	0
+UCinWuSjty0t10dRvD1XRyUg	Relaxing Nation	0	0
+UCMDV7YaFw8ewqNRJ7EgEQFw	Rose Wind	0	0
+UCbmQns2TtITJIPlTnr1t2og	Sarah Funk	0	0
+UCOERzmCz5hil2T4g4K-5aCA	Shortcut Movies	0	0
+UC6iobJPtNjtgz7YXNkXzuGQ	Shuvo Royhurst	0	0
+UCu3jUMbXq5zfsgGvlILxNFQ	Sightseeing in Istanbul	0	0
+UCXQ9YWXsohdOC8Sh5vCHsXA	Snow Vibes	0	0
+UCds1A0UlXdEJCL3ase5gnQQ	Snow - Sonic Meditation	0	0
+UCI6h0gaPXQpThauDIhkrPTg	Soft Relaxing	0	0
+UCIEY_fGlx6x0cyxvTNStihQ	Softunes	0	0
+UC_DvRFzlwi7tJ4PQ4WT4o5w	Start Thinking.	0	0
+UCzxWMoSO2RPRYwvyNT4nMNA	TITA MEDIA	0	0
+UCl952fR56kV623kJ8YG1efQ	TTC Film Production	0	0
+UC6n8I1UDTKP1IWjQMg6_TwA	The B1M	0	0
+UCY7DsHUFxDvntvErVHqpoHA	The Droneler	0	0
+UCnJOl4DrixWxd_NN07Tu2Ng	Times & Places	0	0
+UCyAkPjzi1GdOjnDUMlx-c4w	Travel Drone	0	0
+UCh9BR4nvlI0AORc0d95Simg	TravelPixa	0	0
+UC5mPJA4y5G8Z6aNkY6AxgAw	Van Neistat	0	0
+UCCkDLIS-07YI9HhqDhoVq3A	Viator	0	0
+UCJW2Yy_vyHpw7b1ts4oPn0Q	Vibes of Istanbul	0	0
+UCE3hh5F4DA3PnCw_UnVIIFg	Walk Ride Fly	0	0
+UC3TKhF-1krVOR2k15j_gKsA	Wild Ether	0	0
+UCBKstFJoz3isH66K-bEJUSQ	World SkyView 8K	0	0
+UCxGZEWX61gdyAGACv1Ou3Gw	ZBYGLUS - Beautiful Places In The World	0	0
+UCIneYySyJ-rOyIpmZL3HaVA	a1vector	0	0
+UCgpqjwVYXZd3huCh52hCkYA	januslog	0	0
+UCBzAI_hhHhp1Sgg6qhKMEpQ	pacific history	0	0

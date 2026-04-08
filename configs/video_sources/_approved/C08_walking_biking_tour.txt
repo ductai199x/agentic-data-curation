@@ -1,0 +1,1281 @@
+# C08_walking_biking_tour — 1076 approved channels
+# Pre-screened: 41 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCoXm66ArnAYGC0SCItOb2Tg	4K JAPAN	20	4114	4K
+UCTZDpA73yl9Tt6OOEkYhN_w	4K Cairo Egypt Walking Tours	20	2369	4K
+UCpQiZHg9WRHD09czNgFk0iw	305 Spot	20	1952	4K
+UCIEGFcaK2Nm_vdIwUhMhhIQ	 through the streets	20	2084	4K
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	20	12495	4K
+UCQ-JKqNo_T0yoeDZff1y7Kw	4K Urban Life	20	7207	4K
+UCwFCljLOGV24CBp9PusrzTA	4K NIGHT TOUR	20	2021	4K
+UC7kpCjVmzNj-UlIqwAQqBsw	4K WALK	20	607	4K
+UCO7Ane9SYmFVIKABfzHR0Wg	4K WALK IN GHANA VIDEOS	20	4116
+UC7XMkEI2kdL17Aw81clh0tQ	4K Walking Street Quester	20	1308	4K
+UCz4CHeOlNpgTFU7t4ydyibw	4K WALK LAGOS VIDEOS	20	3149	4K
+UCvOdeThow304h9eJ-uFslnQ	4K WORLD TOUR	20	4838	4K
+UCbx-9htjxaJ9Lkz8dIWNm-Q	4K Walking Travel	20	3717	4K
+UCETJFPLTJXSPNIv1xgzMUYg	4K Walking Tours	20	1362	4K
+UC1bVJUHInVm4-5DXu1P1BmQ	4k Travel Moments	20	2459	4K
+UCBiW2ntOESWq4bpEsW7-IpA	4k Films by Adnan	20	1200	4K
+UCUhcVTBS1Lz-io4QrTULpSQ	A Walk in Berlin	20	3387	4K
+UCan_cRvtvtQm3yJg6Ql0I4A	A Walk in Paris	20	3505	4K
+UC0J1vFYbxaTmtpGmHBV_a9w	ALLinWalk	20	3906	4K
+UCmLKaHIZqVpAeQCayN9GZpw	ART VISION TV / C&B JOURNAL	20	3378	4K
+UCgPcdSWDoVGSdDlJtrU9gjg	Adventures By Thomas	20	1804	4K
+UCUhmaPSHBPvqrIc0GwQ64gA	AdamTravels	20	1544	4K
+UCZi1S6ofg1NYP2soQ5Qm7rA	Afriaus92 Walks 4K	20	3724	4K
+UC1T_pR-Rt-NdHgytn2GkTeA	Abao Vision	20	4144
+UChb4t76ZMj7EJIYnESGDSAw	Aizay vlogs Scotland	20	555	4K
+UCjT6rEQHAvXcRLM58Z1D51g	AfricaTrekk	20	1094
+UCLwMzA82KRl9JFeCb23ls2w	Ahmadreza	20	248	4K
+UC-xribz4ZTZXgR6GGKvNluQ	Alone in Dubai	20	2617	4K
+UCIGQEUEKIinXKZs5tx8Ohcg	Alpaca Expeditions	20	252
+UCTwtAPLzYSrqNCtmMw0YrRQ	Ambient Exploration	20	4506
+UC6az2eauYmJ35NojKQp7EKA	Alp Galip Travels	20	609	4K
+UC1Xv-eIqlHv9agR0DCWaXHw	Ambient Explorers	20	5936	4K
+UCFL3xx3Y-3jmvoyFeEvEjJQ	Amsterdam Walks	20	2264	4K
+UC6isuGFtrmhgWNgFOP6h_fA	Amsterdam Wallpaper	20	4230	4K
+UCAPZdv5t1EpkwMLl0RETVHA	Anna Global Travel	20	1465
+UCLKnpqUbj1dLjusGfr_TXvw	Arab Ambience | أجواء العرب	20	1979	4K
+UC2wVRyrVq-lVzJrzlyqbJSQ	Arch Nation	20	1774	4K
+UCiw5Mr5op1gjVazrgFH-DvA	Arab Diaries	20	1015
+UC0k238zFx-Z8xFH0sxCrPJg	Architectural Digest	20	864
+UCnl29lpnqXBKmMSiqlcNbgQ	Athletophy	20	2090
+UCQY4My_4PY17PWsN89hZHLw	Aussie Walker	20	2141	4K
+UCP9ppOVBnkMvO09sd-SavSw	Atmos Walks	20	3218	4K
+UCwmZiChSryoWQCZMIQezgTg	BBC Earth	20	2405	4K
+UC3oPoFgj0lFKdgJULyqh5Hg	BDW Relaxational Travel TV	20	3439	4K
+UCqlVCJeeie6N9k7L56CNKYQ	Beyond The Skylines	20	3449	4K
+UCl7BHHWjb1FH13tj5POWj_A	Bike rides POV	20	8333	4K
+UC3DFdy_qc-cqgKCyQTHLGzA	BKXC	20	1206
+UCWXNvnztTNz99SYgTnyltwg	Bike the World	20	6189
+UCiN4rF5XL_fKYOZkGKtdaMQ	BookingHunterTV	20	6230	4K
+UCWhMeA7TdkaClRf2jlkcBgg	Billy Perry	20	840
+UC3FVa3GIGSPxXbcJpA5ukIQ	Chews to Explore	20	981
+UCaNAmhESujLUR4Gs-mFD76w	Bucket List Travellers	20	1219
+UCKxA2_w857nlShz5qDi1p9w	CitiesWalk	20	1858	4K
+UCoDrjL4eWVbmuZWCoFu76wA	CitiesTouch	20	5762	4K
+UCFMkPeE8jiPirJMv9kttuIg	CoolVision	20	2286
+UC9dw7Mp4GqFudCTLa5UWZGQ	Creative Trip	20	1056
+UCzVWImOG5P-66GPmHVcplJA	Creative Travel Guide	20	315
+UCOpA8lkWhQFdkfgi-o_oOOQ	Destination Well Known	20	822
+UCnoX8XXQR5N6H9y86mEnkPA	Daily Adventure	20	1533	4K
+UCAjA4SbeRNqig8NdNszDBsA	DW Travel	20	511
+UCBX_wRb6MXqG3WKIfseM4oA	DayDream Gaming	20	9728	4K
+UCx2vyFdB0HP73wHBhEWWp3A	Discovery Walking Tours TV	20	2793	4K
+UC67uA1i1zR1Iu0UWUf8nBIw	Drifted Films	20	6699	4K
+UCsJEKFNu_BZ5HvAdZKoLrzg	Dotted Paths	20	2944	4K
+UCGaLMzdEMwwjghJBSfZlEXQ	Duslin Travels	20	3557	4K
+UCac2pd6X59vcWn5nub0yBsg	Dubai Wanderscape	20	1713	4K
+UCpgs3mZrzfKFZCi6DU_5vxw	ERICBERY-TRAVEL	20	1591	4K
+UC7E0fKV126KYfgK27U77dTQ	EXPAT American	20	1162
+UCEqc1lur5fjl7twg-W6SX1A	EXPLORE Walking Tours	20	1518
+UCrzS-oNwWlnCtdtsdcPMmiA	Edu Thomas	20	3411	4K
+UCA_uI9Bc4FzpmrgvMhkIiHQ	Electric Tour	20	1648	4K
+UCTRu4KWehF1sviOJtUV5Haw	Ellie Walks	20	2661	4K
+UCbe9btEb-UxtlaH3F2gCbnw	Epic Travel Vision	20	9528	4K
+UCtb6h7HSr1EN0j3TxaXswBw	Epic World Walking	20	11286	4K
+UCs0xACzUqXzNhh8T0vdqmsg	EpicCityWalk	20	1604
+UCoEme6xBIdbEmDFAIPKQBKA	EpicExplorationsTV EN	20	3892	4K
+UCZzbs3iZdMDKtrvsB6mstgQ	EpicGlobe Walks	20	1995	4K
+UCOlx478DxwYAwkLnz9ELNIQ	European Walking Tours	20	4987	4K
+UCTqY262jL8VeJUAY9s_oswg	Explore The World	20	574	4K
+UC6WMsDKoKozRilbygK3wWpg	Experience Berlin Tours	20	856
+UCYFRB_4k5nBE9PBwyGVfsvA	ExploreTheWorld	20	2076	4K
+UCcokPMO52Ytp3QuiZEyO5-g	Final50World	20	1739	4K
+UClX9aV1lJmlZEombeSux3qQ	Flori Walks	20	2515	4K
+UCqk1mPdP8cr2xC6R15vPu5g	Follow Us Travel	20	1107
+UCNUsndmoH9CCloc4Y7ACLKA	Fragile Rovers	20	2610	4K
+UCkcNUKNEB0BJgZk9jIdI6OQ	Gaming Tours 4K	20	9170	4K
+UC1lvLffaU1wh_YuvTDCWcOg	GIRL IN PARADISE	20	6718	4K
+UC7M0L-ZU-TzS6ZoRXz-iRWg	GEORGE WALKING TOURS	20	4294	4K
+UCtOOJcon2npC5P3aebUzKpQ	Get Sleepy	20	13088
+UC-qj5Q_HpM9ul66JKa7St1w	GlobalWalk Tours	20	4017	4K
+UCt4whHhtbuczgEvb4GsCjbA	Giana Rae	20	1065
+UCuTaETsuCOkJ0H_GAztWt0Q	Global Cycling Network	20	1598
+UCqhnX4jA0A5paNd1v-zEysw	GoPro	20	271
+UCkCFnbLtWCxaZDc4jEvoIlQ	HG Virtual Tour	20	3129
+UClFqk1ZP_4ddDHGmeozv9CQ	Gone Adrift	20	661
+UCV2_l3k3JuZwIhiY1H0kSxA	HP Walking Tours	20	3038	4K
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea	20	42472	4K
+UCDCh_co9bI5yMjTsLeHYAVA	Helsinki Walks 🇫🇮	20	2049	4K
+UCGIYqX3fxa_llG4NVUYdx0A	I Love Walks & Rides	20	1137	4K
+UCAru8IKlM9zmRRIuKZ6psLQ	How Dubai Works	20	749	4K
+UCGKKS6UEV0xwo32jMk155_g	I am WalKing	20	3338	4K
+UCpS0ZlZ6ErDr-IpwBKHolIw	ISPortugal	20	2648	4K
+UCXulruMI7BHj3kGyosNa0jA	Indigo Traveller	20	1553
+UCVbBtdw-_SCqGDs6-_awaDg	Indoor Cycling Videos	20	3370	4K
+UC3qWcF49rv8VMZO7Vg6kj5w	Insta360	20	344	4K
+UCarSZcFQ6-0eqZrAG4pKoMA	Island Hopper TV	20	1695	4K
+UCGAI9wn15rOPgzZGe4gIbLg	JWINTHAI	20	2320	4K
+UCJRYTUwfeeXRJDMmIvwl4CQ	Jeronimo Ambience	20	2886	4K
+UCFWqceEDVxifaU3ljzMH5tg	Joolz Guides - London History Walks - Travel Films	20	1838
+UCrJSRatDd3AzoqLfJbbdp5Q	Josh Kwan	20	1003
+UC7eTBSznUSY98YAwJrIqgTw	Journey From the Road	20	614
+UCUGJjO7QQTT5bykbjZ3FNXQ	Journey Memoirs	20	2021	4K
+UCyg39D7rZA2wYVnVfRw-Uxw	Joy4walk	20	2113	4K
+UCXdS9jTrUYHPJ2KTWRneHDQ	Julien In NYC	20	3330	4K
+UCuuEvjdTfJK62ow09hWZbUg	Justin Bikes	20	793
+UCnbxG_gHDbP2N8bX_AmF3OQ	Justwalk	20	3248	4K
+UC4ijq8Cg-8zQKx8OH12dUSw	Kara and Nate	20	2715
+UCM4qS-YaT5Eg7WoGswaKyQQ	Kemoy Martin	20	1147
+UCYPvFIdD7J3rK0_jckYqZXQ	Kenny Walker	20	2714
+UCdHoyXb4tnuHc9RI63ApMsw	Kendin Walks	20	3987	4K
+UCGSYt7ikiEoWWotJgUddwcg	Kevin The Countryman	20	2449
+UCEPno8cIadosuOqnrp9BfTg	Kwame The Wanderer	20	1343	4K
+UCKDaEXviZDExVfHtg6IGAbQ	LONDON CITY TOUR	20	845	4K
+UCBvZ2hEzZZaWAIrUHVN6YUw	LONDON CITY WALK	20	4470	4K
+UCU29V2Jl2unpcOxm1kPDqmw	LADmob	20	3848	4K
+UCuskVRNy7qkLCmOGb3Tef9w	Life Ambience	20	2851	4K
+UCNX5xjCbiuY5kR-SXXyt0QQ	Listening to Earth	20	3742	4K
+UCrcY5IVwtJzB5CJN-bsvakQ	Livingstone in Russia	20	1592	4K
+UCfJKHk7lav13YHgCsYcvsHQ	London Walk by London Socialite	20	5242	4K
+UCBUkiP9K0Xegn8KK_9ybI8w	Lost in Moscow	20	1499	4K
+UCBPnGS40b6RqJvsGKkTHw9w	Lucas Dias	20	351
+UCYxsXxbjJO1YYa9yQ3lKC8w	Luxury Travel Expert	20	3215	4K
+UCoi0yVzijLNTusaNBTTGFvg	Love Always, M+E	20	1849
+UCNDvmLVqgolcetQbZh5aQug	Luxury Travel Host	20	3083	4K
+UCOQlMTs8-jweu-v7iDP2-ow	Marijke Walks In Amsterdam	20	2367	4K
+UCOxpcQ7KtZc7fd0jhnWS0Sg	Max Roving	20	1632
+UCEx3GaAYbl6zaf5LK1SerDw	Maximiniano Nascimento	20	2862	4K
+UCnaBc_rvFuhu9eviG2mjryQ	Mei Time	20	1788
+UCta32ozRl-k2SUpbzKcBpiA	Meri Walks in LONDON	20	4709	4K
+UCvSOEH166E6b4rEiFcAXssg	More than Walk	20	967	4K
+UC48WZTU8hOdNjZYmeGfLQ3g	Milky Walks	20	2396	4K
+UCwo8xlPUV64IEzBKCtKEdZA	Moscow Walks Without Talks	20	2327	4K
+UCGitv-0qkOy-4MQpwaKCu9g	Moscow Uncut	20	1110
+UCx6QQLpRolGQS6mDKayAHeQ	Mostly Walking	20	3735	4K
+UC0QwCbwD16oaol22dZTT90g	Mr Walk	20	1406	4K
+UCdvPmSwWRqDqsdmOo6dVOMQ	Mr. Mall Walker	20	1207	4K
+UCIDTgYVs-rEHx-fE4qSPZhQ	NIPPON WANDERING TV	20	2152	4K
+UC_dgBK_X6jQwXe0RAJDFHBQ	NYC Walking Diaries	20	8179	4K
+UC-6A6EO4WikNgHikz4cik_w	Narramundos	20	5112	4K
+UCvm0zxonCIUf211MDZMxISQ	Nature Harmony TV	20	4452	4K
+UCxWw3CEG7xbxuCbZdGTdULw	New England Exploration	20	1921	4K
+UCxiUYDy1o9NmPv9Af_GAEVA	New Walker	20	2585	4K
+UCnIefzNHDEcyNFyRLBtVPZg	Ninja Oni	20	608
+UCcW8p0-9aslcYZSsDwnWLSA	No Talking Walking 4K	20	1647	4K
+UCqRTj-Nu_8to3jIBlXptOtA	Nomadic Ambience	20	4329	4K
+UCM7TsAGsiyDPcTTb58fTjKw	Nonbiri Walk	20	2464	4K
+UCfvPJMe3w4vwnvB1ts845oQ	ON World Travel	20	1532
+UCFuuWy0sKJNi5tyTASt8LQA	Olawole Ishola	20	1068	4K
+UCqd3PhBFMN4StMCJKh6Waww	Olivier Antain	20	3575
+UCRydUssvoRDakMZyBbaQpIA	Onacomeuppp	20	1337
+UCRMFqBRzzJDqVE0WOvXjDQA	Opolotivation	20	4297
+UC-Uf7vV6_7F1hpPOogOq48A	Out and about Walking	20	2160	4K
+UCSOowhpoHIaKuQhCq0J019w	Outdoor Exercise	20	5157	4K
+UCaK6gtupBKPeQT-ZLSEWigg	PEACEFUL MIND	20	31744	4K
+UCwivAqc3tPrvbionZl5SjJQ	PH Dot Net	20	3908
+UCtXPXuq8jn7CbsREJUSu-1g	Paseos guiados	20	3657	4K
+UCf82GY0vawtEZY_IrODFGNQ	Parichaya Walia Films	20	827	4K
+UCKiCqSvWOBdHuJt3wQs0uwA	Paul Douglas Dembowski	20	671
+UC3ALaoDDP0LCSMrUQH1u72g	Patrick Foto Walks	20	4981	4K
+UCHF4or9yV_EKU4Wb3vEjd7g	Pictures of New York	20	3324	4K
+UCLW_iDFpAlbfhe8DJbdd8GQ	PixelPulse Travels	20	2973	4K
+UCcL-lSq_XlzdB3GqexWIMPw	PixieThailand	20	1005
+UCNzul4dnciIlDg8BAcn5-cQ	Prowalk Tours	20	7300	4K
+UCAcsAE1tpLuP3y7UhxUoWpQ	Rambalac	20	4975
+UCTmuAFtEfOOYbzuu8gXjx-Q	REAL THAILAND 4K	20	3101	4K
+UCZ4DuMSxrOpyQmipwlSugCQ	Rami Travel	20	2395
+UCi0j6e3VX3feNu0o703UzCg	Real Russia Uncovered 4K: Walks, Life, Girls	20	2337	4K
+UCPotnGNahFjLWjfsq4KYvuQ	Relaxation Film	20	14094	4K
+UCcThpNwjjtb87flNNhW-yfA	Renkli Çekim	20	1567	4K
+UCchgIh8Tc4sTmBfnMQ5pDdg	Rick Steves' Europe	20	1112
+UCcllQnmB4x4OPhcXbCwA6dA	Roma Walking Tour	20	2871	4K
+UCwgKJedKGC8k1bW3Btbr6CQ	Roots Abroad	20	1488	4K
+UCYYrGa2k0QCB_AvF01YCpgw	RomeWise	20	806
+UCx6uCjU9hg7R3PeaABQQp3g	Running With Adam	20	2528	4K
+UCX1cKCS0LURMO1wQWLfeiUg	SAFA Brian	20	1438
+UCFeclNW0MMuoO00_BzISx0w	ST Travel	20	3160	4K
+UC-WMwOzgFdvvGVLB1EZ-n-w	Sam Pilgrim	20	818
+UCqtCCNUAwf8Tv3uD4VWjiUg	Scenes By Sevy	20	4117	4K
+UC95bEkaIgwhxSjSsdMFXYGg	Scenic Relaxation	20	4387	4K
+UCue2DK0ccHtBrP9V__gYl6A	Scenic Scenes	20	1805	4K
+UCERhrfMIf1AAeJ-9P7xZ3Hg	Seoul Life	20	3936	4K
+UCDIaYUnM9AQ_QDeQYJZwmZA	Sergey Khvostov	20	1058
+UCjVJjSY20x7Yknu449V2dMQ	Rozier Roma	20	817	4K
+UCSZXwdBppzhYpcqf69WNOIg	Seoul Walker	20	3724	4K
+UCvZj5rtpSJ6SnN7Uc0Mv48g	Singapore Walking Tours TV	20	3155	4K
+UCH6tlt1xmwe4iPzcaQvvseQ	Soul Healing999	20	28238	4K
+UCaTEitB4jsAHNjIU8bO5uTQ	Sort Of Interesting	20	645
+UCjz4PYkSKdJOx2DM4xSEy5A	Step & Scene 4K Walks	20	1529	4K
+UCC_XyQjgwZMdoVTK6IeGceg	Still Wanderer | Italy in 4k	20	1974	4K
+UCeYUKvRrRY9V3DYdZd1Z_eQ	Strolling The City	20	3751	4K
+UC3riFUL-NCNBQWAwR98fq4A	Swiss Walker	20	2380	4K
+UCcRWHF8zs7FHmbfav9EmaSQ	Streets & Ambience	20	2066	4K
+UCliVSFfevlGUhItfcceOiMw	SwissWalks4K	20	2870	4K
+UC5h56-V8v4eTbPloQfPokjw	THE WALKING EUROPE	20	2174	4K
+UCFB0glEufTNKzFvzpSpAf4Q	THE WALKING NEW YORK	20	2254	4K
+UCaamGI_gFoce5WiUKhZ3UfA	THE JAPAN WALK	20	2875	4K
+UCToKXPBR4LUSDU_CDBoyLhQ	TORONTO WALK & DRIVE	20	1426	4K
+UCZDfViOBzFft35iXPWl1gEw	TT	20	2467	4K
+UC2Od1z-xwnTjc9TEbhEI0yw	Tarar Support	20	803
+UCQTdjaEOwPZu8PWG4sDxDHw	Teleport Walkers	20	3413	4K
+UCHRUAMAzVUS_Szvxn55GXaQ	Terry B	20	746
+UCLWRpqrZy8j3Xq0mhvN1aug	That Biker Guy	20	1184
+UCvQqHoCMn7-XXKuoIjv1yBg	That Mountain Moment	20	1119
+UCs53rI6Y6VPQ_XFSm_iXE4A	The Indian Ambience	20	9978	4K
+UCFN_dQuFU6tXwVLXppqOwpA	The NYC Walking Show	20	2342	4K
+UCeldhl2LRQRMz0bLSvGMYNg	The Traveler	20	7532
+UC1-OePhgk_0LUGhzuhvCDow	TheTravelWaves	20	1670	4K
+UCBkylyflIrzhxETeehyIkCA	The Traveling ZAM	20	1208
+UCfC25VLBBRILnPRS56aj6BQ	TheDogCam	20	36000
+UCZNi0qQIU-pZRsteKDHbUJg	This Gemini	20	3669	4K
+UC-uwguDW4NVcbrteg7ab0vQ	Through Streets & Tastes	20	4097	4K
+UCMw0NWLxfCHWwRXcunrbHEw	Tokyo Ninja Walk	20	4197	4K
+UCdN5xaPBQWRSbKq1kAI7fEQ	Tokyo Walking	20	10739	4K
+UCQlAMUcwdylp3nLaDe9c79Q	Tom Medjugorje	20	1044
+UCRPZ_rbtWXAUsh3EeMjPuLw	Tommy and Peter	20	1560
+UC_7tXpskVUnH2Mv9_nQuxkA	Top Travel	20	2730	4K
+UCMLPl1pbC2IIoeSFhH-BsTg	Tour From Home TV	20	3503
+UCEZ_zB95xT6J8u33-pBF6UA	Tourister	20	11048	4K
+UCTevLM6XIJBjg3RVESdWAgg	Tours by Foot - London	20	1868
+UCtNP3HfnQIZX9j9D12ek8VQ	Travel Passion & More	20	1139	4K
+UCZf-CjRiqYrxkYGpE8oPUuw	Travel Algorithm	20	1664	4K
+UCOmaiAVEA6EgcEXM2v6S_LA	TravelFlow WalkingTour	20	1647	4K
+UCZWMwf7UfxtsF3Ec6HSsO6g	Travelao	20	1681
+UCy_vqyNIi97XhoEN2crQs1g	Travelling with Russell	20	2266
+UC6FBRsO1cxk0lCp40U5gUWg	Travelwithcollins	20	4517	4K
+UCq5O2ZfzRQChMdahnpKpGVg	Treadmill TV	20	2144
+UChpYneRG0YEueElMo-7OXtg	Trips and Walks	20	2554	4K
+UCQrnl3v9mkozB6Z_zmBWpLw	UHD Walking Adventures	20	3684	4K
+UCnKtB3eeRP4TWT55AIuVZuw	URBAN ROAMER	20	3556	4K
+UCuFEspZ6signXGHFbYapeyw	UNSEEN Walking Tours	20	4230	4K
+UCa2cezJdUkI4BRqGEr4KW2w	Universal Survey	20	2392	4K
+UCMTv_Dg1BXFUglzWIIincpQ	VIRTUAL JAPAN	20	2535	4K
+UCwJJBd3HHgJVOKdoHbddFBg	Urbanza.	20	3938	4K
+UCM-Y2arEt7fd-CILPVLB7Tg	VISUAL TRAVEL	20	2760	4K
+UCDmMSK5vSXDiYQ693B2Ey7Q	Viajando Un Poco	20	624	4K
+UCbQiCVLFtWLOjVO0YuUqo7Q	Virtual Cycling Workouts	20	3649	4K
+UCQg9k5TmTBImo3YceuBBTCg	Virtual Running Adventures	20	4334	4K
+UCidVRwWAHB9DCNZYmS2lasw	Virtual Journey	20	3048	4K
+UCWPCbgVfugC9to_aDIxLI8g	Virtual Strolls	20	2430	4K
+UC6zke-UMod7FyU2S631UcUA	Visit Our World	20	1220
+UCdgYcJTlbq3s798MPWsWxpQ	Vort-C Ambience	20	1483	4K
+UCRO_bRfOrkmCGZlaKCD3lVQ	Visiting POV - The Paris Guide	20	4224	4K
+UCjWtvJ7cXtNDiR-NMWIU5ig	Vort-C 4K	20	963	4K
+UC9xmKCi9Boh9U-a_jqygMOQ	WALKS & TRIPS	20	3149	4K
+UCnvLGayHxWh5YZjpJjZ6WRg	WALKS and the CITY	20	28726	4K
+UC0tohdfLO1949s3X0fhtQWA	Waka Droid	20	1413	4K
+UCTskVUzp8odI1wZbCl8hDjA	Walk In The Park	20	4038	4K
+UCxDWxVXJ9HCGM6_DyjewShw	Walk In Progress 4K	20	4326	4K
+UCXx0Fd4TxK_T_SCe1NGYriA	Walk The Globe 8K	20	2635	4K
+UC0TqihOw3aHbHDi-EWBfFeA	Walk The Tour	20	5442	4K
+UCDJ3Eve27aIKq9IAe6cCpLQ	Walk With Me in Turkey	20	3622	4K
+UCS8DHJppvqF2lwzyCSEqlSA	Walk or Bike in Cities	20	1119	4K
+UChicRJXRuGYvAspiLpldFLg	Walk to Sun	20	2093	4K
+UC98E6Q90snFV-e9kdtkv74g	Walk with Filmmaker	20	1757	4K
+UC9y1J-KlFGiQKWGFKyzNx_g	WalkNauts	20	1534	4K
+UCiVSJutRI7WdDuXV93fRWvA	Walking Alice	20	3502	4K
+UC1Qu27ugR9zbT7MuYAIOLjQ	Walking Dots	20	4553	4K
+UCmcOV3wooh5NfHHR5Szy0-A	Walking Expedition	20	4252	4K
+UCULub8VpiA85KubW5vHNGkA	Walking Lens 360	20	3666	4K
+UC9S8HtK0MtJkRYzC2gPafUA	Walking Eye	20	4665	4K
+UCLSHGag2MZEM5JGwegJq3MQ	Walking Man - Sightseeing	20	3816	4K
+UC20vyRWEaC2GIS8DkmeRQaA	Walking OZ	20	6766	4K
+UCHCv5P4Jn2B96-QGLVclC2A	Walking On	20	2391	4K
+UCOmDj3rkSUdA2uxRWqu1oWg	Walking Portugal	20	2610	4K
+UCmGXPVXW7Vb3u7TvzflFNOw	Walking The City	20	2041	4K
+UCoX-jES8huailA4LRdJlL8A	Walking Viking	20	3765	4K
+UCR0QzQOtBDDHLQANhMHq2Og	Walking the World Asia	20	2092	4K
+UC3x347_Eye_mjzQ5n0DxjsQ	WalkingLensTours	20	2187	4K
+UCF4fVuZx4yUOqpORNCWzjcg	Walks Of Wonder	20	9217
+UCKqgcaSqAZ6MR7URkyhl5HA	Walkscapes – Walking Tours Everywhere	20	2644	4K
+UCtQXPYe1OXpj_p01xBM6JzA	Wander World 4K	20	2336	4K
+UCvv-8uhlpvFqkWVe1D6qa4A	Wander World Unfold	20	1567	4K
+UCTa6GtRcrRhezqp7QE88xGw	Wandering Pete	20	2295	4K
+UC3lojzlADkp2ZAiVszhgzVA	Watch My Journey	20	1416	4K
+UCs9MJ-TmN0-CLY2eNBHAltw	Wanna Walk	20	1304	4K
+UC_mzz_JnzArhhpGUy8KdGwg	Watched Walker	20	3431	4K
+UCMOg8JDzDejcn7xEtSI3vEQ	Wattokun Walks	20	4228	4K
+UCPur06mx78RtwgHJzxpu2ew	Wind Walk Travel Videos ʬ	20	3185	4K
+UCnWmGuIjpMU7e0zC6UOgpoQ	Window to Moscow	20	2312	4K
+UCj0VQx_rJuOM8JAeV4tiQ_w	World Driving Tours	20	4914	4K
+UCnVMkgvrwDs4lOYhl5m64qw	Wonder Walks	20	1737	4K
+UCrf0ij1Ee0Rvf5SFs6Wimxg	World Picture	20	2917	4K
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours	20	6827	4K
+UCU5VEsfqy84iKGmceH1RsVA	World Watcher	20	8618	4K
+UCsRym4vFqxMz9CjH0GlF9dA	World Walking Tours	20	4970	4K
+UC4IEu23tdgKeRQkSPXjgPpg	World Wild Hearts	20	995
+UCozcHaDuLGtsWxeS-jNeJYg	World of Walking Tours	20	2706	4K
+UCw8_bi1G4duPevdfktipGOA	Yellow Productions	20	1222
+UCGEKVZ6GO4bp3LINzs3gMSA	YO YO Travel	20	1710	4K
+UCPyX3rVT1SUOw83pWUC_zVA	darekm101 - Cinematic Ambience	20	3014	4K
+UC1tK-bBvCrBhYCRFw8RzcoQ	marusmedia	20	3790
+UCjteFpAejkXe7SAmoHoEMUA	Zen Walks	20	1783	4K
+UC1-7mA0mKsCTyCMG4JNO3EQ	space and science	20	2999	4K
+UCFzssulsGA5-IeD75IFJJ9g	my delicious trips	20	2839	4K
+UCobaqk2JEYLiBJAhJZG0Oiw	the tour guy	20	778
+UCG1OIoLEjzyjkXA8MHQyiQw	tomdnyc	20	1609
+UCIqHdtGo7Rq3cOHrg65_jgA	tourmarvel	20	2464
+UC9PbbQFB_Qhwd_Dh6urD-nw	travel with  M second chance	20	2520	4K
+UCvxPDeaDkQtdxP4HeUu-HCw	vertigo only	20	2310	4K
+UCF0W_KtJFQkzQmW-TMDvlpg	umaaji Japan Walker	20	4231	4K
+UCIUm6jYmiBYXgk2Osy9h2FQ	traveler_HIRO	20	3554	4K
+UCydVq9FHPSXYW56tS1dvpTw	walking around	20	2511	4K
+UCSPssxnqHu3LNG5IFcCPWCg	서울관광재단	20	390
+UCwfT8QeIiEaNmCIyOT4drJg	🇨🇭 SWISS - Most Beautiful Places & Walking Tours	20	10654
+UC77xjmSS85jmtncJw3jw6SQ	  Musa Jadallah    موسي جادالله	20	803	4K
+UCRAqlWCdHV4AbBuTjOHDfIw	 BAO AOM  Channel	20	663
+UCYLOtfMWUstyWf_0mQZlgpA	 Stroll in 4K	20	1247	4K
+UCyrkjmY3CUTDhX0CeJY3hRA	 Manoj dahiya	20	247
+UCNoXxyNZwz-GtPlh494gx6Q	1000 Travels	20	1869	4K
+UCjOFjcq1_SEQKnBtKQmsisQ	+OnTravel	20	648	4K
+UC59UEQCQ6qc5j95czlQXZdw	3H Vision	20	1323	4K
+UCV6aLfyqUqHYqOW3lNgWyRg	21 Pictures	20	6894
+UCJQKLW7Jd08IRCMHJA_J2Ig	4K City Life	20	1617	4K
+UCB9P-8dW3pR4fOfAn1U4Nng	3Yo Moment	20	1011	4K
+UCh1Ni-Vb6HOADcGz9-m3z3w	4K Canada Walker カナダ街歩き4K	20	777	4K
+UCSeVhgRSRH_lOWwqPzbqXYA	4K City Walks	20	300	4K
+UC70T1ORmoJNe8mjtDvxNqfA	4K City Walk	20	1305	4K
+UCvTr0jNqE1zrxMNC4JB3Zyw	4K Nature and City Walks	20	2051	4K
+UCbG1JlqUU5tMkbxSkhkrpNw	4K PARIS WALK	20	941
+UCQEZKoznLWy-ys4JRBtt7bw	4K Observer Walker	20	1372	4K
+UCrz7XiF1LeSRWM7aNF9gCjw	4K Real Life SPAIN	20	1611	4K
+UCXU1z_vRE0hKjgmnzKhFoQw	4K Sweden	20	2728	4K
+UC2kZ30Rwz_c8_BUdeJfMIgQ	4K Walk Malaysia	20	3244
+UCxVLxByUn8TbPY0xdtCK60g	4K Walk in Vietnam	20	1202	4K
+UCqRGRWW8YtbH8ECfCRoEG_A	4K Walk and travel Baltic and Europe	20	1394	4K
+UCinxQ7WtCN75XYIzgc1Fc7w	4K Walking  Marie	20	3026	4K
+UCLQpYxssqIeHB0Ik7MhNNGQ	4K walking tour	20	1584	4K
+UC5ZuNlFvhoK9989OQrlFYBw	4KWalksAllOver	20	3871	4K
+UCOnVJPISbWkMrR432Tsg_kQ	4KMINOS - virtual tour -	20	5490	4K
+UC1BXP1dXoBEFOq9Cg6rqJJg	4k Tourmate	20	1882	4K
+UCho5zgCjo54DIdoxgKtzhNw	88 Steps - Walking tours	20	2365	4K
+UC7WZPC7mRWexLM24G3Y3ytg	7ze3 Travels	20	2474	4K
+UCbSw3I23lEqtkhXNRG-65yQ	5 Minutes Asia	20	300	4K
+UCEYrzy2_3N1UlDDmo5wl9Vg	@Walking Tour of my traveling + More	20	302	4K
+UCYZ_jWWHuVjfjXYlYUWoJnQ	AAA WALKER	20	2102	4K
+UCNhegV1abkCbUD7_mPVTH4Q	AJIT RANA	20	551
+UCNTQR6zEJMaSe-xT8oySshw	A walk around the world	20	2316	4K
+UCH3Xg41FGJe78koGA6YHg2A	ABDO CHOLO	20	578	4K
+UCybykuc_xad-k0LMP6cY50g	ANOLIPA	20	1862	4K
+UCbRMVVB9l0kB3XgtnaWL1vA	ANM KHABAR	20	318
+UChtEvBpe2GQkVzzxvMLLUHA	AP International	20	1048	4K
+UCfUXfzWCCTWmlgV_hfK7vFA	AMORE TRAVEL VLOGS	20	383
+UChK_qxvQfM2S3vW06QqAYTQ	ARIF VLOGS 70	20	465
+UC2dKEErRa17KhjFBfnbb9wA	AR Tour	20	1436	4K
+UCt5XOBp6iu9rpbtL4MGyJbQ	Abdul stories	20	1264	4K
+UCR9EuMWhNOQ5xbMRnAxl5Vg	Acerting Art	20	4373	4K
+UCP3kndR3TXj48F_jIK3XhzA	Adventour Begins	20	685	4K
+UCx8lylqkDSa0eYk-8YONrTQ	Africa Insider	20	590
+UCByMkXW0lK9LelnKe8hODhg	Adventurous A	20	1026	4K
+UCqMbmLFA2LcR8CKTL65qwIA	Africa's tour guide	20	589	4K
+UCLPhQPlrlnWuSJOUW4Ka9bQ	Aiyush Negi Vlogs	20	813
+UCMHAznW5YZ5vVP_qausq-JA	Aijalon Wallace	20	1271
+UCPP9mMLCfZqRHg_Mf0VtsWQ	Afrosam	20	769
+UCLBXPyQqsC9tec_2ztLN-2Q	Ajanta News	20	704
+UC39hulhqH8TZOeie0KOgc2A	Alaa Haziem	20	871
+UC_rGCZo01wh2a9oFybkFiFQ	Alam Raj Official	20	232
+UCKDi3klSRgweF2ltY0AymSw	Albert Videomaker	20	3101	4K
+UCTH_viaMZtBbF4OapXpPs6Q	Allany 254	20	682
+UCrz9rKWRUcH3wWQ6WqsYb0g	Alpha Libz	20	1300	4K
+UC-sj9QOPGMHWhTJc8HTcg_w	Ambience Around The World	20	2011	4K
+UCkthYgnhBU4iYXfFFGoDjEA	Ambience Experience	20	1735	4K
+UCaOYE5mhuM9ZTAD_GcMM-uA	Ambient Drive TV	20	396	4K
+UC_Hy42Fqey2UeutUajqLEZQ	Amijn BayerTV (Tours)	20	1193	4K
+UCa67WvtQlRrWl6cOh0z8Fmw	Amine Barcelona	20	490	4K
+UC0M7ONsUi-Xvpg1yBwnmOcg	And I'm on my way	20	798	4K
+UCL-nK5iPA_MEmG_yC6OtOeg	Andre Martin	20	792
+UCMU5wgePzH9rL5shQLp-C_g	Anna Film Production	20	2534
+UC1aJ5bzMqJZMGAJiNcv5RIA	Ankit Official 0730	20	320
+UCI40q7tcCJwRRh78Fe3J-tg	Anthony Walks	20	2376	4K
+UC4F-DMVCe-UbIsweL6kIEfg	Around The World 4K	20	327
+UCeg3rhPqzcbV5ZmfwtoJ5wg	Anup Pratap Singh	20	740
+UCxCBn7FJppxSMdKnYjxV14Q	Arwin Tours	20	2938	4K
+UC5XsrMMTfiVcULKih7mT8Sw	August and The Road 🇮🇩	20	569	4K
+UCfQjk5Z9-VyN5s1rpTJ5LuA	Athir Canada	20	2093	4K
+UCECWTQ40_l4oc6VFtl92rKA	Aussie Jetsetter	20	1842	4K
+UC_jxmgiQU2B7L4gYZxz23uw	Azad Singh	20	172
+UC84N9xFGNAhbV_XXnSjoHgg	BEAUTY IS UNIVERSAL	20	2245	4K
+UCVzVnxbrUDpaHCIaYeU8YJw	BCCTV  ADVENTURES	20	1229	4K
+UCKTNX2KHk4x6OwLpqcn89pw	BLA BLA WALKER 🐧 Tokyo Walking Tour	20	4934	4K
+UCDhqBKf0MIrieNYBCKfwD8w	BR Walking	20	2057	4K
+UCeyb_4xEsvF6LcA4iK_IiDQ	Baby Olivia, Get Some Sleep	20	4924	4K
+UCSI843WP6JRM5SzDDNkZBiA	BTpinus	20	896
+UC5hU06oXzExYZ8jBrBt0f5Q	Barcelona Street	20	1627	4K
+UCnSDZWM7akmbgbwdECSPpow	Before You Go	20	644
+UCevvjHJQ7AR4PimkLtVXYUA	Barcelona paso a paso	20	1537	4K
+UCF8UfQ4ZnP_PF8l8c2dIN-w	Beginnings and Paths	20	2120	4K
+UCS76jPKK715yhlfrWhX-RNQ	Behind The Silence PH	20	2009	4K
+UCEPPze9NzpggAWkbmxN4Lqg	Belle's Travel	20	723	4K
+UCiS38mSIKO2nNdVZEeGJPJg	Blue Skies & Tamales	20	1723	4K
+UCbnwm_U_XDW9FME2aQieXeA	Bike and Hike	20	567	4K
+UChuvJa30fzkL_VG9_lYSULA	Boba Life.  American in Taiwan	20	891	4K
+UCQzgESZGiY1aSP6XhgdgPbw	Broscotours	20	300
+UCXUt-NqNillZSJ8cqrvEhsA	Borovi Bence	20	656
+UCicHVSGWFG41DcyZhU8GlIg	Budapest Walker	20	4038	4K
+UCgYy4vFQ4NR6QaubKmMZ16Q	CANADA'S  HIVE	20	1182	4K
+UCrUdsmNE244FwdhFZ242YkA	Bugaboo.TV	20	262
+UC_scirtU8pxRQjAuK8rG_Tw	CCA - ChalChitra Abhiyaan	20	871
+UCfSlshUaK4ImsoTfp55vEJA	CITIFY Walker	20	1497	4K
+UC-olUXWET_tPCo5ZhA8eJbw	CJ Travels	20	2620	4K
+UC14F460nes2nvTuSsIUuSqg	COME WITH ME	20	830	4K
+UC39ylVPqIDlRTPpkomxIqpg	Canada Travel Guide	20	945	4K
+UCKoCoN7qmHPauPchPTa0POw	Camino Sombra	20	2196	4K
+UC60txjlYIKRdVoCYl-T9_7w	Cape Town Walks	20	1160
+UCQj7hoJs4kuKoGGdZenijIA	Captured Memories	20	880	4K
+UCqXWdl-PvrA5gwgD7v-hnZQ	Cat Eye Walking	20	1263	4K
+UC08cheSkGLNvoxyX0w-I1mA	Cat Walk	20	3575	4K
+UCPe8SE83JoUma_gGV09Vylg	Cem on the go	20	3877	4K
+UCJwjPgR7_mGVL7nvVOgtOcA	Charly Baby 77	20	927	4K
+UCVCdFfwnZdAD9570Td1oZYw	Chiangmai Ram Hospital	20	1956
+UC90MsVkkhszmj_kYbCENgCw	Chakir walks	20	976	4K
+UCjPlQsuslEAH_4AxlYT0eKQ	Chill & Explore	20	1753	4K
+UC_9-zosb7LVsbItc5cXV38g	Chillpainai ชิลไปไหน	20	219
+UC_w2Dx2-a0kW6gYBFdrQqWA	CitiWalk4k	20	1437	4K
+UCI-I30IJBfjJ0JmMhm4GVfA	Chris Must List RAW	20	2811
+UC2x4HcPR5XMdQmEGf1oZSsA	City Strolls 4K	20	1370	4K
+UC9vuEPvSmAynHEVw429QE8A	City Traveller	20	1105	4K
+UCGiOBNvUNIG9O1TQPQISdDQ	City Trips	20	3580	4K
+UCWtchMrVdpexK86Aj2Kvglg	City Tour Experience	20	2391	4K
+UCvqSl_A92KlfDm4rVrUjvUg	City Walker	20	2198	4K
+UCFk2ykdf4ZMY-BF-HQmP8sA	City Walking Bodensee - Germany	20	1804	4K
+UC7U0t6PEHf7xWU3XDIAsMhw	City Walker 4k POV	20	3622	4K
+UCWnVhY_YIvSdVgBj4j4GDlw	CityHikerTV	20	2065	4K
+UCg2aaKwnOcx55GUBW5obtxQ	CityTrek Walking Tours	20	4696	4K
+UCvp5PKkgu9Lm215BQt5WX2w	Clifton is Going Places	20	841	4K
+UCy2bJWKV-Qam6eAwf5MWlMA	ColoradoRMN	20	572	4K
+UCrBM95f-vgD0G7oP3Al8m3g	DAVY AROUND	20	706	4K
+UCJQ4a1vGJz6v746ZmzzB0kg	DS NEVADA	20	1506	4K
+UC_VJSlhIRczpIDPmxdh6lMg	DS360 walk and travel	20	1678	4K
+UCcCE4eKm2ni2U9V0yigg76A	DSHCK	20	1302	4K
+UCc7pPNFBvIhI4iV7m8plJuA	DW हिन्दी	20	382
+UCw49e6AsJchV5nwxdpWCSqg	Daily Erin	20	644
+UCk1rgY2RQ_idQ2lP3UR_5qA	Delhi Darpan Tv	20	791
+UCUTW99RV59pD-sRXj-cEJgg	Digital Walker	20	1801	4K
+UCRMaSbjJoef_WpfpdnoJYTA	Digital Walk101	20	3023	4K
+UC2TVKHmfay8tpr_kii8xGRw	Discover Nippon	20	2366
+UCyg9NFVZyyPhT33tTqTuQ6A	Discover Norway & Beyond	20	2283	4K
+UCk96plMj-nnpQi1qRBG3VIQ	Discover Taiwan	20	1859	4K
+UCc48OO54u9HY-8kypz4MZSQ	Discover With Joe	20	2413	4K
+UCGAiifcn5gNvNcQJiGFKBIA	Dj.Oftimus	20	254	4K
+UCzODQrgSGgpl6prsMLTve5g	Doru Maniu	20	1554
+UC-TOE7vLACKEkTYrdGSv6LQ	Drive Stories	20	1416	4K
+UCFK803igf60HpXf0-SSp_9Q	Drifting Wonder	20	2085	4K
+UCYbYk8oah-v9ldfkyv5AnOg	Drive from	20	2151	4K
+UChCH8a0c921-okKwafXrs5w	Dubey VLogs	20	1248	4K
+UCp9NVBErkG8jpCKQaL-LfIw	DuckTravel走鴨旅行	20	4908	4K
+UC_FfUOIMnZjU_uytsdZy3Wg	Earth Walking Tours	20	2588	4K
+UCyQZX9A6Zrq44Xa59i13OPw	Earth Digital Media	20	455
+UCZ-rsd1UJ3cyKrzfrHunHlA	Earth Whisper	20	2807	4K
+UCABc_envY_OogT9kARFyibQ	Eda Serttürk	20	1689	4K
+UCCr3SzhwWZpbcdNHnW1qiuQ	Egypt Walker	20	3132	4K
+UCHHKPBbMt_gXv5uFZ8ySYEw	England Guru	20	2448	4K
+UCn7N72wIDzqJKXegqnNxaiQ	Ep Gezerim	20	2292	4K
+UCzH8Mnry48cPO2k0IYLTQ8Q	EpicExplorationsTV ES	20	3820	4K
+UCLkPUtsuA8bIbUqy1dSiVNg	Ernst Nevrivy	20	1174	4K
+UC-glB3YEISJt3K3OAkKJK4A	Erman's Walkscapes	20	1958	4K
+UCe6zAf39_KDfiRive2vcHxw	EuroMedia TV	20	773	4K
+UCMGR61sVevQHV6TAXPfl7BA	Escaping The Algorithm	20	3962	4K
+UC1K45ffJo8C_NWQPlJzoLew	European Walk Tours	20	4275	4K
+UCe7UKRSJM6ITMfXX-CbET0w	Everest Marathi	20	678
+UClebta3EZaN8HPK6qeWdMMg	Exciting Tourism	20	2080	4K
+UCQF8T_YFilvHyKfvYMCC-Hw	Explorando com Cris	20	756
+UCd2FA7bGyQUiN-7bu_HNZPg	Explore Asia Hindi	20	355
+UCX2kxCEBftJpEMXAtuXT6Kg	Explore Virtually	20	1624	4K
+UCdgM6UJLDvv8eNgwAXsRNUA	Explore Vancouver Canada	20	3697
+UCTdxSBo5O39D154txe9C8wg	Explore Walks 4k	20	4750	4K
+UC-q94-sMIlCINX9RAkvjU-g	FOLLOW ME Creator	20	4116
+UC-HapuHJ07Wa61aOYxDO5_w	FIN Beautiful Nature	20	13896	4K
+UCnrhb2GJ0On0y4dJ-mWmJxQ	Exploring Seoul	20	689	4K
+UCVC-gs8wlB3S_RmsIBuRh_A	FREEDOM CHASERS	20	640
+UCQWGAEoICs4xjr-xfQPG2_g	Flow Travel	20	2061	4K
+UCJx-sjPYaMZWCOTrbaiZ7jA	Feel the View	20	1729	4K
+UCZ5bvshMynzdGAMU0AtYeQg	Fokou Media	20	721
+UCJ4ppZvuZ_G6e0mUh4iuSCw	Four Corners Travel	20	1050	4K
+UCe2RUF85tJRN-nG0_3OYg-A	French Riviera 4K	20	1411	4K
+UCCluNOOBUK-jqgWbPjNI4kg	French Globetrotter	20	850	4K
+UCRGpltBRQ4FMkZZDijjUoTw	Frennicha	20	2326	4K
+UCCQnhr_Vo9IZnde-VDeA00w	Fun Walk Tours	20	670	4K
+UCCDnjrPbhIV-9xJxiB4KTlw	GLASBO	20	743
+UCo8fZkL3T8iFmcDrUlhKuZw	GamingYashSaini	20	1087
+UC5fOHC1mUq1ZypDVCZDZyEQ	Get around	20	2351	4K
+UC81JWJUnxewh4h305AMuwMg	Germany Explorer1	20	1594	4K
+UCpKcuB_BPDjUwsqIH3R4TSA	Getaways Therapy	20	4328	4K
+UCILRi_IL7_9QnhdacVmPTYg	GloWalk	20	4171	4K
+UCmFDxr27G8S-67FNeCJxxTA	Global Walk 4K	20	2039	4K
+UCEJOi0fEL3CofASFHE3EDfg	Global Hopper	20	1405	4K
+UC_2LKOvBl-J8Iut6AeqTvtg	Go East	20	1817	4K
+UC3G9MdBpoI59600PQk2LTTg	GoGanGuar โกกันเกลอ	20	2346
+UCrzAMNQH8N9r3KOGzEALK9A	Go, Tamara, Go	20	2942	4K
+UC2XBfHsqS9tSK_uPE0kQ6_w	Greece Explained	20	495
+UCyoojOigM6DN024p-Ujxe1Q	Grete Walz	20	443
+UChBbREhouzfqrGqGnR4QB6w	Guglielmo DELLANDREA	20	284
+UCr76Q4m5lRqjFAdfKeZvgIg	Gringdoo	20	1341	4K
+UCmX1TY0gylJJNwuSmwr3h-Q	Guidebook Traveller	20	711	4K
+UCXEc8WOeDx-TSeOfYDdulyg	HARｷﾝｸﾞ'TV	20	2206	4K
+UCQedY7DS3KDcsWZfELCY0AQ	Guy Uptome	20	616
+UCK3EtI-p09tDE_l37xwF_pw	HIRO's Second Channel	20	2346	4K
+UCCNWkEv6KXwh3OuqdoX17lg	Halibee Walking	20	773	4K
+UCw0TCsln0sc-eYxj-hK25BQ	Harriet Anabo	20	1012
+UCl7IjgYDJ-dDe5HJOK8NZVw	Hello Nicki	20	662	4K
+UCDic3eTLDXobPGQJTisVlNA	Hiking In London	20	224	4K
+UC8TxMeJCFVzOUpdbsf9hNVQ	Hola Carlene	20	3379	4K
+UCLE1ToDKcypj6A80XJ3jdxg	Himachali On The Go	20	988	4K
+UCn58sRjT0srQkYqisQSoWuQ	Hotte TV Berlin	20	1066	4K
+UCN1RrvjtD9iUDV1LczsDkWg	Hui Chen	20	635	4K
+UCECM9rn0y2QdhDWEmKzbkhQ	HowIndie	20	450
+UCmoua3RjmgdyBHCAsqFVMHg	I Am Traveller	20	1541	4K
+UC1TiwWuZWuMBEESSjbWLBfg	IAUAN Story	20	1144
+UC489N7z28LyMmBV-dDannxw	ICON DISCOVERY	20	368	4K
+UCma8C9NXyx2c4zcdrLqk5Ow	Idadefeliz	20	1313	4K
+UCj6y82p--pBVkyPplQJui6w	Ilha Notícias	20	3445
+UCK5fNKns6qJjXWxRQ3CsLtA	In and Around	20	2083	4K
+UCmfKY24V6XwwFM1QwHFuaNw	Indian Rail Musafir	20	535
+UCS5fapLeI6oySmI5Gay1W2w	Indian Train Jankari	20	340
+UCMqz6kJAy8KIq9N_HQn8BRA	Insiders Travel	20	1859	4K
+UC1R5_ejpB5BVmwNGwTNLyLw	Inspiring News7	20	427
+UCjA3SnBN4xNBxDpxvNY3Lzw	It's walking!	20	2621	4K
+UC0P2IyJns9Gi0TK8DXa7RJg	Island Hopper TV Travel Highlights	20	1169	4K
+UCFWiOAup-Yv3RoFWH9U7Cag	Island Times - CA	20	1158	4K
+UCxODxF1_RjwmIvRD6hld__Q	J M VLOG	20	2073	4K
+UCy2-AF0WXXhEzerpvyMdtBA	JOHN WALK TOUR	20	1648	4K
+UCaIcG1RIybzeBs6RCjXhVPg	JSL UNIVERSE	20	5502	4K
+UCKUPORqOmhMSchlJ8n039Pg	Jack Unfiltered Travels	20	1614	4K
+UC2IDtqYr0-E51tcOTwVkBog	Jaipur ki zindagi	20	388
+UC2rKXl_wLGGs0Nc1ue3DkNw	JanaTohMana	20	771
+UCS24shSXp-Btu3tyEt1vWPw	Japan Walking Tour	20	2008	4K
+UCHG0_GSE0q02ywTfSoq2s3g	Japan Potato	20	3924	4K
+UC8AkcWOLw_ku_M6RDkBZF7A	Jasper Journeys	20	971	4K
+UCpGRg5kW1exlUoqy7JuuqAA	Jiggers TV	20	2773	4K
+UCkOx17BvJ9ZLhw54FK5DVzQ	Jimmy Explores	20	619
+UCyYRR90bx5QzZO9fJjzQehQ	Jean-Luc Ichard	20	798	4K
+UCirsGUKEPndG-dH0OTVIJNQ	Jmh Walker	20	3620	4K
+UCO74Svr5UyJ75bdbrmOB6Lw	Journeys with AK	20	1110
+UCoDfC1Yaik0AL-c1FbG1LxA	Journey Dilse	20	321
+UCjgfcU35X8E7lc_oCNk8WDQ	Joji's View	20	1349	4K
+UCOTltJnsvy8V9ku46nARF6w	Just Driving 4K	20	4238	4K
+UCGvKWTnFQtj8TqbOh3doC8Q	KYOTO JAPAN	20	455	4K
+UC2xy50-0ydGHiRrAU96JSeQ	KABIL News	20	778
+UC7ofAlExgGpVzQ7DQQu9VXw	KANGHOH CHANNEL	20	1157
+UCw6-8-euG6k5BOJEc6jgROw	Kamal vlogs	20	559
+UCbAX_mY5yHHqKLDqHWC3h5w	Karim.Edinburgh	20	492	4K
+UCALin19J7UOcFrcfob2WU5A	Kirill Osaka Life	20	1359	4K
+UCC9jEGXf5h4kHrN2P4kzc4w	Khatu Shyam Delhi Dham Sonotek	20	1846
+UCjsshSD6mw65b_KaJzcs5OA	KittenMom2926	20	606
+UC0pSXlMuICJBuAtt6PDixWw	KoiWander	20	1710	4K
+UCZoyvbKiMXuj-0QLFDit7YQ	Krypto Trekker	20	1897	4K
+UCVJROQkSTxcW1EgWJkDIIcg	Kyle Travel	20	869
+UCnREWzQvscNAAcsAEfYpojg	L&I Photography	20	467	4K
+UCYlhg2ksSQMyMzhK3TIGBTg	LBF Walking Tours	20	3650	4K
+UCGD3otbq93Fhh7ZdUwuM6Uw	LIFE AND TRAVEL	20	830	4K
+UC2O36l--mtRCpdjxzIF-T3Q	LOMAS POV	20	3367	4K
+UCJ4LY563rSsvql_aOLsq8TQ	Lady Walks	20	2068	4K
+UCD5X8jv4jFh95ZDpTL1b7Qg	Lais	20	1166
+UCUEb_4JdTTeZG-pxZO6YGXA	Lakwatsa Walk Tour PH	20	2036	4K
+UC-xfIZC2MuAqEUqcPpaBiug	LarryPH WALKING	20	1825
+UCoVyhD6IFUbUht07qVRS95g	Laura Bronner	20	727
+UCYqXvo02YoevLjCDTELRPZg	Leon Lee AI	20	1896	4K
+UC_UMKd_D7aHhpinlRq997Hw	Lazy Tourist	20	754	4K
+UCWKpmDOHVmIiX5cnwzCgReg	Let's Walk in Japan	20	1498	4K
+UCKiGM4M0crEp324agjbm9rw	Let's WALK	20	5316
+UC32ffEOOMZj31pbENvqFNiw	Life In Walk	20	1218	4K
+UCD0irudpMEMZA6bt4RRovCQ	Life Of Alok Kumar	20	429
+UC4J4EIN9UoNbrpMET-KhyiA	Life Serenity	20	1338	4K
+UC47_uL7mD1U2cxYbyTQNI7w	Life THG	20	241	4K
+UC3iId8RgPvwX7niHr37YjKg	Living Walks	20	1181	4K
+UCp8xl3nH-VsgT2wnTToIpBA	Lisbon Walker	20	655	4K
+UCmqx3ukqhdbSJWJB_SdCbqA	LokmatHindi	20	412
+UCvNKJSJsFAuhPwmKlWedo0w	Loop Ambience	20	6110	4K
+UC7M4VRjM3FpoyN9OrF9_b1g	Lost & Cruisin’ David: Global 4K Urban Explore	20	2337	4K
+UCsTNXi7kRLYHEaeZQSBWkXw	Lost Icebear	20	2127	4K
+UC2WrCXKOvby-Fw52XyJzNRQ	Lost Rahi	20	1439	4K
+UC05GxSEctTTlwbY5PQBLqyw	Love Meandering	20	2737	4K
+UCwBARE3oKCmAtVpXh0eyxbA	LowkeyWalks	20	1082	4K
+UCQp5gmtS-znmJb2n79sTtgg	Lukunoo UK	20	792
+UCssLZSqf3M3okxPdG6kt9_w	Lvfree Adventures	20	3014	4K
+UCHEvxWmkSMf6a1TF-3dhlZg	M&S Walker	20	2161	4K
+UCsYWCU8FQOVvr1AolItnusQ	M-Y-D-C-T	20	4755	4K
+UCJS8ZJTFHtK4Ysw06IFgsPA	MADRID WALK & BIKE rides by Z Vista	20	2678	4K
+UCaLcK4z8_yc4dyz8kzVVFJw	MELBOURNE STREET VIEW	20	455
+UCS-nL7GZjdbZI3FCVINurJw	MG Creative	20	334	4K
+UCJNLMpBpeI5m2wTXsfR7jwg	MN-Tourist	20	694	4K
+UCZuzomlSR0IuRYRTh5BtusQ	MJ Walking Tours	20	3020	4K
+UCLsTOv22fT_q0r0ai5Erqbw	MOGADOR TOURIST	20	1519	4K
+UCH8BYWBK6uQcampQYnGTs6w	MOSSALA101	20	2048
+UCkUm6Dvoqls_LRnrYMXJngg	Maan Desi	20	402
+UCb-7F0-FT9xMJbAhnK5-57Q	Madrid Spain	20	1939	4K
+UC7nxXZU_UsVrNdeaA5BYEeA	MTI Aerials	20	463	4K
+UCGPnLIjcw8lu3mx2WLzCR_A	Madrid Visual	20	973	4K
+UCN3GM0ifJpCvx78sj7YQIWQ	Madrid Walker	20	3732	4K
+UCk3gMUmD2cU1C7UH_mlWjiA	Magic Dreams Video	20	665	4K
+UCbl7HvTYsu6lrwuoELTB00A	Manila in 4K	20	5798	4K
+UCC4jj322GMQpGRWdA9_mzDg	Marcou	20	1908	4K
+UCaL_xisIvRa9p3k8_ZRz0Kw	Mark Vlog Channel	20	2044
+UCnM30VT4hwVAnH2BhQQxMkQ	Marrakech 4k	20	1542	4K
+UCNZ0uc0Kr97sipgccz-oW-w	Martín Recorre	20	1578	4K
+UCVmh0vAZfFh_kGcKRMJtbBQ	Melbourne Travel Channel	20	957	4K
+UCt_hE2HpFtq62BrH-RaTlJw	Melody Animation	20	437
+UCtmkS5q9rWWOKpXBnOeahjg	Melough Travels	20	545	4K
+UC94hA_5EVPDYB2tcKMMLBoA	Mikael Travel Walk	20	843	4K
+UCvANYBOSmq2IasMM-djF-cQ	Millennium Audios	20	206
+UCmZnQwqvap_vv7m-TAQ8vhA	Moody Walks	20	1712	4K
+UC6dIDxhmv6Qh3o7dn1LN7lQ	Miss Hongo	20	1098
+UC6YA2bNbUNC81uMGzRdNpXg	More Walking Tours	20	1095	4K
+UCPO6YYDpUPuokOiovD4kkHw	Mr. Street Walker	20	2881	4K
+UCM3GEPmDQ_vSrG275TQUWxw	Mr.epiicc	20	516
+UCm00b_RxxIJ_S0cDFak_0Rg	Mundane Traveller	20	2610	4K
+UClUSGoPs4DRN6RDhep_5FZg	Mundo Iorio	20	563
+UCIOd2WwlNkMtQrGIt-iQgig	My Mistake Vlog	20	449
+UCvwkTZorYHJ2inWnxrdnE8g	My Bella Vista Tours	20	291	4K
+UCBaD-wYkhy3Y1BQifgC-GyA	My Walk Around	20	2027	4K
+UCQ2LuRj3dLB8djOHLy3AEGA	MyJourneySolo	20	1852	4K
+UCBLzMcp7JLOoHWIlIKQVjFg	NOMAD WALKER	20	1130	4K
+UC7-w4EG2Z55RB9RX0EcZnFQ	Natcha NCS	20	2343
+UCj0FjKunT-Xh7vq8jdyU3fg	Never stop exploring	20	291	4K
+UC-fbXA_Rfdg3k2tXwgWvmpg	Neha Singh	20	429
+UClhbqxDAe6Q-GzS6ekJPXqw	New Music India	20	245	4K
+UCU-3M9L6PuahR--g2TN03pA	Nicolas Amelio-Ortiz	20	758
+UCI8dFzcmjUdZPhmL2ZDESLQ	Nik Zolof	20	687
+UCtpdLRfmRZ45W_ZxsH1cafQ	Nitin Punjabi	20	402
+UChL2WMbVIMNz8zx3y1i1tHA	No Fluff Travel	20	1191	4K
+UC-r8j0qss_YCkEUJuPnczZg	Nomadic Perceptions	20	2754	4K
+UCPSBvI7u4KpmaqwsCU9L4BA	Nomadic Scenery	20	1651	4K
+UCLmlZ5htVtoIO18onehng8w	Nomadic Seoul	20	5438	4K
+UC-cAwpAYTPtZPqIhOR7eIlw	Non-stop walking in JAPAN	20	3803
+UCQchcn1nnm35UKmI_oTcbSg	Nordic Walks	20	366	4K
+UC7KNCje0Zd4XJrWHvPCkv9g	Nordin Walks	20	2185	4K
+UCX2l3ZgdQdQ4Y1J8paDLUJw	NorwegianLarsen	20	1194	4K
+UCOl8nNIr6nN5oNKUqgXnt5w	OZ walking tours	20	877	4K
+UCLlw7TAl8zmJa4vGFKu1c_Q	One Man Wolf Pack	20	1558	4K
+UCqGTBH-dCfvhnm__u7NTb5A	OnederlustLife	20	850	4K
+UCyGmFaWiM53JYCsjaZ5P43Q	P2 Travel	20	373	4K
+UCI4Ri7oiP7UQgLRnHq8t7-g	PARADE	20	1872	4K
+UCC4AG-IONWEP5MaInTPbWAw	PM DRIVE	20	1244	4K
+UChoRNJ8IPEHwqYNxgvXMLlA	POSH TRAVELLER	20	2684	4K
+UClODDXeUIz1-FaKyN8dsNrA	POPtravel	20	4014	4K
+UCEkM7dAlnP4wW3PuV7g1HRg	POVNWWALK	20	1676	4K
+UCwXVmb1NfY4qim_vYMbXZ6Q	POV Tours - Portugal in 4K	20	2416
+UC1nGZCtZnivdEQN8h0gTRmw	PUNEETDIXIT007	20	568
+UCVlWc7YpRctVhMX2x1desOw	Paco Experience	20	1502	4K
+UC3Qexlug15thsQbmK7bRutQ	Paidaishi Passenger	20	617
+UC9bWo82-qEyyhYvUNchBkQw	Paris Diary vlog	20	1328	4K
+UCvIgsVPjhyC7S76kDUwRtVw	Paseos Urbanos: Madrid y Más	20	2364	4K
+UCzLPnJlM_5IEe2djVMB2jLA	People Watching	20	1394	4K
+UCMSx2wGdlP66V8olT-X7mxQ	Perception Philosophy	20	1435	4K
+UC8JllXOTHAYuPPN2D0Fr4Ww	PeruStreet4K	20	629	4K
+UCT8UgpcpqFV6AgOfs_52QmA	Pigkaploy	20	5592
+UCWtQeKec2P9HyWnmyxP32zg	Planet Liono	20	1748	4K
+UCJZxIS7dhWP7AglffnpOaKQ	Prague Walks 4K	20	2743	4K
+UCkSGxBUWwWTC7SH1V3xH00w	Professor G Travel	20	1994	4K
+UCK9g6spurjzXeIWqklpbGjQ	Pulse Tourism	20	698	4K
+UCO7LWt_tNBhbhtXsNiYqocw	QuestWalk Tours	20	1152	4K
+UClwuX136o1MKsyQrXh-r21w	RAVI SINGH	20	3118
+UCgV7kuoTkqsIpH-dDgp40Dg	REAL TOURS PH.	20	1411
+UCJU0-SSkCmuWyyuMlpDoO_g	RIO PRAIA & SOL	20	573	4K
+UChwFVDo6STNCKv5mRRh-Hlw	Real Walker	20	1660	4K
+UCSiKnZ4Z3UeChwokl6qXYMQ	RT Reviews MX	20	2195	4K
+UCoSnMYhFYq0J82Qqdv1tXcg	Relaxation Music	20	11217	4K
+UCzz6UKnHNV0XusvqyFxT1RQ	Registro Urbano	20	1019	4K
+UCduYJQLkxzUopvEOiyeqXYw	Relaxing Day	20	4054	4K
+UCpDEN0wS6VRF8AYlo53adgw	Richard Nomad	20	1639	4K
+UCzCCi-W_afvKUsIGnmicppw	Richie on the way	20	1921
+UCkptqe5qMgYLy3GIf3c3eiw	Road Therapy	20	3097	4K
+UCfjtl8OdiEhaHspR0VOUIBA	Rogers Lugose	20	864
+UCGOt_eZN13zljDwQrDlpi8Q	Roam	20	1162	4K
+UCiW8NERmFBX4QQYuvkfyvyg	Roaming N Watching	20	1664	4K
+UCxyIotf6vzABmrEdQ0o7sXQ	Roman Walks	20	2390	4K
+UCzsuPqAJQC1VB5BQtGbZhLg	Roppo Walker Ch. -六歩-	20	3255	4K
+UCgk6XhaelDlSGTOaKaFej0Q	RÔÔTE 4K	20	3277	4K
+UCX7Dto-EGC627APFz_mXoJQ	SBWorld	20	1746	4K
+UCK4kySqwIE79tngiSa18UAg	SEOULLOVE	20	242	4K
+UC9gSu3OwkMdqRKYZqnmy5xw	SGK Walks	20	5186	4K
+UCQHHCigSykLXP0DXKpjYPEg	STREETS & STORIES	20	2290	4K
+UC6VnnScPCoyxK720yJAN7fA	STREETS AND MARKETS TOURS	20	1888	4K
+UCRGf9CJBmF-LtCYoOYctaSg	Sahil bindas traveling	20	549
+UCKtJcfPwJsaWU6UrDBz5Qkw	Sakura Drop	20	779
+UC6EslPNxURLYxhANsvgNYHw	Sam Daniel	20	526
+UCDbSW1IvnwAj3bFsenaF6CQ	SayoChana	20	2064
+UClNBfGVJAOFSYpljjZq9Z6Q	Scandi Travel – Walking in Stockholm 4K	20	1581	4K
+UCZmohFzCdAAlAcHZgI0x-vw	Scaranta	20	6589	4K
+UCIHMcPqAbSAzotlx-4ZEEbw	Scenic Journeys	20	799	4K
+UC-mErnxvrSqR-f_htUGEhaQ	Scenery of Japan	20	7134	4K
+UCFsHvDFIS6PaAegwvhAqyhA	Seaside Beach Walks	20	766	4K
+UCVVjQU0x575r09w-USU-A2A	Seoul Everyday Traveler 서울 ET	20	2059	4K
+UCOs8l4RP22_lBFciPHB4T_A	Seoul Walk 4K	20	4126	4K
+UCe2mFzp8wbgHB4pv9NhnCfA	Seoul Tour Walker	20	3768	4K
+UCV0UjEtY0IwPm1DXbehJaLg	Seoul Walks 4K	20	6389	4K
+UCnAfm4PhHhZ8CVuCUHZN4dA	Seoul_4K	20	595
+UCbjQrDDJvaNsp3DKHIAJVrA	Seoulwalk 서울워크	20	1196	4K
+UCwvqVrbdr8t0-uM5-QMubKA	Shahruk khansahab08	20	458
+UCgccs7DK7_dckIcf8Mot3iw	Shubham Films Junction	20	259	4K
+UCqJWljYmsL7it76ir03WbEA	Shun M 京都散歩 Channel	20	1340	4K
+UCuenGwX9LzkUjwNm6Kz36bQ	Shweta Das	20	475	4K
+UCPI7T7f35xx-JfaxWiUGraA	Silent Sightseer	20	1431	4K
+UCgeLHylmpddIgWIp7T_2cwA	Sis Momo	20	1316
+UCT4P1uXM2Y13viTSGwaMCYA	Sizwe Travel Adventures	20	448
+UCffDW6vIml8tkEkGcEtXvtQ	Sniko Travel Walk	20	2210	4K
+UChXiZ3leLqPBJpFUPi0H0Ww	Skyrowe Travels & Animal Adventures	20	396	4K
+UC56gTxNs4f9xZ7Pa2i5xNzg	Sony Music India	20	463
+UC2aYqBdRXzuiwA2pH6UrA6Q	Soothing Walking Tours	20	2105	4K
+UCTNtRdBAiZtHP9w7JinzfUg	SonyMusicSouthVEVO	20	235
+UCqnILj5YSYPOMw_ki4oPnmg	Sounds and Vistas	20	3914	4K
+UCTDmxLrfCK5M5rL5aELtzUg	SpainWalker Walking Tours	20	667	4K
+UC7ACfxUMpm013xUXGnmpxIw	Spotting Beauty	20	5825
+UCX23c2i4wFOC7qZsDcyyavA	Stefan Unedited	20	393	4K
+UCArUoN9mgFgvVGiRBaq2QLA	Street Walking Europe	20	3495	4K
+UClCwaA7e-DK7iwHKusVFNRA	Stroll with DeshiMike	20	3053	4K
+UCRxZg8iDCFCP9PXKNK6Nl2w	Strolling Around Co	20	2384	4K
+UCvIbUhOlT5eB94YIx5WnZWA	Sunny ontour	20	1669
+UCVdoN2Y4puP5BH81Vq4913A	Supa Strolls สุภาเดินเล่น	20	1554	4K
+UCjFKMoAk3qhRkW4eOqNm6dw	Switch	20	968
+UCWicUQh_wTfNy9dBSAQ3DZw	Symphony	20	3559
+UCh5d6NlXDd8ZMsQnk7wlIEw	São Paulo Urbana	20	996	4K
+UCnJjcn5FrgrOEp5_N45ZLEQ	T-Series Telugu	20	162
+UC0ykWRm97FbSwarvfgDMv4A	THAI LOCALS	20	961
+UCO2HPT-28mKEL9G172pGfRA	THAILAND VIBES 4K	20	516	4K
+UCoExLMApVon6EJ8ESt1WgeQ	THE EXPLORER	20	2560	4K
+UCyswrXTG-oSGCQsqsjMNaqg	THE LEMON	20	725	4K
+UCBxxlEwwY0CNsHDORbbVcqA	TOKYO URBAN TRIP & Beyond	20	3360	4K
+UCB_Uip4N7tTs7caTpdU6mzw	TRAVEL VIETNAM 4K	20	3428	4K
+UCbgx3Z8-u-QJa9PuKbI6vXQ	TRIP XTREME	20	620
+UCqGR1yHFjMSHR9E1QzUCxqw	TRIP LOVERS	20	132
+UCAFuowub4VhjQLf3UwGS_HA	TV100 Global	20	192
+UCOutOIcn_oho8pyVN3Ng-Pg	TV9 Bharatvarsh	20	397
+UCu5RgyiHUrnwHymMmeyWT2Q	Taiwan Walk 4K	20	2144	4K
+UC-GhFRJ7vXiep9GosgRSDCA	Taiwan Walker	20	1833	4K
+UCtOFM1Fm-eUVABFkhqcKI1Q	Take Time To Travel	20	868
+UCfD9ybBnU-ji74gtnUANngg	Take a Walk	20	587	4K
+UCnVT57XcUNFVPRH23SBgyEg	Tawada	20	5846	4K
+UCm3KlfwCIcbUKrV-GPsmUFg	Thailand - ประเทศไทย	20	909	4K
+UCxer_4mjMmtLNo2eslIyXsA	Thailand Street Walk	20	1089	4K
+UC6-l5vW4ETOWoBT6Ut5Qp-g	Thaistreet Lens	20	711	4K
+UCbNQ4yrYunA-cYIBgTvQf9w	The African_Nairobian	20	496	4K
+UCYAaeMa0oDvyd8yNgmikxIg	The Dario	20	214	4K
+UC-HWqxO3Zba0mOQAea6B9PQ	The Bev Drone & Travel Series	20	293
+UC1bjVUncYnr6_Vq8eRgIs2A	The Minister of Ambience	20	2754
+UCOjW7m6bQsdcZztoerWqkLA	The Relaxed Walker	20	8221	4K
+UC07I2fZB4H-cZNT_PvS2gVA	The Periegete	20	3243
+UCVyh6WikpqNN8mcHtiI5uog	The Travelholic's World	20	1367	4K
+UCuL2BoQCZI3q7TDIc-zgZXQ	The Walking Excursionist	20	1547	4K
+UCsLwy7ZHqczz89wDQvWVZ2A	The Walking Vagabond	20	740	4K
+UChZRSSu7Sw6xNE2sce5g1mw	The Walking Video Guy	20	1502	4K
+UCJpC6opvDk8N7BD6EVB3qtA	The Wandering Traveller	20	2984	4K
+UC8Pn-p9Yhi_rB940LbNUbmw	The Wise Escape	20	977	4K
+UCweR4gGVYrvxGDG7HKIdRZA	TheGaijinTrips	20	2490
+UCeijq4scozVTjG4mGdUM4vA	The memories T.	20	748
+UC3TRh1AwXrLCW3NBem3WXrQ	The travel station	20	1174
+UCy_FQl40byyNbf8wpIGh7hA	TheTravelExplorersAT	20	1092	4K
+UCLbdVvreihwZRL6kwuEUYsA	Think Music India	20	316
+UC-2k_WoqFn_KgwJm0IqA1SQ	Tingo Tango Walks	20	3529	4K
+UCMbd4SFefQ0vHYu0UXHrtzQ	Time to walk 4k	20	883	4K
+UCPstvLlnUTgXvQj2jC3lhVg	Tokyo Fan	20	2990	4K
+UC0bEVJ7OLXi1FOH9WEdzESg	Tour Virtual	20	2175	4K
+UCu5aAjazzV9gLx1Yjl3daBg	TourPass	20	2414	4K
+UCv2a9924gpLEVqK8txb0MBQ	Tourist Walks	20	3360	4K
+UCHgkYDv3S4F3h9rf7tDOAjg	Tours with LB	20	2413	4K
+UCAeDVpmPQOE6UqXnJErWvew	Touristing	20	557	4K
+UCJPU8IGx4_Y8-zkPBAOmF5A	Town by Town	20	1255	4K
+UCfHbcSQTxVB9vO5dvFdvhcQ	Tranquilo Walks	20	1198
+UCoq1wrsTPiLfsdgHLr69qfg	Travel ASMR	20	2077	4K
+UCeXKPlpQxvjkvpFF6RhbHpQ	Travel Along	20	1969	4K
+UCepxQzMgIcpUm7nNUZ5kGcA	Travel Centric | Luxury Walking Tours	20	3442	4K
+UC-OkQ5JhnX5wCAgYJRxi6bw	Travel Melbourne	20	3155
+UCjz6Zb3vNQE3_vQhQXv7vdQ	Travel Guide JAPAN	20	1005	4K
+UCucptZKx2KqIh89k9rGuVTw	Travel Earth	20	2448	4K
+UCT1PVOPNxcElw8izJrZAafQ	Travel Postcards	20	1432	4K
+UCwNenJNFPFlhpmfXtginH9A	Travel Teaser	20	611	4K
+UCNXs6v7aUlabDZ8q7Cd6VDA	Travel Strolls [Walking Tours]	20	3878	4K
+UCKazapZmuv0ZeZ-Gstl87Lw	Travel Time - Dj0rdje1	20	1225	4K
+UCh0ohscFNbRRxP2Xxgb_LXQ	Travel Through The Lens	20	1957
+UC8_9W-V7PjauVIp5-RfSmuw	Travel Tube	20	3290	4K
+UC7OSukQr2KwBbdV00WDJ6Gw	Travel World Attractions	20	2554	4K
+UCaRVcO6NW6yBG0XEp67ST4A	Travel Walk Tours	20	4442	4K
+UCtG5H-0iCTOD2jt0JN43qGw	Travel World Ayub	20	514	4K
+UCqeuFjcXoNcAeCCR2ZwZdHQ	Travel since 23	20	833
+UCpNuxCE1gi0Sesw0a9DHK4A	Travel and Adventure Studios	20	2098	4K
+UCWw1N2XGQA8mh_cH9jD2Gdw	Travel story	20	422
+UClYJ9lpj_bVLW1AeK7KK4ow	Travel the world with Thorkenn	20	941
+UCdF_JRL4Gc0HQsdWBrW7wKw	Travel with Gelo	20	3267	4K
+UCeuG1NDEe2NAKJwwbVEGUtA	TravelWalkSee	20	2037	4K
+UC-KRUfMf8CoJS4Uux2jAr6Q	TravelWithWasimAhmed	20	2722	4K
+UCVF7EMoB9tPBA_8eVNKkGNg	Traveler Knight	20	1127	4K
+UC4ns5ZBX2umX2C6q_2kHUbg	Traveling Accountant	20	749	4K
+UC4suIkfNc9YxhpUxoAL75yw	Traveling Eleph	20	2788	4K
+UCtClLFCt4TUl9FVBMg3S7ag	Traveling Puma	20	1324	4K
+UClGCWUpj74Ac1FY1-n9haZg	Traveller Freedom	20	431
+UC5J4yqE3rWXLrApC75eC_aQ	Travelo	20	804	4K
+UCCCZnE8Dr6cI7mzyTzNbKpw	Traveling Kangaroo	20	702	4K
+UCboKLa1hWfS8pPSxapG8hWA	Traverse Walking Tours	20	4050	4K
+UCjNGFnB6uyAwJ0XKjt6VkQw	Trip Korea	20	4045	4K
+UCEtkDdEZ0D8BiYnDRIHqYnQ	Trip Insight	20	3436	4K
+UCHVhgdN5KOOUpWaYSitAE5Q	Turist Sevan	20	481
+UCW21lGGm2EeaABsldywDz-g	UinDubai	20	5818	4K
+UC60f6-EiUmSQIyjL07yettg	Un Paseito	20	1778	4K
+UC4amof96a71hbn7ulDfHyDQ	Up for a Walk?	20	4957
+UCVwqmlwA7_YtmDvZi9YnwrA	Unseenstreets4k	20	2491	4K
+UCwje1PVV-JWa0FE-18mBSig	Urban Reels	20	885	4K
+UCvsHg6Oz8uy846L5I1_mIGg	Urban Slow Walk 4K	20	3298	4K
+UC5YyJxTkgm55KL-7GPiJQEg	Urban Traveler TV	20	4254	4K
+UC5EhgsqIQVvJZ4skLuSLDEA	Urban Walk Exploration	20	3243	4K
+UC87MUVmaO420q_88IW969vg	Urbana Vagatur - Walking Tours	20	1258	4K
+UCnSSYdOni_XIi1q8QKS-mQg	Ushleppe Street	20	3001	4K
+UCSnjRBKeYpGNNy1MtQC_eHQ	VIDEO TOURS TV "Exploring The World"	20	3096	4K
+UCySxBf3nEk3jqYWFU_B5Gvw	VANUT CCN	20	1248
+UC_zktnjC5wPDD1adWfflUuQ	VIRTUAL KYOTO	20	885	4K
+UCGVb50_RnT3Zn_JMIzq-gXQ	VIRTUAL KYOTO JAPAN	20	1407	4K
+UCQKs-FOQ07yrr0k9PiAv5Wg	VIRTUAL TAIWAN	20	1758	4K
+UCWmVmMVdhmWo8HqlnhBLdBg	VIRTUAL TOUR	20	3734	4K
+UCuko5dLrvKq1zKaGxHr4DPg	VOX REALIDADE	20	1497
+UCpZVEe3srT7gR_Kyec-vSUQ	VIRTUAL VACATION	20	1118	4K
+UC_9U6dv09UB8wLkGbduhGDQ	Valent Nomad VLOG	20	1440
+UCTEH9JpWix1iaahF17k49Hw	Vancouver Travels	20	2084	4K
+UCpTcwRqM0TSQ0dUtJAOMeGA	VeeTravels	20	4955	4K
+UCIJfbABRNJt2L_kccsKYBKg	Veci Travel	20	1170	4K
+UCMbOHvC4N_rB4C1XwDRGdxw	Via Carioca	20	152
+UCubtYXq9W9Efz3ZnMD6DzOQ	Villager's Voice TV	20	217
+UCbmwv7NX_N0ozOa9t3iH00Q	Victor Charun	20	533	4K
+UCLGUldYbdjEFLjwzFm70qgw	VioletVik	20	1372	4K
+UCuaJS4gUl6h7HFYsi-pjuPQ	Virtual City Tours	20	892	4K
+UCI-bls1m0Y5d6BpM-9iDGkA	Virtual Mexico	20	1193
+UCdNrKUFiapaphI3TRaL5JDA	Virtual Lakaw	20	2061	4K
+UCLdHEWaH-IRNNITCTJtspjw	Virtual Vietnam HDR	20	1555	4K
+UCIu49GCMEwG2iKSyafpBbYQ	Virtual Walk PH	20	2238	4K
+UCt1V9XlEd1JM3F651bkc7Jw	Virtual Walking	20	1539	4K
+UCR4kIESC_YzaOWm-a9UP7wA	Virtual Walking World	20	643	4K
+UCAVZ5j0h1rSPwRxO-QL5mBQ	Visit Helsinki	20	602	4K
+UCElSP2DVCpw_fWbcVXupRXA	Visteo Travel (VisteoTravel)	20	1037	4K
+UC7Dt95Eh4dKkcS9fNIvGcRw	Visual Walk Travel	20	2311	4K
+UC4TKTHYBlTD_XiaE9oNzRkg	WALK BR	20	1215	4K
+UCppDzaDVqBwp0BPOiWfQWng	WALK WITH US	20	3322	4K
+UCuQ5bDoGBaiIHD_t_iy-YYQ	WALK TRIP  L29	20	837	4K
+UCmLh-Ixzv3hClQRWCH0oh2Q	WALKER JAPAN 4k	20	3160	4K
+UCzFvTdBWBBT_LrxjbXycUbA	WALKIN	20	2237	4K
+UCtczzSQeukwJQY8LAZnXj0g	WALKS WITH WILL	20	1061	4K
+UCkdBMYnBBj--eawylc20LeA	WALKING TOUR	20	2013	4K
+UCa6BKsN8eiTO90eG5Q-9tGw	WAZ HERE World	20	5582	4K
+UCkU6wLM8drqUyiBkG6H13AA	WUOD SIAYA	20	1064	4K
+UCAS8wcFNhFF5uUuZHNEn_dg	WORLD WALK & WATCH	20	802	4K
+UCwASH7f3_-GAKML8pTTuJCw	Walk & Ride 4K	20	1249	4K
+UCGfRTmno9R6oeE2DiJlQ8CA	Waheguru Tu Hi Tu	20	300
+UC-81F2Rw2fXZ085JCAcoU9A	Walk Around Taiwan	20	3386	4K
+UCBTBUcMI1V99xJxdw_eVJkA	Walk Around | Gezinti	20	3687	4K
+UC0WHcpFiwkPoDQddpvUNIdA	Walk Europe Now	20	2756	4K
+UC8PX_I2qKFtGROg8cnTvdIw	Walk Rabbit Walk	20	1023	4K
+UCDpGTXgkFyk4BATDoXLeXKg	Walk Therapy	20	1969	4K
+UCWYztcQ0vk44z3eTmdN99yg	Walk This Way	20	1330	4K
+UCdUyH5hW9c1Ie5CcbOpSphA	Walk Together	20	2457	4K
+UCi3u0dTnkfUTWMqNEhGrHzw	Walk With Me	20	2117	4K
+UCOPFhu4CfFY5D2m72YJjehw	Walk With Ru!	20	2796	4K
+UCMlTtDWhV_NTTXOlf3QJ1SQ	Walk With Us (Walking tours)	20	909	4K
+UC-vS8MsIABvOdw1rWcZfH-A	Walk World Trips	20	1516	4K
+UCD06Ry_wAK6mxNOZKVvYHIw	Walk and Camera	20	7058	4K
+UCHUsGw0rYUKX1QSpsd25ygw	Walk around Japan	20	536	4K
+UCy0hbxLUjnRVqYv7EcG8SuQ	Walk in the World	20	2101	4K
+UCKToSNnuTrLUm2PDeARj4wg	Walk in Istanbul	20	2060	4K
+UCZPZ861izpzyOcylqyluEsg	Walk with Fa	20	1852	4K
+UCsrs4QUJ1gsXuNeOmRu5rtA	Walk with Me	20	2136	4K
+UCh_NG8QcUezr6DJmLMOqTAg	Walk with Rod	20	1249	4K
+UCzPjTJIPnG41zp0TtD9MRow	Walk with Morteza	20	1374	4K
+UC0wByGrDRDDWKZjj8zHQElA	Walk-Swim-Drive	20	872
+UCc4WArNu4dCwi80nHnQdrcQ	WalkHunter	20	2228	4K
+UCUQPIzrWAOgpEAothcxWfug	WalkThisWay	20	2210	4K
+UCNkaPtUobRcOUM-4M8TUAVw	Walk4world	20	2835	4K
+UChQyniWslAarsgfPCQIvAKA	Walk_Africa	20	2263
+UCeh61wh6CdXIHxbeVzbb8eA	Walker Prints	20	934	4K
+UCU9Cjdni7aN9Na1ajTdV6uA	Walking Around 4K	20	506	4K
+UC9V3uoZsip5pqnmlxPXJJ8g	Walking & Relax	20	3200
+UC3oyObQbjg7Rae-5tloiGuQ	Walking Around Japan Channel	20	1086	4K
+UCO7T_3Xza1IxQzcnpvGvgLg	Walking Bangs LB	20	1411	4K
+UCV7nob47DYmRR1Q7N2AJOAw	Walking Berlin	20	1774	4K
+UCqVnUIInFkyFlgglPpZ1xgQ	Walking City & Park Brazil	20	1606
+UCJ1zE6mtz-mN3hw7LYiYZ4Q	Walking Dog	20	1199	4K
+UCxluOZNbL5KkcD4rKUP-mzw	Walking Girl	20	963	4K
+UCqJG8CVew1SAFnIvi2aOZqw	Walking Girl	20	1173	4K
+UCHTedwu2gRHxNaOTenO7x8g	Walking Mission in Asia	20	2533	4K
+UCGKbFLeeQ_Au6kU32D8a_5Q	Walking Raw	20	2568	4K
+UC-fb1wRn_ZWk1fjJ_lzkwMw	Walking Spain	20	2347	4K
+UCjt48W-nPuAxMQCSfWVGRRA	Walking Tanya	20	704	4K
+UC-DGxdhwQN_LRi34NKziE-g	Walking Team	20	2451	4K
+UCxTXssdN640oomEGeDXfLIg	Walking Through Cities	20	1434	4K
+UCUnjrxE4qB3wexBJM952S-w	Walking Tour Tv	20	598	4K
+UCKfgHYNdN6DzeieMuK-_vfw	Walking Tour With Araz	20	2986	4K
+UC_ANXTH4_M3eq-8pI0IL_Qg	Walking Tours	20	1703	4K
+UCM341IGpUt2vw8a5RHVlX4w	Walking Tours Planet	20	4592	4K
+UCcy9tcMlDaeoryPTCdLIiFw	Walking Tours TV	20	2045	4K
+UCaRq7xCg6egu8y_XYMV0leg	Walking Tours with Hassan	20	744	4K
+UCe_6A8cuQgkgnEvF7cpl49Q	Walking Trip	20	5942	4K
+UCroLmL0p8fDISO6gwr-Berw	Walking Vitamin	20	1622	4K
+UCz43f_NKG56uQJljUnNybrA	Walking Walk Walks	20	2450	4K
+UCGoZnBqgXib0STqWXILOH7g	Walking Way	20	1258	4K
+UCwYKC7NDPu4OxE4sdYHOAKQ	Walking With Indra	20	1502	4K
+UCdiSxwLEdWZA-uu80bwTEVA	Walking in Asia	20	1753	4K
+UCqxF3XDRMiLuoAW2tmZLNTg	Walking in Berlin	20	1473	4K
+UCd0aNJglOGh969PK3IlrwVg	Walking in the city	20	1813	4K
+UCKkReeA9JtGzWPYUN2izIoA	Walking path	20	3594	4K
+UCWHHLLcLIBjiZfWzcfzVH9g	Walking through the World	20	4013	4K
+UC5sjetpOeqiCs4z0povgePA	WalkingAround Caro	20	962	4K
+UCyNnn1QScSJioa_26V3d1lA	WalkingShow Vlog	20	2237	4K
+UCXkmyzBK0oIfACe1eYRkT5A	WalkingSphere	20	1049	4K
+UCL4LliKge-Ri_-17BU4gipw	WalkingTrails&TravelVibes	20	5311	4K
+UCZfPuvkqvWThkcvxIn5BE3A	Walks and Adventures	20	2560	4K
+UCtuErnLGg66OSRXWhT9VPNQ	Walks and Places	20	2166	4K
+UCVqeBgxxkSIK-wyBM81S0cA	Walks With Carla	20	1017	4K
+UCyVYAa4HKQJUwvE6cCvhD3A	Walkscapes	20	2460	4K
+UCfZkhKCyCCkfSVS2a4b4zVA	Wander & Walker TV	20	930	4K
+UCEzA3d4yZAGJccbQ8k-x5vw	Walkzilla Journey	20	1774	4K
+UCdBo4wxIl0iMwa3DL0KO2CA	Wanderlust Feet Vlog	20	2013	4K
+UCzUXvtkftyjmQ3OvmZNQSBg	Wanderlust	20	969	4K
+UCcQgK_okkCcIPNc40VQbX-w	Warsaw Travel Walk	20	1899	4K
+UCSkaixM5p8mYuBIdy2J0ZHw	Watchers Club	20	761	4K
+UCge7rSEY__QQNb9PX6n6Rzg	Wayfair Travel	20	1441	4K
+UC398f-jZfPzDsDBY_coTUsA	Wayfarers_Our Step	20	3873	4K
+UC20T-OK0xNVtUbSnQy8nfLQ	WeAreMapped	20	1967	4K
+UCq3wfQeOYKkx9f0kXUwWuiQ	We Like Walking	20	1751	4K
+UCIKW6h0Ea7kSTyBgHxfBXkQ	Welcome Abroad	20	1493	4K
+UCSRTpFZak6yv9EJvvUMI0yQ	WeOnlyWalk	20	1816	4K
+UCCgUaxdYmX3R5O0CpPzmyzw	WelzPh Tripper	20	3111	4K
+UCM98F7xC5LtRIXK5Y9Q__tQ	Where The Streets Take You	20	2823	4K
+UCL2uQSVHgbYri5-bD-DJlRw	Wien gelaufen	20	1547	4K
+UCLchFJvH48qNh5k2B3YvyyA	WhereTopGo	20	1683
+UCSqntVyy-UT4T-lEejYLFNA	Wisata Bareng Arivandy	20	1902	4K
+UCFr3sz2t3bDp6Cux08B93KQ	Wolters World	20	825
+UCUZdqQAY50nBmb1jIeFpLCQ	Wonderful World | Warsaw Walking Tours 4K	20	2025	4K
+UCSVFapJ3MP-YDYMsHBrKZkw	World Traveler	20	11491	4K
+UCB6NxSyt99ZCVLgGtfCbg-A	World Walks 4K — City & Beach Walking Tours	20	4188	4K
+UCrooeYfaV3dsATbUeG2Gw3Q	World of Relaxation 4K - Soothing and Joy	20	2998	4K
+UCDHnGpE-S6ej40BPPQglZsg	Worn Boots 4K Walking Tours	20	4140	4K
+UC8MKusmrOEVapjLm2ewuOmw	Yanush the City Explorer	20	2393	4K
+UCyZqhDdUJadvpHVJSGs3J5w	X Al-Atrash	20	809	4K
+UCX4G_3dK0GOPw-iVR_R4kyg	Yara Mel Around	20	922
+UCyU1-R68avCsyg-797qFlAg	Yash Naidoo	20	3036	4K
+UCRU7tGIFUdaHSW7CNfLu3LA	YouWalk	20	1914	4K
+UCvszQcvD96NwLFERfyOA-mQ	You Go ! Travel	20	489
+UCjRJnNXTwK6Nm-FOKs1AJFw	YourBoyhood, City Walk.	20	1385	4K
+UCjFxPoj7j3s8gECyZSM3Qjg	Yurara Sarara	20	1213
+UCT9yXEZsfyaRBQJ-vbwesrQ	Yurona Walking Tours	20	2998	4K
+UCXaK465xfFschGOFUZdpZkw	Yürü Benimle - Walk with Me	20	2973	4K
+UCO0E22wqMtczRalC4XtBAuQ	ZRFSwalk	20	3439	4K
+UCCHO93JKZGbbxSNYFooV5Kg	ZERO 4K	20	1005	4K
+UCWmwc3u2ikBG2Xfitc_26gg	Zee Uttar Pradesh UttaraKhand	20	288
+UCxYhFcLQ-YLAm39B8FKCkNg	Zaman Kapsülü	20	871	4K
+UCGW2Mp6mC1ZDmXY_j8BiqRg	Zhelle's healthy homey cooking in France 雪在法國的健康菜	20	292
+UCTY6ddtr0XuRlJ_W2xvM60Q	anbax walks	20	2730	4K
+UCw2xitzdDR6yy7bmOxH8fYg	ciize channel	20	1994
+UCmEnk6kgMBgeR5ULnNs126w	colorsofnorway	20	794	4K
+UCvW8JzztV3k3W8tohjSNRlw	denniscallan	20	988
+UC1-nfP8XzyN04M8ePgQLNpQ	footpath walker	20	1288	4K
+UCjuATuZxeUVOFGZtzNdARGw	iDFootSteps	20	1638	4K
+UCO8-0mWq3f8meUmrJFLLfdg	hikangs 4K	20	774	4K
+UCxwkM5GNdCc0uPFHcleYZeg	iREN21	20	764
+UC7b7X2inVuQCKDEDGE7K-DQ	iWalk	20	3266	4K
+UCHcn4Ux-sO9nzNu7rDsoQLg	infobells - Tamil	20	286
+UCOT_q1U5Ql_FlH6S-00r8ZA	ishowLife	20	468
+UCdLgtMQeMrulTPXPqtgYMZw	k-city walk	20	1040	4K
+UC-ilIvm_032bYfqYWVtRZyA	leew88	20	614
+UCNTDn47NZQ0tUvPnoesv3_A	librecamina	20	1259
+UCrYax-XA0baV_dFQllcKt0A	mietenblog	20	1222	4K
+UCq5VKCBV2bwhhPLtrVIBwuw	nheszjazz	20	1361	4K
+UCwJeMAgtq2j24_GI7lyitfg	oslo elsa67	20	620	4K
+UCtixstftFbv73efymOnCa8Q	promenade	20	1375	4K
+UCtyFVwXiQUaZNrE_4fE30_A	rbb	20	2361
+UCDkY_8vcbnsWIGrjXk7Eipw	phototravel85	20	1565	4K
+UCr-N09hc5QmOUg1kkB1D2Xg	sozoro walk	20	4092	4K
+UC4o6dS9HXsVUZIcZj42oHyg	suraj rajak vlogs	20	359
+UCzue2Jr0fxzLE1YmJYZN0_Q	tausir_official vlogs	20	187
+UCo6g5dnJcVGu0SjaW0Oa6lQ	vlogger vini	20	537
+UCUhNnxYa34L2Lahwj3tzRxw	walking SHANA	20	2567	4K
+UCy8QAtxKqKUnkdN8bq0nVOA	walking4k	20	2329	4K
+UCsfvVvzTMqs4lPS_KaQk0bQ	world2529	20	834
+UCbuUnI3usTSKExnwHb9LWLQ	Ömer KOÇ	20	1135	4K
+UCN1r-ujeKOsB-DK_GsqITfQ	एक कदम मुसहर समुदाय के ओर	20	377
+UCz0TwwnywpF2wBPRIBeaexg	जय माँ धारी विनीता बिष्ट भजन मागल गायिका	20	171
+UCZQeD-22uC6jG6QNoGiI7oQ	ชีวิตธรรมดา	20	2112
+UCKk258AO1LpNwKl_t8SXlDg	हॅसते रहो इंडिया वाले  Haste Raho India Wale	20	196
+UCZebFnwPdHfq1c3h-J7B3xA	วันใหม่ไปไหน	20	1950
+UC9Ll9kEP4G2a46gPomqcB1A	ลัคกี้ เจน Lucky Jane Travel	20	822
+UClu-x43NGxFVDH345nBsEcQ	หกโมงล้อหมุน	20	1273
+UC438-AC8nQLefGzBvPEWo2g	หลง เชียงใหม่	20	1065	4K
+UCh4h-Jc39XBBvF973COet0Q	อาสาพาไปหลง - asapapailong	20	2664
+UC4CpmWXmG3rq3pXOTIBf9Mw	หลงเที่ยว	20	499
+UClOONPEhyIQm2ejzctOZEqw	【歩人】 ALTO channel	20	1790	4K
+UC9w-NCQOUDLiA7oHtkLRn3Q	えじぽん旅行  EJIPON TRAVEL JAPAN	20	811
+UC6JVcAmXzK_Bw4ZXH3ojR5A	부산뱅이 BusanBangi	20	1821	4K
+UCP8cSomNWc3H2jHArmKKlyA	異世界ひとり旅 ～Deep spot Japan～	20	3337	4K
+UCxeVPaUaWLDlTPPWeFTKMEA	코리아 스트리트	20	2084	4K
+UCZdhOOA8O39dB9r56PGlcmQ	한국산책TV _KWTT	20	3267	4K
+UCMrGzHakCxWihZh23lu9bPQ	CozyStrolls	19	1671
+UCxnQJLuKHZnUhvFMP3t_MHQ	Kzrunner	19	1264	4K
+UCKXgF4fV8tcTHO39pi7CiuA	4K Mexico Walking Tours	19	2810	4K
+UCg0MxCNyGemodvK9DhA0IMA	MB Walking Tours	19	1934	4K
+UCw5qfLGti6DibqEYKS8uLRQ	Miền Tây Lang Thang	19	1555	4K
+UCqoGIm7kt-SylSVWa6hJc-Q	Walking Nomade BR	19	1271	4K
+UCKiQs6lTrOVscWg9-L8-FQA	World Hopper	19	1781	4K
+UCSNF64Kq5TMlg7Cj0Rpljzg	Daniel Nugroho	18	1498	4K
+UCHAWQ8K0udbzXqfpHyB2XEw	PRIYANSHU_VLOGS_04	18	536
+UCKCBdkLMd4s7rXgttCG8-Uw	The Unseen Beauty	18	1568	4K
+UCUcfIoY60KOQZD0IY94ilAw	World Roamer	18	1958	4K
+UC5QnO-hYByRO9vElCX9AASQ	Walking Tours South Africa	17	921	4K
+UC_p_Tvw6MFHX0zC40gp8XLA	Sanchaari Films	17	390	4K
+UCbEnGJzg07-Bbp0o8zwrz2A	Universal Walks	17	1221	4K
+UCnnaBfMjwXX0X2MImQgmeKA	Walking Wonders 4K	17	2312	4K
+UClcdrX6Jg_dWyM8VvGXn3ZA	Shaun Adams	16	859
+UCEsXJz6nvtUPunYZ9cHeYyw	Scenic Roads	16	3697	4K
+UCtj26-FRgT65iAQq5zlmlMg	Explore With Georgie	16	2886	4K
+UCgN5UmjIXl-r-MOF6BYrjdQ	The art of Jay walking	16	2270	4K
+UCCN14H2plbpO7TGbStSo_Eg	Walk Madrid 4K	16	3513	4K
+UC9nPtMVU6Tbo15CsajfW_yQ	Alissa Kbo	15	154
+UCsK895aYvrjaO76mtauWNXg	Y-Walk	15	2489	4K
+UCitZxkhSqIbngJKfzYa3QtQ	Walk Abouts World	15	2426	4K
+UCrAc7Mveo1VSIS6vB0E2cqw	Walk with U50 Twins	15	1865	4K
+UCcfAB-0l3RqigZAfmP-kfRw	Yatra Walle	15	309	4K
+UCFkXrHbKKeEqG5DGqa7ipsg	abrahampath	14	381
+UCjRLrYsK2Tis6CN8z4ck0Yw	Bu_aleiss	14	1828	4K
+UC3dxlH7dp2m6PVuEVfFKjBg	Dada Sajad Ali	14	776	4K
+UCCvs70EHzt4hMnQolJenDHQ	Hidden Hills Motorsport	14	1554
+UCOJHPIaXMLxdyH2I5SK9eHg	Expat Walking Tour 4K	13	1508	4K
+UCW4B4T9KlOpwWGL-5M2-frg	Local Eyes	13	1920	4K
+UCmjYrYDGkOKHpZVeXOO8agw	Planet 4K	13	1023	4K
+UCFyvFqrm90MwfjPSmuqLvfA	THE WALK 254	13	1806	4K
+UCFw3zY-aepqyEC0pRVd9gMA	WORLD TOUR	13	1385	4K
+UChw0KsQazQWYEHAijgjDTww	Virtual Travel Pod	12	2112	4K
+UCwKnN57o0K5yY1CKnLuf81w	WANDERIST	12	2663	4K
+UCfOOHf0GHK4DVbce3u9XHtw	Explore On Footpath	12	1470	4K
+UCQsjeZLlyU4Ysf-pwJaPZ1w	GRANDVIDS	12	708	4K
+UCRAD31B36ot9qssueTGHexw	Kyu Virtual Walk	12	2030	4K
+UCX9PjcNeblBFyaQ8zUjT27g	Random Adventure Tours	12	2751	4K
+UCSKyaNRlKJpd0Tqqrzlzwqw	Scenic Vietnam	12	2345	4K
+UCuqBQaddluSTw9EdEVwfB2A	ExciteHike	11	8171	4K
+UCGZoAxT2bhflh6YUEiGR8ag	Another Egypt	11	1128	4K
+UCUAkV8VVPR9F2Jx9vJ9PaBA	Buenos Aires 4K Explorer	11	950	4K
+UCGOfM9XG8PYIuoy1c6gfeOw	Hasmatallshow	11	173	4K
+UCkWeoBFxIZ7JW99ZfDenFzQ	Yuki's Year	11	1440	4K
+UCRw_CkTaPZlSST59yiULN7Q	Alex Golubovs	10	2164	4K
+UC-kUo2QD5eVQh3enDHqfbeQ	AmbleTours	10	3365	4K
+UCvu2kAXqUZ2oUbcEOTT1uUg	Cyclify	10	4228	4K
+UC-a3KXM8TDIhPp1OFllUm9g	Layover Walking Tours	10	2800	4K
+UCt0cq4BsvrHG69StiQv5nnA	MyWalkspedia	10	2143	4K
+UCgrxNOBlj2jCB94yNcecWnA	O Que Não Te Contaram	10	864	4K
+UCcOW9sAznvmLJrTBpkvSplw	Meysam Walk & Travel	9	1916	4K
+UCSJHDNWIGmRhsSEi-LkfHiQ	4K Life in Canada	9	1396	4K
+UCSpRCMtER3iS_yjei15ci2Q	Boom POV	9	1605	4K
+UCootk01vh6ZhDuaL7k93-JA	City Trails & Wild Paths	9	3654	4K
+UCUGGFdnZwbfK4RHKV3Hprfg	Etienne Pieterse	9	227
+UCcFNjeQlVWg0fbYxj8oubwA	Phaze Experience	9	180
+UCjL_NfEx7wpT_VF-xXIE0xw	Planet Ambience	9	1527	4K
+UC_Qv6Mpu-oMn9-TdnU-MNMw	Shady Travels	9	1163	4K
+UCRP5e_9pIAJlfCJ5e-g4R_Q	Walk & Tour 4K	9	2476	4K
+UCMEcuVCB1BzstDtSbrOc5rg	WalkEatTravelExplore	9	1181	4K
+UC3RZje4CAUAM-V2-HTgsBVw	William Hacker	8	894	4K
+UCV5cNUbf-JSagIYUxMWunmw	PureVenueTV	8	1384	4K
+UCArlgF8d4pkHUFLO3PqSjhA	Walk with me	8	1286	4K
+UCxdyEaN-t3JWFLqetVJu2vw	Day & Night Walks	7	3381	4K
+UCPgJCoCOOWaCM5lzwnCxl1w	Planet Walkman	7	2730	4K
+UCLO70Rv2rW3tVmZIFqzsqww	South Korea Walker	7	1566	4K
+UC1d7_QfbGIZaY807z4KRuug	Travel with JB	7	1516	4K
+UCmql-T5RhrEbTKYmF-zSd7w	Walk Hanoi 4K	7	4414	4K
+UCKZg4TAozExarHG3m8DWd6Q	Eko Nightlife	6	1113
+UCMH8B94K1oFrQt3XFZoOhag	FM Walking Tours	6	4472	4K
+UCBS2Zpg_fnbeM22CnaUJOUA	0utd00rF0x - Virtual Tours	6	2091	4K
+UCOHF9yNXQ7GfsLr5vUwP8bw	Disney Wanderer	6	1042	4K
+UCYb_583PUTDX3IH_n8ko6AA	Kyoto Walking Tour	6	2176	4K
+UCNLei8kkTuMFtseNDVCsi-g	Panorundum	6	789	4K
+UC04bT3e7J8sGvsADBg4wHvg	Rhythm Beats	6	628
+UCSJzuUAUYRCyE9Xumpbh6gg	Viagens Chensacionais	6	1818	4K
+UCkU49NNRGNuBpFFbgG2mBXA	Heaven and Earth Bicycle Tours Hoi An	5	173
+UCV6sN6NvodbTxDeA5H_cOlA	INDIA WALKING TOUR	5	2729	4K
+UCIQYoRRWqziaHlLVLoxOJGQ	Aussie Mates	5	609	4K
+UC4FDv0_jPSOZJXXlfzqFfQg	Walk Korea	5	1149	4K
+UCBkcw8h7epT_bK0QzuY2Bmg	ActionKid	0	0
+UCmUu2SQ5qJCmvpQvyQArlaw	8k Wild Lens	0	0
+UCypCqtzWmI4QkP67IXBrEZg	Ahad's World	0	0
+UCs2_IIhv9UAOlA5W-SgQXJA	Alfred Montaner	0	0
+UCaSiV2-u_6NEjRqkJBoIAkQ	Benjamin Travel Walk	0	0
+UCBjd8RIX8tSpTJ31QpaN7vw	Ancient Egypt Alive	0	0
+UCKGXjF77E6mavFK9E_7B2Hw	Best Places to Eat	0	0
+UC0B66KUDmpmKS9-JGpYyPbA	Bobby	0	0
+UCXJryYh6xcW5iEeJGzK191A	CBS Miami	0	0
+UCjTBBaWcz5zNKVPf4nDYhTA	Bong Bong Travels	0	0
+UCVuFPbAjTi3mqpH-0veJRWg	CBS Philadelphia	0	0
+UCl2iAmXPqNmq7Gt4O5S5HdA	CaptureLifeConnection	0	0
+UCXpkSlxIY73Wr6jbCb2eKLA	CharlieBo313	0	0
+UCEHMjneDdNSReLzqXxa3IZg	City Walk HD	0	0
+UC6c6LuyOiJMvtQvtlHieICA	ConnollyCove	0	0
+UCkojQGXt6-sV37XYKnDX8UQ	Cory Popp	0	0
+UC81Nd9ptLtLMt2EFalSd5Aw	DTV: Daniel Television	0	0
+UCrE4778g3tEFNI4lbFpzb9g	DelvisD	0	0
+UCzpl23pGTHVYqvKsgY0A-_w	Doja Cat	0	0
+UCSkZlCHGxpJUcZ2wa1i6oEw	DreieichPictures	0	0
+UCx29SUEUovCrSL2lbMdKZ8g	Dubai Streets Walker	0	0
+UCPUcHVxyBXhm76rQXrLIm5Q	EARTH PARADISE	0	0
+UCG86Y-FxJBoXewxSa2I0x-A	Edulev D	0	0
+UCYHDfNvjERxIAZvz5Sio0WQ	Egypt Travel Gate	0	0
+UCoUacE8OyeToHHY3ISs5fGA	Explore & Enjoy the World Together	0	0
+UCVSAV_2FYUXFDh2b-Ukz8hg	Felipe Juncadella	0	0
+UCJZy178e0u2mhcv-1bmBkXQ	Discovery Planet 8K	0	0
+UCe-B8XzzO3VpR9TFqosIZ3g	FlorianPz99	0	0
+UCWm2z-BYoO39ChgxcaaXE9g	Frank Sauter Photography	0	0
+UCYAQXBee_2bo7v4zceXysAA	Funny Calico Cat	0	0
+UCS162h7lUerLJaLHC64OffQ	GameboyEG	0	0
+UCptuUcww97uTeDzKG5BD-mg	German Travel Blog	0	0
+UCgp6pDskdl5scRPytF6FH_Q	Germany Turky Ben	0	0
+UCRdEL9lSrD2RHUjMansQlPA	Golden Dusk Photography	0	0
+UC0gm5B-YRnVvcIovOHXZO6g	Grateful Dand	0	0
+UCljQM12BYIFWKp7ANxN-xtw	Gucci Mavic 2 Pro	0	0
+UCL3OfTLEU_4HpVjf-HJKCNA	Günther Ritzrow	0	0
+UCcnAEyz9VnlBL1DiQqliJkQ	Harry Mack Clips	0	0
+UC0w9pWsTigGE_0uOlJGWrnw	HH Kurt Hartmann	0	0
+UCNsf4X64u5Zw6CHbTKbtCMg	Hide in shadow	0	0
+UCsHcMVxV_EiYEZ0kZ-06cRA	Holiday Wander	0	0
+UCl7WdsVBXpGr3pWZCtWKbFA	Indiana Jones auf der suche nach neuen Abenteuern	0	0
+UCAx1lAAAaSkYdvDOWlh4Wkw	JAPAN TRIP	0	0
+UCvBhqXvEftZJkuiUiwBPXpQ	Jay Walking The Globe	0	0
+UC5kdieKqXcBHqZpiNMwVAjw	Jean Geelen	0	0
+UCVx8b7QEQAVRtFgReVAQY3Q	Joe & Joy Have Landed	0	0
+UCG-H88O6CTjznbA_eH2SJ5A	Joe Biscaha	0	0
+UCBabZaI421evdAKzW3uqGNA	Jorge Peralta Urquiza	0	0
+UCclfQhdrkMNGCUGITztpKtA	JoyOfTraveler	0	0
+UCmrRHDF4wNbWoGS29itSitA	Just Travel【8K】	0	0
+UCOcr6l6ype-n_9peIExCehQ	Kaiserman Communities	0	0
+UCCzpUHC5OKu3KMrcc9dHR7Q	Kelly's Travel World	0	0
+UCkIdwjWmr8q_30aJDx5r2kw	Kenneth Burchfiel	0	0
+UC9x37o7G5QhLNj2JKaadAXQ	Larisa Akerman	0	0
+UCDAuzvdB34XG3w3nK13Dq9w	Lumasky Drone Show	0	0
+UC64s6trgp37X1m7whWIC0bA	MY USA TRAVELS	0	0
+UCpX0Oh5UZSmoGdapjJLvvfQ	Mami Aireh (Fil-Swiss Family vlog)	0	0
+UCXzx4NP9h_B6IR9K9UJh9uQ	Miami Date Nite	0	0
+UC7Ij5ZCf2E9GmZ86cIw3vVg	Miami Herald	0	0
+UCGJz92l0embLrICvxJx_0Gg	MiamiDadeCounty	0	0
+UC8HYVijYdM5gt-WmVNgmYCQ	Miguel Murphy	0	0
+UCIFI_wQDrmfXz2WlizG3i_g	MrHung Lê	0	0
+UCD158fKWVgwCkOooKEoJ1kw	NBC10 Philadelphia	0	0
+UCTW8KYd1ZNVFCXE4CkEDS6Q	NewTraditionMedia	0	0
+UCNBjboteZKdH-JtCqUOaatA	Nomadic Noms	0	0
+UClBizh2kHujqxMlOzJUq4pg	Open Streets Walk	0	0
+UCNtrypdV0zwNpp-t6BTJFhQ	Phillipe Nelson	0	0
+UCVqE27nxlcOh_MpmBnnPLzg	Peter Kim	0	0
+UCxlxy6SZk03FESZt7vnEvbg	Quez76	0	0
+UCoekG-nnjhMfdnbOj4hFhlg	Reed's Travels	0	0
+UC-DhfBLWl03AwhVvu9W15dA	Rude E Saldia	0	0
+UCKe-jVzT3khg9uJ_hcscCJA	Rizwan Sharif	0	0
+UCc50a4mOKMbnD6GBtmHSvOw	Rustic Ventures	0	0
+UC-rHwWu8ZcVVQ6mDREycgbw	S.W.I.R.V. TV 📺	0	0
+UC_o7jLV_DfR3RjfvOJx6Crw	SHredWorld	0	0
+UCpkg_O-UUfFpoPBLVUuWHIw	Serpenz71	0	0
+UCvCBGZqGv9pxZ3sVnm2eEPQ	Spotkonzept TV & Videoproduktion	0	0
+UCluj-p8sTJU_vQjItUUKQDg	Stockisum	0	0
+UCKSW_9EZV5e04w267PJJI3w	Sunshine Riding	0	0
+UClf27N-OgfPx0AohHhWvEZA	Swifty Travels	0	0
+UCsDV9sL5ECqOx-LwzQ6Z2bg	TOON215	0	0
+UCWVOkDdTNoS4NsIIqtJSsJQ	Ted Rover	0	0
+UCDSjOpQKxKuGSy0gMsN-CMg	The Florida Real Estate Specialist	0	0
+UCKs9eFlelOHd-yWa5Dhea1w	The JFKLiving Team, brokered by Real	0	0
+UCdrpAa2V-mXK8Q5WN-05Zsw	The Time Machine	0	0
+UCfofafwHO4rNGqgQX6FPYMQ	This Is Tom's World	0	0
+UCSZSH0FTZ395-fzq_L_7dsg	Timeless Egypt Walks	0	0
+UCqCcHFlVTEM57wy9D4fPyhQ	Tokyo Adventure Life	0	0
+UCOKye24E4qeGbVuIHMmjz-Q	Tom and Nikki Travel	0	0
+UCHvAHzyuJC-DeURyG9X6sJA	Travel And Walking Tour 4K	0	0
+UCR605gdno9blUCE2KEj_qAw	Travel Hopper TV	0	0
+UCkOYli3TS9nH_zc9qazkImw	Travels of Scenic Japan	0	0
+UCLhAMIxFrWqbxTLEDPQzfZA	Travelwwwiz	0	0
+UCiuXUVkfM-0GhjwRirVzTnw	UC2	0	0
+UC5Dpb8-CHq97Sg64iu_QHag	Truly wow	0	0
+UCQDJ1SeZttLFyrmf-iN-ooA	UHD Walk	0	0
+UCMY4Z-J2HERv_dEt0wrSATw	WHYY	0	0
+UCWncPpgRJnujfswdsRB6hSw	Walk The Earth	0	0
+UCJPHswyQOvTVB6DmR7GcHjQ	Walking Florida	0	0
+UCyk-IDfY9u7Ay4PxZzU3i8g	Walks & Wall Street	0	0
+UCKuNPmgoLLeK9Iuad7PuFEg	Walkscape HD	0	0
+UCHGWFClCrH6M48ZPvfV_ezA	WeFilmPhilly	0	0
+UCeh4pdtZ9QpKK7LTxT9fspg	Wilfried on Tour	0	0
+UCmpOL3pO05NvVhIsQg8wKWA	b2photovideo	0	0
+UC59gjDaBHErP407QtZ_pNQQ	geoff BALL	0	0
+UCEnXkPqqRG5ss0WD9dWjiog	jucchini	0	0
+UCN05Iezn19QuLiKvwPk5r8A	koen hilbers	0	0
+UC6tEGhRBvTpXf2q96uJ52vw	macguitar	0	0
+UC7NuEZ7SYuYt-rMwHsCsJow	toande77	0	0
+UC3iqYz0B13LBRqNiPg_FQpA	wonderworld4k	0	0
+UCNdSEvNsyPeyBIs9WiOQE5A	tomgretzky	0	0
+UC8YSDJzpLXCvLHdH6Bx-D_Q	 Japan Walk	0	0
+UC87B_cqwzu8S4IcSeYBCbQQ	A Traveler's Journey	0	0
+UCJNbSjk8ZUDWPlvPeXNSycg	Active Touri	0	0
+UCPPfk_xU1vhNvecfW1gXUNg	Angelica & Aileen Wanders	0	0
+UCO3TJbHlgOoC-u9-0tcllOQ	Armchair Traveler	0	0
+UCz6cFdiOQ6F5ZpFJDD6lo4w	Apao Thailand 4K Walking Tours	0	0
+UCbC3JaezgYYaJclvxUXAhTg	Authentic Thailand	0	0
+UCQtwuXsknYoLDqF0HqeXDiw	BS Bangkok Life	0	0
+UCeZQoFiEY4rWQg6lMZamFaQ	Bangkok For You	0	0
+UCpNQHHM3xG8Uc55C-OOcx7Q	Bestravelvideo	0	0
+UCT9wmqpHG-4xGEV8QacqgzA	Between Paths	0	0
+UCNhD0Dau7YjYroJNpYqWp2A	Chilljungloei	0	0
+UCHLQezjT0b46so1dzkyLI5g	Blood is the new Black	0	0
+UCcehB00cf5JGWrmDq1xCIDQ	City Pearls Walking Tours	0	0
+UCKHDE3_PZsjBr89OLtr2CPA	Cities Worldwide	0	0
+UCD-wx9lLiFeulexN0Y00DMQ	Closer Lives: Jenn and Leon	0	0
+UCT6sIh0ySCcbxJM-kYk0zVw	Cooling THAILAND	0	0
+UCrOjRTsUyN0lruU-16hz-nA	Couch Tourists	0	0
+UCHB7sn0uUOiT7WUKyKS9Dfw	Dpx Life 4K	0	0
+UCqXjzzEky_M7VnCtK2rS6fw	Ephigenia Stamate (Diet and I)	0	0
+UCkJMMhe2hFktgSQ10DJHm-A	Europe In Detail	0	0
+UCHWhYTw1QUjYex5SSiyclMQ	Fugaku Film	0	0
+UCBCpCqe_i6zozF1hCDeaImQ	GERMANY 4K	0	0
+UCSH6LF9aIKJyWKrj9OsNg3g	GREAT TRAVEL LOCATIONS 🌴	0	0
+UCrPsv-Ke_8rjbONI1NpUrMw	Global Travel Mate	0	0
+UC_rJYo72p0GwajN4oHLCdiA	Good Vibes Walks	0	0
+UCSOoPmDPbPnJYuggQu6SkJg	I Oat walking	0	0
+UCKzqEEctdL_IekeRBbjD61Q	Inner Meditation Music	0	0
+UCS9FKCH8JhhIt4tWTjJgwRg	JD BIKE&TRAVEL	0	0
+UCmNsIhqnL2vbPebAIZK-0aQ	Kampai Cam in Japan	0	0
+UCdf6hZcgdbDemJkd3Ebf8Cg	Just Around Trip	0	0
+UChFxyhQFcnpvTD4LrdrYP8A	Kristijan Males	0	0
+UCGcTPkD7J5SHdxURhWIdiqA	Kensho Quest	0	0
+UCaJx4s5cjL33ZHp3CN6FBwA	Luxury 2 Videos	0	0
+UCRA4CE8Hn9N82jgmG0KdGRg	MRV Relaxing Travel	0	0
+UCMqLRR6PRfLwHforAJ-1Nzg	Mad Dogs & Englishmen Travel	0	0
+UCTcJsKaqxhUbgW7AYWc1-YA	Magic Motion Media	0	0
+UCC0b8QzjpChkxrdObEgJKnQ	MalluDronie	0	0
+UCDjT7t9zhFN0XPtonQadL6g	Mee Learns	0	0
+UCNcc2AQJYaHBxy3Vu9DYgKQ	Michael Kühneisen	0	0
+UC1nJA7YUWwkjoIVc-h6-Jng	Mijjie Reflection	0	0
+UCg-p7ljEQxFPKQmGkxmdVJw	MooMoo Away	0	0
+UC5crTpjVnwGeih8p5R3eS1Q	Mueed Aayan	0	0
+UCchM3p0UUBL0DfImLfm1aMQ	NOYJI TV	0	0
+UCywvmFksEWa35atqpARiQLQ	Nature	0	0
+UCjUcc6pW28S6vKsJQczdSTA	Ninjapan Solo Travel	0	0
+UCPSaCozNHwApMsS0n_jFVzA	ONE GOOD DREAM	0	0
+UCDsvL48jluG3tvlyurB4K3g	ONLY in JAPAN * GO	0	0
+UC38a_3uSaWfdxGznr3FxeqA	PRO THAILAND 4K	0	0
+UCO7pb0wIUsHvksXBakDxYsw	Panoramic Travel	0	0
+UCRpiUwMw5XGJBplySGd_WrQ	Padthama Travel	0	0
+UC9IXi6PVtap0jaMcYNN8R2A	Peaceful Walking Tours	0	0
+UCHnXHCY6JELG3Ls3i8i3SAQ	Primal Battle	0	0
+UCGhKQmNdRVRPN8qpiOqGkBg	Pure Walking Tours	0	0
+UCmqMWGnAhuisQUv88Ss9zFA	SERG PA Walker	0	0
+UCZQp-rmlIlL2J656Bajd7lw	SUNRISE AFGHANISTAN	0	0
+UCUHExH22N6OaqsyjIGe2cMw	Skies Scraper	0	0
+UC1bU1T76DLhri8gmIgXiseg	Star Walk	0	0
+UCsYrptSABG5GQ_Iw2b7q4YQ	Slice of Japan	0	0
+UCxQwGrUyw5C9dSqegW87t0w	SuesKawaiiCollection	0	0
+UCy5CHN2Fcny2rVaFNraeXlQ	TRAVEL THAILAND 4K	0	0
+UCnskYfLSA2qINuZL01IX4Rg	Thailand Travel 4K	0	0
+UCZrZcTd0nd5p0kmjtxVLwXw	The Creative Nomad	0	0
+UCjigTej9Z12whLkAwgVgm8g	The Cultural Landscape Foundation	0	0
+UCIEYAtvhx3RjGYgy_TZr2Jw	The Driver	0	0
+UCzjPmPgZnxQ8PnqhnKeRaWg	The Hiking Hermit Travels	0	0
+UC11Q4xKfvsJZvJ59nIejwNg	The Itwinerary	0	0
+UCIPyYi7YcX9BdgVMzvhX1pw	The Walking Tour Master	0	0
+UCKU9VBePVfcVfONXZxIeO8w	The World in Motion	0	0
+UCGSo9Ce23N7KvBOUF5SrDjA	Tokyo Cheapo	0	0
+UCIvOUTuA_JHMv6M_wPQNxUA	Travel Ranked	0	0
+UCn5xCGRFHlT3rm0bwmLEbew	Travel Stuttgart	0	0
+UCl0-hB-zEq8vqSPU84dImrQ	TravelStayEat	0	0
+UCA4g5CGBjN9TrcWicJZlWWQ	Travsight	0	0
+UChNx0PRu7FxeuwA_3tTzVOw	Un french Everywhere	0	0
+UCbrFaFMIn_3EAXmDFLtta5w	Unique Japan Travel	0	0
+UCl7s1SvBaXP-1hi8SmBQZ6A	Unrushed Motion	0	0
+UCGCabeqBska9NB59naffPyw	WALKTHIP	0	0
+UCQTl0LY8ONZUPfwUpo6QHdA	Walking Europe	0	0
+UC2zBisJjBpZu-8PuxOo52yw	Walking Tours with Mike	0	0
+UCwdBIbqw4t7ahfrLw8IlpWA	We Walk	0	0
+UCKWs3ipgOYttoE_9CL86_Gg	Western Imperialism is such a drag	0	0
+UCuAv9YI_jYtzntQQRyeTO8w	edonore	0	0
+UCiCsiX1en4pLfDTVyHKu9jw	genobear	0	0
+UCt1bJY7X2F4ocrSdmKv-WWA	having me time	0	0
+UCzNAmabIUcEj4Gzr1FZpDPg	iitsu	0	0
+UCgmhUaKCNnxidhM52b-gWlg	memuza	0	0
+UCFTq7XGLdh4h9sOo6K8GBmg	with love, rö	0	0
+UCJgdyTrNidrc_9rrdI4UKAw	simple travelers	0	0
+UCxFbLRIOeDw5_iLiDcRYqig	xtigerleelee	0	0

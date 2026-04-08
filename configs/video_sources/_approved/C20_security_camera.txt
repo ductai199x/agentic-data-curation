@@ -1,0 +1,431 @@
+# C20_security_camera — 115 approved channels
+# Pre-screened: 10 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UCZ9xTqC2LWbD6V8AG-0YJmA	603Wild	20	1845
+UC72nbKQLSDyiSARhg0Ywj4w	9NEWS	20	302
+UCYenDLnIHsoqQ6smwKXQ7Hg	#Mind Warehouse	20	1775
+UC2C3D_dv4QXgUQo9co9crPQ	50M Videos	20	1626
+UC_zEzzq54Rm0iy7lmmZbCIg	America's Funniest Home Videos	20	1216	4K
+UCnBbQHNiSYbLqH8nybUSH8Q	Abyssal Detective	20	3855
+UCv0qEwfL-69xRjjZkX51BTA	Ace Trail Cams	20	446
+UCBi2mrWuNuyYy4gbM6fU18Q	ABC News	20	546
+UC1Cp5caGwHvJZxHoevGoDdA	BRAIN TIME	20	1968	4K
+UCn5a8OmjbfVdDAZ16eSMaBw	Archived'Case	20	1014
+UCi4fcBVyo4CAnmdgXeO-NvA	CBS Boston	20	133
+UC8kRP4T6HbZnsheHCuIB_FQ	BBC Gardeners' World Magazine	20	439
+UCi7Zk9baY1tvdlgxIML8MXg	CTV News	20	644
+UCc4tkQ7RB0X3ARhamI8_bGQ	Chezzoid	20	1220
+UCGAmpBtWveYp0-3v9npnhvQ	Chilling Scares	20	1216
+UCLopFkPshvYo4Ei99MnlE5g	Camcreeps	20	2584
+UCyMqEAi241amR78IjbprSOA	Creepy Cam	20	1556
+UCC1j6kElTffGHgKkZBsnE8Q	Creepy Chronicles	20	730
+UCoAfOthCw3NVjyUrr2KW7UA	DOORBELL NEWS	20	1403
+UCNS8QijmVzXxgWndUb0h1Cw	CreepyVids	20	2621
+UCwqoZ7jW1hQr4A1lMaaUwNA	DPC Technology	20	1042
+UCia6Ff5chPFAfdZR9RmieRw	DV Comm Systems, Inc.	20	291
+UC_sSJZnJdsnjuAKdr95D9HQ	David Manning	20	883	4K
+UCdC0An4ZPNr_YiFiYoVbwaw	Daily Dose Of Internet	20	953
+UCiskgLcBYF-fsc4I2EtCHZw	Doorbell Stories	20	2209
+UCJWKjrrUh2KL1d3zXQW79cQ	EXPLORE WITH US	20	3145
+UC8A_HkoYNM62fFMNaF3a4hQ	FASTCABLING	20	637
+UCHLyP4MuA-JAFBCwxXOEDdA	FOX 5 Washington DC	20	306
+UCUKOZiRKuxh6peXL19oKjZw	FailArmy 2.0	20	967
+UCPDis9pjXuqyI7RYLJ-TTSA	FailArmy	20	1245
+UC5lBPQsMMJEE5PTJMzf_sug	Foremost Picks	20	657
+UCAu6179S9GhrhziSehyBZQw	Fear Tales	20	10738
+UCXIJgqnII2ZOINSWNOGFThA	Fox News	20	586
+UCWsi0qfIRf2-eFSODXqUVfA	GetSafeAndSound	20	191
+UCIptJSwOOKB6WP22uBjYy6w	George Langabeer	20	1142	4K
+UC5vuzzokDBCHItEvonfY8pw	Gadget Ten	20	599	4K
+UCmomg9UXsci5lnlL8SxVoaA	Handy Homestead Reviews	20	284
+UCK3ZW9f2JhXEScJhucMZspQ	Haunted Frequency	20	1780
+UC1nZYLl0iPTf3MXTra1Vw8w	Haunted Creeps	20	1630
+UCQAEIHYXrg6IiPrAlgIaFUQ	Hidden Life Moments	20	3156
+UCUv0nEbHnvMZ3Yv7nFlv99A	Home Fire Sprinkler Coalition	20	198
+UCcRjXjxtrgN72Nueyd6RmoQ	Hoodwatchnews	20	730
+UCtqFUxpLnV-RaraQVu1rMTw	KHON2 News	20	170
+UCp1KrVaZDZ7BOI_QBuTWWmg	KING 5 Seattle	20	161
+UCrjmJ7_O-tCJuF374YqO4rg	LVT	20	504
+UCqsUiELj5m7vyzNqIuf0VbA	LAST SEEN ALIVE	20	1722
+UCAhvDdx7KbeJuLqybIRVnGg	Legacy Classic Homes	20	1025
+UCWpME6oSrCjyyNOnZYgXm7Q	ManShed	20	617
+UCr3zseJE_oWODbaDStGIayg	LifeHackster	20	618	4K
+UCdY46efKTiH5iThKgrKeifA	Michael Outside	20	889	4K
+UC8sibhG707qg5AlVlj5P3mw	Momentum Productions	20	370	4K
+UCmORuYM7k4gTzV1_lKEdhNA	Montana Outlaw	20	243
+UCBINYCmwE29fBXCpUI8DgTA	MostAmazingTop10	20	1752
+UCDM5S7F6gocPxEDpHxHN_hQ	Mr Horror	20	1686
+UCnM02drQP-dF7WMgtJHR4Xw	Mr. Nightmare	20	1553
+UCtPrkXdtCM5DACLufB9jbsA	MrBallen	20	1925
+UC2IcTVb8f5oWNuX3bwbLGng	Mystery Man	20	1844
+UCf9BXjH8czK4t8hzYI-1Pmg	My Cluttered Garage - Outdoors and DIY	20	1231
+UCeY0bbntWzzVIaj2z3QigXg	NBC News	20	1334
+UCyXyxZuZ2udv7yAsuixeGVg	New Gen Home	20	844
+UCPhKMwKw3h6gZ8zNG3tp5UQ	Nelly's Security	20	363	4K
+UCzSSoloGEz10HALUAbYhngQ	Newsflare	20	226
+UCIrZ8HRYj2DIIm4sZhKdqrA	Nick’s Trail Cams	20	697
+UCr625eA34vZlmEh1p9ivtvw	Ocho Verde Wildlife Channel	20	497	4K
+UC2rWTDsj7Utv5i_-IeD6aqg	P E Struckman	20	3769
+UC6ryC0YQjeNPpnljYtqWTjA	Ongbunto	20	226
+UCO8fQqYM_EeHxiGYONWt-fg	Peachy	20	1232	4K
+UCbwFM-MBCq1v_8uL6XgVMJg	Pipl Systems	20	640
+UCXOHKTKnu4yk0bTVP3fTI6g	PickNest	20	473	4K
+UC2rzsm1Qi6N1X-wuOg_p0Ng	Project Farm	20	1208
+UCPu4bS9AzNj6tSVMzYGrVTg	R Wayne Steiger	20	1385
+UCu4XcDBdnZkV6-5z2f16M0g	Real Stories	20	3752
+UCPaCgZkxuhHuP6ZNdGHf1yA	SCW - Security Technology	20	1180	4K
+UC7Z6ais32rsEJQNgK7P42Wg	SCARY COMP	20	1744
+UCewglH92gLwdm-jor6kIf4Q	Scam Sandwich	20	2816
+UC6DS1pJ0Y9UsjS5jz3cvU1g	Security.org	20	491	4K
+UC5G0-uMcGFhNts84d24BZqw	TODAY	20	287
+UCw4ccFtBN7dhQBcHmE0qylg	Slapped Ham	20	2384
+UCQzCw69UityYbuFwsgE1W_Q	TOP - Incredible Moments	20	1039
+UCUvEpOhD1BYa6J2dPZbEtTw	Tannerites	20	1746
+UCjMVmz06abZGVdWjd1mAMnQ	Tech With Brett	20	1040
+UCdZksupdwE9OsZTGiPV1dzQ	Tails and Scales	20	301
+UCtmEArToh11Rr48C1krd4wQ	The Best Selection	20	565
+UCenKYNZ4yAl2jpE8wR7X2Zw	The Dashcam Store	20	227	4K
+UC2gyzKcHbYfqoXA5xbyGXtQ	The Hook Up	20	1010	4K
+UCjai-LbO-VZD7foh_PEc6eQ	The Outdoor Theater	20	903
+UCKUHl9qrizvt_cfldeVXuyw	The Grapevine	20	613
+UCPIvT-zcQl2H0vabdXJGcpg	The Pet Collective	20	1315
+UCO904hq0HBBShnHyRfZOH1g	The Security Experts	20	353
+UC3hQxO2yb4TjIar90ccXjfQ	The Ultimate Discovery	20	1690
+UChKEz7vEp_muMNar39DO99g	TheTechMag	20	315	4K
+UCaDBRJTQhIg_QhCkW7SxWGQ	TheUnlockr	20	683
+UCFCBGb13GJsbVD66N5OEqBQ	Tnwildcam	20	359
+UCRyIP2oznv4UPAl1jmKS5kA	Top 10s	20	751
+UCPzJA-8NIpwPMaAhdv5qjug	Trail Cam Guy	20	569
+UCEj1SR_cOI55oL8n3F-5o3w	Top 5	20	1161
+UCgnk1n5SJ3pFRReP--9YN1A	UnBoxington Reviews	20	224
+UCu6H0owNo5Cm_J2znpYBjGA	Underworld	20	1334
+UCdfsEkW7sox_AXRuRpIz-YQ	Voyageurs Wolf Project	20	488
+UC-NPQYmHM9AagZg2GfaiiBw	Viral Now	20	1710
+UCAKK8dbcSmckr2sWJhv5ezA	WBNS 10TV	20	285
+UCypQ8hJKXxd9qtFA7ZQrUsg	WHTL	20	3245
+UCaFgN6V43Xo1pRjQ4PjlSqw	WSLS 10	20	121
+UCBoD9qWJVIwuqFMpImiqqDw	WOW TV	20	1958	4K
+UCDvzlMB2PRsYEwYyiS6PqXQ	Wild Ontario Trail Cams	20	1857
+UCuj2ovoP-bODin3pkpwsY5Q	Wild 906	20	379
+UCaLACDf5aXquc4-i89vfyqg	Woodlands Critter Quest	20	384
+UC4j6HIHXVzUQeouX8ZzaZ8A	Yukon Wildlife Cams	20	342
+UCaKjtSZXjFLX-vynS5pRuYQ	tuv	20	2809
+UC5NVvmIfn4-v8rhD_Bealpw	dial2fast	20	651	4K
+UCz5EIrDJuuYRH_mNUexg0Eg	South Bay Communications & Security	19	160
+UCUsLUZWMVFVlEStTb3QxAag	YesTechie	18	323
+UC9yvwp6Ve3VjRh7QML_c5uQ	HomeRestored Security	12	161
+UCx9ORGdyRNDBasTLRBqUBxw	Signals And Suspect	6	255
+UCTdzcFC6sviYlFatClJhfAg	Boring Old Nature	15	2777
+UCktPkW_bFfOLIUa1mYSBteg	2Spooky	0	0
+UCDmNmxF3ZVMeGyvWE9tOqPQ	ABC13 Houston	0	0
+UCVxBA3Cbu3pm8w8gEIoMEog	ABC7	0	0
+UCyass_94GhrSLxz480YFBPg	715 Trail Cams	0	0
+UCdjUf2_TWhs6ndl3t7XmpUg	ARC Capital	0	0
+UC2KBJSZ21741isRWvS9ctiA	Abyssal Toons	0	0
+UCAyx-w_4jZNLI1xJi1k9yCg	Adam Casto	0	0
+UCJ4LUmdqgWb6UgBCHqRYqww	Appalachian Wildlife Trail Cams	0	0
+UCHLOSoCgxLLvMZOoE2F9EKQ	Avant Coast	0	0
+UCkQO3QsgTpNTsOw6ujimT5Q	BE AMAZED	0	0
+UCwl4XbTfjlX7HU9oztvj-7A	Bankai Kwang	0	0
+UC3c4kGDD4hSmjsIIJ0DdpYg	Bertha Africa	0	0
+UCquwd3xBZPul-qGUNcpbRfA	Bogod	0	0
+UCYI_ychRnL7sJrG6PUSBpQA	CBN News	0	0
+UCNZyLULUQBp5e9Q1cKtvk6Q	CBS New York	0	0
+UC_-gT7OYiRCK9Sp8SIv9WgQ	CBS Colorado	0	0
+UCn5zm2pwj3Zgd2SNGWp1mTQ	CDFISH	0	0
+UCk3Sk4dAlwLdvg0bqg2B8sQ	Cactus Juice Unfiltered	0	0
+UCm99dyZUE7Oa6Lm9-wZVlcg	Collard Valley Cooks	0	0
+UC4XcnFw11bYtUbFKjVoz0XQ	Charles Horne	0	0
+UC-nHQIlX7u8o1-bUG-14h6A	Come Wheelin’ with John & Christie	0	0
+UCnOUhsMipuGIkvtSmV49nvA	County of Sacramento	0	0
+UCP3sSdrcCw7qC0qSrD8xOHQ	DC News Now	0	0
+UCcn7OpUSDcHBIo2g0jKW2GQ	Creative Eye Presentations	0	0
+UCqnrCi6DlOrkF9DPbjoIcAw	Dantavius	0	0
+UCNic7Bo3jHZ0ERDjGXr4GyQ	Delhi News	0	0
+UC-2MJlKSq9_pYk5-bdvMhnw	Denver7	0	0
+UCaPGKhms7rUVjpBceeJUdUQ	Diamondbolt	0	0
+UCoptSG3d832DMkHNsnNDbeA	ECHOLIXX	0	0
+UCfDO_4-o9H0hLHW00zWTVYQ	Ex Cop	0	0
+UCIjSUWHWp6KohfnR5OQTXnQ	FOX 5 New York	0	0
+UC0ggS8bt4v7NiZpDfGqNpZQ	ExtinctZoo	0	0
+UCLD2ZkdEkAKhDETsK6QeDnA	Farrell McGuire	0	0
+UCCXoCcu9Rp7NPbTzIvogpZg	Fox Business	0	0
+UCSWdtggn4s1uG92diBbtZng	Frankie Fey	0	0
+UCFX0pJrRHOsWTGxIP2qTcgw	Game Cam Wildlife	0	0
+UC6wsVyERAVc09v2W2rUCZgQ	GeeJayWare	0	0
+UCqV7UZ1zHpgo0He4Rj2naMw	HardlyTommyNFG	0	0
+UCeJA2g4BNcZPue3kak4wK_A	Grant Critchfield's Texas Trail Cams	0	0
+UCgWqDN4PaQa3PTe-qiv8pXw	HateHilal	0	0
+UC4wKN1tlnlNVMiRPOu7qyvQ	Home.Made.Nation	0	0
+UCUwPhb93KlpzZ25r42JDRJQ	Indiana Wild Trail Cams	0	0
+UCLRRT6VAR_cVbTGiPRAkN7A	JOSHINBETWEENER	0	0
+UC_hSjGOO67A6gIDUcyuv_8A	Infinite	0	0
+UCNfYgEPCgB0ZBi0-m-7XScw	JS Project Wild	0	0
+UCZtjTWxU9e365o67VUS3kCQ	Jason Kearney	0	0
+UCjPpQDQ0stctOYRgG0l_FAg	Jay Ronan	0	0
+UCXXXfFeG3fTPSvWpOsdSH4g	Jeff Campanella	0	0
+UCGRryxFxjXbVAtBPE9EbyMg	Joe Bartolozzi	0	0
+UCKATGvvbOznaWNZcOBCLGng	KCCI	0	0
+UCWTkpYvniGIUe1jeCncFzKw	KMBC 9	0	0
+UCUknL1K-YGAa5sIss9t0_ug	KOAA 5	0	0
+UCETE4rKzRRjqM0JaB7TlPpQ	KSAT 12	0	0
+UCmZJz1J64RD7Ur7tI09s-FA	KTSM 9 NEWS	0	0
+UCaLjq8bBXAA7lLlHaGHvI8w	KTVN 2 News Nevada	0	0
+UC2Ug_at-Omqpt6HerLJOWyQ	KingFrostmare	0	0
+UCjtIij1WYaQqZ9wsw4uCrIg	Leo Hashee	0	0
+UCjzEF5kUZypUftfHD1MKuCg	Lip Sync Battle	0	0
+UCg2T4p_iHyoZcWgzfs9Ww8Q	Mark Girardeau	0	0
+UCf6ZB5gQWr6wVb0NVhRTxHQ	Mark Reese	0	0
+UC40Tw2tFuMzK305mi7nj8rg	Met Office - UK Weather	0	0
+UCBwBI4HC5XcDv-A0ip-T9kw	Michael Schnarr	0	0
+UC04MG2jYbP561ht1qVvQKnw	MonoMania	0	0
+UCiVdCELHSdilQ8sTTGcmBDw	Mr Detective	0	0
+UCCQFP_5qJ5iKQFaDjQpBTUA	My life In 60 second	0	0
+UCib8z9RWBK1xucFXG_q-Siw	Mysterious-Fact	0	0
+UCw2-2fWWHX9Ks_O3tCrREBA	NGMS Bulldogs Volleyball 2021	0	0
+UCmJf6_W7W-Q7rTd5skVEgqA	NORTH 02	0	0
+UCJlPtbrcsqWoFkdPIS0xkCg	Nathanael McNaughton	0	0
+UCMX31RavkfUHJvw03RbUZnA	Nick Crowley	0	0
+UChQxrbcXcXjdmtV77VncYng	Nightfair	0	0
+UC-mLLoVz_fT__SkPTbjSnzw	OurWildBackyard	0	0
+UCgOcPePLQWEZf8wlMRGu6SQ	Outdoor Central Pennsylvania Trail Cameras	0	0
+UCreaqGajjVLZScidpAjaMEg	Paul White	0	0
+UCYKSxEMkJwgqwVoMFuE1ulA	PlaySundaySports	0	0
+UCSL3jzfWy0641cDhbMja5_A	Prep Hoops	0	0
+UCkuZ-C_aDeE_aK3Me-ZpmuQ	Prometheus	0	0
+UCeIKdSZRSAUm88iS4G9_ohA	Psychopoly	0	0
+UCwWg3lbc1lbeSIsefhesDvw	Rabbit-Senpai	0	0
+UCm9fJ_IhnpG4AmTpcwyNXBA	Rico Xenn 2	0	0
+UCfbMtKJQ0uZeqhLiAnoqxiQ	RidgeLife	0	0
+UCP_MAR-m1iBDShrQkjSL6kA	Rittik Baheti(IITIAN)	0	0
+UCsDDmFNk4ahIMalbru_qr4A	Rob's Outdoor Adventures	0	0
+UCzKm2m24ZV0aOSUy7O0R1kw	Rogue Encounters	0	0
+UC7znFW9x6jbXP6B1znCHFQw	Ross Whitley	0	0
+UCHyptQKq5lxkSHlyOk6bubA	SIRIUS	0	0
+UCX8qBZhl6doVtcdLzM--QsQ	SNAPCAM	0	0
+UCxAt0KkZZUxgG3yxl-WDM2A	Secret Origins	0	0
+UCEnRDejbZ78R7BrJhRQ_gmA	Shiloh Apostolic Church of Jamaica Inc.	0	0
+UCUTzoehERsjLY36wEAI_kgg	SharpInternational	0	0
+UC45OWitn6BWG20rxLCL109A	Snook	0	0
+UCYNUwpLfnkVEen8BRACO14w	Spooxa	0	0
+UCS8g2u97Xuk75FBRY1MZsrA	Swan Valley Connections	0	0
+UCOuWeOkMrq84u5LY6apWQ8Q	TREY the Explainer	0	0
+UC3ETCazlHenpXEsrEJH-k5A	The Anime Man	0	0
+UCUVa51UA_690sEKyRbHb-5A	The Finest	0	0
+UCdJNQfVFlrRbfB3SQTM0KCw	The Front 40 Alaska	0	0
+UCGX1QMBfoq-vYQTr8MUCDqA	The Pharaoh Nerd	0	0
+UCnwUjPK7dXety-AJ4fNw_RQ	The Paint Explainer	0	0
+UCj6NrJLWgrsTZ1FDIvvpa2Q	The Supreme	0	0
+UC2Ov0Hp4wB7QoVfuRII4hOA	The White Coyote	0	0
+UCCsDTxYpPJBqP-Ng_prbLlA	TheRealFizzberg	0	0
+UCIFk2uvCNcEmZ77g0ESKLcQ	The Why Files	0	0
+UC-AwiIvqGObkVwiGUmYTonw	Top 10 Central Dark	0	0
+UCmvqviNx70U0l4ZcvUAXxhA	Top 5 Best	0	0
+UCLwvhlZyZtYa44jLgzXQvZA	Top Generality	0	0
+UCDdGCxn-zXFvF2ymefoYNJQ	Trailcamology	0	0
+UCt3JiNkefsfbA2N4SgEkoiQ	Visual Venture	0	0
+UCgVZ0mrM3liHNhRYC5Mchgg	WPLG Local 10	0	0
+UCrJdCKIddUxHExmbMN6gZ9A	Wartime Stories	0	0
+UCSFLs1nwzqSC3Tq6cXhJkLg	WTHR	0	0
+UC3cpN6gcJQqcCM6mxRUo_dA	Wendigoon	0	0
+UCgMc3ErVX3BF68BuHg7zH3w	Western NC Backyard Trail Cam	0	0
+UCatDVRfUzSURPt8GP0tyDTg	Wild Iberia - Trail Cam Project	0	0
+UC9MIfUP6LRsaqD_xv-A79Sg	Witnessed	0	0
+UCRrqlLiqyYsmwez9Cl-QjYA	World Latest News	0	0
+UCgjfQQRlmySHBuNYc1e81Yw	babifi	0	0
+UCHo2FZuPMMIljjPuSx0HVIw	bazdaddy	0	0
+UCyncm2sfdZ9fZa52NiJhtSw	emiruLIVE	0	0
+UCeExxW2YhIhlnB8xRv9ywpQ	grdn	0	0
+UCB2VZlL3LBwe2p3r0f9QY5g	hollnes	0	0
+UC_kYuJYee7axrN-B9PyuU9w	lemontreat	0	0
+UC6Mjg5R5QOJYjrio1JmP8Fg	oompaville	0	0
+UC2NRf0-PH8IiMq5uA5FHJnA	quack doc	0	0
+UCS6VhoZT2Voh7gO1JJuURKw	sdmarkow	0	0
+UCtUVqO8NgGWqKjH2pWbA1lw	sourcebrew	0	0
+UCW_wOOOnsFjQ-oNxAVQw3rA	sintax77	0	0
+UC-CP26tozRRBob2PBhoLAJw	unruffled	0	0
+UC3blNNls5_SBMfvu8TPfjLw	viral 00	0	0
+UCMZi9Rjb-zv33XFpswSw9Rg	yapmaster	0	0
+UCJEngPkBj88iLo54IF9h5Ew	2 Minute Garden Tips	0	0
+UCVuqAWnS5J5sHTlW7ymXQ1Q	5en	0	0
+UCHAr66RNYKxWEap6ugn9rXw	A Gardener's Journey Homestead	0	0
+UCVnxXwnBqufOFi8rqy25VWw	A Warrior's Garden	0	0
+UCeMtostq9Re1yIOkqAWcwQw	AI Eternal Chapters	0	0
+UCxyLs1jY-bu4mHcU1-K4qtQ	AImaginary	0	0
+UCeblZXXJtYAjIOyMeTyPnWw	AWHPRI🍉🌸	0	0
+UCQ6Rz-xt3RAOcuFPHuaW28A	Afrimax English	0	0
+UC3XW5yt4hKgsMzfdvIxzGHw	AmazingEarth	0	0
+UC8xUGXt_BRUm0sZzw9PkzjA	Ancestry Lands	0	0
+UCTth6PsKSZrHlqKscg0fqDQ	Ardelmasquil Entertainment	0	0
+UCYXMxrvC6BUtv2DWBwYuv1Q	Ash Garden Ideas	0	0
+UC2QUSlPEUH7fZJ24CL5YLWA	B3ck3n	0	0
+UCy41S34MNyzOF6IfzRa8vWw	BATsy Reacts	0	0
+UCZbzJz2zcS1KPallG6BuYeA	BE Tv Quiz	0	0
+UC5aNPmKYwbudeNngDMTY3lw	BNN Bloomberg	0	0
+UCucOU3BykLPoXU2KjvX3CCg	Beaufort County NC Government	0	0
+UCENlQKWRnB5Rnw1q5kAI58Q	Bekdiamant	0	0
+UC_5fcSfxRQOxu1ESlradcdw	BerryCrepe	0	0
+UCJKAjqXED_ANv45vBEkxIZQ	Best Funny Videos	0	0
+UCC6YVHdoj00igAhLvfJSo3w	Best of Saruei	0	0
+UCu527dihBKkOD8WsndXP_gQ	Bible Questions Simplified	0	0
+UCUPrbbdnot-aPgNM65svgOg	Blunt Brothers Productions	0	0
+UC5yZKb9-EkvkxvX-fGgtjhw	BlueCamBureau	0	0
+UCUGgU3vf-y8gHbzumbzSeMg	Buddy Brown	0	0
+UCYoPFRjaq_fqC7AvSBwAwEw	Bunt	0	0
+UCbRv1C1vbd_9UmHCkfXTkCA	CAM	0	0
+UCyI4gi0BtlKiUl6KgtuVIUw	CTV Your Morning	0	0
+UCgZH3BaYWeOUgxtc1kJAf9w	Cam Snaps	0	0
+UC84spgrGezGmRIzavXQZgyA	Carmen Whitehead	0	0
+UC1bmi_4FCPaRCU_xrEpOZfw	Case Reacts	0	0
+UCmVtlSjkPS9M5roX_KtR2KQ	Chilling Nightmare	0	0
+UC5yGKjPWGyRvOm7lljgP_Og	Chip and Milo	0	0
+UCbQHdOOXJ80q_nHXQq9-0zg	CistReactZ	0	0
+UCrEDaGl7qjuB4eNh4TUrkbA	Couch Laughs	0	0
+UC0R6pL4lMcrrmSL9wYTUaQg	Comic Stories	0	0
+UCiYcA0gJzg855iSKMrX3oHg	CoryxKenshin	0	0
+UCxAV_IrcapJEHCyufrH0LuQ	Crano	0	0
+UCBO2AANDPC_cOdnnNHHO8yQ	DIGI productions	0	0
+UCXOEfVF1PuxTgTCAiQNP10A	CreepyTub	0	0
+UCV6ASgUX6jl2-h3uPvUjvlA	Cryptid Spooks	0	0
+UCMa9jZax_f-POnwGyupWkdA	DOORBELL MANIA	0	0
+UCBwc76u-OxyyXrW4gHzJ1VQ	Dad’s Final Revenge	0	0
+UCp_3K4wc-PwzN5szPQuvgMg	DOORBELL UPDATES	0	0
+UChStfPQJoxmZIqJcSzaF9Jw	Daily Quiz	0	0
+UCNv7s85UqjRKtHP3XB92JFw	Dragon Animation Club	0	0
+UCopzq4NX3eYYPyw1VUi-8Xw	Dumb Doggo	0	0
+UCbhUjJfoQgvxVcUM7K_ntlg	DrinkYoMilk	0	0
+UCdY0izWIJUi-AXNZ3Q2dcXw	Ethio Tour	0	0
+UC8W5ch7XHznV-y1O1HVyvLQ	Flower Drama	0	0
+UCYWvU3IaNPiil7rx5RXPYjw	FlyingCat	0	0
+UCfE7flmf3qjwFfu4ObQqGWQ	From Seed to Spoon Garden Planning App	0	0
+UCsBGR5UR7UCyLvNbHSxisFQ	GYPSY TALES PODCAST	0	0
+UCZ5CJ2of1oFSVgQKxzbJBow	Game Changer Real Estate Insights	0	0
+UCWsI0LmiDyezbnN2JCL4P9w	Gardener Scott	0	0
+UCf4B0veLqktvJIHTP8Am0aw	Gardening With Alan Titchmarsh	0	0
+UChojGgtJd_Rlj4sqkiSIpPA	Gardening In Canada	0	0
+UCqoZ99STl9za8amd3urxMkQ	Gardening with Creekside	0	0
+UC9h7f8dsFcLUQNYMY6UglgQ	Genius Tech Trends	0	0
+UCBK8xLMHrq47-IgOco3FG3A	Grim Encounters	0	0
+UC9r61qohBg1qgGty4_WzojA	GrowVeg	0	0
+UCyDCtTCcomOTKL52T2xyiKg	Growing In The Garden	0	0
+UCsknsLvNxJB10JRHqvdCHXA	Haunter Tapes	0	0
+UC8Rh-ctoUuP2JXxNVs3Xnvg	Heroes of Nature	0	0
+UCOyjpjqi1gfVRNL0KJDBa_A	Honey Drop Dramas	0	0
+UClDAdF7QCpKHLrE3F_VZjrg	Huckabee Today	0	0
+UCpOv_avMmCTXQz8jkJskFTg	Humboldt Chrome Fishing	0	0
+UClq0DLy8ZKth7eZmpr0HwRA	Ice Cat	0	0
+UCDK60wIO3ozvj7fpAGjcPhA	InTheBackYdwithAj	0	0
+UCHCrm8Ty_6raJ6hR_yrFiFA	Itsbricktwist	0	0
+UCFD3bXdB_sO0BNOSfk2mx3w	Ivy Circle Gardens	0	0
+UC6GAgSL75BmeNVX6W2k_wpA	John Fenzel	0	0
+UC67YUINNvWbyrqvpozAfI1Q	Jim Dayton	0	0
+UC5N5CzxqWoF1Far2rvRRoWg	Josh Horowitz Clips	0	0
+UCOSGEokQQcdAVFuL_Aq8dlg	Justin Rhodes	0	0
+UCYKFs-dYqta5ONjwaIiYTsQ	KATU Lifestyle	0	0
+UCt8HBx7cWdo6dkuj1lsPf2g	KCAU-TV Sioux City	0	0
+UC-BSVXejMFhhml4V_VyoGxg	KCRA 3	0	0
+UCNdIF2yfzHtRyfKI6mPWf3A	KVEO	0	0
+UCFFWeoXWDCyBj7_DvDD2edQ	Kiljah	0	0
+UCpn_ODet9knMmEj5DB0_KnQ	Kanel Joseph	0	0
+UCuuBNabOJHBc5rZfX4He9pA	KreekCraft Hub	0	0
+UC673WfesrYoCgG9VsekGlEQ	LOCAL 12	0	0
+UCSf0s2ogUVYpJPuzW1zpAOg	LankyBox	0	0
+UCcOCJVk6EzlXThstniCGyxA	LOCKED & LOADED 100% !	0	0
+UCWb7t83rvRh708OY0Jcsddg	Lawn Boyz	0	0
+UCgbMwWWiNhBNLBt2zPKCjPQ	Les Binns	0	0
+UC8cHt-SAeWJ5En1TNnryCVA	Linda Vater	0	0
+UCyOFueecEHmP8-r7pxijlww	Little Moonbeam	0	0
+UCytDCxKs_rP8sBXjLmEs8jA	Lola Young	0	0
+UC8mnXeOlR9hC2w8aYqY9WNQ	Loudwire	0	0
+UCQIttNQitPwt0VTAhova7VQ	MULTIVERSE ID	0	0
+UCRjKgbDjd7W8VVHCpVA4p6w	Lurid	0	0
+UCX2mh673YYeJQgrXXxJGuYQ	MVPerry	0	0
+UC6EmR959HIts4gzdt80t3Xg	Mega YTP	0	0
+UCi-vRwB1lL5CmH6o_4CR_bA	Midnight Nightmares	0	0
+UC-FeSzVD_YkVQSzZNWTadyw	Milkky	0	0
+UCjJYD85vaiBowhJNqY_pZOw	MindSeed TV	0	0
+UCr1kbyiJzl-x5YYDxhYJuPw	MoreCaseOh	0	0
+UC9S3Jwm8sg4ghKnu81NZ4Xg	Mountain Garden Rescue Shorts	0	0
+UCKAxxqJNje18XSCo0UWCjqw	Mutant YT	0	0
+UCZFMm1mMw0F81Z37aaEzTUA	NDTV	0	0
+UCqFMzb-4AUf6WAIbl132QKA	NHL	0	0
+UCgcJaKZZ98YdmtcsyF0KThA	NOW PLAYING	0	0
+UCMm_V8YjmnZRhToXIqDYDuw	New England Patriots	0	0
+UCQVezpgfqPy9_pYVAXj6LyA	News Guide	0	0
+UC2ZSMHYkbMosdKzTtUt1Drg	Next Gen Game Spot	0	0
+UCtWrjh1nRcNVHabgJUUyX9w	Nightmare Hollows	0	0
+UC702xJAI7kF4ZXrM4KJtekw	Nira Quiz	0	0
+UC1IQWx5rk2rRE8LPyRf1bbA	Nostalgic Melodies	0	0
+UC3LYILpFTysrYmQ0S7Ufrxw	Omaha Gardener - OG	0	0
+UCpNkR3Dc5gPFDloXyEFpFUA	OSGARIA VA!	0	0
+UCm3mQEAHXXAV6WOd7KK22cA	Patrick J. Hughes | Vietnam Marine Photographer	0	0
+UCCusjNoc4dUnakXKo_2N7DA	PatrickFanPhotography	0	0
+UC24NyCWOSI1OYeNDKx8EaNQ	Phasira	0	0
+UCIOaZ8hIlNy6nhFeRET99ng	Peche en eau douce	0	0
+UCEke7LUbeJU9kzgL9Kwe9OA	Playing in Dirt	0	0
+UCsFIU7C6XLvest848KoRp_w	Presto	0	0
+UCjrEtsIBBV7TyJ9PPyo786w	Proper Scary	0	0
+UCmphxL_F64Hv6lCyCszHSlw	Porvelm	0	0
+UCf2ak68stIc-2KCzbMpIlzA	Quick Cuts	0	0
+UCG7SsVMmJ7g4RMGSSz3lDew	Quiz Channel	0	0
+UC-H-TEqVeWp7kTmayeEqI3w	Quiz Time	0	0
+UCD2wsLsPN1dFmA3K1g3Rhdw	Real Tape	0	0
+UCkJGWXLISOKA9JUNFk86PRw	Red-Eye	0	0
+UCnMVSY3IbyRtYGSWF867Ycg	Reddit Family Tales	0	0
+UCB8MQmVyeA5FGeLSeyq5e0w	Rendervate	0	0
+UCtNOUYxxW6Sn6o6K0m2G73w	River Raisin Watershed Council	0	0
+UCeNKIqylPDx3sIHt67OhUZQ	San Joaquin Audits	0	0
+UCm_Ri4aJNzJ5w7c3g_FRfdw	Scary Bear Attacks	0	0
+UCMKGAADhw_D1ROOkTMxbjJw	Scary Encounter	0	0
+UCn0jLusKVYk9rMG1gK4Ruqw	Secret World Files	0	0
+UC1I7PGYs25mImiscDGAmGug	Seeds Of Talent TV	0	0
+UC-V2i0hTK-TmwMjbuZU4OCw	Seper	0	0
+UCMjF_XeJ_kiRq22nz5UXDCQ	Shadow Chronicles	0	0
+UCch4dPvf4m-y96HfqhbKxDQ	Shadowed Camps	0	0
+UCoBa7TcyHiof0StfphDlnAQ	Slimeciclips	0	0
+UCbOC8IXduLO0ndwSSxuQ55A	Smiling Gardener	0	0
+UCDfk8ogO6QGeJAYCY0QDzKw	Stephen Sharer	0	0
+UCgbilyX-I_xYw6WdLUMYOWA	Steven Z KILLER	0	0
+UCMqDFTENBCDbwDT5qnm7FSQ	Super Theater	0	0
+UCKpKm9Zr8iqcLSUYpeHviEg	Superior Traffic Services	0	0
+UClB9_rqbp5HeqlSl7XAZ6xA	ThatOneAdventure	0	0
+UC0OqCt6_RCzyHr1-uS7Xu2Q	TerrifyTee	0	0
+UCSCpPVPYCjJpMZp7R8prcqA	The Contact Files	0	0
+UCzVzADipldUrUhKkuw-ISqw	The Curious Mind	0	0
+UCg6A-57akzbRoTSvsU34aig	The Fear Factory	0	0
+UCJqw3aixHuvWDAypm-QKdZQ	The Feathered Friend	0	0
+UCXufI8Him5ixNfzMxJmWU-w	The Fishing Doctors Adventures	0	0
+UC9V_-gqJsZNOy4v_HqbRz3w	The Gardening Channel With James Prigioni	0	0
+UChp8PMYtplf4v1E8gUtglzA	The Hollow Mask	0	0
+UCRLY8rpHpGBlL-47-GBXCHQ	The Kapulu Standard	0	0
+UCjQbTcszB-gRhDByY9WhySw	The Potter’s House of Dallas	0	0
+UCV1BZD7AaosAGRXfCWIZYkQ	The Quiz Place	0	0
+UChd1FPXykD4pust3ljzq6hQ	Thinknoodles	0	0
+UC535XrYeD-S3ZAjfCZ8hXNw	The Quiz Show	0	0
+UCCuH_xFdk1nS19s-uYzdnmg	Thrifty Green Life	0	0
+UCbR261cnjBpOMg9SeYu6lMw	TikTok Insanity	0	0
+UCXVygvmJ6ZvMJXkPZPysCMg	TinyFish	0	0
+UCWkwcZNeT0fWyw-plydBjmw	Titan Construction	0	0
+UCojRY1d05_hBzPQDBi1104g	Toon Facts	0	0
+UC7nE56XU1u2x6MmbV7VWopA	Try Guys Game Time	0	0
+UCilozRmkeVO5tc3jJaIosow	Ultra Weird	0	0
+UC7jc9zo_WKFhpjf2TF5k-XA	Veterans United Foundation	0	0
+UCJPbDTNO52kY3LeGFc6hJsA	Vidplexforkids	0	0
+UCB7W_voHrGrr5-DypTDLgSg	WHY Documentary Films	0	0
+UCEKJzGwBMDpmK51v5JIezUw	WKRN News 2	0	0
+UCSOju8jKwe5jDoVQnKUbI2A	WORLD OF EMOJI	0	0
+UCfLYcp8eh4VAC8_BBRsHhFg	WRTV Indianapolis	0	0
+UCAyaoA4CnqhdlXHYfO4agAQ	Wildlife	0	0
+UCmMGvGIG4YhbHdCYtnKOiFQ	World News (NewsBrowse)	0	0
+UCy0YMhFoXGATpG4t5qCVpyA	World Mystery Wonders	0	0
+UC1_E8NeF5QHY2dtdLRBCCLA	africanews	0	0
+UCDH8vDwTlh8fzyvqke_NEIQ	bol etus	0	0
+UCpfAeG4LFnq5MhyZ_ByNCvA	jprocdaddy	0	0
+UCBU_S5SHr3nLk1y8-qN3fEQ	capecoral jade	0	0
+UCKNFIb9VOEKLKQC7ROqz93w	keeble909	0	0
+UC-aNOHXEGe9-mq_HGY9CZeQ	killer D gamer	0	0
+UCaqEHP76q9TblVUO3sHFSQQ	wgaltv	0	0
+UCvvt3vK1nX-ILiCP2beqi9w	shaman oaks	0	0
+UCnVi7LxpBrmYV22m-fu7Z8Q	燃夢短劇ShortTV	0	0
+UC1-cLZ1SIawqmcxZb1YIZIw	赫茲劇場	0	0

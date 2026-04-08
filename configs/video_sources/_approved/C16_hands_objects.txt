@@ -1,0 +1,714 @@
+# C16_hands_objects — 166 approved channels
+# Pre-screened: 9 rejected, 0 errors
+# Format: channel_id<tab>channel_name<tab>video_count<tab>avg_duration<tab>has_hd
+
+UC39z4_U8Kls0llAij3RRZAQ	3x3Custom - Tamar	20	1593
+UCnZeeKO8qVdtkrA4-uKhtTw	Animagraffs	20	2428
+UCSLClJLzdUMRMe0E4SPfc-w	731 Woodworks	20	1327
+UCi8QgZckGYg3RFvEbdkMWfg	ASMRctica ASMR	20	4132
+UC5XMF3Inoi8R9nSI8ChOsdQ	Art for Kids Hub	20	449
+UChTyTCPELcpWvohJeqnKebw	AnnaBellAsmr	20	1248
+UCLtWjB7eRzNsAoYojBgFD7w	Artology	20	327
+UC_3BTjvtaAsCwfwjQDSqFTQ	Andy Ward's Ancient Pottery	20	1505
+UC5lw_9j-JPg6I15FKZTQQVQ	Art of Fold	20	682
+UC6I0KzAD7uFTL1qzxyunkvA	Blacktail Studio	20	2122
+UC7wT_mqUvCHEIWm1cuw_T1Q	Bluewhisper	20	3099
+UCg5Vx-xffJUg9x9d8fTJDZg	BaGa Calligraphy	20	195
+UCQ_bmgSrYsQS0LboA_tZpEw	Bourbon Moth Woodworking	20	1827
+UCrXT0_LYy9eKXbrpVTuCc5w	Brady Hommel	20	957
+UCUY9HyK2v0J2N_U4Y0eZsnw	Calligraphy Masters	20	3368
+UCOgxhQmv2WwsTbYcS58pqOQ	CJ's Creative Studio	20	562
+UCcRupdRLxdh2O0u8Y0S0ozw	Calm Unintentional ASMR	20	1356
+UCDSUFfZ6JLPrBsmZugfSqvQ	Connor Creates	20	1031
+UC92cJFAyi5Otkvnqh6Axa5w	Claire Milligan Art	20	552
+UC19TMquxv2GfWbHhj6C3MCw	Chrono24	20	583
+UCCvA0z4c_gJnlbCzvGtTX5w	DIY Montreal	20	1025
+UC-hTi9atsD6wAl2s46LpAVw	Crafted Workshop	20	1161
+UCuVaqIpPgUyGP6AytqSfs0g	DIY Woodworking Projects	20	1366
+UCH_yU13t2c1WB32-7AYLLQQ	Dan Beardshaw	20	662
+UC_JmxhTrCk-Hduf-iuageug	Daria Studio	20	3697
+UCBoPBBSR0dgDT_32g7XSxLQ	Draw Sessions	20	2996
+UC5YtPtkKYR7oC3sxd_H1tPA	Easy Origami and Crafts	20	707
+UCE3wobbNe9JOAW-uusS2gwQ	Eclectic Asylum Art	20	191
+UCt8o0j0ouYdjlEHcZTj0BQQ	Easy Paper Origami	20	367
+UCJ0-OtVpF0wOKEqT2Z1HEtA	ElectroBOOM	20	1022
+UCooKQlg-HZ0PFAPc4Ymg3RA	Electronics Repair School	20	1085
+UCqZL_f4Jp8yHnv2KNvcsWeg	Florian Gadsby	20	1558
+UCIB8y-y9_0LdSnLqpeXs7sA	Electronics Repair Basics_ERB	20	381
+UCU-yiUewFYxfXeb3-o9d8jQ	Flourished Hope	20	479
+UC1V-DYqsaj764uBis9-UDug	Foureyes Furniture	20	2006
+UCuq6LwmY80cdbgjTGYhcUHQ	Greg-Ceramics	20	759
+UCXMVaxrax7RNDPdfRrXXgtQ	Hafu Go	20	1385
+UCsP41EOAkk5gOEzKHFqFqSg	GP Like	20	567
+UCsga4ThrENksdN7RghkPJow	Hamilton Dilbeck	20	633
+UCloseNEb6epWL36Ap_zZmow	HelpfulLockPicker	20	388
+UCqa2MPu8bLY1PwVFUpSyVhQ	HiHo Kids	20	339
+UCltvV5y6oRzjvgCaISwaIqw	Horology Biology Watches	20	3204
+UC-yYAksFLwj5lvK6JrywS5A	How-FixIT	20	728
+UCQDhxkSxZA6lxdeXE19aoRA	Hugh Jeffreys	20	726
+UCjqCOLOIp8HKkBxBuiQFTdw	Ingleton Pottery	20	641
+UCh39IWu1XUSScEOuXCJ3J1A	JASCOgoods	20	1285
+UCBLUjdxnrxzvK1CyVrcZUIw	Jeff Mack Designs	20	412
+UCqEcM-ZrWoC7AgGDoxi2X-w	Jesper Makes	20	2775
+UCVUSDq6-oSpWAAPUppHFtZQ	John Malecki	20	3065
+UCMXEgKuLHef2T09_kexMz0Q	Jesse Martin	20	509
+UC1ez5vPW1WtzXLd1G18XI3w	Jono Dry	20	651
+UCU0EcCb7B_Ln-8hR_edLsHw	Joey Does Tech	20	1469
+UCBGcU67s1s-vL8zwgIAWPYA	Kay Rose ASMR	20	3297
+UCI108nliA_jd0JVsnpRZhMw	Lettering Daily	20	573
+UCFX1Z9N6aPWuCN_KR8UZ2vg	Learn Electronics Repair	20	1878
+UC0rDDvHM7u_7aWgAojSXl1Q	DaveHax	20	724
+UCOwV6LsHrGzKw-n6CNYnFRQ	Library of Whispers ASMR 2	20	2453
+UCqal-8AqDFpsYwZwxs4TaHg	Lincoln St. Woodworks	20	1550
+UCfegsAhpeMKldQ0Cv0cc5cA	Linnea & Akela	20	1836
+UCKSql-GFCO400w7xNFbYeug	Little King Goods	20	507
+UCxZRF3OG7gapQ8kacWUwj2A	Lock Noob	20	667
+UCm9K6rby98W8JigLoZOh6FQ	LockPickingLawyer	20	224
+UC0hS4z3VCga51rgb0uE44qw	Lockfall Laboratories	20	506
+UCdZE_GcudT9kzOGKle5xIOw	MW Ceramics	20	1519
+UCn2qOBTeRCHjqr-Mo-j0CBw	MWA Woodworks	20	1739
+UCtaykeSsGhtn2o2BsPm-rsw	Make Something	20	1302
+UCcBnT6LsxANZjUWqpjR8Jpw	Marcello Barenghi	20	617
+UCzQBgoTRBCTMrss_N5J47yw	Mario DiSanto	20	1796
+UCBgu1BXv8wMwPtu8Vaar2Jg	MathCalli	20	130
+UC4d18IlLmw0utmVxIjSadLQ	Maxence Rodier | ASMR	20	2576
+UCfxzr4iHJ1ZFq7KT8bwfiBw	Men With The Pot	20	978
+UCZHhLyDll3hYHC0pyjbWFJA	Mend It Mark	20	2234
+UC6ktP3PLU5sAJxN9Rb0TALg	Mike Shake	20	1174
+UCftD_LCuDAwlPipnM6Uikqw	Moonlight Cottage ASMR	20	2254
+UCU9SoQxJewrWb_3GxeteQPA	Mr Carlson's Lab	20	1035
+UCQU2TF2RxLB2sArDAQBL55Q	Mudgirl Pottery	20	712
+UCDbfjlTzm8GJSOafKZgz7ig	MyLifeinaBullet	20	563
+UCSJ7LRO4GaHZdzowk2-7hJw	Nekkid Watchmaker	20	2105
+UCFtc3XdXgLFwhlDajMGK69w	NightHawkInLight	20	1814
+UC5717AVDiZUP1dRpk7Jd8XQ	Nishiegami	20	659
+UCLaXgfNlVxY149shiA1pykQ	NorthridgeFix	20	954
+UCXaty-UbYsd8CR3mItUIpIw	Origami Princess	20	312
+UC_JBpu45boA2Wmavn9yec0A	OPAL Calligraphy	20	401
+UCGIztUq6zdCE_z9P0YC-yrg	Origami Tutorial With YJ Hoffmann	20	450
+UCXYM-AS2ziV3Rgx2K2mxB3A	Ornella Origami	20	328
+UC3ICcukYYeSn26KlCRnhOhA	Origami with Jo Nakashima	20	1488
+UCNvT4F1eFg2mRI5VFL5y7jA	PPO	20	585
+UCA7kuhQGNIO4X2dizncyiPQ	Paper Kawaii - Origami Tutorials	20	1215
+UCc3EpWncNq5QL0QhwUNQb7w	Paul Sellers	20	1287
+UCKXsR_4aXwnbDSXroVH0WfQ	PearFleur	20	1738
+UCCOrp7GPgZA8EGrbOcIAsyQ	Phone Repair Guru	20	681
+UCPrGYqrZVHEHU7zhnw8tGaQ	Pikkii.	20	1142
+UCjrb6YumTXFixchqoGyULkg	Pottery to the People	20	1764
+UCf98WFQLzORUfCinbycwXXQ	Play with Junk	20	1039	4K
+UClM2LuQ1q5WEc23462tQzBg	Proko	20	1350
+UC8rraUhqs1GHjXj86gvt4FQ	Quantastic	20	1119
+UCvnSyOfwtn7J14CYRbCaveQ	Rajiv Surendra	20	1124
+UCK0HOXJR9OKgaZNeAg8FzCQ	Rebecca’s Beautiful ASMR Addiction	20	2666
+UCci1MUB7x7yRkwgqIFpD7WA	Red Dead Restoration	20	1229	4K
+UC2l75RzT-90ylk8RnkUchLg	Ronnie's Workshop	20	304
+UCClfFsWcT3N2I7VTXXyt84A	Salem Techsperts	20	1320
+UCe3O3bSPA7a0VOUIb_XVrcQ	Sem DIY	20	502
+UCskSVFrFk06fopNoi-kLsRg	Sleepy Keys ASMR	20	1669
+UCVfGITgjZxjGG7F7bHZQi4Q	SparrowsLockPicks	20	190
+UCTjmLCEVb9r1OpFDJMMWyIw	StezStix Fix?	20	1009
+UCsvBij7KiAcI2s7f8VEMdjw	Steve's Assorted Stuff	20	1803
+UCj1VqrHhDte54oLgPG4xpuQ	Stuff Made Here	20	1401
+UCEUFWdI-WyvH5bvBPKGWbdw	THE SECOND HAND	20	1560
+UC-n0Kn5Oyv33GOAmArRuuWg	Tauwan	20	981
+UCsy-O_tkZiEK-M2KTg3TSig	Tamer Ghoneim Art	20	1102
+UCOKvzrg5Z-LTDfaO2cVsIrw	Terry Kim Shoemaker	20	5468
+UCOZ41zKvjXiTeDXht3W5lAQ	The Factoran	20	1193
+UCHlwuziPCaqZxoRO3TAJPDw	The Gingerbread Prints	20	1407
+UCiLSEwYKrRPY-wC758azVqA	The Happy Ever Crafter	20	886
+UC9CswYtb5rL31CHwyVoyJvQ	The Museum of Modern Art	20	732
+UCZReL2zmTb6hl-lG1e-kC_A	The Postman’s Knock	20	586
+UC4fsm3kk1LBvVfyUY4aivcA	The Restorer	20	2918
+UCflzyQ0hIX8R5-FDUTLzQ0w	Torryn Marie	20	1394
+UC0oK8s58FCWQUePi32hWhdw	Totally Handy	20	205
+UCxr2d4As312LulcajAkKJYw	Townsends	20	1168
+UC8uWcoxpRni5yyBT3enSa2Q	TheCrazyTutorials	20	249
+UCfOrKQtC1tDfGf_fFVb8pYw	TronicsFix	20	1968
+UC3Fl7HVtEH1Zeitu1ELrTKg	Turdtwig ASMR	20	2618
+UCgRQHK8Ttr1j9xCEpCAlgbQ	Variety	20	1359
+UCErX4CQeesrYOs03fufBiHQ	Ventuno Art	20	533
+UCHnyfMqiRRG1u-2MsSQLbXA	Veritasium	20	2189
+UCmaflrfppKNfq8uuZVZZxQg	Victoria and Albert Museum	20	1243
+UCeIMaMRA8StJWVtLt1IeeFw	Vivian	20	507
+UCFpPh7pDMC-mrPP5HHdm3jQ	Vladik_oladik_2222	20	313
+UCxq0j6IOlGvQSR_ubloNUDw	Von Malegowski	20	431
+UCxzOZyDPg05JBLYm4-1f_jA	WATCH with Mike	20	1524
+UC5y_hpfH1ChKcKx7wUEM2cg	WUZU clay	20	796
+UC7vSOnpUocYq0z8oiYFk0zQ	Watch Repair Channel	20	1630
+UCXV8h3I9pnfZuDpg6xEM_8w	Watch Repair Tutorials	20	1670
+UCejaHizj8RLiP7bPDv6v0tg	WhosTheVoss	20	735
+UCQNFJVAUF-qWtK0dawxcOaQ	Wood By Wright How To	20	962
+UCuxbOHa_nj8k6qotTzJrWZA	Woodworking Skill	20	3320
+UCXb8rEItKN8lqj1x2YEZFdA	Woodworking Studio	20	622
+UCD80T1s2Za4K682CQDGwEKQ	Wristwatch Revival	20	3314
+UCqXz6MsBiyyVZBTvIKOlyUg	YeeJ Chan	20	1093	4K
+UC_mcFH_r7Aq6SyQ0HrGaenQ	YouCanMakeThisToo	20	892
+UCWgQvGWD1Ee4UyFBXgpn8EQ	Ziya Illust	20	1266	4K
+UCCfJRUDHDnb-uaKSkXQbgCw	ZokArt	20	1633
+UC2QVV48Yg5lDHpTFZBS1P9A	bitter melon bindery	20	1639
+UCeA0McPrW5NzzcMHP4uWC5w	gazoo studio	20	1036
+UC4SwwK7ooyuDrmBROndfRXw	kuroshiro	20	870
+UC2YkJ2iPMuUVGyxbt1DcxQQ	nanofix	20	1247
+UCXJZlpYOq_dkmsnk7e6yuLw	pateseich	20	845
+UC1UAydSpWztlELXEKk92viw	peachymin	20	849
+UCXGlVEKXkAbFebCn5DpDCrA	vapor.03	20	1367
+UCKjUSWqyEfuO2WbWWeu8a9g	vintagesterlingfinds	20	1039
+UCM55RjebjSevVWPnj2LEymw	viyaura	20	1113
+UCmkNQnKfjID-cI1CVqYZYow	山白Shanbai	20	520
+UCoah0FMpaTxHpZlF09kqQmg	프로세스 케이 Process K	20	1589
+UCE0XzToWls28Dxzz3jVVnXA	Jono Dry Studio	17	1318
+UCIn4VuSWjFSPnTbEmaUFu5A	Dylan Choonhachat	15	389
+UCpKj54DkUuvt0n20pZe42MQ	Stefano Bemer	15	470
+UCYY7oW1xiUo5OliAJz9TREA	Process Maestro	13	1006
+UCNbqFlNCrMLzXUyfZqxFIhw	Covert Instruments	14	189
+UCn0gq87zBk4bfg_8K1nfInQ	Vice Chief	12	425
+UCfHt_x-SBmv_Z91OFi77oIA	Hana Ceramics	11	674
+UCSkWsrHsoqkrNXM0U43sJhA	Hina / 希娜 Art Ch.	7	527
+UC0LI0akgeXI-JDl1wPrb56A	The Origami Llama	10	1227
+UCffBdTcf1riMivnQg_uM1mA	James Randolph	7	350
+UCzZQIkuFOgCnbQYPreL7pBQ	JuziCrafts	7	678
+UCsvAb_-6BaRGhHMRWmrfudw	Clay Corner Studio	5	681
+UCPCju5TA11PlMkhc74pqe4A	ASMR Fleur	0	0
+UCFmL725KKPx2URVPvH3Gp8w	ASMR Glow	0	0
+UCS1WxtExH4fCuJ7UENHT3xQ	ASMR Nirvana	0	0
+UCHY1j7a5t8sUp_U6PORCfjQ	ASMR Ramos	0	0
+UC58FGdIxbsRqEVzzbzUKTPA	Ahsan Sabri	0	0
+UCOWKPRU9vanHktIXpypwAig	Alan & Barry Crafts	0	0
+UChy0EmNquJW2DlVYNs9cLqw	Alana ASMR	0	0
+UCzeTMBaEmoKRG7XeOuy0HrQ	Albert Lackovic	0	0
+UC-2sH7g2CaP6i5Oc-wW-lxw	Ale ASMR Therapy	0	0
+UC9RWcJmoebvtnnCRgcBq8Rw	Alex the Historian	0	0
+UCEk77oFVAHsG8L2i33eZngw	Also Maya ASMR	0	0
+UCgOvuAMPW7iMr5mNQxjHpfA	Anika's DIY Life	0	0
+UC4v2tQ8GqP0RbmAzhp4IFkQ	April Wilkerson	0	0
+UCoSAitETqcEeWnWBMO31xzA	Art Hub Plus	0	0
+UCqXz2Aif9uoqtlGwUziDW_Q	Artimee	0	0
+UCFHEajJ2TtlLoIR78tOos1A	Ashterisk ASMR	0	0
+UCbXFAWK8hIETUStFEazmsFA	Asmr Vids	0	0
+UC4rlAVgAK0SGk-yTfe48Qpw	BRIGHT SIDE	0	0
+UCMWhFOKWrurwiBEEN7KmByA	BYD Channel	0	0
+UCFvz0E5-GOMZgsqM8fWgFdw	Bear Mountain Builds	0	0
+UCsd9naRwSSCBhmTh8hVG5rg	Best cases Advertising	0	0
+UCdp4_l1vPmpN-gDbUwhaRUQ	Branch Education	0	0
+UCsI97MQWIN3I4bhv3xFduRw	Brickmanuals	0	0
+UCIejnE3ZaDCLXahXnyU1-pQ	Busted Knuckle Woodworks	0	0
+UCOrE6g6E4HwdUWaZeITOAaQ	CALEB SIMPSON	0	0
+UCnfSji7qdyrCZANEhDeCGMg	Calming Hanna	0	0
+UCxw_JBZaRWtL6JKvyxdUx5g	Celaine's ASMR	0	0
+UCtRV-C-BKrOC8NQUbIR0DoA	ChaiMountains Asmr	0	0
+UCXP1vXb0Ht8dZTXXtwMWL9g	Chasing Light & Shadows | Woodland Nomad Life	0	0
+UCAEuabqwk8VnuIJvgKgBSYQ	CommonHub	0	0
+UCO1ZM4DsONdAWTQdX8o49QA	Concord Carpenter | Tool Lab	0	0
+UCNkMH6EfFk7fTpHZU3TvqRw	Cool Kids Art	0	0
+UC_Tw6eXWlbndtFUhdzRDOBg	Cute Tea Drawings	0	0
+UCUj9z2nkIesDh3sa8575qYw	DIY Audio Guy	0	0
+UCQ0FduJEeofGZhhQFBK7djw	DIYForKnuckleheads	0	0
+UCmPH-FJQXu10nUe0sL3Zurg	Craftelot Resin Co.	0	0
+UCVaIisjCwdZNLZIsC7Ioo1g	DM Idea	0	0
+UCgU0UlAvS04cyjjZTMg8MEQ	DOSE Skateboarding	0	0
+UCZaCnEug6Adc9vSN50CxS0w	Daru Dhillon	0	0
+UCje6-Yak9u1msy5l7sE9pBA	Deconstructed	0	0
+UCLceDXLx_Sgq8DPNwIxiDCA	Deep Smoke ASMR	0	0
+UCRfKhGFa566S4ZG2_MCKiKw	Derick Sammons	0	0
+UCyoTDnXaBFX4KOG9KyvdPFw	Dido ASMR	0	0
+UC4mftUX7apmV1vsVXZh7RTw	Drachinifel	0	0
+UC3dEvA1is6-0_yuei9iCdEw	Draw So Cute	0	0
+UCzrTUwE76hHl_VEXvN_pDyQ	Eigen Designs	0	0
+UCIGvFF4qOfXbtt5L4NjLu2A	Entertaining with Carol	0	0
+UCaMqYbdkWVYxHGkMBKI3ukQ	Engineeuis	0	0
+UCmCo_RF_aNlvNNCB2G9CNJg	Eric Sorensen	0	0
+UCHYSw4XKO_q1GaChw5pxa-w	Fix This Build That	0	0
+UC8EaH7INyIS3fQ3mWu59Vog	Five Duck Studio	0	0
+UCw1V3VC3xAzL66X4VwqaKlg	Everyday Home Repairs	0	0
+UCLEuevT9nTl_ZpX82Su0rDA	Forge History	0	0
+UCoNfsDH8sZe13u7rSxaEBkw	FrivolousFox ASMR	0	0
+UCaJ5BtoFSAWkOBPcYj907sw	Gardener's Supply	0	0
+UC63YQLewJseohuw25pW2bnw	Gentle Giant & Sweet Pea ASMR	0	0
+UC69H6wmCsVrYCZsnP8SB-2Q	Gingerline Media	0	0
+UCScIJQ7OlsoA6tPEZCR1kcw	Glo	0	0
+UC76x5y4fWTp66llJEj2Bp4A	Griffith Woodworking	0	0
+UCKTRSj_Jr4W_mYvyommMXOA	Grow and Learn with Udyansh	0	0
+UCI4zErSLRZb4p1UyzLjH38Q	Hamer SHARP Lindavista	0	0
+UCtY2RxEQnDzrjVeagO0X5AA	Hey Friends ASMR	0	0
+UCFJ_8t6Uf6pNcqWrQqcYtFA	HappyART	0	0
+UCRKboTSSMqD2ffPv58h1RtQ	Himbo ASMR	0	0
+UCdtd0HcgVPoCUUdxjrx8IpQ	Hobby Lobby	0	0
+UCnorhjQR4zJkT7AVNhu395Q	Home RenoVision DIY	0	0
+UCpb-xu6Oun_d41RjztUgFWA	How To Home	0	0
+UCkzN5ghz-tSec3zFWd_LZSQ	IWantToSleep ASMR	0	0
+UCREVDAluXbq7PYEKYsl40BA	IceBlue ASMR	0	0
+UCc1CLrC4C7llE9OldgpwjaQ	Ikigai Green Life	0	0
+UCyD3sEJLC52UzR1wjtclsPw	Into The Ordinary	0	0
+UCXRXMsD9WCBoYslmCUrnzcA	Ironbridge Valley of Invention	0	0
+UC3-SIZBPbJ4urENQnq8_zhA	Itoshige Studio	0	0
+UC4bOYyhQgBVzk-neOMHJilQ	Its_Bunnii ASMR	0	0
+UC4X0hJ0unouc7QZsjBpLcuQ	Jay Builds	0	0
+UCbsfyGlrjrKQC0gbzK0-EiA	Jared Owen	0	0
+UCkWQ0gDrqOCarmUKmppD7GQ	JayzTwoCents	0	0
+UC6yBPZj-BYf8Fx6yug1Iyyg	John Builds It	0	0
+UCjyi6by44TTH0j_U3vXEGpA	Jojo's ASMR	0	0
+UCVcb3hZszqh5igPQM5REwmQ	Jonathan Sargent	0	0
+UCkaC271S_CQLwIzmTJoTzrg	Katrine ASMR	0	0
+UCyIYUNZwm3Dpe8aFCG7TICg	LASER ART	0	0
+UChk5eyAGuO3J4rV-CiMNkNQ	Lena Miculek - Trigger Tribe	0	0
+UC3lLvTjpAn9FXIxCR7nhfsQ	Lauren Ostrowski Fenton	0	0
+UCLgCKWviabKF5dINmgY669g	Let's Grow Up	0	0
+UCSN1j4-NZ3dzC7_HKckmK3Q	Lowe ASMR	0	0
+UC8YRDW3smbd9eTE28vgzb0Q	Lucky Leif	0	0
+UCPWcdVuEML_FJ_hovcN83xw	Lyn Belisle	0	0
+UCS8lvEkhJUrd1hJqeGL5Rrw	Mark Grundmann	0	0
+UCmQONzd0WKroTof6ZmriIPw	Marshall iMAX	0	0
+UCgOfiuubHnhVrc9IEcSk1Nw	MassageASMR	0	0
+UCbBWo5tFgnWuKgF6jjSXz6Q	Michelle Cafeu	0	0
+UC4niGTqWgP1c4sKZJpJKP7w	Mighty Machines	0	0
+UCIxAaCJ84uefATKmazDyIjw	Modern Builds	0	0
+UCRBU8dPtq3u8cu9U9bXwoxA	Moser Makes	0	0
+UCqEjEs4oSyCyWe4m7J2wpJw	National Library of Scotland	0	0
+UCFO02nxPdM4-CabegFIPlow	NationalParksTrails USA	0	0
+UC5_Y-BKzq1uW_2rexWkUzlA	New Mind	0	0
+UCC6IoQwiGlJ4K8TdcSMUzSg	Newton Makes	0	0
+UCQNIJBgSm5lg0mGTGn19EIQ	One Minute History	0	0
+UCyaAOQNcexF1C8GjGaHd1Yw	PBS North	0	0
+UCXkNod_JcH7PleOjwK_8rYQ	Polyphonic	0	0
+UCWCk81c_nQOsm5M-xKuTFnQ	Pure Unintentional ASMR	0	0
+UCZXf3nAq3a4Uc-9fbfiF6Bg	Red House Tools	0	0
+UCseDz4jEDybdEg1VKAyhgSg	Restoration Tips	0	0
+UCteT78fBM-ovQP2SnVEzByA	Restorations Genius	0	0
+UCKIN5o2NavDowCq_iF6Ktxg	Roadside Genius - Start & Grow A Roadside Business	0	0
+UCbWh4ImAnLV7LEgi2i9YqmA	Robert Dailey - Dailey Woodworks	0	0
+UC64BFQulaAIl1xWG4DJlQ8A	Sailing Britaly	0	0
+UCqZQJ4600a9wIfMPbYc60OQ	Sabin Civil Engineering	0	0
+UCFbn55d4zidTlT192HGXJCw	Sandro Here	0	0
+UCJO16xy-QMvR-4HKrNqvhVg	Shallelujah ASMR	0	0
+UCPt2DGOGoSdkbQ7LlwORc6w	Simple Art with Rose	0	0
+UC510QYlOlKNyhy_zdQxnGYw	Simple History	0	0
+UCubqOcCz8wzk4y-sKrqjCRQ	Sleepy Cat Meditations	0	0
+UCUOfJtVY2krFtH62fX1-m6Q	Sleepy Sab ASMR	0	0
+UC0QXWw0OiMnagIhdBn_fVPg	Smithsonian Channel Aviation Nation	0	0
+UC0F3Wc6kP16hBCl6UgcbHfg	Sonia Elsie ASMR	0	0
+UC8ivmRrKtXQR3VViPuid6kQ	Spark ShortDrama	0	0
+UC0vfsqm-YHBpU2V6uvu6scw	StoneMagpie	0	0
+UCfwnG7h7YWUFD-KkVYCSw3w	Sumeray Builds	0	0
+UCzpeSFOBK37zRAt09pp_Yxw	Sunjos asmr	0	0
+UCAoeeQfB1NUUnFyvakyVFIQ	Supersale Malaysia	0	0
+UCiF1fNvwIHp89EZPmNosWiQ	Tanjiro Recap	0	0
+UCwIMwjGNQMmiYH789ibjO_g	TeaserPlay	0	0
+UC6H07z6zAwbHRl4Lbl0GSsw	TechZone	0	0
+UCqLWDMDzXhM1E2xjzKBf_ag	That Tech Teacher	0	0
+UC_9QQ9zwP7lFkjTFXtw7bWQ	The ASMR Outdoorsman	0	0
+UCCWMyhn61JaQxoZedFCNGBQ	The Daily DIY	0	0
+UCeKm_yQFo6Msl7KEVZN8pIQ	The Deep Sleep Podcast	0	0
+UCvC_jB0Q_LD1-UIZeJFxiaA	The Great British Channel	0	0
+UCDLxnaDQzo8YolFqsBAHVLQ	The Honest Carpenter	0	0
+UCZdGJgHbmqQcVZaJCkqDRwg	The Q	0	0
+UClPz3uHb7CS-s7k1ZKLgq1A	The Shop	0	0
+UCp8ufgFx6QiTg-bPw22GzUg	The Watch Bros	0	0
+UCKp44bWWZIiOPShPN_ytShw	The Wood Whisperer	0	0
+UCQTmoQ_S26PlmDoXujZpbYQ	Tim Kim	0	0
+UCAL_MPhlbwBNbotjRAzs5uQ	TingleBelleASMR	0	0
+UC-73P87iZAfZ05it7mjgbLg	Tool Review Zone	0	0
+UC5uWnYudXmGlTlR45xrpHiw	ToolRev	0	0
+UCMwxcKBkxVUu4IRMvcHli8Q	Top Tech Tools	0	0
+UCOI_LbDYLcQPMdCw6NqwOFw	Trinity Wild	0	0
+UC8r5VKmkv5fff0iGezjJFHA	TruckingArtistStaceyLyddon	0	0
+UC7we1fvLsEfa506MxTXaRSQ	Tylynn M	0	0
+UCOnnmKlDZltHAqJLz-XIpGA	Universe Inside You	0	0
+UClXAalunTPaX1YV185DWUeg	Vaibhav Sisinty	0	0
+UCAwylBbx8RiRD3VsaYdwNTw	Video Advice	0	0
+UCNRXHwAfOsAANg5tx4r-G2A	WARE Boilers	0	0
+UC0H7JADShpxWDjGQ4WhXPtQ	WTTW	0	0
+UCT1OpdTixJTLSb_3yM2o5qg	Wheels tube	0	0
+UCBEM3MJo1Hffs5-2kHmLAhQ	WoodWerks USA	0	0
+UCfQmBM0olcVK2ciUk_CW7fg	WhispermanASMR	0	0
+UCzHueSosfT92NUVmhrz7Hjw	Woodshop Junkies	0	0
+UCvj7bN7gk7QnSD6adfzMtUw	Woodworking Products	0	0
+UCMIjEnXruVHtvgSVf6TgfUg	Wranglerstar	0	0
+UCmmPeEvuMblsz0S5udF39Xg	World of History	0	0
+UCxFt75OIIvoN4AaL7lJxtTg	X Games	0	0
+UCgpmBgxeWvmAVge2TmmgMVA	accidentallygraceful	0	0
+UC8KwDGnX7JumTyEMa20MKLQ	angelbankai45	0	0
+UCzGEGjOCbgv9z9SF71QyI7g	asmr zeitgeist	0	0
+UCk80m982gE_VDkVHKAcgFUA	azor lopez	0	0
+UCXqc9i4BeHKhWC42UDe-I-g	asmrbebexo	0	0
+UCBsVm9XFIPhnyerJiSlCv5g	cait ASMR	0	0
+UCTj0Fa9ynezq6r50FO7pNhw	carwing stone with Franko Kramar	0	0
+UCrcJVwZQPo8AtoilY1CX8_A	iNeedACoolName	0	0
+UCTiyb6O9IhgBeE2EEzAZf_w	leedah ASMR	0	0
+UCqQaLJELNeCfu4nXDPwZu0g	mauther papermau	0	0
+UCyWX-aD1k5gtWSLzYLeNYvA	mistymaps	0	0
+UCODHYIsgz3fkLacY-3TrrhA	moonbunie asmr ♡	0	0
+UCoyrQGn1-9fwgufYmlZI_Gw	odontomatix	0	0
+UCB4-tO2SxhYRf8hBJlXTKnA	samina art's ideas	0	0
+UCoRg8CXFe6B5vHZfVRNlhqQ	poweredppg	0	0
+UC3MNZF3OFL5TZZwfxrEybvQ	selatonin ASMR	0	0
+UCr6vWe5goPw6-4YknmrZioQ	softlygaloshes ASMR	0	0
+UC4ZVkG3RQPzvZk7alIVjcCg	theMITmonk	0	0
+UCLzyRutWvgf91ANpFW1sRjA	tiny hands ASMR	0	0
+UCazGWkkFdT04Str_hzPWVwA	wornick2reali	0	0
+UChr2u7TLNLusvqTNNR_nOtQ	미술작가 최정희	0	0
+UCZe74utJqc6eWbbhwDk7wWg	 Paint Art	0	0
+UCps6QdVqBI6kumH0-321BdA	 The Calm Edit	0	0
+UCGa4ASKb2HhUMXkHrQI6FJQ	100percentSYD	0	0
+UC2-BeLxzUBSs0uSrmzWhJuQ	20th Century Studios	0	0
+UCDHGmtMjVx1qsGP_OL41Vwg	7th Dimension Arts	0	0
+UC8jmv1sbVe9H5p7zjXujHCA	5-Star Craft	0	0
+UCv0jWGXiBA-qGmztk9SIXGQ	96polok	0	0
+UCzPW2uxfH6QOFYDaDJFWMAA	ALB in whisperland ASMR	0	0
+UCXqTCAd4oTJ7dN47e205ZUQ	ASHLYN	0	0
+UCAztI6asH3_F05YS9lzN29Q	ASMR GRANDPA	0	0
+UCWMhB_iUo7n5b0dkdby1Suw	ASMR CHeeks	0	0
+UC6E2J0aD7t4lywnsCaC1H8A	ASMR Katalinne	0	0
+UCX70sfic86MKcid2n0mmmqg	ASMRrequests	0	0
+UCUsyL49gX4VqQXyMIRiHXoQ	ASMR limerence	0	0
+UCJgQdnnMaHsJlsWdXsU5-FA	ASMRvana	0	0
+UCf-cfRJyxATGTgWGiFkFUWA	Adam Duff LUCIDPIXUL	0	0
+UCvp9ypbbOQ2-vtuO-J3k-lw	Alexandria ASMR	0	0
+UCPOUtGiUKLW-gltW9EPzHtw	Amuse Asmr	0	0
+UC-2NGGiG71kHUkhf8v3uVKg	Alisa Fennec ASMR | Алиса Феннек АСМР	0	0
+UCDg_idEzP_8aJqezmegDEaw	AndersonObserver	0	0
+UC7sU7bFCaMd08pfQlAuU3hA	Ankush Ram P A	0	0
+UCSuoXaFunp1uqNnQk3h482g	Andy Mai +	0	0
+UCkPdkxRlZbJS0rGN5GlPzfw	Annie	0	0
+UCtbrOFJ-FQJ1i7iw560jgGA	Alan Ett - Topic	0	0
+UC0hJIqmVx53QQm8hcVaA5Tw	Anna Vavilova	0	0
+UCu97hBFhxT-DwqnMW0ETN0w	Annura's ASMR	0	0
+UCciQ8wFcVoIIMi-lfu8-cjQ	Anton Petrov	0	0
+UCYXRubrOzFv3oHT4M2RLq2Q	Art Land	0	0
+UCpit37gO5wO0A1X7U0kGP6Q	Art Atelier	0	0
+UCPuOs7xL-LOWdVobwBKFAOw	Art With Derrick	0	0
+UC567DbfLo5ktc8JBrFKCQeA	Art.Simple.	0	0
+UCBGKyw6zzen5bsHWqJS0H9A	Artist Shubham Official	0	0
+UCHR2IDi39Tq1vc-L9W_VhGA	Artist Ahsan - Arabic Calligraphy & Islamic Art	0	0
+UCrHomLHG-pLQcyHFO5A1Cmg	At Home With Sonja	0	0
+UC-LN2hpjNy89NEuunQ-o61g	Athera	0	0
+UCQeBPhEDYOd38n2z1BgEWyw	BARN BUILT DREAMS	0	0
+UCcmJ6BXfjEtq-AcTJPzo-BQ	AuntieTay	0	0
+UC3Q4wMX2OgZeIGOBKC2xdTQ	Backyard Design Guy - Outdoor Living	0	0
+UC38Mkyko_biVZjeZ8QYMJ7A	Bargain Bethany	0	0
+UCPkyoXz3XsDGgX650NSqsLw	Ben Strong - Urban Homestead	0	0
+UC7RMuH7k2SARKsgyG0XB9PQ	Best Art	0	0
+UCXZC_rGGptXQLsVuKL7HkTA	Bearded Lumber	0	0
+UCtBCruAYXe_chZKiusfcUFw	Best Life By Brooke ASMR	0	0
+UCK6379kxoAzx6zOLtcbOc8Q	Blick Art Materials	0	0
+UCJE4gYbj-1TpI6VUhTyf_FQ	Better Builds MN	0	0
+UC0j72XNYnQtKSpRAcuVa1Og	Bluish ASMR	0	0
+UCaj0SOn-GCWDBFEn0t8ULYQ	Brandon Thielk	0	0
+UCUmxhi1nyqGYKUo4OxT5HFA	Brent Darlington	0	0
+UCe5qY1QcmRkQwW6W7ZDASXQ	Burning River Studio	0	0
+UC7O6XpyxQ9AUoKE-S-ixq5Q	Bryson Tiller	0	0
+UCKj7FGWRl4W6WDBzR0ncVNw	Busybee academy	0	0
+UCZgt6AzoyjslHTC9dz0UoTw	ByteByteGo	0	0
+UCIaUVri_fDMcBJVAp-1vbOA	C&C Style	0	0
+UCTktvPLGaWMQlwjNezwRGBQ	CECCheese	0	0
+UCBprpxs2lpDFDnHSbuSeNeA	Calligrascape	0	0
+UCkRMw0XRaHKd-8bflTotymg	Calm with Elly	0	0
+UCSjozBN3xf59ot1mOtDbXxQ	Cardboard Star Wars	0	0
+UCQjPfMuany0FSx8W1q-Z-Ug	Carving A Path	0	0
+UCftgtvJuqbj5ZK-MuuxKhMw	Chop Busters	0	0
+UCGiXa1XxLtDZ21WA1GumFMw	Chloe Gendron	0	0
+UC7UrwG_ivjtwgrzZ0eQMYNw	ClaudiaDrawss	0	0
+UCmncr7nMIOhxqb3md7s4ESA	Clear Sky Professionals	0	0
+UC5Hj58D82PgTdLDeRNGq1ZQ	Color of Life - Origami	0	0
+UC6-IsEnGKDbGjnLVbOhNSNQ	Coloring book	0	0
+UCD7ODiS-v7QJmAT6iYx7pWw	Comfort Line ASMR	0	0
+UCOWsPnhfBTps3fWl5MHxclw	Concept with Justin	0	0
+UC_EdomPnNO0BMJJ70AQiArw	Cosmic Lifestyle	0	0
+UCofZ28sqpKinC8Om_JRppFA	Cozillerior Design	0	0
+UCYhgzOkDng0mUgULqMAgJtg	Craft N Toyz	0	0
+UC4W51rqxKZ3JO3pjXRFvfXg	Craftin' It With Nicole	0	0
+UClq0IZSxp332JY8Kgw4n7Ug	Crafting With Lona	0	0
+UCwX0ErMIvlROVBaD2kXDQHw	Creating with La Bella Fae	0	0
+UCjtKhk7aNPG6q89zfOf5nZQ	Creative Calligraphy	0	0
+UCZLRKPTvcLOienZqmkq6W_g	Creative Stick	0	0
+UCn1TXDPyoNoNMoGuabJaRHA	Creees Art	0	0
+UCQfQFTJMh3j93ql6Oo3CwQA	Cundra Studio	0	0
+UCBXyNhe8vQZ7BeOLKlL4Mfg	DIY Home & Crafts	0	0
+UCQRYdu-8IU0hbWCXFOe7BhA	DIY crafts from A4 PAPER	0	0
+UCE0j66h1oN7qQD79QHMRriw	DIYwithWayne	0	0
+UCz6yk6jOlrHI9TTS8B-vb7Q	DREWS LENS	0	0
+UCH-4h7f8cOPZX00d7-EaIZw	Daily Task POV	0	0
+UCZrbmODOq1gpwMxO9SD73BQ	Dan Peterson	0	0
+UC4XpYbTGB7TMpnOIk2xx6RQ	Danilo Draw	0	0
+UCLkwcZLUexrl-BTvfwxyYjQ	Dark City Sounds	0	0
+UCQCR0JSL_wT_a8BdmP6zfUQ	David Becker Tribune	0	0
+UChChq-8z4Ooth1mIIg_05EA	David Morales	0	0
+UCKcTWT-s2QiP1aVpr4z1k4w	David Tominsky	0	0
+UCaTJcp78y_PC8vYkRJCFi5Q	Davide Zezza Art	0	0
+UC2eFo32hPcICRO2X0Lmq4jw	Deborah DeRienzo	0	0
+UCx5Pz0t57kbMzK9vAqXi31g	Decoragine	0	0
+UC7x6gCBh_PyQLq2qndXZKcw	Decorate With Iris	0	0
+UCA-RULvzydi1xFchsitOmZQ	Decorating with Kelly	0	0
+UCVJ9gemIM5UfH8NNaB_ucAA	Decorezo	0	0
+UCPWTRsP9NjevxBTdFABbjRQ	DeeZire ASMR	0	0
+UCWUiGW3-KSb4e_ptc0gy8QQ	DiamondASMR	0	0
+UCUhVza6pWJrh7WxnZ3kLt4g	Dlanid Designs	0	0
+UCbNqUR02W0jCA8v7iV0tAPQ	DoodleDrawArt with Lisa	0	0
+UCKnlPKFHZsv_s93n-wovNyA	Doodlebud	0	0
+UCuosZmOlQCNWg5qqVIjTOmA	Draw with May	0	0
+UCDAzmE9V4Xw5CdLkn3pvO3A	Dragons' Den	0	0
+UCFKHUkV9D5NA8P0UwPfbrig	DrawIF	0	0
+UCWrnh5LzuMn24QA70pwnypw	Drawing Continue	0	0
+UC7KhhSleTd3rqIS0jm79isQ	Dreamz of Art	0	0
+UCN8bfTLdl6uUcjhb3TcyPrw	DrawmatiK	0	0
+UCTYOQbPv3YrJ4ZzCeg3aE2g	Drifting SJ	0	0
+UCcE5zSk3OxOlR5GM_2zb60w	EASY ORIGAMI	0	0
+UCVMqLIcmbeJAr_TdWLLr8MQ	Earl Nightingale	0	0
+UCD-l1T1A-o-_KGMyF179h9g	Easy drawing ART	0	0
+UCUG3BchM_5Bgx4ezU0NEPgA	EasyDrawingTutorials	0	0
+UC924JuH8axw4GRE4wYCeldQ	Enrich Minds	0	0
+UCWFyjxf3w6REKtVx7-3NYQg	Fame Art	0	0
+UCYdl23P1vyreG9klm8o2QUQ	Fanellis Customs	0	0
+UCtpjnFdr3ohG3GK9fTsvPYg	Fanny Ducrot	0	0
+UCs3cAUquUj2H4wGndIR8ZKQ	Fantastic Hub	0	0
+UC5bF7xMfu3TRJaMHNy9Fvvw	FastShooters	0	0
+UCYU9ctqfZCDdagNPfEzL6dg	Finish Carpentry TV	0	0
+UCzSzcENa_odYygRH0AFOe6A	Fiture Marketing	0	0
+UC71_mrmoliZQgd0rfhShGfg	Foldable Flight	0	0
+UC2WHjPDvbE6O328n17ZGcfg	ForrestKnight	0	0
+UCXpv0AWAFX9dRvCybDBgeYQ	Furkan ALTUN	0	0
+UC_4uY967mY_z1nBHd2g_CkA	Gabrielle Rose ASMR	0	0
+UC9Mx69myTdCEtgVVu4ctP1g	Garden Decor Designs	0	0
+UCOhg44jqYzuZWff2mSWpX7Q	Gentle Horse Drama	0	0
+UCEgoThiTZG6wbTVA6B1Ksaw	Gentleman's Gazette	0	0
+UCjcuPPYwxv1a7zcYhqAIQHg	Giannis Troumpadakis	0	0
+UCmOb8pxjIoRundRLIABzwIw	Goldspot Pens	0	0
+UCxXr-vX8vY54GKgTC-C1ceg	Gracev	0	0
+UCj-Th1G1WS4WoUPiCLcawrQ	GrindBuddy	0	0
+UCeImguVin8kYI34RT9UAm3g	Guthrie Trapp	0	0
+UC9UlnU9M-Ru31uktvDQOZ2w	Grass Cure	0	0
+UCKhutVSfIo9XxlQnx0hCSeQ	H_mutan_Art	0	0
+UCAN0HUXQuf_DgYOL8YHjAfQ	HaleyJean ASMR	0	0
+UCElDgOOxaxnucoacvbn-FfQ	Heritage & Hope Ministries	0	0
+UC_W3oYDMfD4FE4-rGnrLQxg	Happy Craftsman	0	0
+UCFoig01UQfVDH7OTvWBEHXA	Hidden Craftsman	0	0
+UC3I3vc88VC1z5JizNuWe0CA	HideyaMOTO @moto.lettering	0	0
+UCe_ate-d0WxB7yVoUIP1R4g	High Frequency Guru	0	0
+UC8oz_mhxJBSzulQM-eTUOrw	Him Kill	0	0
+UCSS9ZXx02adDT2vTYCdVC_g	Home Improvement Woodworking	0	0
+UC9dkkQOtlIhVMRijoS8tsJQ	House of Esperanza	0	0
+UCwxWpZ7UYaim896RxIkyDxA	Hush Hamlets	0	0
+UCpOdS5OjX-2-LNN8VTazkTQ	Holly Clark Digital	0	0
+UCpcna2gXzjoqV3r3JYNyRLg	IT'S ELLE	0	0
+UCE6EaGjsJLfrlBy-sGOdz7w	I make art	0	0
+UCEu1lHVAvHGnbn7z_UipURg	In The Garden Sue: Reviews for Home and Garden	0	0
+UCMofQj_d9cOvGYuO0egNEuQ	Innominate Kraken	0	0
+UCQi73UzlvowGjRIEbzh0y6Q	IzzyAvpRFan1	0	0
+UC4m7Yg4QR4s-oRPVQCp6nmg	Interesting as FCK	0	0
+UCzEGKsKj0lVsTMLUR_2qoIA	Inside Rustic Elegance	0	0
+UC7BcYkYNcVxCmEz42U_ZQIA	JKirschArt	0	0
+UCxaSFiHl9htAAu5t-BfZ04w	Japanzor	0	0
+UCKP8-EqUNpgs8mJ2F7TAnfg	Jasmine Tee Lane	0	0
+UCHu2KNu6TtJ0p4hpSW7Yv7Q	Jazza	0	0
+UCU-NS0mDTR03_QXW50D-gRw	Jazzy ASMR	0	0
+UCVbn813ctsoChuTT4LuLqrA	JetPens	0	0
+UC6gdRb03YkulczDOHduXQnQ	Jim Fan Academy	0	0
+UCy4yB4N_HtydfPPbCtknLgA	Jen Sands	0	0
+UCfW9iG8w6I9FWiLb9OfbOEw	Jim Rohn Motivation	0	0
+UCD_wbYHQeVbx_utWokhFdEw	Jocie B ASMR	0	0
+UCtXCWV5b3hCj2HrwLrHPvNQ	John Mark Enterprises	0	0
+UCSiyej9LRmIUN-t0a0pgJ4A	Joe Robinson	0	0
+UCOUFSlpGiL9I3jPbt0vcI0A	Jon Peters - Longview Woodworking	0	0
+UCKM5PiZrKok0nBKQCONtrtQ	Just Origami Magic	0	0
+UC2Zs9v2hL2qZZ7vsAENsg4w	Justin Sung	0	0
+UCA7NFllwZx7_j_Ig0uFpvPQ	Justin Wilson	0	0
+UCcZd_G62wtsCXd-b7OhQdlw	JustinGuitar Songs	0	0
+UCbGszproOniYqV0R9Gp4yig	KINFOLK CARPENTRY	0	0
+UCyFyBt-scA9yp5Nwu-mXB1Q	Kapper Outdoors Modern homestead	0	0
+UCyyaDpZcazHenq-hM8DAkvg	Kalai's Lifestyle22	0	0
+UC8sl9EAOqIwKN9jcnMcdGWw	Karen Civil	0	0
+UC3ExCuXvIcCraorSvXXwR4A	Karimahs Films	0	0
+UC7NdLB_r9v4_oA3PiK7EjOw	Kewas ASMR	0	0
+UCbwVHvDVVLMMRrmBDy_IRvQ	Kind Single Father	0	0
+UCuFRBZ2w3QsYs7Km69keHsg	Knitting Cult Lady	0	0
+UCMSlCcCSF1YMVxUp4s9ogbg	KooleyHighVEVO	0	0
+UCdfwkkYFT98VBWg1KLlv04g	Krrish Kreationz	0	0
+UCdgCAWnbT3yeyXVvyKto4wQ	Let's draw with Gogo	0	0
+UC07pXvVLJgr8KnRrhDHeU5g	Life with Kimberly	0	0
+UCas61OeyJyJIt2nJDWGNfTw	LikeTV	0	0
+UCSkU5WNyWZAS2ybtVSxxwBA	Knowledge the Pirate - Topic	0	0
+UCE26o4qlF5YjWKqv2-kmpWA	Little Station	0	0
+UCmCtEF5NJc_chmCRTiMrqUg	Love Diary	0	0
+UCOfuQBhgJMmIfukihhmsEEA	Lumeniora	0	0
+UCFMlkdqLmcghkC7qSCDwUQQ	Lumadeco	0	0
+UCi2K26zvnrj45snUU3LcytA	MATYW	0	0
+UCuOREtJ1zYficv3pKA_yScw	MP3 RACKED UP	0	0
+UCVIxr_9gyrmax9eeDgoW00g	MAY story	0	0
+UCVo-whLQv9IGl50hpPSfWiQ	MBGray Designs	0	0
+UCM4i2xHoeY3hZvyFXQNYVlA	MS Royal Creations	0	0
+UCozZx5FpHExg6pLxiv5S-FA	MTM Isaiah	0	0
+UCVxFm42PDXv1tf6iW1ojTEg	Mamta garg hobby special	0	0
+UCfSRZJtjulk7QMTyq8oWJ3g	MaK World	0	0
+UC-tjFP4smKf7LIP6P1BSMrA	Manuscript Pen Company	0	0
+UCLSrPu20PxNWrHL2ic-FfrQ	Margot Heels ASMR	0	0
+UCYdSzlGqkZxp65zJ9qalNmw	Mayank Agarwal Arts	0	0
+UC9HlWVtENbiMQzVRmnbJxtw	Meek Mill	0	0
+UC0Le_ilaOlp9HftXeiMglsg	Maymay Made It Crafts	0	0
+UCg2CM6B5VBLmFD6IaKekkOQ	Melange ASMR	0	0
+UCmJ_r2xY6kfbxGx5BQX-3Zg	Milescraft	0	0
+UCMHYdnQy21lds1K5mfa-LpA	Milo_911	0	0
+UC2KIpe8yRW9nE5o4y4cZ3sw	Mineluke	0	0
+UCWuvwzaNM5oslBxWL-mIjqg	MiniRomanceDrama	0	0
+UCk-RjxiGD9aWwDv2MjysqkA	My ASMR Addiction	0	0
+UCHRkSLjIpOjKI1QHVjLtBYQ	Morpheus ASMR	0	0
+UCbdVUGINEj6pwDIlF-cccgQ	Nana Drama	0	0
+UCRdfrvOBeY2P6YRKbfOZM5A	Nancy Hulan	0	0
+UCII_02oFJAZ8HG_8PyzJ5Jg	Natasha Whispers ASMR	0	0
+UC9LQR3ZUlbSTSw671aLQ-kw	Nataleh Nicole	0	0
+UCHtAyczySgZ501ziTiBiusQ	Nattys Crafts	0	0
+UCZY7RqbpM0ImXasNEs9J19g	Nidhi_ASMR	0	0
+UCpnsSuqSd_aqhVhEdgcrFTw	Occlumency	0	0
+UCD0D4B1PuUVgpJB6vlmlygQ	NineRings WoodCraft	0	0
+UChbPPu6LmY3VJzW4XTgvwgA	OhNoItsAlexx	0	0
+UClh61qrYDdFwLvLn4IupZCQ	Olivia's Romantic Home	0	0
+UC5HuhW1Y5Yvjysiq-RP05ng	One Eye Customs	0	0
+UCOpvzUkWXbEO3SYQ9TADsMQ	One Take Planes	0	0
+UCYsQNNIyYcw-EIjZOvkP8qw	Origami & paper craft	0	0
+UCDTXky5CSxKjGxDBoC_Ocnw	Origami BEST	0	0
+UCDM1L2xftiHloKtIaXpZEWw	Origami Napoleon	0	0
+UCM-RdIsflcAVqZBmw9P1oSQ	Origami World	0	0
+UCsL6eVaC_Nv3dI716elKK6g	PASSPORT to RELAXATION	0	0
+UCZkP2o1Au69bs464Aq61dcA	Paige Turner ASMR	0	0
+UC4xo2sgaze-hkt5Nc7usBwQ	Paper Craft FA	0	0
+UCjFrc32dZTEA1gaKCw0p_aA	PaperChaserDotCom	0	0
+UCVZF6QpNHRg6FSy9YyyyTYg	PaperCrafts	0	0
+UCmyjVwYZbp5YPYTUyeopO2g	Pawn Stars	0	0
+UC2U7Cmuc4LUp8AQld2Dwpzg	Peter Carnegie	0	0
+UC9Kq-yEt1iYsbUzNOoIRK0g	Pitch Meeting	0	0
+UChF4z9K6oSC_cDkvqZDLvEQ	Plenty Tiny ASMR	0	0
+UCgaF2riY92oXA1xPnptfqOw	Planted in the Garden	0	0
+UCkhiCjN1cvl8daYHW___F0A	Poooooooooookie	0	0
+UCsepf4BQ3PrqI0GV3o_f89w	Practice Like A Boss	0	0
+UCWx41GbY3rH_Q6iGxIUcR3A	Product Spotlight	0	0
+UC8n_zoaPuv-E-sx0Iciw2jQ	Pro Handwriting Max	0	0
+UC8QkIl1GrgTXUUeS67qfBww	Production Trim Carpenter	0	0
+UCMM1AY6cp5RzQc05zi5z99g	Queen Key	0	0
+UCzdUj_9tm8C2sZN0KM30Nxw	RB's Gardening Journal	0	0
+UCYBIvNaXOLWtp1tkAGGECVw	Quick Origami	0	0
+UCOfpVLl8AnzotxL7yjkWU8A	Rach ASMR	0	0
+UCiLJkF3tsH29x-Cr2gXuJ4w	Ram's DIY	0	0
+UCq1r_Vo_HF7pu9NdCfxeE0Q	Randy Antrikin	0	0
+UCgtTQJ2eCHPmJwyRCbPltug	RapidLapse	0	0
+UCowxaBqPJkOmOlna_PsAhtw	Rebecca, Stu & The Crew	0	0
+UCFCqtFy1Xp5Fd913c9muusQ	Ravena Metalworks	0	0
+UCncmcTYKagKstKfwZmjAkHA	Regency Garden	0	0
+UCpvxjwL9Iqc3RxpLA3pzbOg	Reina Moe's Designs	0	0
+UCSssNDs9lT5b7o6hURC1TDA	Reis World	0	0
+UCa78hV0XHnwfMCzbTeAFoAA	Revenge Room	0	0
+UCH0i2iKRfIB3MpJVcNfZ2eA	Rob Bourassa	0	0
+UCGCo75oFuO_g6dqxtLZwu7g	Rob's World	0	0
+UCzlHywBhDFouvXg3EixMuUQ	Rotor Records	0	0
+UCwTjkUGZHuaD14XPM_2JQ_w	Rutuja's Creativity	0	0
+UCFzsmEV3xLCWSHT3U1d1SIQ	Saanvi School & DIY	0	0
+UCXULruD2JoJQwv0TnzlltBQ	Sakuma Arte	0	0
+UCN1nluOg4mVTfMMxRcuD3cw	Samuel ICanWin	0	0
+UCdsnxxM48z2JrashMcIJ2gQ	Sapnaviart	0	0
+UCV0aepAGKMkdvBlN3saNNKw	Sarah Hallam Ceramics (Stokie Potter)	0	0
+UCVTPSxVphu3866_evZ_3-Sg	Scribble Sign	0	0
+UCxO9PSNeS0oz_DxvQdSdTPA	Seniors Gardening Advice	0	0
+UClhf-iCMHkipibJhkQ_w7Mg	Serenia Studio	0	0
+UC5xhhwfHdjkHpcv4lG60_8w	Service Beaver	0	0
+UC0CvB-RlwNvox0GEwb8_jdA	Sight Seeker	0	0
+UCY8yk9qW14iKV7LhXcA27ZQ	Shivam	0	0
+UCLicUpeWYLe0zSCiIdZKv_g	Shopify Masters	0	0
+UC1Mr72edUxy74QtQWutVURQ	Silent Knight - Riftbound	0	0
+UCSlmCorvb-EZJpns5RWul1w	Simply it's ART	0	0
+UCWVZhVv2P4qYBDtRZANc4-Q	Sleepy Panda ASMR	0	0
+UCxhj_t8QeXUOJ6ufGX3jeYQ	Slick Garden	0	0
+UCi9BTkkAi5b6si4Bjdvhaow	Softly Serene ASMR	0	0
+UC0siFdMGzaPZK9TxOAKc4FA	Sophisticated ASMR	0	0
+UC70L2WB74vgwmkVGm_iJkIw	SoftlySweet ASMR	0	0
+UCMZaf7IXCmb6Jw93MKwZyGw	SoundScape Fantasy	0	0
+UCBKY9xfxrMtX8jepPJf6f9Q	Spruce Systems Tool Pouches	0	0
+UCXSzGegdvYWShgWyTk0cOFw	SpeedArt1982	0	0
+UCtc_LhGGZgmdfqSHRtXRJYw	Star Wars Origami	0	0
+UCglXG1GWjKIIuErjd0sxgkg	Starry Night ASMR	0	0
+UCstwpLSByklww1YojZN-KiQ	Stumpy Nubs (James Hamilton)	0	0
+UC5T25XrShjnlJao1_sGXnIg	Sudhanjali Arts	0	0
+UC02JYQ6s0lqqCt7i9Uy8_SQ	Stylish Writer	0	0
+UC7vo2f43225Q6cQnnNwuOjg	SuperFly	0	0
+UCChAZLHMr-Fh_oFSKFbgf0w	Superdex 96	0	0
+UCKx_qELDpCxbKkbjOJQoM3w	Tee Drawings	0	0
+UC7IOxgYXHZ2vMO7ViLwsAtg	Tam's ASMR	0	0
+UCtEygXUnHLBosphsRNtlQHQ	T. L. Williams	0	0
+UC0FBYNBSlmCwIiCzpKpEwNA	Tehem	0	0
+UCscHolJ3Uia_6ZpV8f9QeSw	TeraASMR	0	0
+UCeBIWAL_CiWpl84Tj6w6kAA	Tero Designs	0	0
+UClEC3dha0O5Whpe63qdpdJg	The Apollo	0	0
+UCgx_ERh6IE-Td3FLJstu1iQ	The Funny Carpenter	0	0
+UCcHffllPtNVdBqQHLTxEWSg	The Citystead	0	0
+UCPdFDFTd6P1a__tAr8CrpCQ	The Goulet Pen Company	0	0
+UC0kFyI4N18zpkVwgaG5CXsw	The Normal	0	0
+UC5ncuNyZTN3OGuixQXOiAYQ	The Rehab Life	0	0
+UC2KsYDks2YBANP5K6b--jFQ	The Qwerty	0	0
+UCSBv0_cOe0ZLL4R3w79G2ag	They Built WHAT?!	0	0
+UC-WJyg-gjLbEF5UIWzTKxhw	The Vintage Artisans	0	0
+UCAlYA_jloMjYi2-YUNoQE6Q	This Southern Girl Can	0	0
+UCIYZx_G10zFGh_8BZBsTjvQ	Thrivetime Show: Business School without the BS	0	0
+UCEEcXFFc0UPNb9s4XwQGhJg	Tingle Fix ASMR	0	0
+UCdjKI0lwDXyB_tsDgJQl04g	TingleFry ASMR	0	0
+UCwPYLF2ZcA58dxOeCT8vJGA	Tiny Oryx	0	0
+UCBoWk7dIjPpnM8Unroyk3-g	Tingly Asmr🍒	0	0
+UCI0yvVQUWm2EJpuo_g-X2_w	Tkey Archive	0	0
+UCFISXjMisxecMpciCJkWbOQ	Today's Homeowner with Danny Lipford	0	0
+UCJLMboBYME_CLEfwsduI0wQ	Tony Robbins	0	0
+UCC7ruJiiXO8GH8YC0Eu3PMw	Total Finishing Solutions	0	0
+UCJPs1CeZZDs5tELpLK2HG6Q	TradeSecurely.ca	0	0
+UC831GJA7skXb1I6esnp_PYg	Tricia TexasLady Flores	0	0
+UCNN14ZsS6HTj2qP_fAkGkIg	Trim Buddy	0	0
+UCs1qXlTozPSUMqPhnQouhwA	Trust Guide	0	0
+UCI7q9hBUIHp5eFK1-_j9MNw	Tumpa Sarkar Arts & Calligraphy	0	0
+UCVikqwxhZaOcyaQC1eh165w	Tutorial Geek	0	0
+UCr8VYjc7OT4zm0uh-cWZybA	Under A Tin Roof	0	0
+UC2lz-dPoR9FVq-qhJK78vzg	Uns Craft	0	0
+UC7AUP5RMsZFiwvhm5USrKdA	Uphill Athlete	0	0
+UCSDhMtgtYa66psj1ojvS4kA	VC Woodworks	0	0
+UCyx1HBM1Fc8fGwNtVMYRpHg	VIP DAILY	0	0
+UC94CRUtB0q7U8-67qrT37fA	Vancini Conversions	0	0
+UCVumP6sGHzJJ48EXUPgGGAA	Vintage Wood Workshop	0	0
+UCHCHxhK4FPeAvOprJWq0DLw	Wayne Tully Art	0	0
+UCWAVmwdjMWOYB5fUxv30QSQ	Vlogs by Annie	0	0
+UC1oj161I3rDkY43asK1jChg	We Craft Around	0	0
+UC2sxG7xxBxxqhhmItLF3HuA	Wealden Tool Company	0	0
+UC8xbQMKqDn2BuPit4yTOoRQ	Winterbird	0	0
+UCxWa-I1RGc38Gj29Blj1fXg	Windy City Crafts Videos	0	0
+UCCxqrfrSyMVrdbPB_ucAx-Q	Wisco Workshop	0	0
+UCI2chl1G-fUEAm2qw9MfPSg	Woodbrew	0	0
+UCsa3uN-IWP3N124gRyeXEag	Write on	0	0
+UCZOhCKJ9KgwbEBbPeSNETRQ	YAYA CERAMICS	0	0
+UCMoYkZPa6_pVXB4i2RLuDYQ	Xtreme Arts	0	0
+UCZbflQw2wXm9N0m8jYe1i0Q	Yoseka Stationery	0	0
+UCyl0W-PMMTIIbhmT6i1jvlg	Young Smokes	0	0
+UCd75y5iDQekI8-4V_UyUpFQ	ZahyoxTools	0	0
+UCX4MgEy8NvjZYVEkuTZnbJw	Zen Whispers ASMR	0	0
+UCYkDQlSQFGzmbC_aiD3SjNQ	afterdesign	0	0
+UCpaA4eQJVVtca_U1UKPQouQ	amalzd	0	0
+UChaltXS7iOZaE1iBKE-9ORw	aperson30draws	0	0
+UCgexix97aV14lhJPXlfBovA	archieloveswinnie. asmr	0	0
+UCGEgrbsgWhp2Pd0JTO45A5w	beez asmr	0	0
+UC7zcYiNz6RiU4fOp_iNzWAw	bksbl	0	0
+UCkVAqBZZtvXbLZoUCFMSQGw	charcoal lives	0	0
+UClT4_W0OgoUVSL0r6AIbpZQ	drawfantasyart	0	0
+UCs9Mm7ILC1_e2SL3PbPRLsA	gmcguitar	0	0
+UCrjEgIolA2ZcfeucYSMIWfQ	d.artflair	0	0
+UC79r51mHD4A4asu6fgSLBfQ	growyouraum	0	0
+UC92V40-lqY0Pmucu71BueAA	itsblitzzz	0	0
+UCMPQUxRnbGwODoclug5QZiA	jim rohn legacy	0	0
+UCA7uJDR6g3Uv2n8SAPoRFng	jimmyc@ILU	0	0
+UCBnFes2U2diA3QfR5m8l_Tw	jpmorgan	0	0
+UCBVDE-YgejULFLDSdqV9Q7Q	kenzie mac	0	0
+UCZeWHkFlhj-IPuQtZq67Iug	leeperryofficial	0	0
+UCJQhG_dKog1_PoOVCyDNrsg	merry-go-round	0	0
+UCoOfbvwVptfZ6NYUOHMs6FA	laney	0	0
+UCESPPTt5PZCAIyUedP-alEg	mixtapeselection	0	0
+UCtQSiVGG5gJGQOBmpBg06nw	nathanharlinmusic	0	0
+UC1rD6q_VQf_1XT6YTxLRgJw	ronitush666	0	0
+UCaHK9WBHMSpFBuyVBfBb8Ww	nisharaj arts&crafts	0	0
+UC7hHqT2-4xadNgoGOox5A4Q	sabrinavaz1	0	0
+UCj5T4ZU85OiW2gNt_04RdvQ	simple Art and crafts	0	0
+UCEy7wJA9_tNs0jwOGYLk6Bg	thep0ndman	0	0
+UCm22wdOC9mrFbRcLGArL2tQ	softbear	0	0
+UCIDXelFECcpEkisx91JKWsA	thgthgthg	0	0
+UCRFYIVAYNXGlB5Zzuwt8h1w	tkenpokid	0	0
+UC2DPciUKEncPa9ho9g_NkjA	tomibonboni	0	0
+UC6gSKLPOklyoikneENAl_cw	whereribbonsfly	0	0
+UCHAEorau_mSzWgDcKSa5RHA	𝘼𝙣𝙜𝙚𝙡 𝙙𝙖𝙞𝙨𝙮 🌷	0	0

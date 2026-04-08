@@ -1,0 +1,200 @@
+# C11_vehicles_exterior — 151 channels
+# Auto-discovered, needs pre-screening
+# Format: channel_id<tab>channel_name
+
+UCzF4Ryn8TKn64md77gS5Q5Q	11Alive
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel
+UCNIFiHaLZkYASaWDdkC1njg	A&E
+UCFvGKq8YiuGQKmrgHCZFakg	AKSense - Zurich
+UC1T_pR-Rt-NdHgytn2GkTeA	Abao Vision
+UCHw4XxOMjRfWK3k7G9ANeGw	AdventureEveryDay
+UCWNnsFkSYX83I0eDQoGStvg	Alex Nino
+UCUsgr6LYdNL1gBzNpND9-oA	Allison & James
+UCU9wogFgJy3_Wese-Ie6QTg	Always Intense
+UC59oZhz2hUG1cmCOSHZggXw	Apartment0802
+UCxICezi5vrJMf7gxbJKEj7A	BeLikeOm
+UCPy-vsBDyrEu3I3DJRUuvyg	Beautiful World 4k
+UCbIYqYGCs_2YK0oTPtDmVnQ	Belgian-Motorsport
+UCWVH1gwSYZwMZFqCspdw2Rw	Big Rig Videos
+UCmWZB57dUwFfj847-4y63JA	Blaze and the Monster Machines
+UCOjQkIS8YP7Cy4bKBwJBQ3w	Bob Alexis
+UCcwXH7m1ftF0bs0hdT4vyFw	Bonkeh Plane Spotting
+UCSEA1-1O37g7fGHiHlC4btQ	Brennan Wright
+UCm5yS1sVE4WCACW4MNku3VQ	Brent Pearson
+UC1Ih2tgituTS_2_DA3ZoNlQ	Bud Robinson
+UCGvbwr71dPrQrD9_rtKz5ug	CARS WITH ROBERT
+UCuFFtHWoLl5fauMMD5Ww2jA	CBC News
+UC8p1vwvWtl6T73JiExfWs1g	CBS News
+UCXGVilc7psteFJHT7zAaOzg	Calm Lake Productions
+UC0BvDfS4r22zba4EoNfuz-Q	Car spotting mrgold
+UCiB3UXN3tIncutaFEm2DEEA	Car_Spinz
+UCocVzStt06zoNv0w01CXeUg	Carbon Video
+UCA6aJAT9rH8vRwWGiGr2iqQ	Cargospotter
+UCGAmpBtWveYp0-3v9npnhvQ	Chilling Scares
+UClWMvS5SVW75l9YqXYmWFjw	Classic Spotter
+UCXOPfBqPphU15a6mpW7hwVw	CoasterFan2105
+UC4SZVmLXIdmgYT2Z_MGtLbg	Colin Denker
+UCenqyUhFu76XxAeYppxCfQQ	Crazy Cars
+UCwKq447rYMVI5dAQWMmFnfg	DTM
+UC6PwvyoGGVmql0a2Ch5RJ9w	Dirk Schouten
+UCNcdbMyA59zE-Vk668bKWOg	Disney Jr.
+UC7Gf2tZ8coTX2ckTPgn62iQ	Disney Kids
+UCgMBcIvAWN7KAfYKn8FZ_wg	EARTH
+UCBTIfttCPdIii49bjBWyebg	ESPN F1
+UCrc16l_FVYSyCeikkwUtiHQ	Everyday Sailing
+UCdj-FuozCbkMFlxiFrWXXMA	ExoticCarspotters
+UCYFRB_4k5nBE9PBwyGVfsvA	ExploreTheWorld
+UCzvkoec3yi79Hm27sQXzhMQ	FGS CARS
+UCB_qr75-ydFVKSF9Dmo6izg	FORMULA 1
+UCNjfNLnQYbjBEvnS8KFuyGQ	FOX 10 Phoenix
+UCPDis9pjXuqyI7RYLJ-TTSA	FailArmy
+UChrjj1J9n4ZwMxHxQHac0Nw	Flavas of Chill
+UCAHvg_6KCB3MgOY_PvNZCDQ	FlightInsight
+UCiq5OIqIpY-cMG6edl0lTvA	ForCornersTV
+UCpXzxd3uoc3Uu3nMM6VozSA	Free Background Videos - No Copyright
+UCALW_R3_QMP-hMDIaoiQcfg	Gary W Ballard (Radio Trainman)
+UCMTFcOaJlwRjVNoSoS9D2Vg	Girl Truck Routine
+UC8rador8CU-pTJ6p7WNiv6w	Goodwood Road & Racing
+UCLA8AjvvHu77jQqDnn_N0VA	Gorillaflava
+UCiOPikvIaBr8TGPi6LJoG1A	Great Motorcycle Roads
+UCIRYBXDze5krPDzAEOxFGVA	Guardian News
+UCggfpOv6udfa8c_B_oem8wA	HD Melbourne Aviation
+UCrCLYgLx7x52o0Otv-8BZpg	HD1080ide
+UCHIzXy_fNr2pggimGW3383Q	Hallberg-Rassy
+UCJLIwYrmwgwbTzgmB5yVc7Q	Handsome Nature
+UCopOnltjd_os9EhR0nE_tSA	High Pressure Aviation Films
+UCJ3lh_RGlrKecYSgbaXkbYw	HuntleyFilmArchives
+UCWSXeILMn-aZTxqCMI3XptA	I am franzi
+UC58em84jwiyM20qR-iqBDZw	IMSA Official
+UCGeu-ffo6jpAXv1T8vxRBzw	ImageRelaxationVideos
+UCLkfQUPXy2KeungXwXmYeZA	Imago+ Studio
+UC9k-yiEpRHMNVOnOi_aQK8w	Inside Edition
+UCZHp7d1Of_36C1onX8Kj6Xw	Inwires
+UC99b9-slmA4R26ZFic_CYOA	JD in Cle 216
+UCGq_Syr-Imr0XUFQzXYJM4w	Jay in Shanghai
+UCSFGWzNUcTTieD0S4L5XPmw	Johnny Trucker USA
+UC1JAwKeDUjN2orv5t7LWODQ	KARE 11
+UCXwRxm0zS0jBNTMOVI6xZJw	KHOU 11
+UCjaeV7cD0tEkM7iTDIAo-GQ	Karanvir Singh Nayyar
+UC9DXZC8BCDOW6pYAQKgozqw	Lamborghini
+UC9WXO8K_Xt9eTvXpsM8Tfmg	Lensa 18 Update
+UCoc16w6cfFa8UKMwaMx1GWQ	Licet Studios
+UCxisCubZLqex38nNM2-jI8Q	Lytx, Inc.
+UCOFSy_FSeuRsNTm1Z1YAi2w	MOTOSCOUT
+UCinjrjmOO5kMkUvXVkLLz5w	Marmorean
+UCGGt8tLVqExAQKDOBHGQQPQ	MaxSpot
+UCKIrZr7WuPFgFy7OfkAuHOw	MegaDrivingSchool - Dashcam Hub
+UCa9HOyCPlMPZaSHgg2viQ0w	Mooney CDL Training
+UCfSlXpEv-KFD3l4ukU6bjcw	MotoVibes
+UC-YiVIw2zZjdJ3F7rMitsew	Motolaxin
+UCVjaV_rvXKC-Ub44QxqEDxw	Motorcycle Touring Channel
+UCX6OQ3DkcsbYNE6H8uQQuVA	MrBeast
+UClFXwk-j9lwTzfg-Twa1fIQ	MyRailwayVideos
+UCuN9hYw2RpoAW8rZ3VK3isA	NASCAR
+UCgVywIm-5KRJJ_3HDN3QuaA	NATURAL PHENOMENA
+UCqw0TVng0f5RuM6kj2Q3Psg	National Rail
+UCHBDXQDmqnaqIEPdEapEFVQ	New China TV
+UC_YFbvKedjnVjqrZqBR4L8Q	News4JAX The Local Station
+UCAiCdQ4fDNiaXG7SkuDCydQ	Nomad Sweden
+UC0wkDrm8nQ7XeqcFj7VM7gw	Ocean Adventures
+UCU5dNaO_ZLXu83d8tiflZaQ	Open Roading
+UCLYd5EnTTwUKhouIkHoqzMw	RAN Sailing
+UCYiCCZin0P_evnq3y1TOjzQ	RRphotographer
+UCyDyLiRxV0mW8qT4X5es3rw	Rail Relaxation
+UCj-Xm8j6WBgKY8OG7s9r2vQ	RailCowGirl
+UCnTXTwS8OlqeYlinDKqFD_A	Real Racing
+UCblfuW_4rakIf2h6aqANefA	Red Bull
+UChyRMEp8zRio9nFnAjvzSnA	Relaxing Ambience ASMR
+UC5vBmxdhp9hJ6bPaUybIdLg	Relaxing Sounds On The Plane
+UCBPJcXNfuR8pI0g5ZulkUyQ	Restricted Spotter Monaco
+UC5nfXQvf0r1Unvb7l_2gaEw	Ricky Blackwell
+UC9ncSf0Vz8H1kZBKsdoJ2Xg	Ride to Food
+UCYuxDv-iqlTn0uNwyPtY1OQ	Rider Roads
+UCTsHfJLtRf6Xtu556RXpwuQ	Rumbly Rides
+UCWBIhECZZIBsW4_szRzFMxA	SC&DC Sports cars and diecast Channel
+UCrI0Z03P4wy3KFUqvArmkYA	SRT Style
+UCkExLY1E6CE-GPsMCdSjmxQ	Sailing Florence
+UCZdQjaSoLjIzFnWsDQOv4ww	Sailing La Vagabonde
+UCoAjKYRXMltnwYxzhm7IOXQ	Sailing Melody
+UCvLc83k5o11EIF1lEo0VmuQ	Sailing SV Delos
+UCgsTVmZXTKrnfXtxATXxUzQ	Sailing Triteia
+UCZZqIBsio39LUGeT-qQq1MQ	Sailing Yabá
+UCNYlvlreZiRRHo_v5Nmrfow	Sailing Zatara
+UCg-_lYeV8hBnDSay7nmphUA	Sampson Boat Co
+UCyGmC3ZbpZJVckYUogPuGSA	Scenic Music – Sleep, Study & Meditation
+UCjaArIE2VRGkraDbjNWWqgg	Scott Moran
+UC13O8ha4-8Ogm_BKRpXE5TQ	Seb Aviation
+UCylTmiOXmFLKKJwnTDzZ56w	Serg And Mirela
+UCIRgR4iANHI2taJdz8hjwLw	Shmee150
+UCo6a0c328hQoMgh60V2C-IA	Sleepy Soothing Sounds
+UCHRGA07fn3RpmPvUD-qgE-A	SlowTV Relax&Background
+UCotyWtwsc3MITow2c3sANUw	Soothing Audio
+UC-q7hwp8XGAqU1lbsfgSQOA	Splendour Tech
+UCmlCCzzJ-ut-GX4yeOPzz2w	Sporting History
+UC5ovaFtNA0Jbq7mf0vdKYjg	Storyful Viral
+UCKSVUHI9rbbkXhvAXK-2uxA	Supercar Blondie
+UCBW6ihjCUCwyYJwdfVntCOw	Supercars on the streets
+UCDk5ULSVea7bEv2J69qH2Hg	The Rain Driver
+UC3hQxO2yb4TjIar90ccXjfQ	The Ultimate Discovery
+UCLyRZN8YfhA1KjJaE5kaZUQ	The Wheel Network
+UCEeLVjDLr_FZcv5IoiDOVyQ	Thrash 'N' Trash Productions
+UCK-jKj5ymiPP_cy1Kw4Iviw	Tokyo Virtual Ride
+UCbAlVnKhbGLK78GsSemQXxw	Top Fives
+UCM6bqa9BISRwXde7XJER11Q	Tourist Walk Tours
+UCcFlULp8gKYT0ZRFQG42W2A	Unique and Rare Short Videos
+UCjlGKnliitW5FYOQMFV0CrQ	Vaibhav Shah
+UCkKEthtUQHmBqIYZTHyfXoA	Volvo Trucks
+UCfVliFOh-FXnmRdftFjg6zw	VoyagersTV
+UCIaNkwwQ-7Fl0U1qfslHJRw	Whispering Wings ASMR
+UCFgMZM_dDR8DjGaISeRHeHQ	World of the wild
+UCwGLc9zirMhigiLCeIwWuqQ	Yachting World
+UCglVjGyY8ydqfPRMWI-y7PQ	dulevoz
+UCVB5ySWa26KLFevRd_1_AHw	killboydotcom
+UCt20aQCLQKeqfpLn84tWBKw	mylosairplanefan
+UChZMQ0uQoFDEapH0DUc3cZQ	schneiderjobs
+UCODfaI5xXm_1JkrHtGlmJkQ	☔️Driving in the Rain
+
+# === Related channel expansion (43 new) ===
+UCvtVqMSUuAteiJGNz5C99cg	Action Tour Guide
+UCfJsOa7m1zKMS9T2dvIljfQ	COPSTV
+UCzeHrhG8sVS2o-9d8R2D_Rg	Cj Valdez
+UCP9M3o-DJiDrIdyBhVHwykg	Connor Arahill
+UCN-cnJRiOM6wxrmTMcwHiwg	Crime 360
+UCy7pgF-ZCvmLM9BOmG860fw	Destination UpClose
+UCaH2xaIVkgtS00jEsVmNp4g	Doug A. Kendall
+UCYLR1ghzYNyvfjw78raCuxA	Dr. Phil
+UC6K0Yvny7hvWhMhLu1fuS-Q	Eagleye Traveler
+UCR3M0mzBOM3UzGys5ch0QNQ	FlyingDawnMarie
+UCBwiie5Hl4i_rF5SjPhj3xQ	GAFFL
+UCYPlvGMBhmup_zXbHubH9Lg	Gavren Dochterman
+UCKVa_wu2TZqcPeW_W0NMc8A	Henry GyroLife
+UCvWRzaXAXDVItMy9EE0NHIw	HyattTahoe
+UCZZAvEgVny3chs9UySiA8Hg	Jason Taub
+UCPCOV6Gh1K44LXeeJIJ9ztw	Kathy Van Kirk
+UCTJnUC4gzDW8KVxQTTHNwRg	Legend_Longmire
+UCBnVyYkD_ibgsYgeZFDGETw	ManicBeastBoise
+UCWGybpZG3VMw5UfMWCZm_Fg	Michael Frechen
+UCpgGspoawKG9V4kpcZj1mvQ	On Patrol: Live
+UCDZUGJlC-K-vU83bDuS_mzg	Pixics
+UCD73Ke4H9RrRwSDl_8LzfWw	Scenic Drives of America
+UClNzG9okYxDDFS0EpACLgoQ	ShingleCreek
+UCNnySvpYq-F2GmSv1ujW0dA	Spotfire
+UC3S5yQkAgy3CGUT51Vinfug	Stephen W. Geddes
+UCnWY6ypkZcDXOwZsyrNaRGA	T3 Times
+UCWW9mpGjZ1fX7TSXUqNq9Pw	The Exploring Zigzaggers
+UCvVI4CXu8Q_FxlZDeSmTXvA	The Mirrorless World 4k
+UCevGMvPEuAxkxxPmk-luNug	Tim White Lake Tahoe Photography
+UCQS7pXp860aIyBkD0Sc1s_A	Tour of California
+UCZYGBVN2BX0FYW5aZvyfsbg	Travel Connextion
+UCcGZWS5ZrYpP-UMjGk9Sj9A	Travel World More
+UC54XMVya_JVvUMFSqQAOp0w	TravelAdventures
+UCLM5XNynW9u1_usGYL98YKw	Traveling Robert
+UCn9GoKILLBy78KB4_6OnncA	Traveling with Andrew
+UC-oFg56MD77LRhRP3PsCYnA	Ultimate Adventures With Suhana
+UC3339WgBDKIcxTfywuSmG8w	ViralHog
+UCs5g-4_nhk1As9AouFADL4A	Visit Truckee-Tahoe
+UCRkyWI1tbWchz0uHfCMXK0w	Wonderhussy Adventures
+UCMsx2ovhf4PNOe7vYbMBikw	deborahhodgin
+UCr4CrlKmoPjWFtVa9pRZIDA	ididitfinallythankyou
+UCa1-qVUYHrcKIcKofs7-riA	jazevox
+UCvHGNgO7OnqM3mqUrcvcZ5g	socleman
