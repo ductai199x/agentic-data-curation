@@ -13,6 +13,11 @@ dependencies = [
     "ray[serve]>=2.53.0",
     "accelerate",
     "tabulate",
+    "openpyxl",
+    "curl-cffi>=0.14.0",
+    "yt-dlp>=2026.3.17",
+    "decord>=0.6.0",
+    "instaloader>=4.15.1",
 ]
 
 [project.optional-dependencies]

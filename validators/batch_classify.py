@@ -28,7 +28,7 @@ async def classify_one(session, url, filepath):
 
 async def run_batch(image_dir: Path, output: Path, url: str, concurrency: int,
                     force: bool = False):
-    all_files = sorted(f for f in image_dir.iterdir() if f.suffix.lower() in (".jpg", ".jpeg", ".png"))
+    all_files = sorted(f for f in image_dir.iterdir() if f.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp"))
 
     # Load existing results to skip already-classified files (unless --force)
     results = {}
