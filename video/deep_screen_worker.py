@@ -166,9 +166,8 @@ def main():
         log_processed(output_dir, args.shard_id, cid)
         pbar.set_postfix(p=passed, r=rejected, e=errors)
 
-        # Save verified channels periodically
-        if (passed + rejected + errors) % 50 == 0:
-            save_results(output_dir, category_results)
+        # Save on every channel — no buffering
+        save_results(output_dir, category_results)
 
     # Final save
     save_results(output_dir, category_results)

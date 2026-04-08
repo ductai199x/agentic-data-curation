@@ -16,7 +16,7 @@ from PIL import Image
 
 def detect_cuts_from_frames(
     frames: list[Image.Image | np.ndarray],
-    threshold: float = 0.35,
+    threshold: float = 0.25,
 ) -> list[int]:
     """Detect scene cuts from a list of frames already in memory.
 
@@ -54,7 +54,7 @@ def detect_cuts_from_frames(
 
 def has_cuts_from_frames(
     frames: list[Image.Image | np.ndarray],
-    threshold: float = 0.35,
+    threshold: float = 0.25,
 ) -> bool:
     """Check if frames contain any scene cuts.
 

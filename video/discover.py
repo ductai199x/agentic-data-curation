@@ -275,7 +275,7 @@ def screen_channel(
             except (ValueError, IndexError):
                 continue
 
-    if len(videos) < 5:
+    if len(videos) < 20:
         return {"status": "reject", "reason": f"too few videos ({len(videos)})",
                 "channel_id": channel_id, "video_count": len(videos)}
 
@@ -495,23 +495,19 @@ def _check_video_camera_captured(
     }
 
 
+MIN_CHANNEL_VIDEOS = 20  # Reject channels with fewer than this many eligible videos
+
+
 def deep_screen_channel(
     channel_id: str,
     channel_name: str,
     model,
     tmp_dir: Path,
 ) -> dict:
-    """Deep-screen a channel by sampling 3 videos and using majority vote.
+    """Deep-screen a channel by checking 1 video for camera-captured content.
 
-    For each of 3 videos: downloads 30s, extracts 5 frames, runs JoyCaption.
-    Channel passes if at least 2 out of 3 successfully checked videos are camera-captured.
-
-    Robust handling:
-    - Channel ID URL only (no search fallback — avoids wrong-channel contamination)
-    - Filters out Shorts (duration < 61s)
-    - Picks videos spread across the listing (not just recent)
-    - On error, tries additional videos from the eligible pool
-    - Majority vote: pass_count > fail_count among successfully checked videos
+    Downloads 30s from 1 video, extracts 5 frames, runs JoyCaption.
+    Rejects channels with < 5 eligible videos (> 60s duration).
 
     Args:
         channel_id: YouTube channel ID.
@@ -525,100 +521,73 @@ def deep_screen_channel(
     # 1. List videos from the channel (with auto ID correction)
     all_videos, resolved_id = _list_channel_videos(channel_id, channel_name, max_videos=20)
     if resolved_id != channel_id:
-        print(f"    (ID corrected: {channel_id} → {resolved_id})")
         channel_id = resolved_id
 
     # Filter out Shorts and very short videos (< 61s)
     eligible = [v for v in all_videos if v["duration"] > 60]
 
-    # Fallback: include unknown-duration videos if we don't have enough
-    if len(eligible) < 3:
-        eligible += [v for v in all_videos
-                     if v["duration"] == 0 and v not in eligible]
-
-    if not eligible:
-        return {
-            "status": "error",
-            "reason": f"no eligible videos ({len(all_videos)} listed, none > 60s)",
-            "channel_id": channel_id,
-            "channel_name": channel_name,
-        }
-
-    # 2. Pick initial 3 videos spread across the listing
-    if len(eligible) >= 6:
-        initial_indices = [0, len(eligible) // 2, len(eligible) - 1]
-    elif len(eligible) >= 3:
-        initial_indices = [0, 1, 2]
-    else:
-        initial_indices = list(range(len(eligible)))
-
-    # Build a queue: initial picks first, then remaining as fallbacks for errors
-    used = set(initial_indices)
-    video_queue = [eligible[i] for i in initial_indices]
-    for i, v in enumerate(eligible):
-        if i not in used:
-            video_queue.append(v)
-
-    # 3. Check videos until we have 3 successful checks or exhaust the queue
-    pass_count = 0
-    fail_count = 0
-    error_count = 0
-    checked_videos = []
-    all_reasons = []
-    target_checks = min(3, len(eligible))
-
-    for video in video_queue:
-        if pass_count + fail_count >= target_checks:
-            break
-
-        vid_id = video["id"]
-        vid_dur = video["duration"] if video["duration"] > 0 else 300
-
-        result = _check_video_camera_captured(vid_id, vid_dur, model, tmp_dir)
-
-        if result["status"] == "pass":
-            pass_count += 1
-            checked_videos.append(vid_id)
-        elif result["status"] == "reject":
-            fail_count += 1
-            all_reasons.append(result["reason"])
-            checked_videos.append(vid_id)
-        else:
-            # Error — don't count, try next video from queue
-            error_count += 1
-            continue
-
-    total_checked = pass_count + fail_count
-
-    if total_checked == 0:
-        return {
-            "status": "error",
-            "reason": f"all videos failed to process ({error_count} errors)",
-            "channel_id": channel_id,
-            "channel_name": channel_name,
-        }
-
-    # 4. Majority vote: pass if more passes than fails
-    if pass_count > fail_count:
-        return {
-            "status": "pass",
-            "reason": f"camera-captured ({pass_count}/{total_checked} passed)",
-            "channel_id": channel_id,
-            "channel_name": channel_name,
-            "sample_videos": checked_videos,
-            "pass_count": pass_count,
-            "fail_count": fail_count,
-        }
-    else:
+    if len(eligible) < MIN_CHANNEL_VIDEOS:
         return {
             "status": "reject",
-            "reason": f"not camera ({fail_count}/{total_checked} failed: {'; '.join(set(all_reasons))})",
+            "reason": f"too few videos ({len(eligible)} eligible, need {MIN_CHANNEL_VIDEOS})",
             "channel_id": channel_id,
             "channel_name": channel_name,
-            "sample_videos": checked_videos,
-            "pass_count": pass_count,
-            "fail_count": fail_count,
         }
+
+    # 2. Pick 1 video from the middle of the listing
+    video = eligible[len(eligible) // 2]
+
+    # 3. Check if it's camera-captured
+    vid_id = video["id"]
+    vid_dur = video["duration"] if video["duration"] > 0 else 300
+
+    result = _check_video_camera_captured(vid_id, vid_dur, model, tmp_dir)
+
+    if result["status"] == "pass":
+        return {
+            "status": "pass",
+            "reason": "camera-captured",
+            "channel_id": channel_id,
+            "channel_name": channel_name,
+            "sample_videos": [vid_id],
+        }
+    elif result["status"] == "reject":
+        return {
+            "status": "reject",
+            "reason": result["reason"],
+            "channel_id": channel_id,
+            "channel_name": channel_name,
+            "sample_videos": [vid_id],
+        }
+    else:
+        # Error on the first pick — try one more from the end
+        video2 = eligible[-1]
+        result2 = _check_video_camera_captured(
+            video2["id"], video2["duration"] or 300, model, tmp_dir,
+        )
+        if result2["status"] == "pass":
+            return {
+                "status": "pass",
+                "reason": "camera-captured",
+                "channel_id": channel_id,
+                "channel_name": channel_name,
+                "sample_videos": [video2["id"]],
+            }
+        elif result2["status"] == "reject":
+            return {
+                "status": "reject",
+                "reason": result2["reason"],
+                "channel_id": channel_id,
+                "channel_name": channel_name,
+                "sample_videos": [video2["id"]],
+            }
+        else:
+            return {
+                "status": "error",
+                "reason": "both sample videos failed to process",
+                "channel_id": channel_id,
+                "channel_name": channel_name,
+            }
 
 
 def screen_channels(
