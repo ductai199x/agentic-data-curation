@@ -131,7 +131,7 @@ REDDIT_SKIP_SELF_POSTS = True
 # === Scraping: Twitter/X ===
 TWITTER_BOT_USERNAME = "grok"
 TWITTER_MEDIA_URL = "https://x.com/grok/media"
-TWITTER_COOKIES_PATH = "data/cookies-x.txt"
+TWITTER_COOKIES_PATH = "data/cookies/cookies-x.txt"
 
 # Direct image search: auto-generates daily "from:grok filter:images until:YYYY-MM-DD"
 # queries going back N days. Each day gets its own query.

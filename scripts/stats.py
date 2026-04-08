@@ -17,7 +17,7 @@ from tabulate import tabulate
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = PROJECT_ROOT / "data"
+DATA_DIR = PROJECT_ROOT / "data" / "images"
 
 DATASETS = [
     "midjourney_v7", "soul2", "flux1", "nano_banana_1_2",

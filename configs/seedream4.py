@@ -62,7 +62,7 @@ CIVITAI_TOOL_ID = None  # No tool_id exists for Seedream
 # === Scraping: Higgsfield ===
 HIGGSFIELD_API_BASE = "https://fnf.higgsfield.ai/publications/community"
 HIGGSFIELD_MODELS = ["seedream", "seedream_v4_5", "seedream_v5_lite"]
-HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
+HIGGSFIELD_COOKIES_PATH = "data/cookies/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50
 
 # === Scraping: Reddit ===

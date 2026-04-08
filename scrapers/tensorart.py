@@ -62,7 +62,7 @@ class TensorArtScraper(BaseScraper):
         force: bool = False,
         page_size: int = 20,
     ):
-        output_dir = f"data/{config.NAME}"
+        output_dir = f"data/images/{config.NAME}"
         super().__init__(
             output_dir,
             max_images,

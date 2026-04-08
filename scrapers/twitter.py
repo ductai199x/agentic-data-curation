@@ -127,7 +127,7 @@ class TwitterScraper(BaseScraper):
         self.media_url = getattr(config, "TWITTER_MEDIA_URL", None)
         self.cookies_path = str(Path(
             cookies_path
-            or getattr(config, "TWITTER_COOKIES_PATH", "data/cookies-x.txt")
+            or getattr(config, "TWITTER_COOKIES_PATH", "data/cookies/cookies-x.txt")
         ).resolve())
         min_pixels = getattr(config, "MIN_PIXELS", 200_000)
         super().__init__(output_dir, max_images, min_pixels=min_pixels, force=force)
@@ -458,7 +458,7 @@ def main(config, output, max_images, cookies, force, skip_media, skip_direct):
     Both feed into a single download consumer.
     """
     cfg = load_config(config)
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
 
     scraper = TwitterScraper(
         cfg,

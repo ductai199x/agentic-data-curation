@@ -376,7 +376,7 @@ def main(config, api_key, output, max_images, term, orientation, content_type, o
     https://www.freepik.com/developers/dashboard
     """
     cfg = load_config(config)
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
 
     scraper = FreepikScraper(
         cfg,

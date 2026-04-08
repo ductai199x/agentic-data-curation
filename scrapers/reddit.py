@@ -351,7 +351,7 @@ class RedditScraper(BaseScraper):
 def main(config, output, max_images, force):
     """Scrape images from Reddit based on generator config."""
     cfg = load_config(config)
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
     scraper = RedditScraper(cfg, output_dir=output, max_images=max_images, force=force)
     scraper.run()
 

@@ -22,7 +22,7 @@ class HiggsFieldScraper(BaseScraper):
     source_name = "higgsfield"
 
     def __init__(self, config, max_images: int = 500, force: bool = False):
-        output_dir = f"data/{config.NAME}"
+        output_dir = f"data/images/{config.NAME}"
         super().__init__(output_dir, max_images, min_pixels=getattr(config, "MIN_PIXELS", 200_000), force=force)
         self.config = config
         self.api_base = getattr(config, "HIGGSFIELD_API_BASE", "https://fnf.higgsfield.ai/publications/community")

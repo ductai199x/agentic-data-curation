@@ -137,7 +137,7 @@ class SimpleCivitaiScraper(BaseScraper):
 @click.option("--force", is_flag=True, default=False)
 def main(config, model_version, max_images, output, force):
     cfg = load_config(config)
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
     scraper = SimpleCivitaiScraper(
         cfg, output, max_images, model_version, force=force,
     )

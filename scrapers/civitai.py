@@ -334,7 +334,7 @@ def main(config, output, max_images, model_versions, tool_id, api_key, force):
             "Provide --model-version or --tool-id, or set CIVITAI_MODEL_VERSIONS / CIVITAI_TOOL_ID in config"
         )
 
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
     scraper = CivitaiScraper(
         cfg, output_dir=output, max_images=max_images,
         tool_id=tid, model_version_ids=mv_ids, api_key=api_key, force=force,

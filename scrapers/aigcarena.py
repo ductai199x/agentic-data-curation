@@ -30,11 +30,11 @@ class AIGCArenaScraper(BaseScraper):
 
     def __init__(self, config, max_images: int = 1000, force: bool = False,
                  target_substrings: list[str] | None = None):
-        output_dir = f"data/{config.NAME}"
+        output_dir = f"data/images/{config.NAME}"
         super().__init__(output_dir, max_images, min_pixels=getattr(config, "MIN_PIXELS", 200_000), force=force)
         self.config = config
         self.target_substrings = target_substrings or SEEDREAM_SUBSTRINGS
-        self.cookies_path = Path("data/cookies-aigcarena.txt")
+        self.cookies_path = Path("data/cookies/cookies-aigcarena.txt")
 
     def _is_target_model(self, model_name: str) -> bool:
         mn = model_name.lower()

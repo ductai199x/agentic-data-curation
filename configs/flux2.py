@@ -62,7 +62,7 @@ CIVITAI_TOOL_ID = None
 # flux_2 has 302 posts, all "pro" variant
 HIGGSFIELD_API_BASE = "https://fnf.higgsfield.ai/publications/community"
 HIGGSFIELD_MODELS = ["flux_2"]
-HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
+HIGGSFIELD_COOKIES_PATH = "data/cookies/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50
 
 # === Scraping: Reddit ===

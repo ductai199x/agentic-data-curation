@@ -23,6 +23,7 @@ from tqdm import tqdm
 from pathlib import Path
 
 from validators.image_validator import validate_image, ValidationResult
+from validators.border_detector import detect_borders
 from configs import load_config
 
 
@@ -48,7 +49,7 @@ class PipelineResult:
 def run_structural_validation(
     image_dir: Path,
     config,
-    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png"),
+    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png", ".webp"),
 ) -> dict[str, ValidationResult]:
     """Run tier 1 structural validation on all images in a directory."""
     files = sorted(f for f in image_dir.iterdir() if f.suffix.lower() in suffixes)
@@ -121,12 +122,15 @@ def load_joycaption_results(path: Path) -> dict[str, dict]:
 
 def run_pipeline(
     config,
-    data_dir: Path = Path("data/grok"),
+    data_dir: Path = Path("data/images/grok"),
     fsd_threshold: float = -2.0,
     relaxed_mode: bool = False,
     captions_path: Path | None = None,
     skip_fsd: bool = False,
     force: bool = False,
+    staging_dir: Path | None = None,
+    images_dir: Path | None = None,
+    rejected_dir: Path | None = None,
 ) -> list[PipelineResult]:
     """Run the full validation pipeline.
 
@@ -143,13 +147,16 @@ def run_pipeline(
                       If None, uses data_dir/captions.json.
         skip_fsd: Skip FSD detection (useful for quick runs).
         force: Move all images back to staging and revalidate from scratch.
+        staging_dir: Override staging directory (default: data_dir/staging).
+        images_dir: Override images output directory (default: data_dir/images).
+        rejected_dir: Override rejected output directory (default: data_dir/rejected).
 
     Returns:
         List of PipelineResult for each image.
     """
-    staging_dir = data_dir / "staging"
-    images_dir = data_dir / "images"
-    rejected_dir = data_dir / "rejected"
+    staging_dir = staging_dir or data_dir / "staging"
+    images_dir = images_dir or data_dir / "images"
+    rejected_dir = rejected_dir or data_dir / "rejected"
 
     images_dir.mkdir(parents=True, exist_ok=True)
     rejected_dir.mkdir(parents=True, exist_ok=True)
@@ -159,7 +166,7 @@ def run_pipeline(
         restored = 0
         for src_dir in (images_dir, rejected_dir):
             for f in src_dir.iterdir():
-                if f.suffix.lower() in (".jpg", ".jpeg", ".png"):
+                if f.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp"):
                     shutil.move(str(f), str(staging_dir / f.name))
                     restored += 1
         if restored:
@@ -226,8 +233,7 @@ def run_pipeline(
             print(f"  Moved {content_rejected} to rejected/")
         print()
     else:
-        print("Tier 0: No JoyCaption results — skipping content filter")
-        print("  (Run JoyCaption first or provide --joycaption-url)")
+        print("Tier 0: No JoyCaption results found — all images will be skipped (uncaptioned)")
         print()
 
     # Tier 1: Structural validation (on remaining staging images)
@@ -280,11 +286,11 @@ def run_pipeline(
         # Decision logic
         rejection_reasons = []
 
-        # MANDATORY: content filter (JoyCaption) must have been run on this image.
-        # Images without captions stay in staging — never accepted without content check.
-        if joycaption and filename not in joycaption:
+        # Skip uncaptioned images — leave in staging for next pass.
+        # Pipeline never accepts or rejects without a content check.
+        if filename not in joycaption:
             skipped_no_caption += 1
-            continue  # leave in staging for next JoyCaption pass
+            continue
 
         # Hard rejects (always fail regardless of mode)
         if any("too_few_pixels" in f for f in sv.flags):
@@ -295,6 +301,12 @@ def run_pipeline(
             rejection_reasons.append("camera_exif")
         if any("non_native_aspect_ratio" in f for f in sv.flags):
             rejection_reasons.append("bad_aspect_ratio")
+
+        # Border detection (scanned photos, film edges)
+        if getattr(config, "REJECT_BORDERS", False):
+            border_result = detect_borders(filepath)
+            if border_result["has_border"]:
+                rejection_reasons.append(f"border:{border_result['n_sides']}_sides")
 
         # Soft rejects (only in strict mode)
         if not relaxed_mode:
@@ -389,13 +401,16 @@ def main():
     parser.add_argument("--fsd-threshold", type=float, default=-2.0,
                         help="FSD z-score threshold (default: -2.0)")
     parser.add_argument("--captions", help="Path to JoyCaption results JSON")
+    parser.add_argument("--staging-dir", help="Override staging directory (default: data/<gen>/staging)")
+    parser.add_argument("--images-dir", help="Override images output directory (default: data/<gen>/images)")
+    parser.add_argument("--rejected-dir", help="Override rejected output directory (default: data/<gen>/rejected)")
     parser.add_argument("--skip-fsd", action="store_true", help="Skip FSD detection")
     parser.add_argument("--force", action="store_true",
                         help="Move images/rejected back to staging and revalidate from scratch")
     args = parser.parse_args()
 
     cfg = load_config(args.config)
-    data_dir = Path(args.data_dir) if args.data_dir else Path(f"data/{cfg.NAME}")
+    data_dir = Path(args.data_dir) if args.data_dir else Path(f"data/images/{cfg.NAME}")
 
     run_pipeline(
         config=cfg,
@@ -405,6 +420,9 @@ def main():
         captions_path=Path(args.captions) if args.captions else None,
         skip_fsd=args.skip_fsd,
         force=args.force,
+        staging_dir=Path(args.staging_dir) if args.staging_dir else None,
+        images_dir=Path(args.images_dir) if args.images_dir else None,
+        rejected_dir=Path(args.rejected_dir) if args.rejected_dir else None,
     )
 
 

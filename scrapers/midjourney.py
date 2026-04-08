@@ -84,7 +84,7 @@ class MidjourneyScraper(BaseScraper):
 
     def __init__(self, config, max_images: int = 50000, force: bool = False,
                  channels: list[str] | None = None):
-        output_dir = f"data/{config.NAME}"
+        output_dir = f"data/images/{config.NAME}"
         super().__init__(
             output_dir, max_images,
             min_pixels=getattr(config, "MIN_PIXELS", 200_000),

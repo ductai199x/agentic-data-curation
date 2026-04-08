@@ -49,7 +49,7 @@ CIVITAI_TOOL_ID = None  # DO NOT USE — unreliable provenance
 # Very small volume but good provenance
 HIGGSFIELD_API_BASE = "https://fnf.higgsfield.ai/publications/community"
 HIGGSFIELD_MODELS = ["openai_hazel", "text2image_gpt"]
-HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
+HIGGSFIELD_COOKIES_PATH = "data/cookies/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50
 
 # === Scraping: Reddit ===

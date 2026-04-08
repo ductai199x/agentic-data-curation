@@ -20,7 +20,7 @@ INSTAGRAM_USERNAMES = [
     "sunny_chijnn", "millasofiaa", "aishaneo", "shudu.gram",
     "kenzalayli", "owol.xx", "nene.ceci",
 ]
-INSTAGRAM_COOKIES_PATH = "data/cookies-instagram.txt"
+INSTAGRAM_COOKIES_PATH = "data/cookies/cookies-instagram.txt"
 EXPECTED_FORMATS = ["JPEG", "PNG", "WEBP"]
 MIN_PIXELS = 200_000
 MAX_PIXELS = 10_000_000

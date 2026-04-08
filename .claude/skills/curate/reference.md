@@ -88,16 +88,16 @@ When choosing sources for a new generator, follow this priority:
 ```bash
 # JoyCaption — Ray Serve (large batches)
 CUDA_VISIBLE_DEVICES=6,7 python -m validators.serve_joycaption serve --gpu 0.25 --replicas 8
-uv run python -m validators.batch_classify --dir data/<gen>/staging --output data/<gen>/captions.json --concurrency 8
+uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
 
 # JoyCaption — local mode (small batches, no Ray needed)
-uv run python -m validators.batch_classify --dir data/<gen>/staging --output data/<gen>/captions.json --local --gpu 6
+uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 
 # Validation pipeline (after captioning)
 uv run python -m validators.pipeline --config configs/<gen>.py --skip-fsd
 
 # FSD scoring (after validation, on final images)
-uv run fsd-score --dir data/<gen>/images/ --csv > data/<gen>/fsd_scores.csv
+uv run fsd-score --dir data/images/<gen>/images/ --csv > data/images/<gen>/fsd_scores.csv
 
 # Grid splitting (Midjourney only)
 uv run python -m validators.split_grids -c configs/midjourney_v7.py
@@ -173,7 +173,7 @@ These come from real failures — violating any of them causes data loss or corr
 ## Data Layout
 
 ```
-data/<generator>/
+data/images/<generator>/
 ├── images/          # Validated (ready for FSD pipeline)
 ├── staging/         # Downloaded, pre-validation
 ├── rejected/        # Failed validation (clean up after run)

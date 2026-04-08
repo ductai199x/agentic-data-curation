@@ -89,7 +89,7 @@ class RecraftScraper(BaseScraper):
     source_name = "recraft"
 
     def __init__(self, config, max_images: int = 500, force: bool = False):
-        output_dir = f"data/{config.NAME}"
+        output_dir = f"data/images/{config.NAME}"
         super().__init__(
             output_dir, max_images,
             min_pixels=getattr(config, "MIN_PIXELS", 500_000),

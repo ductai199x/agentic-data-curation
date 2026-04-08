@@ -24,7 +24,7 @@ make help            # list all commands
 make stats           # short summary table
 make stats-detailed  # detailed per-dataset breakdown
 make metadata        # rebuild metadata.csv for all datasets
-make sync            # sync data/ to weka
+make sync            # sync data/images/ to weka
 ```
 
 ## Project Structure
@@ -68,7 +68,10 @@ make sync            # sync data/ to weka
 │   ├── LESSONS_*.md       # Distilled lessons per generator
 │   └── WORKLOG_*.md       # Per-run worklogs
 ├── .claude/skills/        # Claude Code skills (/curate)
-└── data/                  # Downloaded images (gitignored)
+└── data/                  # All data (gitignored)
+    ├── images/            # AI-generated image datasets (per generator)
+    ├── videos/            # Video datasets (real + AI-generated)
+    └── cookies/           # Auth cookies for scrapers
 ```
 
 ## Curated Datasets
@@ -111,13 +114,22 @@ full pipeline with checkpoints, code patterns, and per-source gotchas.
 ## Data Output Structure
 
 ```
-data/{generator_name}/
-├── images/              # Validated images (ready for FSD pipeline)
-├── staging/             # Freshly downloaded, pre-validation
-├── manifest.csv         # Download log: filename, url, source, flair, timestamp
-├── metadata.csv         # Per-image metadata (synced to weka)
-├── captions.json        # JoyCaption booru tags
-└── fsd_scores.csv       # FSD z-scores (tag only, don't filter)
+data/
+├── images/{generator_name}/     # AI-generated image datasets
+│   ├── images/                  # Validated images (ready for FSD pipeline)
+│   ├── staging/                 # Freshly downloaded, pre-validation
+│   ├── manifest.csv             # Download log: filename, url, source, flair, timestamp
+│   ├── metadata.csv             # Per-image metadata (synced to weka)
+│   ├── captions.json            # JoyCaption booru tags
+│   └── fsd_scores.csv           # FSD z-scores (tag only, don't filter)
+├── videos/                      # Video datasets (real + AI-generated)
+│   └── real/{source}/           # Real video clips by platform
+│       ├── staging/             # Downloaded, pre-validation
+│       ├── validated/           # Passed all checks
+│       ├── rejected/            # Failed validation
+│       ├── manifest.csv         # Download log with taxonomy tags
+│       └── metadata.csv         # Per-clip metadata (resolution, fps, codec, etc.)
+└── cookies/                     # Auth cookies for scrapers
 ```
 
 ## JoyCaption
@@ -127,16 +139,16 @@ Two modes:
 ```bash
 # Ray Serve (high throughput, multi-GPU) — for large batches
 CUDA_VISIBLE_DEVICES=6,7 python -m validators.serve_joycaption serve --gpu 0.25 --replicas 8
-uv run python -m validators.batch_classify --dir data/<gen>/staging --output data/<gen>/captions.json --concurrency 8
+uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
 
 # Local mode (single GPU, no Ray) — for small batches
-uv run python -m validators.batch_classify --dir data/<gen>/staging --output data/<gen>/captions.json --local --gpu 6
+uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 ```
 
 ## FSD Scoring
 
 ```bash
-uv run fsd-score --dir data/<gen>/images/ --csv > data/<gen>/fsd_scores.csv
+uv run fsd-score --dir data/images/<gen>/images/ --csv > data/images/<gen>/fsd_scores.csv
 ```
 
 FSD is a local dependency (`fsd-detector` in pyproject.toml). Tag only, never filter —

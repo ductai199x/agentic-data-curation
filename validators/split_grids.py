@@ -188,7 +188,7 @@ def main():
     from configs import load_config
     config = load_config(args.config)
 
-    data_dir = Path(f"data/{config.NAME}")
+    data_dir = Path(f"data/images/{config.NAME}")
     staging = data_dir / "staging"
     manifest_path = data_dir / "manifest.csv"
     output_dir = Path(args.output_dir) if args.output_dir else staging

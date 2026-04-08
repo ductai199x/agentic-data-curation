@@ -73,7 +73,7 @@ CIVITAI_TOOL_ID = None  # Do not use tool_id
 # Kontext mixes real content — annotate as flux_kontext in metadata.
 HIGGSFIELD_API_BASE = "https://fnf.higgsfield.ai/publications/community"
 HIGGSFIELD_MODELS = ["flux_kontext"]
-HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
+HIGGSFIELD_COOKIES_PATH = "data/cookies/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50
 
 # === Scraping: Yodayo ===

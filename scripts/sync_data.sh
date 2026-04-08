@@ -1,6 +1,6 @@
 #!/bin/bash
 # Sync data/ to destination.
-# Source (data/) is ground truth — destination is made to match exactly.
+# Source (data/images/) is ground truth — destination is made to match exactly.
 # Only syncs images/ staging/ and metadata.csv per dataset.
 # Excludes cookies, other CSVs, JSONs.
 #
@@ -14,7 +14,7 @@
 cd "$(dirname "$0")/.." || exit 1
 
 # Defaults
-SRC="data/"
+SRC="data/images/"
 DST="$HOME/weka_data/tai/agentic-data-curation/ai_generated/"
 DRY_RUN=false
 DATASET_FILTER=""
@@ -30,7 +30,7 @@ while [[ $# -gt 0 ]]; do
             echo "Usage: $0 [--src DIR] [--dst DIR] [--dry-run] [--dataset NAME]"
             echo ""
             echo "Options:"
-            echo "  --src DIR       Source directory (default: data/)"
+            echo "  --src DIR       Source directory (default: data/images/)"
             echo "  --dst DIR       Destination directory (default: ~/weka_data/tai/agentic-data-curation/ai_generated/)"
             echo "  --dry-run       Preview what would be synced without copying"
             echo "  --dataset NAME  Sync only this dataset (e.g. grok, flux1)"
@@ -81,14 +81,14 @@ for dataset_dir in "$SRC"*/; do
     if [ -d "${dataset_dir}images" ]; then
         $DRY_RUN || mkdir -p "${DST}${dataset}/images"
         rsync $RSYNC_FLAGS "${dataset_dir}images/" "${DST}${dataset}/images/"
-        echo "  images/: $(ls "${dataset_dir}images/" | wc -l) files"
+        echo "  images/: $(find "${dataset_dir}images/" -type f | wc -l) files"
     fi
 
     # Sync staging/ (delete extras at destination)
     if [ -d "${dataset_dir}staging" ]; then
         $DRY_RUN || mkdir -p "${DST}${dataset}/staging"
         rsync $RSYNC_FLAGS "${dataset_dir}staging/" "${DST}${dataset}/staging/"
-        echo "  staging/: $(ls "${dataset_dir}staging/" | wc -l) files"
+        echo "  staging/: $(find "${dataset_dir}staging/" -type f | wc -l) files"
     fi
 
     # Copy metadata.csv only

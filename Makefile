@@ -7,7 +7,7 @@ help: ## Show available commands
 	@echo "  \033[36mstats\033[0m              Short dataset summary table"
 	@echo "  \033[36mstats-detailed\033[0m     Detailed per-dataset breakdown"
 	@echo "  \033[36mmetadata\033[0m           Rebuild metadata.csv for all datasets"
-	@echo "  \033[36msync\033[0m               Sync data/ to weka (images + metadata.csv only)"
+	@echo "  \033[36msync\033[0m               Sync data/images/ to weka (images + metadata.csv only)"
 	@echo ""
 	@echo "  \033[1mSync examples:\033[0m"
 	@echo "    make sync                                    # sync all datasets to default weka path"
@@ -26,5 +26,5 @@ stats-detailed: ## Detailed per-dataset breakdown
 metadata: ## Rebuild metadata.csv for all datasets
 	uv run python scripts/build_all_metadata.py
 
-sync: ## Sync data/ to weka
+sync: ## Sync data/images/ to weka
 	bash scripts/sync_data.sh $(ARGS)

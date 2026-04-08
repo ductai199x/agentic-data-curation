@@ -66,7 +66,7 @@ CIVITAI_TOOL_ID = None  # No tool_id found
 # model=nano_banana (~1,487 images), model=nano_banana_2 (~10,888 images)
 HIGGSFIELD_API_BASE = "https://fnf.higgsfield.ai/publications/community"
 HIGGSFIELD_MODELS = ["nano_banana", "nano_banana_2"]
-HIGGSFIELD_COOKIES_PATH = "data/cookies-higgsfield.txt"
+HIGGSFIELD_COOKIES_PATH = "data/cookies/cookies-higgsfield.txt"
 HIGGSFIELD_PAGE_SIZE = 50  # Server max is ~50
 
 # === Scraping: Reddit ===
@@ -154,7 +154,7 @@ REDDIT_SKIP_SELF_POSTS = True
 # === Scraping: Twitter/X ===
 TWITTER_BOT_USERNAME = "NanoBanana"
 TWITTER_MEDIA_URL = "https://x.com/NanoBanana/media"
-TWITTER_COOKIES_PATH = "data/cookies-x.txt"
+TWITTER_COOKIES_PATH = "data/cookies/cookies-x.txt"
 # Direct image search: auto-generates daily "from:NanoBanana filter:images until:YYYY-MM-DD"
 TWITTER_DIRECT_SEARCH_DAYS = 365
 

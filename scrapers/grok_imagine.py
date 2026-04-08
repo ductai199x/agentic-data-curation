@@ -268,7 +268,7 @@ def main(config, output, max_images, cookies, force):
         uv run python -m scrapers.grok_imagine -c configs/grok.py --cookies data/cookies-grok.txt -n 3000
     """
     cfg = load_config(config)
-    output = output or f"data/{cfg.NAME}"
+    output = output or f"data/images/{cfg.NAME}"
 
     scraper = GrokImagineScraper(cfg, output_dir=output, max_images=max_images, force=force)
     scraper.run(cookies)

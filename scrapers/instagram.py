@@ -38,7 +38,7 @@ class InstagramScraper(BaseScraper):
         output_dir: str | None = None,
         force: bool = False,
     ):
-        out = output_dir or (f"data/{config.NAME}" if config else "data/instagram_ai_influencer")
+        out = output_dir or (f"data/images/{config.NAME}" if config else "data/images/instagram_ai_influencer")
         min_px = getattr(config, "MIN_PIXELS", 200_000) if config else 200_000
         super().__init__(out, max_images, min_pixels=min_px, force=force)
 
@@ -58,6 +58,15 @@ class InstagramScraper(BaseScraper):
                         self._downloaded_post_ids.add(pid)
             if self._downloaded_post_ids:
                 print(f"Loaded {len(self._downloaded_post_ids)} post_ids for fast-skip")
+
+        # Load completed accounts for instant skipping on restart
+        self._completed_accounts: set[str] = set()
+        completed_path = self.output_dir / "completed_accounts.txt"
+        if completed_path.exists() and not force:
+            with open(completed_path) as f:
+                self._completed_accounts = {line.strip() for line in f if line.strip()}
+            if self._completed_accounts:
+                print(f"Loaded {len(self._completed_accounts)} completed accounts to skip")
 
         # Build username → tier mapping (if config has tiers)
         self._user_tier: dict[str, str] = {}
@@ -80,7 +89,7 @@ class InstagramScraper(BaseScraper):
         elif config and hasattr(config, "INSTAGRAM_COOKIES_PATH"):
             self.cookies_path = config.INSTAGRAM_COOKIES_PATH
         else:
-            self.cookies_path = "data/cookies-instagram.txt"
+            self.cookies_path = "data/cookies/cookies-instagram.txt"
 
     def _load_cookies(self) -> list[dict]:
         """Load Netscape-format cookies and convert to Playwright format."""
@@ -150,6 +159,10 @@ class InstagramScraper(BaseScraper):
                 if self._should_stop or self.done:
                     break
 
+                # Skip accounts already fully scraped in previous runs
+                if username in self._completed_accounts:
+                    continue
+
                 if i > 0:
                     pause = random.uniform(25, 35)
                     print(f"\nPausing {pause:.0f}s between usernames...", flush=True)
@@ -202,7 +215,7 @@ class InstagramScraper(BaseScraper):
         stale_scrolls = 0
         max_stale = 6
         scroll_count = 0
-        max_scrolls = 300
+        max_scrolls = 1000  # Safety cap
         last_height = 0
         aggressive_phase = False
 
@@ -301,6 +314,14 @@ class InstagramScraper(BaseScraper):
 
         print(f"  @{username}: {user_downloaded} images downloaded, {scroll_count} scrolls", flush=True)
 
+        # Mark account as completed so we skip it on restart
+        # Only mark if we actually scrolled meaningfully (not just a 404 or empty page)
+        if user_downloaded > 0 or scroll_count >= max_stale:
+            self._completed_accounts.add(username)
+            completed_path = self.output_dir / "completed_accounts.txt"
+            with open(completed_path, "a") as f:
+                f.write(f"{username}\n")
+
         # Restore original staging dir if we swapped for tier
         if tier and hasattr(self, '_original_staging'):
             self.staging_dir = self._original_staging
@@ -318,7 +339,7 @@ class InstagramScraper(BaseScraper):
         aggressive_phase = False
 
         scroll_count = 0
-        max_scrolls = 300  # Safety cap
+        max_scrolls = 1000  # Safety cap
 
         while stale_scrolls < max_stale and scroll_count < max_scrolls:
             if self._should_stop or self.done:
