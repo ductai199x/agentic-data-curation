@@ -1,0 +1,296 @@
+# C20_security_camera — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCBi2mrWuNuyYy4gbM6fU18Q	ABC News	azxA67Suc_c
+UCLopFkPshvYo4Ei99MnlE5g	Camcreeps	nduGY2V79HQ
+UCdC0An4ZPNr_YiFiYoVbwaw	Daily Dose Of Internet	yp0W5v8GOPc
+UCAu6179S9GhrhziSehyBZQw	Fear Tales	p_Wva8Z0hVI
+UCQAEIHYXrg6IiPrAlgIaFUQ	Hidden Life Moments	JhRZovlciMs
+UCWpME6oSrCjyyNOnZYgXm7Q	ManShed	Vkq37OftNbA
+UCtPrkXdtCM5DACLufB9jbsA	MrBallen	MvK27GKG7zc
+UCu4XcDBdnZkV6-5z2f16M0g	Real Stories	WNlY_nafLOk
+UCYenDLnIHsoqQ6smwKXQ7Hg	#Mind Warehouse	seNiEGQxAF8
+UCPIvT-zcQl2H0vabdXJGcpg	The Pet Collective	Vl09bP8LoBQ
+UC8A_HkoYNM62fFMNaF3a4hQ	FASTCABLING	eYcG-SXZFzE
+UCEj1SR_cOI55oL8n3F-5o3w	Top 5	X6XRpAC4hC0
+UCDmNmxF3ZVMeGyvWE9tOqPQ	ABC13 Houston	CPQpTU3f8xA
+UCeY0bbntWzzVIaj2z3QigXg	NBC News	VCfyWNXJlV4
+UC2rzsm1Qi6N1X-wuOg_p0Ng	Project Farm	IVjW8aCCC38
+UC2NRf0-PH8IiMq5uA5FHJnA	quack doc	TWbbsd01ifc
+UCwqoZ7jW1hQr4A1lMaaUwNA	DPC Technology	4HK1J2SVsa0
+UCRyIP2oznv4UPAl1jmKS5kA	Top 10s	yn2XmbKg4Z8
+UChojGgtJd_Rlj4sqkiSIpPA	Gardening In Canada	dC6Ht4oI2GI
+UCOyjpjqi1gfVRNL0KJDBa_A	Honey Drop Dramas	gxglczunrrs
+UCr1kbyiJzl-x5YYDxhYJuPw	MoreCaseOh	AxsH1-oFZ7s
+UCtWrjh1nRcNVHabgJUUyX9w	Nightmare Hollows	TMhRTHyl5UA
+UCEke7LUbeJU9kzgL9Kwe9OA	Playing in Dirt	sDjgNzoYBg4
+UCnMVSY3IbyRtYGSWF867Ycg	Reddit Family Tales	YyHCX-wgp1E
+UC-V2i0hTK-TmwMjbuZU4OCw	Seper	sxFjTsr50yI
+UCSCpPVPYCjJpMZp7R8prcqA	The Contact Files	afThFuZQd3Q
+UCjQbTcszB-gRhDByY9WhySw	The Potter’s House of Dallas	asXhgwKMjOw
+UCLD2ZkdEkAKhDETsK6QeDnA	Farrell McGuire	sgMwH1HyYhg
+UCyass_94GhrSLxz480YFBPg	715 Trail Cams	1e0ODHnu12k
+UCYI_ychRnL7sJrG6PUSBpQA	CBN News	6hDuIerYJyQ
+UCLRRT6VAR_cVbTGiPRAkN7A	JOSHINBETWEENER	25HOT7aNU40
+UCcn7OpUSDcHBIo2g0jKW2GQ	Creative Eye Presentations	zhzbeVcUeZ8
+UC2Ug_at-Omqpt6HerLJOWyQ	KingFrostmare	3jjG2XVg6bM
+UCiVdCELHSdilQ8sTTGcmBDw	Mr Detective	rKoluhDiqf4
+UCeIKdSZRSAUm88iS4G9_ohA	Psychopoly	qpxGbLQn2E4
+UCxAt0KkZZUxgG3yxl-WDM2A	Secret Origins	kMIH2wL8q20
+UCGX1QMBfoq-vYQTr8MUCDqA	The Pharaoh Nerd	8MrI0b_fLaQ
+UCLwvhlZyZtYa44jLgzXQvZA	Top Generality	Ui7Q8F9QkGM
+UCZbzJz2zcS1KPallG6BuYeA	BE Tv Quiz	uXyBKxbrWIw
+UCbQHdOOXJ80q_nHXQq9-0zg	CistReactZ	4EiIl7ovAE0
+UC2C3D_dv4QXgUQo9co9crPQ	50M Videos	MMrEr5IQoUk
+UCyMqEAi241amR78IjbprSOA	Creepy Cam	DzV30kX61Yg
+UCWsI0LmiDyezbnN2JCL4P9w	Gardener Scott	4o8IK7CkcqY
+UC8Rh-ctoUuP2JXxNVs3Xnvg	Heroes of Nature	7AhKrgPxkCI
+UCHLyP4MuA-JAFBCwxXOEDdA	FOX 5 Washington DC	F1XRrURqBqQ
+UCK3ZW9f2JhXEScJhucMZspQ	Haunted Frequency	PsY-d1XsIo0
+UCnBbQHNiSYbLqH8nybUSH8Q	Abyssal Detective	wYamn5CW26U
+UCC1j6kElTffGHgKkZBsnE8Q	Creepy Chronicles	GIFgxEhY0-0
+UCAhvDdx7KbeJuLqybIRVnGg	Legacy Classic Homes	9ZVQXLMWOT0
+UC8kRP4T6HbZnsheHCuIB_FQ	BBC Gardeners' World Magazine	_4Wd0gNTMDA
+UC1IQWx5rk2rRE8LPyRf1bbA	Nostalgic Melodies	9IP18nEGmFc
+UCUKOZiRKuxh6peXL19oKjZw	FailArmy 2.0	u3Fthb94riU
+UCf9BXjH8czK4t8hzYI-1Pmg	My Cluttered Garage - Outdoors and DIY	OG3gW2kO9C8
+UCf2ak68stIc-2KCzbMpIlzA	Quick Cuts	XjKjebhTfKE
+UCiskgLcBYF-fsc4I2EtCHZw	Doorbell Stories	zDUcncCHJ1c
+UCbwFM-MBCq1v_8uL6XgVMJg	Pipl Systems	RqVYkQmt3Fo
+UCm_Ri4aJNzJ5w7c3g_FRfdw	Scary Bear Attacks	R8iV9Z_mvNI
+UC1nZYLl0iPTf3MXTra1Vw8w	Haunted Creeps	sd0muj6mpjM
+UC5vuzzokDBCHItEvonfY8pw	Gadget Ten	oLoGKBxt7PU
+UCgbilyX-I_xYw6WdLUMYOWA	Steven Z KILLER	fHP9d6N4YRw
+UCw4ccFtBN7dhQBcHmE0qylg	Slapped Ham	4XIM2vA_H5I
+UCDM5S7F6gocPxEDpHxHN_hQ	Mr Horror	IWQ_4T4LSPg
+UCKUHl9qrizvt_cfldeVXuyw	The Grapevine	KBFq9PUKTYg
+UChp8PMYtplf4v1E8gUtglzA	The Hollow Mask	Ju1zucubStU
+UCyXyxZuZ2udv7yAsuixeGVg	New Gen Home	BBpAo3XEOJ4
+UC6DS1pJ0Y9UsjS5jz3cvU1g	Security.org	36qOYmwQiSQ
+UC7nE56XU1u2x6MmbV7VWopA	Try Guys Game Time	ULm479fckh0
+UCkQO3QsgTpNTsOw6ujimT5Q	BE AMAZED	vMRMAlNpdl0
+UCQzCw69UityYbuFwsgE1W_Q	TOP - Incredible Moments	E8CEWellNUU
+UCaPGKhms7rUVjpBceeJUdUQ	Diamondbolt	nh6ynFBNEyA
+UC-NPQYmHM9AagZg2GfaiiBw	Viral Now	fM7EhUH4W6k
+UCqV7UZ1zHpgo0He4Rj2naMw	HardlyTommyNFG	lyBQ0y7K1ic
+UCNic7Bo3jHZ0ERDjGXr4GyQ	Delhi News	Q7c7T2L0g1c
+UCjzEF5kUZypUftfHD1MKuCg	Lip Sync Battle	SHrfHJbMvyA
+UCfDO_4-o9H0hLHW00zWTVYQ	Ex Cop	Y0Z76SigDyg
+UCMX31RavkfUHJvw03RbUZnA	Nick Crowley	RxdHAx_lZqo
+UCP_MAR-m1iBDShrQkjSL6kA	Rittik Baheti(IITIAN)	hIs19a6X5v8
+UCOuWeOkMrq84u5LY6apWQ8Q	TREY the Explainer	fbTF0MjczMQ
+UCYNUwpLfnkVEen8BRACO14w	Spooxa	2gDIIPUNhhQ
+UCJWKjrrUh2KL1d3zXQW79cQ	EXPLORE WITH US	q5kITpYMwUE
+UC40Tw2tFuMzK305mi7nj8rg	Met Office - UK Weather	VlLtZ3YQkpY
+UCCsDTxYpPJBqP-Ng_prbLlA	TheRealFizzberg	uIOKnP__aaQ
+UCj6NrJLWgrsTZ1FDIvvpa2Q	The Supreme	s15rbpc1zEI
+UCqsUiELj5m7vyzNqIuf0VbA	LAST SEEN ALIVE	ifwfjRU1lkY
+UC3ETCazlHenpXEsrEJH-k5A	The Anime Man	r1O9XD55Z8w
+UCt3JiNkefsfbA2N4SgEkoiQ	Visual Venture	MV9Ro8F_bqI
+UC2IcTVb8f5oWNuX3bwbLGng	Mystery Man	-_NTsEtJeps
+UCMZi9Rjb-zv33XFpswSw9Rg	yapmaster	YnqAdonxORY
+UCJEngPkBj88iLo54IF9h5Ew	2 Minute Garden Tips	OXPxLTfVciI
+UCO8fQqYM_EeHxiGYONWt-fg	Peachy	SU1Yi3ijYtY
+UCYXMxrvC6BUtv2DWBwYuv1Q	Ash Garden Ideas	VF5i8BXFWG8
+UC5G0-uMcGFhNts84d24BZqw	TODAY	wtZQp25alGI
+UCQ6Rz-xt3RAOcuFPHuaW28A	Afrimax English	zacenrYGJNk
+UCjai-LbO-VZD7foh_PEc6eQ	The Outdoor Theater	j2sk77PrjZg
+UC1bmi_4FCPaRCU_xrEpOZfw	Case Reacts	pdS4xqOq9_A
+UCgnk1n5SJ3pFRReP--9YN1A	UnBoxington Reviews	BVSRU4DAGgI
+UCXOEfVF1PuxTgTCAiQNP10A	CreepyTub	4PVCvJsQtac
+UCV6ASgUX6jl2-h3uPvUjvlA	Cryptid Spooks	iqE6zRldpkk
+UCucOU3BykLPoXU2KjvX3CCg	Beaufort County NC Government	_QhXSa0iMqo
+UC9r61qohBg1qgGty4_WzojA	GrowVeg	VHsWZd27B3Y
+UC8W5ch7XHznV-y1O1HVyvLQ	Flower Drama	qEmt5ESWF7Y
+UCyI4gi0BtlKiUl6KgtuVIUw	CTV Your Morning	_Eus117ZxrQ
+UCm99dyZUE7Oa6Lm9-wZVlcg	Collard Valley Cooks	yzKA1bpj8ZM
+UCBK8xLMHrq47-IgOco3FG3A	Grim Encounters	jq0IQX-yXT0
+UCiYcA0gJzg855iSKMrX3oHg	CoryxKenshin	xi1RrD9s_VM
+UCmJf6_W7W-Q7rTd5skVEgqA	NORTH 02	v99EC5obCLs
+UCi-vRwB1lL5CmH6o_4CR_bA	Midnight Nightmares	LA3BYccLYRM
+UCfbMtKJQ0uZeqhLiAnoqxiQ	RidgeLife	47U2aYKxNxM
+UCqoZ99STl9za8amd3urxMkQ	Gardening with Creekside	-y4sAD8GRQE
+UCWb7t83rvRh708OY0Jcsddg	Lawn Boyz	jkJ2O2w-pHs
+UCB8MQmVyeA5FGeLSeyq5e0w	Rendervate	1Q4DNqV3RiQ
+UCCusjNoc4dUnakXKo_2N7DA	PatrickFanPhotography	BimeTEgvgSo
+UCch4dPvf4m-y96HfqhbKxDQ	Shadowed Camps	JbcmEzntdnc
+UCRjKgbDjd7W8VVHCpVA4p6w	Lurid	rhbdlJNcwbc
+UCkJGWXLISOKA9JUNFk86PRw	Red-Eye	6Hi60qSsnLU
+UCqFMzb-4AUf6WAIbl132QKA	NHL	YPFSGDvDFno
+UCJqw3aixHuvWDAypm-QKdZQ	The Feathered Friend	kE98x61-ll4
+UCMjF_XeJ_kiRq22nz5UXDCQ	Shadow Chronicles	F3GSPXM33oQ
+UC_5fcSfxRQOxu1ESlradcdw	BerryCrepe	Jl7spfYlZEc
+UC-H-TEqVeWp7kTmayeEqI3w	Quiz Time	sLPrxh-PtIA
+UCxyLs1jY-bu4mHcU1-K4qtQ	AImaginary	gG45xRQ5VIw
+UCgcJaKZZ98YdmtcsyF0KThA	NOW PLAYING	XygZ0yGgjPs
+UCyncm2sfdZ9fZa52NiJhtSw	emiruLIVE	7_zlgUIj4OE
+UCD2wsLsPN1dFmA3K1g3Rhdw	Real Tape	E3CP6Zl68os
+UCOSGEokQQcdAVFuL_Aq8dlg	Justin Rhodes	tOFpKlANZUE
+UCgZH3BaYWeOUgxtc1kJAf9w	Cam Snaps	h5dDon8_4NE
+UC0OqCt6_RCzyHr1-uS7Xu2Q	TerrifyTee	QOc9GI_swhU
+UC2ZSMHYkbMosdKzTtUt1Drg	Next Gen Game Spot	GLxTooY4qYY
+UCCuH_xFdk1nS19s-uYzdnmg	Thrifty Green Life	ActiQC49THo
+UCvvt3vK1nX-ILiCP2beqi9w	shaman oaks	Qu1YnoEkfHs
+UCsknsLvNxJB10JRHqvdCHXA	Haunter Tapes	H3klCQ00QtM
+UCMKGAADhw_D1ROOkTMxbjJw	Scary Encounter	JO4VgUcR9jc
+UC673WfesrYoCgG9VsekGlEQ	LOCAL 12	BLOymA7VgZ0
+UCjJYD85vaiBowhJNqY_pZOw	MindSeed TV	4lb6V0aZCBc
+UCg6A-57akzbRoTSvsU34aig	The Fear Factory	uHssHvXkTNc
+UCMqDFTENBCDbwDT5qnm7FSQ	Super Theater	AT7onmMTFfM
+UCjrEtsIBBV7TyJ9PPyo786w	Proper Scary	G7ts1Dd2F7g
+UCWkwcZNeT0fWyw-plydBjmw	Titan Construction	d6mC-Gu9yLY
+UCFCBGb13GJsbVD66N5OEqBQ	Tnwildcam	3rvsG08MTkI
+UCDfk8ogO6QGeJAYCY0QDzKw	Stephen Sharer	A7PLN4bOcpY
+UCy0YMhFoXGATpG4t5qCVpyA	World Mystery Wonders	gczUkJBGiWM
+UC1-cLZ1SIawqmcxZb1YIZIw	赫茲劇場	W8TzcRz7tlk
+UCV1BZD7AaosAGRXfCWIZYkQ	The Quiz Place	ab_c4P3pCyo
+UCSWdtggn4s1uG92diBbtZng	Frankie Fey	JR_FN6vRrEE
+UCUVa51UA_690sEKyRbHb-5A	The Finest	xCvBTGhp-R4
+UCf4B0veLqktvJIHTP8Am0aw	Gardening With Alan Titchmarsh	Ettd1mMRWPU
+UC8mnXeOlR9hC2w8aYqY9WNQ	Loudwire	h655zrdc9SY
+UC702xJAI7kF4ZXrM4KJtekw	Nira Quiz	WECrMOxxTVk
+UCXufI8Him5ixNfzMxJmWU-w	The Fishing Doctors Adventures	x0fAUyAzNNE
+UCwcIunDnyEnshId0ZRfMPRQ	Chan's Tech Review	kyG8XXPqeqA
+UCadgbKtihArcil5D0QNBO-Q	Camaras Espias	xc16yZ0uIt0
+UCDRIjKy6eZOvKtOELtTdeUA	Breaking Points	5q2sdBYgAck
+UCgMkttSabtyFF4PWDIoimHw	Business Reform	mKr3Acrovio
+UCCKkuXux09y-TCg-BQxCjNA	Code Blue Cam	G7Aslh-9Pmc
+UCaK7R-IC3L3lMbXbHidtH8Q	Chronicles of the Wild	RZ8a8nNmB7A
+UCvnuPH1Bzq1m4CmdDUWZOIg	Comprou Avaliou	-jkeQ10Jz84
+UC2fX-cJNCODSByMC3SpuQSQ	Cats	t2CgkIJui_M
+UCvphW8g3rf4m8LnOarxpU1A	Charles and Allie	ePsLFK1y-Gg
+UC4z_EU4PyUSklkNcrICl8cw	DIY Reid	sU6-zjo3RXQ
+UCOi1VyNdmAkLaczsLiMIUuQ	DODONG DITOON	jRaIM3Xkk8U
+UCwTKL4Sn82a67WKffKFZDNQ	Comprador Sincero	hzTplnxocEg
+UCrtvRaGLiPPWm0QNbRg0T6A	Consumer Betterment	y_gIFOcQo50
+UCIJwLvmNdBiCDyayfkqHfhg	DOLDOL CHANNEL ドルドルチャンネル	Jfy9tiLO4zE
+UCvcJAvDPOIH82MKCJV3TV5A	Dad Verb	m1yRejggRVY
+UCMN-9_JY8fI0Y-5wTB6K3-A	CoseCinesi	Vjl57rgt2Fo
+UC5LC8Ld9WkMQEQmuOvhVpPQ	Dad Life	RwGQ5zblVh0
+UCl1iinIGCelwI4it_oBjF-w	DailyTested	essFQ5_VcdU
+UCu8dv56OT4ZdNyVXISWdFaQ	DAONUEA	sIrta2pKqOo
+UCogwuo3BAd_KVC8N9GaGnSg	Darkphoenix	DArSd0Njpn4
+UC96GdhRARSC5BUptkMBiAyQ	Dave Collier Camping	M3UCCoaFbOA
+UCBM9McSSr-XXpaMVW4JrAow	Daddy's Tips.	qPe2Ukmdzl4
+UCB6P3cbWRJXnfZkjxnD-nAw	DIYテック　ナガチ	0_WxjI8TjIo
+UCrd5f8FlkYrZYcfgosM7IAQ	DIY Smart Home Guy	Z0_huWh-bgg
+UCdtoloDKybNstNxtT38YTAg	Daaash	EJ3QYtGlfv8
+UCn7L4mbehzBK1JYdwPgsWPw	Dark Record HQ	EFZp-JnWWrw
+UCVuVWylmHVEBirme5XenUxA	Detective Kinjaz	OcU-5pxXSuw
+UCAq1pbf311ir8AH6d2g3mjg	Digital Consumer	1fhPEndHbrY
+UCRI8WEU993_reZTEUCfYrOw	Dave Tries This	FGgqgaZxrtU
+UCAtz6M4Pudg9ELBduM0ol-Q	DuctTape Mechanic	VYqjqvkM6Vg
+UCS2r8jQA_BNr6M8pJngkvYg	El Profesor Tech	bFW3ZxhjRGM
+UCK_jsujcmZt1_7efNItseHg	Dark Whispers	WkqeiTXSAI0
+UCzmnVHB9pBYxFxvmJoRApiA	Depths of Despair	jii4VXiBdQs
+UCEfj0OBQaSK5jNnVXi0QBoQ	Engehall Elétrica	Ox-3ze5L1VI
+UCq7cXM7oIddz2AybXi3YjKQ	Emanuele Iafulla	DAP4BkyZt8I
+UChfRTFlFK0IL43tf0DvHTPg	Escolha Certa	LLlgNimZWCI
+UCPiF5663rbPWFUzfU0SfNcQ	Eclectic Ideas	-t5t95IGFSk
+UCDGqNf14HSF9v8e-Qmp7VXA	Erin Lawrence	1XPiTefAIDA
+UCwMGwPe6qW99O4iifloo02A	El Rincón de Cabra	lC_pK1Z2dzk
+UCxKtgafSIw1PiXf4lwSZChw	Donny B	36B5ni_pHbs
+UCfVHiWVdpL7NToJYStueb9w	FactFaction	c3UASzy6B48
+UC1l9NQ__kCp9JoBnuZsaUjA	Extreme IT	P62jyxSg8lc
+UCLWTx3z9XAkDk4FwofapCyg	Enreta Domotica	NGykbmUg_58
+UCB3jUEyCLRbCw7QED0vnXYg	Electrician U	XNKnWm8ZjDo
+UC-6nS_kWwyaXNyqq9EoARYQ	Fathercraft Reviews	LeutD4tIz9M
+UCAPeu_wnvIB5AkQ-xnkLOJA	Eric Welander	g0kcnBZNJZU
+UCU4BHh9Dwfd7-I_xTZ5037Q	FilmRise True Crime	YNrdMkOnq1A
+UCDUdvPnNWjQCif_GnrhUE6Q	EscolhaSegura	B2ne0IWZv00
+UCHBZv5GuLHYd9jEULsOrKuA	Fort Knox Co.	PHYk-ikFc54
+UCo2v8V-zLSiYZ908UyVSLBA	Frakking Creations	_AjOV2p1FeA
+UCKYw8Xxc3-m1N6o45gevfQA	FAST - Instant Karma	V00s7LVe6oA
+UCpu5POjDg130dVb6R7zDFIw	Fearsome Top 5	_v_Il081y_8
+UC66ysWRFWfg-V5RhnQN4wFg	Gadget Evolution	A9DlsQyZuYg
+UCpkwz2Sk-CsobSys6UQVBOQ	Final Footage Files	pel_I14UeEo
+UCCl8DFgZpRv1J6QRJoODMgA	GaraGulp!	FW7BlETAn88
+UCRO3p9mYGpvYjuubdZNHhVw	Gari Domotica	VCCAUgpa58Y
+UCV306eHqgo0LvBf3Mh36AHg	Felipe Neto	FP4wNtoTt0Q
+UCAWFU7QSG9_m82viXaVZxKQ	Girl Meets Tool	qQuN49Y0SsQ
+UCiof9YSQHD2cawGJXZ8DyBA	GianpaoloGolden	AH_pHdLvj4k
+UCEdPspX1v8IH6Ids9V24ZoQ	FunThomas	tDLLPYlu-vc
+UCGc6HEP8zln2eWLmdpeLZbw	Gogetyours Reviews	CvynMd7zkM4
+UCBp03toXz-WZ6gSt7YtSdEg	Hidden True Crime	F3VnQ6Kfqek
+UCVv5z6HLG_--iAwUeg3eajw	Ghoulman	YJy_UmJsmiA
+UC4FhvdvgZU5CVbXi2uWgiZg	Hodge Twins	NvmxW7GQ0RE
+UCK3apxzVTvP5BIcKSBWMaHA	GizChina Italia	YsUWUkjoatA
+UCp9SsXaQBk0UFeBfugUFKZg	Homify	nZf2EEQabIg
+UCH36b2FN4afc0CCT4pz82uw	Francesco FM	JUzY9B3c_N4
+UCdlktQvYRPgMVyvf_u-uZxA	Historic Royal Palaces	LEffUei70Mk
+UCT9EHa1CrvghG0kGz3uA3HQ	InsideWire	W2lmt28FJNU
+UCKne6f2ceXnVjIyTpRR-5mA	German Protect -  ESA GmbH	Ctyv0zQWFr4
+UCK9WO9hqKmaAccZqCgeOw4w	Hummingbird Spot	OEdTSZpHk9I
+UCxuoGWp6uGvORqboC93m9yA	Giuseppe Gravante |Tech	pV0JcCFVWdc
+UCFCRivKFDYRyGOTdRv2MjQw	Jon Hibino /ヒビノジョン	D_rKNgO7SaY
+UCxz7sBKlpcpyCiPwXupRymw	Isa Marcial	6gaX65WZKAg
+UCmLo7ab5A3vnzPyiZH3y7nw	Jonah Plank	fD-olqBimYQ
+UC_ag8hv3t45_l27RKAVoTgQ	Grandma's Nightmares	TWJdQFOCeOo
+UC5T5s4kvmNxftUCFKfSQBaw	KIRO 7 News	JMcDuw0xQ08
+UCxbCDVe8TuzLbPFnxlC55Nw	Julia Trotti	VNIyACqk8x4
+UC_-8aLreyV3gUIrqB7F2o4A	KT지니원	VvBnTVU-Lmk
+UCD-7P5ATAB7gfpB06x4NSQw	Haunter	Bft1hx-EqPo
+UC7kuOnlupF366gPI1RFa7Mg	Kai Testet	VmG91MxKvyQ
+UCn-fW8zEZW5COHD1l1S4sjg	KARMA PUNCH	_VovAhtPTgI
+UCkV78IABdS4zD1eVgUpCmaw	KhanFlicks	VDlA3B_vAUY
+UC4SLLUKhMl2Yv6dVpEPDRcQ	Hookah Anonymous	8PJnTYlYqUs
+UCeLLLsJGTfgKgHN-K32vhFg	Khacho Tech	Jh1ApkKM0UQ
+UC3XTzVzaHQEd30rQbuvCtTQ	LastWeekTonight	Y93ljB7sfco
+UCVoGBK5o5cocQsJ2_s11zUQ	How-to and Reviews	dkh-kH5cVZU
+UCYYSC-j_1lwljCxFAS5AKww	Lawful Force – COPSCAM	4GhS9nJ0sEU
+UC5flcH9DY01UpoCw3y0QgcA	LANstar랜스타	mjV07JrqbVg
+UC0FF8rI64vIy1NKJg7OIJng	LetraJota	6hydXMoKvjk
+UCXCLaaClAWQiTkl3pw9ZdLw	Law&Crime Trials	paZGW4QvSAA
+UC6PiEr5ig3dT2lje5sCUnRw	Idaho Statesman	Ai7F2sYM9vo
+UCBeB1Zo6-KbBYNJLwjAP3gA	Lindey Unfiltered	bL97OYO0i6c
+UCZeMNYjnDlgvJfkb5zTHIXQ	Lucky Goose	XwSs62t7mAc
+UCOC3CmdHAXsgniMpB00YuKQ	Les Disjonctés	EJAHhq9HwEQ
+UCLJVJoj_SeZBs34w6V-etPg	JN테크리뷰	oL3_BMszUhI
+UCHOBvDVA-q1ozIlLBpLgpEQ	Lim Reviews	-rdxh31pcvk
+UC8u53LEEi7oGrQCv6Y0jfPw	Loving Paws	XACoXJ8ejpA
+UC5iYuXSliCgk_mtUJa25eoQ	MATTIN	r9INnYqcEZM
+UCqRSlH24d49U9fQPlXCubDg	Lopers	9klKHHq8x34
+UCaba0JwZkHrUHDIb_hgIuCA	M1Molter - Der Heimwerker	PX2A0VEUsww
+UCd294ZJCNIthgHz9I2odC8A	M1M Tech Channel	QaAYMtctTy4
+UC3Gh-hVVdZXDuTMNlqyHYBw	Just Vlad	InoEtJYK5KY
+UCB0N6D1DsiphvnR-23Ee02Q	Manoha‘s modern Life	wFF5uelpAN8
+UCI8V0wOaigGdBpv5uk7DxxQ	Kyoot	DWj4jFDPLfc
+UC5kvTZRa5QFzsV2iFqc6gaw	MateoEC	xNi8g47Wkes
+UCMK6UT4HQiOdtl-1SAxxO_w	Manuel Agostini	J6me7BWxXH4
+UCdmiGE0fwh5D2QJPfQO_EZw	Men'sReview 맨즈리뷰	Fenj4-RxTdY
+UC9F2klx6SlGgj3AlWphBTMA	Leroy Merlin España	vK2pzdlmU5U
+UCvIpyZwICuXUJxgFZxJ1Xpg	Michele Dicati	6Xu9ARpYTYQ
+UC7HgtDweBhkleTOjNo_w8sQ	ModernDayTech	KBYvDTaRD8A
+UCRj_ttT-q3iOUwX4N6FgKgw	Me llaman Geek	wL_jaNGB4N8
+UCm6MOtV16dFsuhQn0npWLLA	Let’s Talk About	M0CpQkYlMeA
+UCiSfD5DWBt4GvRqJZw-b-ug	Mr. Assombrado	EyxvG2ZPXRM
+UCZRoNJu1OszFqABP8AuJIuw	Logically Answered	nNt7tfN0Bu4
+UCzlAOnMzcBP852R-KBTBTIw	NESNAS BODYCAM	h0rJmD-We34
+UCAmuL3MHbq8US9LYhaudz7Q	Nightmare Feelings	knXtwdMSnnU
+UClqQr4H1HadkCaK_ZrlmQ2Q	Neon	fmVOPn2iWSI
+UCme1dW8I9qdj5XlrDJ5Ja4Q	ON PATROL: Crime Cam	qOXxMzrpzLI
+UCZMdB5YrdVSnykC_cb8JHcQ	Only Nature	n5Wf2-Vf_Yc
+UCKHhA5hN2UohhFDfNXB_cvQ	Manual do Mundo	cRK6G7vp0Og
+UC_8-XIaYYPVI69FPc76y6lw	NickInTimeFilms	gIIZsk-quAQ
+UCSzmOC4Fradi7iveVJz4wJw	PD7	fGrBXJwE0Cc
+UCA9GsUuByUDTH7-Nupmz1EQ	Maxtaylorgames	C8RXPeGMEec
+UCj3iQ_hv5YC5psi9qRrpvQw	Police Bodycam Arrests HQ	Et29OLXDq3g
+UCIa6MNbmJSv9-9MhcGL8y9w	OUTAPocket	C4nSa344hr4
+UCXSmHxgiXDXOX3hjQAAb84g	Nikolas La Rocca - The Unboxr	eTutKMo9qCo
+UCXMYxKMh3prxnM_4kYZuB3g	PoliceActivity	HeXxyiO5hN4
+UCW8Oog9pSV5i4pC4aEB50dw	Police Watch	YR4pldm6_Go
+UCarYTcD_WfwI-MkIgqTKbWA	Police Bodycam Station	slWTB0oCczw
+UCoJP9pYqZjiJOlR4UWdPhow	PetaPixel	fopR9wS_9n4
+UCZ0hznff92f_i1wpYyi7tPQ	MikeTheTech	vNaITSJMVt8
+UCrdmVZFnDoGvZo4fHHAiaNQ	Probier's - Bau	7-65TAGRO9k
+UC8EMySJlGzQr_p6UQ-ZHSJw	MundoReview	bUoXtHYjFV8
+UC4jRFRKHlxAvrz02IfvAfEw	Pro Picks	8pA4L7vG344
+UCPOhHPKR4NPBA-NNMwsWHSg	Police Cam	8voqei3aIb8
+UC10Zb5-9Q3CBJAgusjp5Shg	Por essa Dica	0Au_93dms5I
+UCTPteN1e-9MYr0lmyx1ApKA	Real Body Cams	6eR_0MqMYhw
+UCPfc6H0g1p4eUCo3P_no_Uw	Review Busket	CsfZ7Q3dWaw
+UCVvL4xdzMg56QBFf_6g61_A	Quick Look & Teardown	stq8S-OkfNE
+UCi26H8N1bzj-b4Nipzdli0w	NerdsHeaven Tech	NKUma-KKDwg
+UCgWrxI0AV1mujg11VRyw8Ag	Review with Harper & Max	iprpYrJpRaA
+UCM4e6G_q286SrYp9MIDWs7Q	Ryan Smart	35WTMTs4PBk
+UCV0-yTcTA4yudicZfQ8ifCQ	PureReviews	q0czVSAPzao

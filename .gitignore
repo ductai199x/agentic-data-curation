@@ -22,5 +22,4 @@ Thumbs.db
 cookies*.txt
 
 # Video screening temp files
-configs/video_sources/_verified/
 configs/video_sources/_tmp_screen/

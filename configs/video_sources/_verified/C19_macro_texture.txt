@@ -1,0 +1,117 @@
+# C19_macro_texture — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCRauo6y9tx0FB0OLLtqLA-g	4K Video ULTRA HD	IoGbg4ehHNQ
+UCPY8H_PeS_8dbVjwD81xUSA	Adaptalux	CGNiRrmmeE0
+UCk2m6Wfr7b4_6oUl0FwkUDA	Campfire Master	8rdMyKkvQAI
+UCOScpfGhL60yBdDVde5XHxA	Jamie Spensley	EuJPHvwxmNw
+UCJ9XPzyAZ4JP1HqxAN71dMQ	Micael Widell	8YrgVipXXBc
+UCWYr9nwkynyYNLjQkZZ5p5g	Photo Owl Time Lapse	zQV9EOT3lto
+UCjcjr8OhwzA1cvG_1BYnUlw	Roman De Giuli	C-inlOWey5Y
+UCvUrLMjtFH3qe-TMpX4VDTw	UltrawideVideos	Gka7JgPHFcQ
+UCoKMBuQ8YejlCbNm77ZL8jg	Air Photography	JvWTXYZW8hQ
+UCZjKcVkwUdCK_RRrUQeUyLQ	Ben Plays Games	5zAvVZnW5Zk
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	YYV0luRdoac
+UCW9JACosTnXzREUzH34Z98A	Drone Valley	Ns7JJzqW_gA
+UCeRAcc1Xg1S6_MCzahMb_nQ	8K VISION	ULc71nWkxl0
+UChujSNPbb9216kZNyvXrZ0w	FreedomInHours	sUVuRQhYzC8
+UCXnvLHEf5t4ncz2DCLRMmpQ	Beautiful Relaxation	xOv2GaiLPjI
+UC0fzS8ZTBti6L0In-HTeqmQ	Joe	1SeI1bosaD8
+UCGxO11YEar5LJghJJZxofQw	8K Clarity	dYJ9_aUKTOM
+UCaJs3QtwUWJ2u_sdQVBs4XA	FOBOS PLANET	dNhKgBpX6KY
+UCltKNUUjx6X7X9ab93SQWxA	Andrew Murphy	0JnvswnWqJc
+UCkDxvN-bcxsKkvJ3yyiGSVQ	Hedgeye	6LrF4ltVR2Q
+UCpCV7SUJuOr9OMSaUIc4lag	Channel Art Background	xIYZoXxPhGA
+UCmg86wPcjLYttKNiZm0IffQ	Nature in 4K – Global Edition	aAY7MkOVR3g
+UCtaykeSsGhtn2o2BsPm-rsw	Make Something	T7qdHzlxAzg
+UC9xyo1aB3R85hooBCJr1ZeA	Eugene Belsky HDR	8LJcqgdxebY
+UC1tKrA3PQlDzKzmhgq7wPPQ	Pasta Grammar	bRUhPVJ6XOQ
+UC497r18hyShx1ffsYcgK_kg	Kuma Films	WozbZMljRiM
+UCvYMqNuLYKaGrlLhIC_cVwg	Relaxing Music Source	r6bsyo_f47I
+UC8w-j3Xeky3yRIJv-Ast9GQ	Robin Hannevig	Pb66leuMamg
+UCve7_yAZHFNipzeAGBI5t9g	The HDR Channel	9uyyOHIidMA
+UCrz03N3HMlCarlnORxxi9nA	5.1 Test & Clips	cVby_icpBb0
+UCThY8lOKKkVDd9HVBT59zCg	Still It	BrRD-w5htRQ
+UC-_dLl34OKbAu6LfwxX2mag	Love What You Do	wHJm1zeAca8
+UCPd6RL99Yk5Eb5qJQVlbuTg	TRUE 8K	VByUQX3MFrM
+UCASPsfmVJkEsWoBY28dYaeQ	#StruggleNation	okVz35j0s9s
+UC8D_NXFBh8A9KSwo7x-wFdQ	8K VIDEOS ULTRA HD	_z1Jf9u2jhA
+UCaF9wt2WbvfGrY5ncri9FmQ	Bog Life	3dV5YKn7oPc
+UCVdE2LIYHS-ozeO2yPr3OqA	Autistic AF	mkrBqpJ9XRM
+UCtV0jyO_aGii8b_9oz0FktQ	Animals and Pets	Jd63DbIEOvs
+UCj9xO8EKnvIy6AE_xkSyW2A	Consequence	3064rif_264
+UCHz_K2AGbZd72dklF4kd8Hw	FIRE WORLD 8K HDR	RTbQmYOabbk
+UCZPcz_u99NG5Zp855NAerOA	Christian Eggbauer	OuFwC6YUtRY
+UCE_WiQFez8FZcICpbwblyyg	MooMooMath and Science	RjNJJGjVr08
+UCY0ceNJ1gybHYUmGjoz0YsA	Gary Gough	cCz5PcLtj70
+UCDtnOp7jxs-OxlHrYw6QTAg	IrixGuy's Adventure Channel	yLz3JgztTps
+UCpDH7cFw8cFwAShgqahdviw	Cooking with the Coias	xi9MucQbrL8
+UCMiW-YAIlZwVXp3Ip_akE_Q	Relaxation Time - 4K Amazing Relaxing Screensavers	c-jYt-RT2fw
+UCnIjJgJt3m2ePe3xYCO96cg	4K ProRes ULTRA HD	IP2ladjkgmE
+UCVqFFEjP38nLrD4nFJaPMkQ	Sea Tribe Films - Relaxing Music & Sounds Videos	IEfUcgSll8A
+UCxDJbNtgLYUwjPg_xYjvSwQ	Otto Julian	S0_1PCxWGkI
+UC-JeIvuQm_bGMlnaqsxji2g	Jennifer Morilla	-zi8dULGOs4
+UCUK0HBIBWgM2c4vsPhkYY4w	The Slow Mo Guys	_PZ6JX93Hb0
+UCvCm5Gp3KNR5XWFmFj_tI-A	Polka Cowboy	XIkyuG-YqXo
+UCivA7_KLKWo43tFcCkFvydw	Applied Science	-cAB5FG4bXI
+UC8yrz9RAUzOq4CzRAdLg9MQ	4k Epic Horizon	zwvPXgjyBc8
+UC3RYNOKIpKE_2P-5ZapWIYg	KingWoolz Games	5mF0DQyfrOc
+UCWxiO_Br1awgEjy79VItspQ	Ant Lab	vEgJW02R7uc
+UCsjND51fDodzbjh7XxHKoKA	4K ULTRA HD	bISjQKfh-HA
+UCUlYQqIp-bgnh9KwZ0hrDHg	Bonfire Ambience	XFOt8rCCejw
+UCdYwtsdkLFUyKYb7hj-1Szg	Tech Court	zaL8SfxcBo4
+UCzxrJKoiArcfvgIEm7SKNoQ	Camera Club Live	rKnZgSXkqzY
+UCgzbXVZe1lUTrKLH8CW01oA	Norwegian Fireplace and Campfire	vjDzjlHpjLY
+UCVuhlP7wb8C1pyWACz33UvA	kikileaks, with kiki agbor	ZvGbZL6FRO8
+UCL37XR1YrpodR_HkAf3uGjQ	Paige Brunton Business	UN3ZF49bsKY
+UC8a40BCgmGBlBvKjdYmgOyQ	FOX NATURE	bQQjxgsk-aU
+UCVVrASWe9lQQGuYFlh2eTIQ	Aura Drama	tMXl8Vz8hdM
+UCUfTtcFhHutEZOiqpP3gFhA	Rachel Harrison-Sund	Xm8Uyt6vwD4
+UCGRNnkhDkrvupaSn9xETCqQ	Relax with TV Backgrounds	UeYpZ5C7rGQ
+UCRte954rw0oeMWFroy_ClAw	Chris Hau	G7G2PJKasaU
+UCX-BbEqgGi6z0Nf1mYYR6bw	Khabir Outdoors	lccICT4TLDs
+UCJQjhL019_F0nckUU88JAJA	The Drone Creative	FxaEwjDRPD4
+UCza1hvHVZmCh0Bzk3jl5NSw	Zenography	__xdrgAGWm8
+UCccXcNwSNFHcDQMX5dwxJ5w	jennifergala	TDIDmr6Jmhw
+UCq-Fj5jknLsUf-MWSy4_brA	T-Series	egsdi3ED76k
+UCI-Ho-GaKYbtMzXJWmWAsrg	Cat Trumpet	sZzdM3b7lPE
+UC1qRytOKBZgyU4G3RYj0QrQ	Drink In Creative	gc4aZ57hFjA
+UCRYOj4DmyxhBVrdvbsUwmAA	optimum	hTnggqnC3ug
+UC6nJLzpsncQW4d88YrpZAsg	Legendary Shots	eiBsvTOj5a8
+UCWKHORK-rmkUl5VLN3npUvA	UK Wildlife	SEHI-m00lkc
+UC0pvgRCtfUGDVglD2MZOFDQ	Ahsan Abbas	SDnL93IaEac
+UCZhw5e8FZd8dN9uAicgDLOQ	Mark Kerton	Xx6IGdZEtj0
+UCPpGfrRcEhnzzx1PsphBNlg	BA Creator	_3QKequWsWE
+UC9LOPZX4USf8oXGMIUhrtTw	8K Cinematic World	NTMbbRUrBGM
+UCTV19ViIuZVcBojkSmZkirw	Cooking With Ayeh	qwbkpivzhLI
+UC1WO8hZv8OqLILMcXYY12iw	Stewart Wood	pJDe63LFJmk
+UCXoxY4LJeCc_GDIBWwhATpQ	Instant Drama	0sbNslVrkJ8
+UCwbR5A9Lit-fXwQyaxT3fXg	Andrew Lanxon Photography	Ag53CxITmSU
+UCIrgpHvUm1FMtv-C1xwkJtw	Arizona’s Family (3TV / CBS 5)	wZYRxxh81bc
+UCRQ8p9FxtKTFSUEEdFjD3Cg	KazzaGamesTV	9azz_tQ2Bdw
+UCDryLYFAJpdiX4znoACX-dg	Science for everyone	2OMdSiJNEbc
+UCgDcCZDBaXtAQGSc-Chs0xw	Colleen Edits	c4g6T7db9ZI
+UCj8orMezFWVcoN-4S545Wtw	Max Derrat	IUfZtUxrzF0
+UC7kPcKTWb4Wf3ql9TivVRoA	Degenerate Jay	rPJlSmNUlB8
+UCeO8Gmc2B-3G2fgcFnRR4Xw	Dylan Jahraus	IlfifyuhJvU
+UC-we2gvccoWe-yggtUh_7AA	Gardener Coo	_SLPBbOWRIk
+UCtfu_ydYvjd-fStcpslRkzA	gabbygolfgirl	uUX39V-4MSM
+UCDZO87Wbd51ZO-3XyUHnp-w	Mistertroshin	5bSlJg00AWs
+UC3xE9K-djntP4aOPSg_95rg	Papa Pang	-UocD8K1qrc
+UCe3OmUXohXrXnNZSRl5Z9kA	PraveenMohan	tUcixg9Ld3I
+UCBk3DBvV-o5fbY84vO5nrUQ	The Tipsy Trope	lR46_j6Bm_8
+UCy0tKL1T7wFoYcxCe0xjN6Q	Technology Connections	HFYWHeBhYbM
+UC2j4ZeDzQRXqIG-Ui8EoLrA	grimmlifecollective	LWuNSImmnoA
+UC7AjBt9oy_IHUSKO7y4LECg	R&D VIDEO	NvzD6acwOu8
+UCsooa4yRKGN_zEE8iknghZA	TED-Ed	-Tw81EQYV_Y
+UC-cOLcNeV-_U_fmcb7Bn9iw	Wild World TV	Zuezi6tzW44
+UCe8g9OPQGQWXzS5zI1t2qgQ	4K Video ULTRA HD Wonders	CO4GoqGyjNQ
+UCdnBWzYQfkql-o460NTL1Tw	2 Guys & A Cooler	nawXZcTFR5I
+UCmwf656_nAjxFGxfC6Yw0QQ	Cooking Italian with Joe	UucSCtFoD5I
+UCNZMOOmPJStgwhiJ3x-MZ_A	Marvelous Videos	DHi02GXOxTM
+UCkctXInfNh0Zf4p93itIVhw	Peter Forsgård	w8VwoHIoVA0
+UCK-0srt5hdY5m6Zos_NlJZg	The Secrets of the Universe	hXMHxum92gs
+UCU9j9_inPFpsOCze_RX-41w	CineStill Film	zjDHxrHYv18
+UCYeGh5VML5XPr5jYnzh3J6g	GeologyHub	huushIi803k
+UCxLrvjGBzYmj8W1rJToPasg	OzGeology	B3TjUpBQzhw
+UCC-T6bIJfxiBz0V9GdQJDOA	Tamara Gabriel	ZrizhtyVjSU

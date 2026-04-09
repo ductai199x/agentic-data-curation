@@ -474,393 +474,290 @@ UCJ_3L5ElVq7fI0AAB91tfng	서울대학교 Seoul National University	20	1184
 UCGkctuF55veBi7xDGCgcYkw	東大TV / UTokyo TV	20	1799
 UCHVi0zaddN70P5d53hETkFg	서울대학교 아시아연구소	20	4596
 UCMFtInytGPb98UUCjJHdsQw	재단법인 지관	20	1582
-UCkBs3ET6tTCKPu1nFmoQUCQ	Michael Elrod-Erickson	19	1467
-UCc2ky_XjqGFReN3AnKuA9xQ	coursera guides	19	636
-UCKdqemCGLUNIBGQhx7aFsWw	TCMA Gaming	18	204	4K
-UC5U_5BKUdeVdMfmfFyAtYQg	Mojiverse	18	580
-UCeXzwvhZVRyXUKmkeUbbhqA	Geoffrey Jefferson Brain Research Centre	18	1529
-UCdCukASWQ1twVmS_Fev5AAQ	Yong He	18	4004
-UC9ZRaMRtVgYRfBc-ojzzTnQ	Adam's Axiom	17	995
-UCfoScwn69ekXXWNTN0CLGXA	Jakob Foerster	17	3976
-UC_zba9NxKAFdHHcObxNO_jw	PSU Graduate School	17	2467
-UCuPUeipIIdXYdo8wKyAKKdw	GECE at Seoul National University 서울대학교	16	2617
-UCA9BnYc_INM-nbHRpUxXBWA	IDEA League 2015	16	5313
-UCCyeYZAT7tGFLZrhOIodAkA	Barbara Oakley	14	1615
-UCnigNeGSTP6kl16gRvAViaQ	서울대 다양성위원회 학생인턴십	14	777
-UCHHkvupYInGs6sdcrWTOj6g	Oier Mees	15	970
-UC-fsW3Y0Q0txbPUfZC5Y4cg	Free Online Courses	13	570
-UC-QTh5HFiw28MwFrmFrRjzA	Beginning To Now	11	9350	4K
-UCvU7RlKUbYYYNKx1bF0DmcQ	LECTURES FOR SLEEP & STUDY	11	8477
-UC7a3SEYIXY2R4jOpqLAAdXA	Paid Course	9	343
-UCjGpgaQ0vmXKcw3wlLUJsYw	Simplified by Besim	9	503
-UCm21JYoQSv48fXAiMfkt02Q	ERC-ACI, Seoul National University	9	4777
-UCfRUDk3Y5zmrXM_COq3TSLg	Hello ACGS	9	597
-UC2VIfoXbB-cnUsClUOPC3hQ	Nap Academy	8	6860
-UCD3W__mDg62rH6IZimp0cgw	NPTEL Office, CE&T IIT Kharagpur	8	5717
-UC_fd5nm34D8lL8w4uODtOCg	NeuroZeug	7	837
-UC8VhAX-voAUegprM4SpHQJQ	Wacky Science	6	706
-UCumyt6mGLaVO4_N1LkAoXdA	Dr. Baland Jalal	6	1583
-UCi_MfcXU6fvE9HIC8VNYsbQ	NA	6	1564
-UCixIcIFAnsWJySQj1ruZb0w	Coursera	5	425
-UCpSFXjBMC1_tDT2MOj3VYKg	LSESU Economics Society	5	2064
-UChGDwNgX0xsA-lLkSQM_kag	MyGCSEMaths	5	10929
-UCC5SG4xFBms6xcAAl7ys_Lw	Sid Jain	5	3868
-UCDZTux4gXaqD4zKUSZ-1T-w	1stShoppingChannel	0	0
-UCOATykT1PEVAve3vDs6_Eeg	Adriel Brunson	0	0
-UCj_ftUuFQwBOiKJicsE_72A	AI For Beginners	0	0
-UCCstIG7wBV08IAEkRLnE2vA	Alex-5-dim-space	0	0
-UCLPeVIMErfiRaJP0apEYJmw	Alltrade Tools	0	0
-UC2tVlEuohl56ay0Qb4DoRTQ	Arivi by HCL GUVI	0	0
-UCq582z3D7TSkMobYATeuQNQ	Amrutha Nandan	0	0
-UCuTGXVZsBzi7lWti1Nnxg-g	Aryan Lodhi	0	0
-UCZ1ynxCvmghl5rR1gjJEkXw	Bella's Comic Chronicles	0	0
-UCnDHeordwqE0Np0Z7AUQtPA	BoomDrama	0	0
-UCab2KsB-yV9cyzrbwSJ1ZNw	BobHowToAndTravel	0	0
-UC_4tXIagxlT1O0le6LJsCPA	BrombergPhoto	0	0
-UCH_hHwkXLnSvpBFG2fd12yA	CTV Santa Cruz County	0	0
-UC8CpOwfEsl6svBQ1zPU0o9g	CheesyCam	0	0
-UCzKmHpeFesg08AOTYf7kf6Q	Chimera Lighting	0	0
-UC7vgBlrlf2EIx76xNrHyyHQ	College Friendly	0	0
-UC3UbGrV97_wjWYA6QT9gmEA	Content Creation with Matt	0	0
-UCTL9oSmoynjJqQBGOG7nkVQ	Cooper Lighting Solutions	0	0
-UCzhqzDgXa3b3umYUHHz3uLQ	Curiosity Atlas	0	0
-UCk4062RQXYoSLTtpNdwaO6g	Cyrus Mehdipour	0	0
-UCdbPil0VFKnBrOJjB2_4h4g	DEPSTAR, CHARUSAT	0	0
-UC9rzQDiRJ2bBA9RNuLPvPgQ	DMF Lighting	0	0
-UCR5wS0-GNU30yobwcF19j4A	Depuley Light Up Your Life	0	0
-UCApR0iC5vPzRsUsmjeY3r9Q	Digital Genius	0	0
-UCqwprxw2jfKT5bqSsxhQTvw	Dr K Seefeld	0	0
-UCbb2-08h7K4Q3_d6Pc4o9Rw	DramaBreak	0	0
-UCq0EGvLTyy-LLT1oUSO_0FQ	Eddie Woo	0	0
-UCltVEZ6GecWntoZ19FvaWhQ	Ekeeda	0	0
-UCzzbImfr45fazLZ_N4wMUBA	EliteFixtures.com	0	0
-UCe_wxUe-s32EEuEJyG00U2g	Ellie Richards	0	0
-UCylqgu2ojsCxojFpQogowOA	Ellie Sleightholm	0	0
-UCUvf00zSAFFH0X1FyZzNFUg	FOTEXON GÖRÜNTÜ TEKNOLOJİLERİ	0	0
-UCc0mXATpKbC9gb8lnHPzrFQ	FotonexOnline	0	0
-UCKaa_QKxOKv19FIfE0G5YDg	FPA Youtube	0	0
-UCAG2u2KEkkGy4yWGeKa_u7Q	GVSUmath	0	0
-UC6-NdwwgCY-DFaFDeEGr6BA	Gear Glasses & Gadgets	0	0
-UCH1oRy1dINbMVp3UFWrKP0w	Good Morning America	0	0
-UCZMvJVq-HD6n3O1pHEF88xw	GodART	0	0
-UC7RARH-RK6B4Mcze3x_0iZQ	Gray Technical	0	0
-UCtwvwdPeVRjN8Fr606RRv5g	HellermannTyton – Professional Cable Management	0	0
-UCT7uKjjnhi3eozGVrjKfTzQ	HouseCalls	0	0
-UCb2aFMZk4tlxotB14sNBQXA	Hussam Hourani	0	0
-UCwAnu01qlnVg1Ai2AbtTMaA	Jeff Su	0	0
-UC-yoGvOi4AyPNq9TLPDNMLQ	Jimmy Brown	0	0
-UC-f7g0ef1GOROf1CDuzb9dA	JimmyAmericaPhoto	0	0
-UCsbkK0T9L7Ng6yduhMBDvnA	Jkskks Jkokksn	0	0
-UC_iD0xppBwwsrM9DegC5cQQ	Jon Gjengset	0	0
-UCwmA2XoPBvSEM0T21NjTuwg	Kanao Recap	0	0
-UCMRKcgq93-fjM01aop1HSDQ	KerkinStore	0	0
-UCvU7tR4iGSmqyd0cJulRqcQ	Kupo Grip	0	0
-UCpaOtZlri4pq-0yI3UMF8tA	LED Light China Factory Manufacturer Supplier	0	0
-UCJIfeSCssxSC_Dhc5s7woww	Lex Clips	0	0
-UCwNWGO2DEVHTpcfExpZD0yg	Lighting & Studio	0	0
-UCS8aeJ4zisc7zCEfIFJoCBA	Lloyd Celeste	0	0
-UCSvAsTpVyYrDWuojyueX0sQ	Lowell Productions	0	0
-UC5UuXUBAlmxshXhajD1qSkA	MOOC UUM	0	0
-UClOR1BiPyOkkIAnv9Cmj4iw	Mario's Math Tutoring	0	0
-UCXROAAfrDEOjOY-toGCpatg	Marks Manual	0	0
-UCuqEFGkNJ5TpwpiYXpIMfxA	Matt Spaugh	0	0
-UC9HGzFGt7BLmWDqooUbWGBg	Matthew Hussey	0	0
-UCnIAWJt-H28cLC-qeovQqJQ	Michelle's List | Sharing Amazon Favorites	0	0
-UCsMica-v34Irf9KVTh6xx-g	Microsoft Developer	0	0
-UCN4caNO-iJ8-4jGB1WOdo9w	Miss Estruch	0	0
-UCKo9qYvg8ELZOXzXEG6Ft6A	NEW TRACK MATHEMATICS VIDEO	0	0
-UCJRVZa4-x0RJo0dffNGsSew	Nathan Humphrey	0	0
-UCiKqmXRiv7d5F6sqcf9893w	NewCeilingTiles	0	0
-UCASGBz9CIre1P7MQrOaar-Q	NiLTime	0	0
-UCGGxP6KHqkJPV_k3XyMe8rw	NotesNaka	0	0
-UCHsHcvXLRx-98HEkBLeQBHQ	Nuruzzaman Faruqui	0	0
-UClKKWBe2SCAEyv7ZNGhIe4g	Orange Data Mining	0	0
-UCK1rRpC7xNxet2Zb4pTIZjA	PankaZz	0	0
-UCwz55Mvn3AOOOc3xpJp9dXw	Plugged-in AV	0	0
-UCY9zVUgUhagBObrPo8fgarA	Proaimshop1	0	0
-UC2GUcyD6KYjmU_ofQtPTSSA	Robert Welsh	0	0
-UCfOm7ZB20KBET58SumuGNsA	Roberto mariani	0	0
-UCLPhWMHnvbPDbuC0rQnpRHg	STEM in Motion by Gaurav	0	0
-UC4L_JzU8JJoTXtGPB8wwVhg	Sak Study Hub	0	0
-UCOv72g6J1cfOoRODUHK0DOw	Sanjeev Kaushik	0	0
-UCANefQ-G575M34M7gAViSCg	SardonicSays	0	0
-UCs9lU3KF6bVh49qDJnK6zbA	ScienceWorld	0	0
-UC5g5E6QXAqDa4p5zbO3utRw	ShenZhen Rise Lighting Co.,ltd	0	0
-UCLg03Wur06QqH5n3mhX-Mhw	Sheryll Francis	0	0
-UCsq680qHdsrimFGbXG7BhSA	Smart EEE	0	0
-UCvlj0IzjSnNoduQF0l3VGng	Some More News	0	0
-UCf1y3FvYJYPbgMqHX7ZzeZA	SonLife Broadcasting Network	0	0
-UCtYLUTtgS3k1Fg4y5tAhLbw	StatQuest with Josh Starmer	0	0
-UCcyPL0h6l_1wrpyZkE3viFA	Studio K	0	0
-UCOvwywMHzbZTCc7bK1YF1GQ	Sushant Gaikwad	0	0
-UCoqWwPzCvvr5TyCqb7h0REw	Sydney Informatics Hub	0	0
-UCG6TZQdqxg7FJev2U9vMcNQ	TOMTOP	0	0
-UC4CDW9wUE670Qus8FHZhK3g	Tarek Said	0	0
-UCRjEzZ3v1IbkMMS6Bo-cyNg	The Orange WorkFlow	0	0
-UCnjgxChqYYnyoqO4k_Q1d6Q	The Diary Of A CEO Clips	0	0
-UCZfCEg238gC-1Czxg0-do-w	The Outdoor Adventure	0	0
-UCFoVqS_UET3tIF7A3H-ppUg	The Vertex	0	0
-UCQf0mZqvSZrc8An3nS9egeg	Transylvania Studio	0	0
-UCy-lxaEHH32nEC_xbChz5cg	TrendyBuzzz	0	0
-UC3mYNjFaGV4ucwSRR6JsbGA	Twilight Drama Dreams💫	0	0
-UCcDcn4rfCoJfQZZXnzv3SQQ	True Value	0	0
-UCCj2OoEe5iG1tei3Y2eTNBA	Veena Sarda	0	0
-UCNBmxc6FvKyxtCpUygcdINA	WKYC Channel 3	0	0
-UConVfxXodg78Tzh5nNu85Ew	Welch Labs	0	0
-UCdL_ou9aZvVHH5b7Nl-ogpA	WizardDetectors	0	0
-UCxxNfEtCtv-kiu0H36VVYZQ	WoW Price	0	0
-UChChu3MrCF_J1B30oG4Oscw	Wylal_tal	0	0
-UCe5ij4WOTMpHRVkReP-TL6w	cepwin	0	0
-UC_7zLR7fUgG3upHrvnQjcmg	Yiğit Şimşek	0	0
-UCh9nVJoWXmFb7sLApWGcLPQ	codebasics	0	0
-UCyLaAae5gnCA_7kJndtq7Wg	cookiepiggy1988	0	0
-UC8rMdiW-hBk4JjG1Q_oojZw	eAccess Solutions Inc	0	0
-UCQRcG9o2pBhMX9muqLYImmw	eHowEducation	0	0
-UCSE2Tcko-7NQKXwIsRKMELw	etrailer	0	0
-UChItHzo5AQpjq-pwuOWSHQw	giovanni slone	0	0
-UCTWzVeWPV-tu_gCtGblcuIw	optilearn	0	0
-UClkJxHVmfYqH25ZuQfNQGeA	starastronomer	0	0
-UCepecuejtz08zIcjYAXSdLw	theC47	0	0
-UC_IpSl6O_-IRAA6fiNs05Gg	ABC	0	0
-UCKXjkaYg4odQWPnwbDjaqYQ	AI Upload	0	0
-UCSNZR0NRGd_dmSmfutgLGGw	AXION	0	0
-UCTZauNK37RnacEE-V2hzvuw	Abdul Rafay Subhan	0	0
-UCWHKJfMRxMC5TlMVzZSdhng	Acronium	0	0
-UC5VKM0y3YkmEeCgnclfr2ng	AhaForge	0	0
-UCYRcdzyGQ_zGxxKcqJDFhqw	All Time	0	0
-UCM_ykqLrtM_EUB5AN135e_w	Amara Pictures	0	0
-UCh3LHx1kwcUdupBus4z1uxg	American History	0	0
-UC7f9888CwQq-XmKYRGa7k_g	American Lung Association	0	0
-UChtNhiwGJD7GtSIRBE3craA	American Public TV	0	0
-UCJktyOaYsS44Ff1i_-5xCfQ	Andrew Reiz	0	0
-UC30euz6ew8IOdo4g02C6GOg	Andrew Sotomayor	0	0
-UC0S4iXBlSvWR5dVGpVQShPg	Anime Craze	0	0
-UC7QwagKeKBBE-1RnXC9s6Ew	Anime English Club with Sally Amaki	0	0
-UC312dql2XYBUdoZtgeS393w	AnimeClub2020	0	0
-UCOsAfA06zghgALnXPp4VbGA	AnimeUproar	0	0
-UCMb8zKIDH61lAonsBj4GHVg	Archive of Strange Time	0	0
-UCYS2AltqOOZDDZlRMRGp5iA	Arizona Diagnostic Radiology	0	0
-UCf3BkFTwI4G1vMc6W-NpQNw	Australian Dept of Health, Disability and Ageing	0	0
-UC5CWvazLUNRkfIx8eJmP0sg	AxelBeats!	0	0
-UCyqlbzLoYtpqDXwRI9Yh5LA	BWB - Business With Brian	0	0
-UCSy7xxItn5xB2GILvsL0x1A	Behind The Scale	0	0
-UCCgnbEL97epv-RhIZWHEhuA	Berkeley Lab	0	0
-UCFbY6n5Ge7PJ98AtnMcD2eA	Big Data LDN	0	0
-UC0Hy4IFORHOZRgSZIVBk7lA	Beth Israel Deaconess Medical Center (BIDMC)	0	0
-UCrM7B7SL_g1edFOnmj-SDKg	Bloomberg Technology	0	0
-UC5Qz5efUK0wKhNAhjjRaJww	Book of Valis	0	0
-UC-I2cp3hAGPt7qD57CmioKA	Breakthrough	0	0
-UCHqnUEThVeZ8dtgnPmjk4MQ	Briaraptor	0	0
-UCJp7gd3QZvweXGnevptxJng	CBS19	0	0
-UCTz1gMQPp631wruQX3yAsFg	CHA Healthcare	0	0
-UCbldcYGi7cQMG0fcnY7GNng	CMO Confidential	0	0
-UCOpxVqbOoIJ_JeP9eRjgkAw	CHESS Health Solutions	0	0
-UCXMzgZiNJF4GUi8E7aat1Ew	CW39 Houston	0	0
-UCoqsI4BQjKoFanMQOy5VEIw	Cancer Council	0	0
-UC01Bpr4Rpq0sV0cWOb0Ul3w	Charlotte Radiology	0	0
-UCQyRzwszdJ_UL6CECgWMx6Q	Chronicles of the Lost	0	0
-UCENrPdmsIfFZat5RRsKDfbQ	Coinvure	0	0
-UCD16eo98AXl-9T61Xd711kQ	Competition Wallah	0	0
-UCHDr4RtxwA1KqKGwxgdK4Vg	Computer History Museum	0	0
-UCGHZpIpAWJQ-Jy_CeCdXhMA	Cool Worlds	0	0
-UCJEAWtn7nxebi5zmyvtpXEA	Cooper University Health Care	0	0
-UCX6Db96A7e_jyImXGFpABRg	Cosmic Research	0	0
-UC7GGDPk1ZoxT-gfui6ltZVg	Cosmic Sleep	0	0
-UCyJi3YHZPNkZGAYIix4FRLw	DLD Conference	0	0
-UC-ubecqPU-g1J_qb8y4R5Xw	DaedalSphallolalia	0	0
-UCrI9R9SFEzDWOvEMMKa5qww	Dale “DJ” Gottschalk	0	0
-UCN2GyOp5NJ99pe7OY6Agvtg	Dartmouth Health	0	0
-UCWBkBmz_nNliH1AfJpnlrkA	Dark Echoes with A.L. Whyte 👻🧿	0	0
-UC79Gv3mYp6zKiSwYemEik9A	DataCamp	0	0
-UC3q8O3Bh2Le8Rj1-Q-_UUbA	Databricks	0	0
-UCxBZaIrrt0ZzYMV2hefCriw	Deep Space Stories	0	0
-UC2LdCiAsuXTM5KxqScV_V8g	De Nieuwe Wereld	0	0
-UCflg8pIElTb9qdFVaDC7gMQ	Dennis Davis	0	0
-UCUD1kGslSabeQmKyPLtLO5w	Dennis Heller	0	0
-UCvCYE-3TrY1GAe2l8K08N-w	Digital Engine	0	0
-UCx_fzdw4ps8eSa1JPRrIsIw	Dr. Jenn Simmons	0	0
-UC9rTsvTxJnx1DNrDA3Rqa6A	Dr. Trefor Bazett	0	0
-UClWTCPVi-AU9TeCN6FkGARg	EO	0	0
-UCxhkSjd-fcUXYMXe1XGpoHg	Earth, Atmospheric and Planetary Sciences at MIT	0	0
-UC5t_kvsawqA6o4-l4PUIS-Q	Engg-Course-Made-Easy	0	0
-UCvPXiKxH-eH9xq-80vpgmKQ	Epic History	0	0
-UCQ7pW562r4rPNYD5dbt7NLw	Erik Demaine	0	0
-UC9xClggZY-gXZpIGktkVrYQ	Eustass “captain” Kid	0	0
-UCYYOYsxvHesv5bV2J57WbcA	Evythng Abt OnePiece	0	0
-UCrx3P3LngHZBW81mzbANndg	FINTECHTV	0	0
-UCz8QsOYD8s3RcQ_-mAWbGBg	FOX 5 San Diego	0	0
-UCVyksjY1z3ixZAMLCVfoIsQ	Faultlines Studio	0	0
-UCFlnKDqG512KkbDvPa2ybRw	Fexl	0	0
-UCxdWHEhEPiYhCADMrn4PdhQ	Fin Tek	0	0
-UCtAIs1VCQrymlAnw3mGonhw	Flammable Maths	0	0
-UCn0ShMNqXI3kQP-Eoaf7olg	Fortis Healthcare	0	0
-UCSOz6T52IsqvmcvHMQRxEgA	G4G Celebration	0	0
-UCsEukrAd64fqA7FjwkmZ_Dw	GQ	0	0
-UC2reRwDWsnWkonmK9t2uo5w	George W. Bush Presidential Center	0	0
-UCFkaWOGpyFBVRf5jEeD_wrA	Georgia Tech	0	0
-UC-EZEcmQpzE2rUGHaEA9m6w	Giovanni Trano	0	0
-UCMS4b6d89OuL5E_xMq9NVtg	Goji	0	0
-UC522meTsOjFWjSdLLrEMMBA	Google Zeitgeist	0	0
-UCQHX6ViZmPsWiYSFAyS0a3Q	GothamChess	0	0
-UCiw1X5Fobn5W2fri8cZ6WMg	HCA Healthcare UK: World-Class Private Healthcare	0	0
-UCtBYuLN80XIRR6IaKu468Rg	HIBY新聞	0	0
-UC513XF4pV2Iih8bj8mGolVg	Han Yong	0	0
-UCxLI85C8f4wYVxNRTYbbk3g	Hint Health	0	0
-UCa4enyt_xMjxJA2JUaNWQkw	History Untold	0	0
-UCawWUnrxPxhISIEZT5etVRw	Hᴜɴᴛᴇᴅ Pᴀsᴛ	0	0
-UCquT5NzE7P8_wP7m2tnbRjQ	IEFA TV	0	0
-UCQdZWRxu7uCjkCay0OCnvWw	ITU	0	0
-UCKXLq-LIvJB8eZDOAcVH8Gw	InHealth: A Washington Health Channel	0	0
-UCY99eAbrawSnQNpHuSX4Szg	Inside the Silicon Mind with Firas Sozan	0	0
-UCEhyfNc7tYSmfbFnMQmCgLw	Internet 2.0 Conference	0	0
-UC-beEh5L8QETtO1r32eXxqA	Jack Carpenter	0	0
-UCbuXJrPk44KOt19RNMDzdog	Jake the Jumpman	0	0
-UCLXSpirv8uZdhrytNW-R9Rw	Jason Abadi	0	0
-UCaFNRQX0ppK153omMBR4ikQ	Jefferson Lab	0	0
-UC_hukbByJP7OZ3Xm2tszacQ	Jeffrey Kaplan	0	0
-UCXWjqyzQwOcTYPbahanaP8w	Jhohan Kile Blake	0	0
-UCEszlI8-W79IsU8LSAiRbDg	John Michael Godier	0	0
-UC5cEHfCr6WOE1R1zcohd1IA	Jose Najarro Stocks	0	0
-UC4H1zHvU2Z2YLo4MC42Flqg	Joy Boys	0	0
-UCRFF8xw5dg9mL4r5ryFOtKw	Jumpers Jump	0	0
-UCyw0715Ggz6yVcSerh6-8TQ	KarmanosCancer	0	0
-UClmjQX0urqGb83Bnb8Np5NQ	Kasim Sir Classes	0	0
-UCLTAdq7116W7XUs8Jlijutw	King's College Hospital NHS Foundation Trust	0	0
-UCWOkV53dAW3zpDMzoqDMpCw	KirTop - Archaeology	0	0
-UC5z9sDKRTI2LrDKlxTUmU8Q	LSEG	0	0
-UCIqH5kGFOM_lP9x_AmPodjQ	Late Science	0	0
-UCPmndhZFhtO0yjCvuUVoUKQ	LeDuc Leadership & Media Group	0	0
-UC6CiWR0czKYqIK6XbZENuvQ	LumoScience	0	0
-UCJ8rPCWzEFnWpP8A3Czdr6w	Long Island Community Hospital	0	0
-UCpQi6au-iFiMzrAxcpSopHQ	Lung Cancer Foundation of America	0	0
-UCkVaGPeOBEgh4HojamX0PNw	Lung Cancer Initiative	0	0
-UCddp3o-ctW8rmYtfdDfVUkA	MAIN Conference	0	0
-UCOLc9GES9eIMliLT_8s9w7g	MIT Alumni Association	0	0
-UCBpxspUNl1Th33XbugiHJzw	MIT CSAIL	0	0
-UCbDs7CHAWVtyu81-6WIqZXg	MKS TUTORIALS by Manoj Sir	0	0
-UC57AdxF9_0fCLR_n2XnmiHg	Mad Cat Sphere	0	0
-UCfX3z8tqrGkHvln0PaJuxLA	Magic Math Stat	0	0
-UCEZRtl3IodK4uVol-ymOMGA	Mammography Saves	0	0
-UC_OTtwh8_-q-bA7DoS--syg	Mathematics Tutor	0	0
-UCnfhYMd3iRe5pzuJyopVuRQ	Manhood	0	0
-UCGS_2Mqg-ZzRL4Y73mg65NA	Matthew Weathers	0	0
-UCektsETexdg0RYiSdpv_9GA	McFarland Clinic	0	0
-UC3iD3ivnYflGgqsB8m3KCcQ	Michael Uccetta	0	0
-UC99n6V0a8mDNDkwucjrFh4g	Memorial Healthcare System	0	0
-UCu83TvQYrLnumeG9xE4MKwA	Milan Podbevšek	0	0
-UCHnj59g7jezwTy5GeL8EA_g	MindYourDecisions	0	0
-UCu2e-o9q5_hZgPHCv8m1Qzg	Mont Corvo	0	0
-UCzLJottjYPfuBvM-7fM2u4g	MountainView Hospital	0	0
-UC_hl3Y2jHHOKXuo4k5sVARA	MrMath	0	0
-UCjz16JJc5-mTHAHzYD9Mqdw	Mugiwara Review	0	0
-UCbVg41jzM8UroywvEr73Pdw	NHS	0	0
-UCl_TDbv_ZHo6AeQaPokmhYg	NHS BSW ICB	0	0
-UCPMS98KZWFYxKGBMn7rBvSA	NKC Health	0	0
-UCQYMhOMi_Cdj1CEAU-fv80A	Neso Academy	0	0
-UCvQQMY6TyUdt5VeHpuHv_Dg	New America	0	0
-UCZ6xKbZ7qnUplkzACsDyu6g	New Brunswick / Nouveau-Brunswick	0	0
-UC5yfDCJEgGy50jwhu51kKAw	New York Imaging Specialists	0	0
-UCaneUNoTyXPYQ_R-jYV_MFQ	New York Cancer & Blood Specialists	0	0
-UCG2B6emunc-8ACAChpHv0qQ	New York Stock Exchange	0	0
-UCT-_XJEMBYPcTjG1bzgtVfg	Night Science	0	0
-UCnCUj8ZOtbByl7AL4182OCQ	NoteBookLMVideo	0	0
-UC5_7zsINpA_ACcVfag4b9Ww	OFAPPIT Institute	0	0
-UCXwvhYQoX8AF7_LL69UQPVg	Oh Star Stuff	0	0
-UCTHjgl-7jw0QtSqsKA7RUuw	One Piece Journey	0	0
-UCR7UtO5H0cepHzH0yZxT9tQ	One Piece Videos HD	0	0
-UCdzCpJunix1Ym4Nj8pmrdGw	One Step Forward	0	0
-UCNibAtPet-4nC49VIGj6-EA	Openminded	0	0
-UCX4xIz5p4n3RecOSSm_buPA	Origin & Orbit	0	0
-UC4MehKmR3lji7a1K7kxCJWg	Overlake Medical Center	0	0
-UC0uO3IgxaHRBNsjXJw6Px9g	Oxford Internet Institute, University of Oxford	0	0
-UCkXVp9VhCnJFclzxh0P2Fjg	PBRLS	0	0
-UCrgyLs7vuu1lyy963Ycd-6A	PW Solutions	0	0
-UCwed6_f0WcDIioXvMQfcP2Q	Palantir	0	0
-UCcaTylSny8eiGSwSduJhX2Q	Perun Games	0	0
-UCDg_EVBPyUmKrR54mp9Wjyw	Pindex	0	0
-UCS09-dYUM1rlkIvf7qvA3gw	PlanetConnect Events	0	0
-UCb3mxept2WjksM6auhymQdg	Primal Status Elevated	0	0
-UCqFK50VbABTGJzwxpt8mtBA	Quentin Melson	0	0
-UCwaWAayMjisNrAM1PWTNWHQ	Rabbit Hole: Enter the Unknown	0	0
-UC8hJMBNW6voynFoL7Sr9NoA	Quicklet	0	0
-UCdlydbmfrgaOxwEKVOu-F0w	Raritan Bay Medical Center	0	0
-UCpZt18xTFZouCJ7ZQ56Wkyg	Ranjan Khatu	0	0
-UCFDLAPrpCuErw8Om24S_3ew	Riverside Health	0	0
-UC4JPuaeesjQRrguryopMr_g	Rise to the Equation	0	0
-UCpNC1Chk5S_YpGrAjKd_0xw	SHIV MATHS ACADEMY	0	0
-UCLdrmE43HwZDGS92Qi3KhbQ	SK Maths Tutorial	0	0
-UChbLQf0sdE2qYleWkvOvlgQ	Saint Joseph Mercy Health System	0	0
-UCwOILzAcxK5CM2M7oRBuWSg	SaaStr AI	0	0
-UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	0	0
-UCZYTClx2T1of7BRZ86-8fow	SciShow	0	0
-UCvDdNFx9v5zU1shCqKYYSIQ	Science and Tech	0	0
-UC3ZcdudbyF4maT7xrQGP_zw	Science Pulse	0	0
-UC9u3UqkoikJ9Nr8t4wvyNRQ	See U in History / Mythology	0	0
-UCzWQYUVCpZqtN93H8RR44Qw	Seeker	0	0
-UCk3DhV00o_q_FinKXr3GZgA	Sentara Health	0	0
-UCZGLoq8wbzSFxYuOn_t6StA	Shadow Time History	0	0
-UC661aYQGjG-yHSFEdrDODww	Simply Science	0	0
-UCFboqQ8JVdSh2zFwczVXU5A	Sleepy History	0	0
-UCxNvQ6PALSD9Y2nbTN55nDw	Sleepy Physicist	0	0
-UCExqs0i3A8CPCBJyv7NBDjg	Small Talk with Jonathan Small	0	0
-UCs10x-muRrTQMJ4Ya-fmIlw	Snowflake Inc.	0	0
-UC4-BHIihElaFcKpz5iOvFJQ	Society of Breast Imaging	0	0
-UCsApDHKF4SI0n3kkBkUHBQg	Software Huddle	0	0
-UCUuQ7n4fGjrF7tAsAVRIbjQ	Space Captain	0	0
-UC1-OVsDrNOWQlMByYoRnfgw	Space Dude	0	0
-UC2jkub9HD1-kHc4FRKhZh5w	Space Mate	0	0
-UCEENWVBdvDy-QWfuQoXC9HQ	Species | Documenting AGI	0	0
-UCPYXWr4J8t44gCmNYm6ORhw	Stanford Institute for Economic Policy Research (SIEPR)	0	0
-UCGie8GMlUo3kBKIopdvumVQ	Still Watching Netflix	0	0
-UCCWXov3PHr0kX9WG543svBw	StockInvest.us	0	0
-UC5DYGWSXcJrOyKO_SgpE74Q	Sunil Bakale	0	0
-UCtGoikgbxP4F3rgI9PldI9g	Super Eyepatch Wolf	0	0
-UCEA3TrdLv0vo4dRvRPk2hnQ	Swati Theng Mathematics	0	0
-UCIiet8Wnb5Zzel9LBw2M8BA	TEAM Education	0	0
-UCHip-wiEtSSRtJtA2OoChOA	THIRTEEN	0	0
-UCf-ZGgv5SxoK_fVJ0tnkWQQ	Techs New	0	0
-UCplNCzwzbpvJihsWTTYxyfg	Ten Golden Rules Internet Marketing for Law Firms	0	0
-UCr8ZlC6iUhMUvGNziD4H7Yg	The Bitcoin Revolution	0	0
-UCJl3S8A-5ExFMbeJN0KtOBA	The Bitcoin Conference	0	0
-UCHs4YRk1p9iVikstEIuRp6Q	The Boundary of Events	0	0
-UCFnExFCkTIUsAg7HMkH2p9A	The Finance Hydra	0	0
-UCtjeUt_ak5jq2SPhb3Fkadg	The Front Lines — GTM Media Network	0	0
-UCWea_KfCnTMD39uQuA5TKOQ	The New Stack	0	0
-UC7QSgYveZtZWozG4AVNF2Dg	The Multiverse Peek	0	0
-UCb8nGtVBhOVl3Gq6T3np3TQ	The Quantum Glitch	0	0
-UC7ekA5squ12MDEy5upvpo7A	The Why Minutes	0	0
-UCrjFKLCqZnx5XuvWt00y4Jg	TheSimplySpace	0	0
-UCGV0PIwpvyxginAeMNFLmFQ	Think LOOP	0	0
-UCkkhmBWfS7pILYIk0izkc3A	This Week in Startups	0	0
-UC7kCeZ53sli_9XwuQeFxLqw	Ticker Symbol: YOU	0	0
-UCLTcqjxNhju_E9eq_uO_wrg	Truth Initiative	0	0
-UCptda15--amT6JyBiJnWmNA	U.S. Securities and Exchange Commission	0	0
-UC8XPVMe7roWeS0gnFMuRSDQ	UCIM - United Conference of Internet Money	0	0
-UC7qEVCiRh8S7V-dlbWN0OpA	UMass Memorial Health	0	0
-UCztb58eHRnyv76YnMjqsFRg	USC Institute of Armenian Studies	0	0
-UCtrFDttZdb4QxBpQc3fi1Cg	Uncharted Mysteries	0	0
-UC88rG_IywDs1Tswj6GhtTJA	Universal Tv Explorer	0	0
-UCRxn6jf2MKoSOaHMCZ6q8Dw	University of Maryland Medical System	0	0
-UCAgyPO429NUFZgwUYXVzJtg	VHHS Math Team	0	0
-UCr9CdaBauTPv8e9rTkYOHsg	VCU Health	0	0
-UCVfU60kFK4DL5iDNbCQTIKw	Vermont Complex Systems Institute	0	0
-UCLXo7UDZvByw2ixzpQCufnA	Vox	0	0
-UCgfGNfLVl1GLsBWA-ifUjbA	ViralShortsHub	0	0
-UCQpzjKzlIqeOwp3EWmv61GQ	WASTV Creative	0	0
-UCCaklQ98ufViCAds5gdj49A	WLNS 6 News	0	0
-UCnwI-VN5jXWIGQKOI9PMDMw	WPRI	0	0
-UCkr9qZ5tj9dGd7JvE3a8X4Q	WLWT	0	0
-UC9ha3sh4YTCSK83dH6OlWTw	WTVR CBS 6	0	0
-UC_dqtETVW-zK3rk09sIWqAQ	WayCAM TV	0	0
-UCf-rjb_iuv3De7STLICGAoA	William E. Smith	0	0
-UCi1_erE861I2PmtDM_LP8wg	Well Ahead Philly	0	0
-UCCEP_kqjhI2_2sujWRCO-Gg	WoRlD UnToLd	0	0
-UCO114HeEDWyUZWmGEjbRLZg	WtyEletro2011	0	0
-UCwH_ASJVeM8Bg9MCai8e7mA	discovery - history	0	0
-UCigndoeX3fNh95WUbItusCg	ephemeralillusions	0	0
-UCi2QZmx5U4_MXyJYpmUQoJA	Xanimo	0	0
-UCqm86i0q1pYehz__Co3Zzww	financial audiobooks	0	0
-UCxmh9CHjpMmQGFHvZQt0GTQ	joost klein	0	0
-UCQFPRRCok68Q-Kv5i6XGwmw	welshgit	0	0
-UCfZC7WR8oXmBKj-1bUMY-Pw	overzealots	0	0
-UCPSopGu9F5VfSpKxPxkYZ8g	wogsland	0	0
+UCj_ftUuFQwBOiKJicsE_72A	AI For Beginners	0	0	20	309	
+UCCstIG7wBV08IAEkRLnE2vA	Alex-5-dim-space	0	0	20	421	
+UC2tVlEuohl56ay0Qb4DoRTQ	Arivi by HCL GUVI	0	0	20	1326	
+UCq582z3D7TSkMobYATeuQNQ	Amrutha Nandan	0	0	20	330	
+UCZ1ynxCvmghl5rR1gjJEkXw	Bella's Comic Chronicles	0	0	20	86884	
+UCnDHeordwqE0Np0Z7AUQtPA	BoomDrama	0	0	20	5724	
+UCab2KsB-yV9cyzrbwSJ1ZNw	BobHowToAndTravel	0	0	20	614	
+UCH_hHwkXLnSvpBFG2fd12yA	CTV Santa Cruz County	0	0	20	8822	
+UC8CpOwfEsl6svBQ1zPU0o9g	CheesyCam	0	0	20	313	
+UC7vgBlrlf2EIx76xNrHyyHQ	College Friendly	0	0	20	780	
+UC3UbGrV97_wjWYA6QT9gmEA	Content Creation with Matt	0	0	20	457	
+UCzhqzDgXa3b3umYUHHz3uLQ	Curiosity Atlas	0	0	20	231	
+UCk4062RQXYoSLTtpNdwaO6g	Cyrus Mehdipour	0	0	20	756	
+UCdbPil0VFKnBrOJjB2_4h4g	DEPSTAR, CHARUSAT	0	0	20	981	
+UC9rzQDiRJ2bBA9RNuLPvPgQ	DMF Lighting	0	0	20	735	
+UCApR0iC5vPzRsUsmjeY3r9Q	Digital Genius	0	0	20	654	
+UCqwprxw2jfKT5bqSsxhQTvw	Dr K Seefeld	0	0	20	552	
+UCbb2-08h7K4Q3_d6Pc4o9Rw	DramaBreak	0	0	20	7817	
+UCq0EGvLTyy-LLT1oUSO_0FQ	Eddie Woo	0	0	20	562	
+UCltVEZ6GecWntoZ19FvaWhQ	Ekeeda	0	0	20	648	
+UCylqgu2ojsCxojFpQogowOA	Ellie Sleightholm	0	0	20	869	
+UCUvf00zSAFFH0X1FyZzNFUg	FOTEXON GÖRÜNTÜ TEKNOLOJİLERİ	0	0	20	184	
+UCKaa_QKxOKv19FIfE0G5YDg	FPA Youtube	0	0	20	1179	
+UCAG2u2KEkkGy4yWGeKa_u7Q	GVSUmath	0	0	20	1375	
+UC6-NdwwgCY-DFaFDeEGr6BA	Gear Glasses & Gadgets	0	0	20	957	
+UCH1oRy1dINbMVp3UFWrKP0w	Good Morning America	0	0	20	351	
+UCZMvJVq-HD6n3O1pHEF88xw	GodART	0	0	20	1025	
+UC7RARH-RK6B4Mcze3x_0iZQ	Gray Technical	0	0	20	367	
+UCtwvwdPeVRjN8Fr606RRv5g	HellermannTyton – Professional Cable Management	0	0	20	153	
+UCT7uKjjnhi3eozGVrjKfTzQ	HouseCalls	0	0	20	754	
+UCb2aFMZk4tlxotB14sNBQXA	Hussam Hourani	0	0	20	1254	
+UCwAnu01qlnVg1Ai2AbtTMaA	Jeff Su	0	0	20	780	
+UC-f7g0ef1GOROf1CDuzb9dA	JimmyAmericaPhoto	0	0	20	394	
+UC_iD0xppBwwsrM9DegC5cQQ	Jon Gjengset	0	0	20	14689	
+UCwmA2XoPBvSEM0T21NjTuwg	Kanao Recap	0	0	20	11653	
+UCMRKcgq93-fjM01aop1HSDQ	KerkinStore	0	0	20	124	
+UCJIfeSCssxSC_Dhc5s7woww	Lex Clips	0	0	20	537	
+UCS8aeJ4zisc7zCEfIFJoCBA	Lloyd Celeste	0	0	20	356	
+UCSvAsTpVyYrDWuojyueX0sQ	Lowell Productions	0	0	20	609	
+UClOR1BiPyOkkIAnv9Cmj4iw	Mario's Math Tutoring	0	0	20	680	
+UCXROAAfrDEOjOY-toGCpatg	Marks Manual	0	0	20	1262	
+UCuqEFGkNJ5TpwpiYXpIMfxA	Matt Spaugh	0	0	20	414	
+UC9HGzFGt7BLmWDqooUbWGBg	Matthew Hussey	0	0	20	1073	
+UCnIAWJt-H28cLC-qeovQqJQ	Michelle's List | Sharing Amazon Favorites	0	0	20	133	
+UCsMica-v34Irf9KVTh6xx-g	Microsoft Developer	0	0	20	937	
+UCN4caNO-iJ8-4jGB1WOdo9w	Miss Estruch	0	0	20	1074	
+UCKo9qYvg8ELZOXzXEG6Ft6A	NEW TRACK MATHEMATICS VIDEO	0	0	20	1356	
+UCJRVZa4-x0RJo0dffNGsSew	Nathan Humphrey	0	0	20	1723	
+UCiKqmXRiv7d5F6sqcf9893w	NewCeilingTiles	0	0	20	170	
+UCASGBz9CIre1P7MQrOaar-Q	NiLTime	0	0	20	171	
+UCGGxP6KHqkJPV_k3XyMe8rw	NotesNaka	0	0	20	301	
+UCHsHcvXLRx-98HEkBLeQBHQ	Nuruzzaman Faruqui	0	0	20	703	
+UClKKWBe2SCAEyv7ZNGhIe4g	Orange Data Mining	0	0	20	332	
+UCK1rRpC7xNxet2Zb4pTIZjA	PankaZz	0	0	20	165	
+UCwz55Mvn3AOOOc3xpJp9dXw	Plugged-in AV	0	0	20	740	4K
+UCY9zVUgUhagBObrPo8fgarA	Proaimshop1	0	0	20	153	4K
+UC2GUcyD6KYjmU_ofQtPTSSA	Robert Welsh	0	0	20	1046	4K
+UCLPhWMHnvbPDbuC0rQnpRHg	STEM in Motion by Gaurav	0	0	20	854	
+UC4L_JzU8JJoTXtGPB8wwVhg	Sak Study Hub	0	0	20	592	
+UCOv72g6J1cfOoRODUHK0DOw	Sanjeev Kaushik	0	0	20	944	
+UCANefQ-G575M34M7gAViSCg	SardonicSays	0	0	20	2627	
+UCs9lU3KF6bVh49qDJnK6zbA	ScienceWorld	0	0	20	300	
+UCsq680qHdsrimFGbXG7BhSA	Smart EEE	0	0	20	707	
+UCvlj0IzjSnNoduQF0l3VGng	Some More News	0	0	20	2724	
+UCf1y3FvYJYPbgMqHX7ZzeZA	SonLife Broadcasting Network	0	0	20	1665	
+UCtYLUTtgS3k1Fg4y5tAhLbw	StatQuest with Josh Starmer	0	0	20	1526	
+UCoqWwPzCvvr5TyCqb7h0REw	Sydney Informatics Hub	0	0	20	2977	
+UCRjEzZ3v1IbkMMS6Bo-cyNg	The Orange WorkFlow	0	0	20	405	
+UCnjgxChqYYnyoqO4k_Q1d6Q	The Diary Of A CEO Clips	0	0	20	1275	
+UCZfCEg238gC-1Czxg0-do-w	The Outdoor Adventure	0	0	20	424	
+UCFoVqS_UET3tIF7A3H-ppUg	The Vertex	0	0	20	1058	
+UCy-lxaEHH32nEC_xbChz5cg	TrendyBuzzz	0	0	20	844	
+UC3mYNjFaGV4ucwSRR6JsbGA	Twilight Drama Dreams💫	0	0	20	7283	
+UCcDcn4rfCoJfQZZXnzv3SQQ	True Value	0	0	20	352	
+UCCj2OoEe5iG1tei3Y2eTNBA	Veena Sarda	0	0	20	815	
+UCNBmxc6FvKyxtCpUygcdINA	WKYC Channel 3	0	0	20	132	
+UConVfxXodg78Tzh5nNu85Ew	Welch Labs	0	0	20	1444	
+UCdL_ou9aZvVHH5b7Nl-ogpA	WizardDetectors	0	0	20	126	
+UCxxNfEtCtv-kiu0H36VVYZQ	WoW Price	0	0	20	302	
+UCe5ij4WOTMpHRVkReP-TL6w	cepwin	0	0	20	2329	
+UCh9nVJoWXmFb7sLApWGcLPQ	codebasics	0	0	20	1934	
+UCyLaAae5gnCA_7kJndtq7Wg	cookiepiggy1988	0	0	20	137	4K
+UCQRcG9o2pBhMX9muqLYImmw	eHowEducation	0	0	20	130	
+UCSE2Tcko-7NQKXwIsRKMELw	etrailer	0	0	20	326	
+UCTWzVeWPV-tu_gCtGblcuIw	optilearn	0	0	20	1796	
+UClkJxHVmfYqH25ZuQfNQGeA	starastronomer	0	0	20	426	
+UCepecuejtz08zIcjYAXSdLw	theC47	0	0	20	267	
+UCKXjkaYg4odQWPnwbDjaqYQ	AI Upload	0	0	20	1165	
+UCSNZR0NRGd_dmSmfutgLGGw	AXION	0	0	20	1574	
+UCTZauNK37RnacEE-V2hzvuw	Abdul Rafay Subhan	0	0	20	2867	
+UCWHKJfMRxMC5TlMVzZSdhng	Acronium	0	0	20	6059	
+UC5VKM0y3YkmEeCgnclfr2ng	AhaForge	0	0	20	800	
+UCYRcdzyGQ_zGxxKcqJDFhqw	All Time	0	0	20	1768	
+UCh3LHx1kwcUdupBus4z1uxg	American History	0	0	20	3054	
+UC7f9888CwQq-XmKYRGa7k_g	American Lung Association	0	0	20	994	
+UCJktyOaYsS44Ff1i_-5xCfQ	Andrew Reiz	0	0	20	1796	
+UC30euz6ew8IOdo4g02C6GOg	Andrew Sotomayor	0	0	20	1617	
+UC7QwagKeKBBE-1RnXC9s6Ew	Anime English Club with Sally Amaki	0	0	20	1757	
+UC312dql2XYBUdoZtgeS393w	AnimeClub2020	0	0	20	132	
+UCOsAfA06zghgALnXPp4VbGA	AnimeUproar	0	0	20	1011	4K
+UCMb8zKIDH61lAonsBj4GHVg	Archive of Strange Time	0	0	20	7731	
+UCf3BkFTwI4G1vMc6W-NpQNw	Australian Dept of Health, Disability and Ageing	0	0	20	921	
+UC5CWvazLUNRkfIx8eJmP0sg	AxelBeats!	0	0	20	6747	
+UCyqlbzLoYtpqDXwRI9Yh5LA	BWB - Business With Brian	0	0	20	1039	
+UCSy7xxItn5xB2GILvsL0x1A	Behind The Scale	0	0	20	1060	
+UCCgnbEL97epv-RhIZWHEhuA	Berkeley Lab	0	0	20	765	
+UCFbY6n5Ge7PJ98AtnMcD2eA	Big Data LDN	0	0	20	1662	
+UC0Hy4IFORHOZRgSZIVBk7lA	Beth Israel Deaconess Medical Center (BIDMC)	0	0	20	2721	
+UCrM7B7SL_g1edFOnmj-SDKg	Bloomberg Technology	0	0	20	926	
+UC5Qz5efUK0wKhNAhjjRaJww	Book of Valis	0	0	20	4150	
+UCTz1gMQPp631wruQX3yAsFg	CHA Healthcare	0	0	20	174	
+UCbldcYGi7cQMG0fcnY7GNng	CMO Confidential	0	0	20	2132	
+UCOpxVqbOoIJ_JeP9eRjgkAw	CHESS Health Solutions	0	0	20	932	
+UCXMzgZiNJF4GUi8E7aat1Ew	CW39 Houston	0	0	20	552	
+UCoqsI4BQjKoFanMQOy5VEIw	Cancer Council	0	0	20	351	
+UC01Bpr4Rpq0sV0cWOb0Ul3w	Charlotte Radiology	0	0	20	634	
+UCQyRzwszdJ_UL6CECgWMx6Q	Chronicles of the Lost	0	0	20	1153	
+UCD16eo98AXl-9T61Xd711kQ	Competition Wallah	0	0	20	2332	
+UCHDr4RtxwA1KqKGwxgdK4Vg	Computer History Museum	0	0	20	6128	
+UCGHZpIpAWJQ-Jy_CeCdXhMA	Cool Worlds	0	0	20	1454	
+UCJEAWtn7nxebi5zmyvtpXEA	Cooper University Health Care	0	0	20	153	
+UC7GGDPk1ZoxT-gfui6ltZVg	Cosmic Sleep	0	0	20	3354	
+UCyJi3YHZPNkZGAYIix4FRLw	DLD Conference	0	0	20	1192	
+UCrI9R9SFEzDWOvEMMKa5qww	Dale “DJ” Gottschalk	0	0	20	346	
+UCWBkBmz_nNliH1AfJpnlrkA	Dark Echoes with A.L. Whyte 👻🧿	0	0	20	2879	
+UC79Gv3mYp6zKiSwYemEik9A	DataCamp	0	0	20	2753	
+UC3q8O3Bh2Le8Rj1-Q-_UUbA	Databricks	0	0	20	554	
+UCxBZaIrrt0ZzYMV2hefCriw	Deep Space Stories	0	0	20	6196	
+UC2LdCiAsuXTM5KxqScV_V8g	De Nieuwe Wereld	0	0	20	4128	
+UCflg8pIElTb9qdFVaDC7gMQ	Dennis Davis	0	0	20	2333	
+UCUD1kGslSabeQmKyPLtLO5w	Dennis Heller	0	0	20	563	
+UCvCYE-3TrY1GAe2l8K08N-w	Digital Engine	0	0	20	1019	
+UCx_fzdw4ps8eSa1JPRrIsIw	Dr. Jenn Simmons	0	0	20	4263	
+UC9rTsvTxJnx1DNrDA3Rqa6A	Dr. Trefor Bazett	0	0	20	893	
+UClWTCPVi-AU9TeCN6FkGARg	EO	0	0	20	952	
+UCxhkSjd-fcUXYMXe1XGpoHg	Earth, Atmospheric and Planetary Sciences at MIT	0	0	20	1574	
+UC5t_kvsawqA6o4-l4PUIS-Q	Engg-Course-Made-Easy	0	0	20	686	
+UCvPXiKxH-eH9xq-80vpgmKQ	Epic History	0	0	20	2119	
+UCYYOYsxvHesv5bV2J57WbcA	Evythng Abt OnePiece	0	0	20	427	
+UCrx3P3LngHZBW81mzbANndg	FINTECHTV	0	0	20	376	
+UCz8QsOYD8s3RcQ_-mAWbGBg	FOX 5 San Diego	0	0	20	176	
+UCVyksjY1z3ixZAMLCVfoIsQ	Faultlines Studio	0	0	20	7223	
+UCFlnKDqG512KkbDvPa2ybRw	Fexl	0	0	20	1418	
+UCxdWHEhEPiYhCADMrn4PdhQ	Fin Tek	0	0	20	1456	
+UCtAIs1VCQrymlAnw3mGonhw	Flammable Maths	0	0	20	1231	
+UCSOz6T52IsqvmcvHMQRxEgA	G4G Celebration	0	0	20	1477	
+UCsEukrAd64fqA7FjwkmZ_Dw	GQ	0	0	20	1454	
+UC2reRwDWsnWkonmK9t2uo5w	George W. Bush Presidential Center	0	0	20	1024	
+UCFkaWOGpyFBVRf5jEeD_wrA	Georgia Tech	0	0	20	645	
+UC-EZEcmQpzE2rUGHaEA9m6w	Giovanni Trano	0	0	20	171	
+UCMS4b6d89OuL5E_xMq9NVtg	Goji	0	0	20	2218	
+UC522meTsOjFWjSdLLrEMMBA	Google Zeitgeist	0	0	20	1364	
+UCQHX6ViZmPsWiYSFAyS0a3Q	GothamChess	0	0	20	2157	
+UCiw1X5Fobn5W2fri8cZ6WMg	HCA Healthcare UK: World-Class Private Healthcare	0	0	20	465	
+UCtBYuLN80XIRR6IaKu468Rg	HIBY新聞	0	0	20	5296	
+UCxLI85C8f4wYVxNRTYbbk3g	Hint Health	0	0	20	1626	
+UCa4enyt_xMjxJA2JUaNWQkw	History Untold	0	0	20	304	
+UCawWUnrxPxhISIEZT5etVRw	Hᴜɴᴛᴇᴅ Pᴀsᴛ	0	0	20	870	4K
+UCquT5NzE7P8_wP7m2tnbRjQ	IEFA TV	0	0	20	2065	
+UCQdZWRxu7uCjkCay0OCnvWw	ITU	0	0	20	850	
+UCKXLq-LIvJB8eZDOAcVH8Gw	InHealth: A Washington Health Channel	0	0	20	1770	
+UCY99eAbrawSnQNpHuSX4Szg	Inside the Silicon Mind with Firas Sozan	0	0	20	3172	
+UCEhyfNc7tYSmfbFnMQmCgLw	Internet 2.0 Conference	0	0	20	2488	
+UCbuXJrPk44KOt19RNMDzdog	Jake the Jumpman	0	0	20	489	
+UCLXSpirv8uZdhrytNW-R9Rw	Jason Abadi	0	0	20	3398	
+UCaFNRQX0ppK153omMBR4ikQ	Jefferson Lab	0	0	20	388	
+UC_hukbByJP7OZ3Xm2tszacQ	Jeffrey Kaplan	0	0	20	1105	
+UCEszlI8-W79IsU8LSAiRbDg	John Michael Godier	0	0	20	796	
+UC5cEHfCr6WOE1R1zcohd1IA	Jose Najarro Stocks	0	0	20	877	
+UC4H1zHvU2Z2YLo4MC42Flqg	Joy Boys	0	0	20	1834	
+UCRFF8xw5dg9mL4r5ryFOtKw	Jumpers Jump	0	0	20	4454	
+UClmjQX0urqGb83Bnb8Np5NQ	Kasim Sir Classes	0	0	20	2076	
+UCLTAdq7116W7XUs8Jlijutw	King's College Hospital NHS Foundation Trust	0	0	20	193	
+UCWOkV53dAW3zpDMzoqDMpCw	KirTop - Archaeology	0	0	20	3672	
+UC5z9sDKRTI2LrDKlxTUmU8Q	LSEG	0	0	20	1525	
+UCIqH5kGFOM_lP9x_AmPodjQ	Late Science	0	0	20	7211	
+UCPmndhZFhtO0yjCvuUVoUKQ	LeDuc Leadership & Media Group	0	0	20	1283	
+UCJ8rPCWzEFnWpP8A3Czdr6w	Long Island Community Hospital	0	0	20	182	
+UCpQi6au-iFiMzrAxcpSopHQ	Lung Cancer Foundation of America	0	0	20	871	
+UCkVaGPeOBEgh4HojamX0PNw	Lung Cancer Initiative	0	0	20	561	
+UCddp3o-ctW8rmYtfdDfVUkA	MAIN Conference	0	0	20	2255	
+UCOLc9GES9eIMliLT_8s9w7g	MIT Alumni Association	0	0	20	2312	
+UCBpxspUNl1Th33XbugiHJzw	MIT CSAIL	0	0	20	396	
+UCbDs7CHAWVtyu81-6WIqZXg	MKS TUTORIALS by Manoj Sir	0	0	20	784	
+UC57AdxF9_0fCLR_n2XnmiHg	Mad Cat Sphere	0	0	20	225	
+UCfX3z8tqrGkHvln0PaJuxLA	Magic Math Stat	0	0	20	522	
+UC_OTtwh8_-q-bA7DoS--syg	Mathematics Tutor	0	0	20	840	
+UCnfhYMd3iRe5pzuJyopVuRQ	Manhood	0	0	20	1301	
+UCGS_2Mqg-ZzRL4Y73mg65NA	Matthew Weathers	0	0	20	327	
+UCektsETexdg0RYiSdpv_9GA	McFarland Clinic	0	0	20	615	
+UCHnj59g7jezwTy5GeL8EA_g	MindYourDecisions	0	0	20	528	
+UCu2e-o9q5_hZgPHCv8m1Qzg	Mont Corvo	0	0	20	3056	
+UCzLJottjYPfuBvM-7fM2u4g	MountainView Hospital	0	0	20	138	
+UCjz16JJc5-mTHAHzYD9Mqdw	Mugiwara Review	0	0	20	425	
+UCbVg41jzM8UroywvEr73Pdw	NHS	0	0	20	219	
+UCl_TDbv_ZHo6AeQaPokmhYg	NHS BSW ICB	0	0	20	680	
+UCPMS98KZWFYxKGBMn7rBvSA	NKC Health	0	0	20	2013	
+UCQYMhOMi_Cdj1CEAU-fv80A	Neso Academy	0	0	20	566	
+UCvQQMY6TyUdt5VeHpuHv_Dg	New America	0	0	20	2636	
+UCaneUNoTyXPYQ_R-jYV_MFQ	New York Cancer & Blood Specialists	0	0	20	152	
+UCG2B6emunc-8ACAChpHv0qQ	New York Stock Exchange	0	0	20	429	
+UCT-_XJEMBYPcTjG1bzgtVfg	Night Science	0	0	20	8056	
+UCnCUj8ZOtbByl7AL4182OCQ	NoteBookLMVideo	0	0	20	375	
+UC5_7zsINpA_ACcVfag4b9Ww	OFAPPIT Institute	0	0	20	6662	
+UCdzCpJunix1Ym4Nj8pmrdGw	One Step Forward	0	0	20	1102	
+UCX4xIz5p4n3RecOSSm_buPA	Origin & Orbit	0	0	20	1422	
+UC4MehKmR3lji7a1K7kxCJWg	Overlake Medical Center	0	0	20	400	
+UC0uO3IgxaHRBNsjXJw6Px9g	Oxford Internet Institute, University of Oxford	0	0	20	3869	
+UCkXVp9VhCnJFclzxh0P2Fjg	PBRLS	0	0	20	727	
+UCrgyLs7vuu1lyy963Ycd-6A	PW Solutions	0	0	20	9249	
+UCwed6_f0WcDIioXvMQfcP2Q	Palantir	0	0	20	703	
+UCcaTylSny8eiGSwSduJhX2Q	Perun Games	0	0	20	1536	
+UCDg_EVBPyUmKrR54mp9Wjyw	Pindex	0	0	20	839	
+UCS09-dYUM1rlkIvf7qvA3gw	PlanetConnect Events	0	0	20	1236	
+UCb3mxept2WjksM6auhymQdg	Primal Status Elevated	0	0	20	1711	
+UCqFK50VbABTGJzwxpt8mtBA	Quentin Melson	0	0	20	287	
+UC8hJMBNW6voynFoL7Sr9NoA	Quicklet	0	0	20	238	
+UCpZt18xTFZouCJ7ZQ56Wkyg	Ranjan Khatu	0	0	20	744	
+UCFDLAPrpCuErw8Om24S_3ew	Riverside Health	0	0	20	365	
+UC4JPuaeesjQRrguryopMr_g	Rise to the Equation	0	0	20	391	
+UCpNC1Chk5S_YpGrAjKd_0xw	SHIV MATHS ACADEMY	0	0	20	2738	
+UCLdrmE43HwZDGS92Qi3KhbQ	SK Maths Tutorial	0	0	20	727	
+UChbLQf0sdE2qYleWkvOvlgQ	Saint Joseph Mercy Health System	0	0	20	148	
+UCwOILzAcxK5CM2M7oRBuWSg	SaaStr AI	0	0	20	2928	
+UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	0	0	20	288	
+UCZYTClx2T1of7BRZ86-8fow	SciShow	0	0	20	650	
+UCvDdNFx9v5zU1shCqKYYSIQ	Science and Tech	0	0	20	568	
+UC3ZcdudbyF4maT7xrQGP_zw	Science Pulse	0	0	20	1066	
+UC9u3UqkoikJ9Nr8t4wvyNRQ	See U in History / Mythology	0	0	20	932	
+UCzWQYUVCpZqtN93H8RR44Qw	Seeker	0	0	20	522	
+UCk3DhV00o_q_FinKXr3GZgA	Sentara Health	0	0	20	126	
+UCZGLoq8wbzSFxYuOn_t6StA	Shadow Time History	0	0	20	350	
+UC661aYQGjG-yHSFEdrDODww	Simply Science	0	0	20	664	
+UCFboqQ8JVdSh2zFwczVXU5A	Sleepy History	0	0	20	1699	
+UCxNvQ6PALSD9Y2nbTN55nDw	Sleepy Physicist	0	0	20	8535	
+UCExqs0i3A8CPCBJyv7NBDjg	Small Talk with Jonathan Small	0	0	20	2846	
+UC4-BHIihElaFcKpz5iOvFJQ	Society of Breast Imaging	0	0	20	620	
+UCsApDHKF4SI0n3kkBkUHBQg	Software Huddle	0	0	20	3593	
+UCUuQ7n4fGjrF7tAsAVRIbjQ	Space Captain	0	0	20	1354	
+UC1-OVsDrNOWQlMByYoRnfgw	Space Dude	0	0	20	1386	
+UC2jkub9HD1-kHc4FRKhZh5w	Space Mate	0	0	20	1313	
+UCEENWVBdvDy-QWfuQoXC9HQ	Species | Documenting AGI	0	0	20	1157	
+UCPYXWr4J8t44gCmNYm6ORhw	Stanford Institute for Economic Policy Research (SIEPR)	0	0	20	1325	
+UCGie8GMlUo3kBKIopdvumVQ	Still Watching Netflix	0	0	20	420	
+UCCWXov3PHr0kX9WG543svBw	StockInvest.us	0	0	20	696	
+UC5DYGWSXcJrOyKO_SgpE74Q	Sunil Bakale	0	0	20	285	
+UCtGoikgbxP4F3rgI9PldI9g	Super Eyepatch Wolf	0	0	20	3923	
+UCEA3TrdLv0vo4dRvRPk2hnQ	Swati Theng Mathematics	0	0	20	1792	
+UCIiet8Wnb5Zzel9LBw2M8BA	TEAM Education	0	0	20	470	
+UCHip-wiEtSSRtJtA2OoChOA	THIRTEEN	0	0	20	1514	
+UCf-ZGgv5SxoK_fVJ0tnkWQQ	Techs New	0	0	20	335	
+UCplNCzwzbpvJihsWTTYxyfg	Ten Golden Rules Internet Marketing for Law Firms	0	0	20	3265	
+UCr8ZlC6iUhMUvGNziD4H7Yg	The Bitcoin Revolution	0	0	20	593	
+UCJl3S8A-5ExFMbeJN0KtOBA	The Bitcoin Conference	0	0	20	1427	
+UCFnExFCkTIUsAg7HMkH2p9A	The Finance Hydra	0	0	20	1432	
+UCtjeUt_ak5jq2SPhb3Fkadg	The Front Lines — GTM Media Network	0	0	20	2447	
+UCWea_KfCnTMD39uQuA5TKOQ	The New Stack	0	0	20	1852	
+UC7QSgYveZtZWozG4AVNF2Dg	The Multiverse Peek	0	0	20	1927	
+UCb8nGtVBhOVl3Gq6T3np3TQ	The Quantum Glitch	0	0	20	6271	
+UC7ekA5squ12MDEy5upvpo7A	The Why Minutes	0	0	20	268	
+UCrjFKLCqZnx5XuvWt00y4Jg	TheSimplySpace	0	0	20	2135	
+UCkkhmBWfS7pILYIk0izkc3A	This Week in Startups	0	0	20	4665	
+UC7kCeZ53sli_9XwuQeFxLqw	Ticker Symbol: YOU	0	0	20	1296	
+UCLTcqjxNhju_E9eq_uO_wrg	Truth Initiative	0	0	20	1147	
+UCptda15--amT6JyBiJnWmNA	U.S. Securities and Exchange Commission	0	0	20	5226	
+UC8XPVMe7roWeS0gnFMuRSDQ	UCIM - United Conference of Internet Money	0	0	20	646	
+UC7qEVCiRh8S7V-dlbWN0OpA	UMass Memorial Health	0	0	20	324	
+UCztb58eHRnyv76YnMjqsFRg	USC Institute of Armenian Studies	0	0	20	3096	
+UCtrFDttZdb4QxBpQc3fi1Cg	Uncharted Mysteries	0	0	20	6203	
+UC88rG_IywDs1Tswj6GhtTJA	Universal Tv Explorer	0	0	20	674	
+UCRxn6jf2MKoSOaHMCZ6q8Dw	University of Maryland Medical System	0	0	20	542	
+UCr9CdaBauTPv8e9rTkYOHsg	VCU Health	0	0	20	123	
+UCVfU60kFK4DL5iDNbCQTIKw	Vermont Complex Systems Institute	0	0	20	3292	
+UCLXo7UDZvByw2ixzpQCufnA	Vox	0	0	20	1354	
+UCgfGNfLVl1GLsBWA-ifUjbA	ViralShortsHub	0	0	20	153	
+UCQpzjKzlIqeOwp3EWmv61GQ	WASTV Creative	0	0	20	201	
+UCCaklQ98ufViCAds5gdj49A	WLNS 6 News	0	0	20	261	
+UCnwI-VN5jXWIGQKOI9PMDMw	WPRI	0	0	20	120	
+UC9ha3sh4YTCSK83dH6OlWTw	WTVR CBS 6	0	0	20	124	
+UC_dqtETVW-zK3rk09sIWqAQ	WayCAM TV	0	0	20	3039	
+UCf-rjb_iuv3De7STLICGAoA	William E. Smith	0	0	20	648	
+UCCEP_kqjhI2_2sujWRCO-Gg	WoRlD UnToLd	0	0	20	416	
+UCO114HeEDWyUZWmGEjbRLZg	WtyEletro2011	0	0	20	571	
+UCwH_ASJVeM8Bg9MCai8e7mA	discovery - history	0	0	20	411	
+UCi2QZmx5U4_MXyJYpmUQoJA	Xanimo	0	0	20	225	
+UCxmh9CHjpMmQGFHvZQt0GTQ	joost klein	0	0	20	187	
+UCfZC7WR8oXmBKj-1bUMY-Pw	overzealots	0	0	20	2100	

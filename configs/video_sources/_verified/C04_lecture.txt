@@ -1,0 +1,242 @@
+# C04_lecture — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCO5QSoES5yn2Dw7YixDYT5Q	Aperture	9WI-afcUsdg
+UCvQECJukTDE2i6aCoMnS-Vg	Big Think	xAMde6OjqSU
+UCX6b17PVsYBQ0ip5gyeme-Q	CrashCourse	Lw4oMXTEAkw
+UCjHWv2DU5-HLpogAAr386DQ	FOX 5 Atlanta	Gm0OBlyPVPc
+UCudqVyQYnmi8NwWfd11Rmvw	Hillsdale College	CyDW0bAmwMU
+UCZovC61jTNT1aQ_JDFoeZwQ	JensenMath	YXO95GzfTkc
+UCLnGGRG__uGSPLBLzyhg8dQ	Oxford Mathematics	4rBkskqB_8s
+UCklcXGbIGt_LSXMQaL3PzAg	Stanford Understand Energy	TY4XnFWqn0g
+UCPk2s5c4R_d-EUUNvFFODoA	Gohar Khan	IFVTUxTkzb0
+UCdksaQxXH13BMeHo09MorBg	Edutopia	HybkE-w8Nho
+UCSdPpMokMoGCSSNShOecP9w	General Conference of The Church of Jesus Christ	DKVsnLBLTAA
+UCzWwWbbKHg4aodl0S35R6XA	Hoover Institution	8bHeMggJ19U
+UCYO_jab_esuFRV4b17AJtAw	3Blue1Brown	rbu7Zu5X1zI
+UCqFzWxSCi39LnW1JKFR3efg	Saturday Night Live	tUUYzk1ejA0
+UC661aYQGjG-yHSFEdrDODww	Simply Science	K1uD_-LKvgM
+UCbDs7CHAWVtyu81-6WIqZXg	MKS TUTORIALS by Manoj Sir	2E6xDJmIH5I
+UCflg8pIElTb9qdFVaDC7gMQ	Dennis Davis	E9pAmOJs-i4
+UC3ZcdudbyF4maT7xrQGP_zw	Science Pulse	dR-jtbAsx9I
+UCGie8GMlUo3kBKIopdvumVQ	Still Watching Netflix	YkUfnufGOB0
+UCtBYuLN80XIRR6IaKu468Rg	HIBY新聞	1byUgGi1xUI
+UCWea_KfCnTMD39uQuA5TKOQ	The New Stack	CAnaApp9Zvo
+UC7ekA5squ12MDEy5upvpo7A	The Why Minutes	lj2KFyaFP-4
+UC0uO3IgxaHRBNsjXJw6Px9g	Oxford Internet Institute, University of Oxford	CkYxMQJ9c94
+UCVfU60kFK4DL5iDNbCQTIKw	Vermont Complex Systems Institute	GmVoSYlzcyA
+UCwH_ASJVeM8Bg9MCai8e7mA	discovery - history	1B5H4uwomBE
+UCRFF8xw5dg9mL4r5ryFOtKw	Jumpers Jump	vnU6Uz05hwY
+UCY99eAbrawSnQNpHuSX4Szg	Inside the Silicon Mind with Firas Sozan	6fN7sDK2XWw
+UC_OTtwh8_-q-bA7DoS--syg	Mathematics Tutor	GXpqHzGf16I
+UCwed6_f0WcDIioXvMQfcP2Q	Palantir	ipdtAHQj0l0
+UCxNvQ6PALSD9Y2nbTN55nDw	Sleepy Physicist	cGYmjHoNGOA
+UCPYXWr4J8t44gCmNYm6ORhw	Stanford Institute for Economic Policy Research (SIEPR)	H54P6j7ER28
+UCpZt18xTFZouCJ7ZQ56Wkyg	Ranjan Khatu	VCtF87F647c
+UC7qEVCiRh8S7V-dlbWN0OpA	UMass Memorial Health	VQq55Gs60Vc
+UCZYTClx2T1of7BRZ86-8fow	SciShow	QR-0rHweBfc
+UCEENWVBdvDy-QWfuQoXC9HQ	Species | Documenting AGI	mERBjn6JotM
+UCHip-wiEtSSRtJtA2OoChOA	THIRTEEN	ZCfGn1QgHX8
+UCLXo7UDZvByw2ixzpQCufnA	Vox	2E9tjY-nLCc
+UCCEP_kqjhI2_2sujWRCO-Gg	WoRlD UnToLd	JrzsuTGWvec
+UCYCeangJz_Ow_bTjVhCl5gw	LAW SCHOOL MADE EASY	hsAKaFgs2iw
+UC8JOLZ-YA34ylQTz2tqSlGw	KAIST	ZSxiNxSqgsU
+UCkf5qWO4oNXfrrAWOsNHbmw	Vivek NISER | SciAstra	x-JRMpZRto4
+UCvKzzGO37oT83K0FwnUucxw	IIT Madras - B.S. Degree Programme	dIrvb5TqAY8
+UCfFEE8vgtFJITrQuLQFgucA	Zachary Huang	4vye3iUrR-g
+UCh5wD9ZWmkWWB3Z_Sz29b2A	V Maharashtra Boards + MHT-CET	dZKFQXR47QE
+UCKWaEZ-_VweaEx1j62do_vQ	IBM Technology	UC4vDpSJCkM
+UCFk__1iexL3T5gvGcMpeHNA	Looking Glass Universe	sAm7iVdAvTA
+UCPSSPu8A5LWsYEoQ0Cz4iBw	KAATSU Global	rfrNtxzFMY8
+UCzhqzDgXa3b3umYUHHz3uLQ	Curiosity Atlas	oXXOtUVwpPs
+UCIEwIiQDKB94S_XhZNI0wAQ	Justice Nariman Official Channel	FKsgl8V3Xag
+UCoM11WIgJnI-0RMDRxsQoHQ	MATH AND CHEM TUTOR	-fXcqof0-uk
+UCiT9K1pYCJi3gWwRaE9F6ig	Oxford Law Faculty	7MPLMvPhNfQ
+UCgBmfNILAlXmGv3CsJ8oFJA	Physics Galaxy	b7AngaCYQ_w
+UCWDzDbksxT5BGvNtK3mtdmA	Munil Sir	Kn3ARLO2pWY
+UClOR1BiPyOkkIAnv9Cmj4iw	Mario's Math Tutoring	p5v0foTMFAk
+UCItJsxqZNWUyxFn-A2tzizQ	Priya Jain	XnQiRYjv_rw
+UCY7dD6waquGnKTZSumPMTlQ	OxfordUnion	LkP4ZpB_qrw
+UCuASRVNVmk1ylwHHkfcrx8w	Rajan Chopra	OFKEOP1I-eY
+UCll9iGqbBfzxRtHKXp3j1Jg	Princeton SPIA	dzyKsYi7j3g
+UCvlj0IzjSnNoduQF0l3VGng	Some More News	yHmJkO7ToL0
+UC-Brpo1XqtGmqURNK727d8w	Posthumans	_CksuBGP88E
+UC5VKM0y3YkmEeCgnclfr2ng	AhaForge	KGv7L9vWkWA
+UClztbEWboZVqQc_WaSYpUSw	SNU College of Engineering 서울대학교 공과대학	5EneSTwJHPI
+UCKXjkaYg4odQWPnwbDjaqYQ	AI Upload	xv8b0Q4rrPc
+UCOsAfA06zghgALnXPp4VbGA	AnimeUproar	AeMjNaGATlQ
+UCXgnGdV5nH211t0GyOP93GQ	Rohit Shaw [IITD]	r5SwcG4TK60
+UC4JX40jDee_tINbkjycV4Sg	Tech With Tim	nvc7xi6vZWw
+UCm5mt-A4w61lknZ9lCsZtBw	Steve Brunton	QVF0oOh7s8c
+UCEATT6H3U5lu20eKPuHVN8A	The Chris Hedges YouTube Channel	2DhiN3UhwHY
+UCa9gErQ9AE5jT2DZLjXBIdA	Shaw Talebi	3vFISl7qMFI
+UCx_fzdw4ps8eSa1JPRrIsIw	Dr. Jenn Simmons	-P_wpyid7tU
+UCxZC-5v-UccF6FXGI7VXgoQ	The iScale	M_f8OKXQpJU
+UCPvDKIsrjA_h3g5yZJwCIHA	Tech Classes	S7q4j4l8-aQ
+UCbldcYGi7cQMG0fcnY7GNng	CMO Confidential	t-CFME7I7T4
+UC_hukbByJP7OZ3Xm2tszacQ	Jeffrey Kaplan	rxHu9SGYXqM
+UCGHZpIpAWJQ-Jy_CeCdXhMA	Cool Worlds	qm1b90bxrJY
+UCyl7zwI6giPG6zC3uC8GGVg	The Cato Institute	eI19V81smvM
+UCIqH5kGFOM_lP9x_AmPodjQ	Late Science	ypD5HQBLJuM
+UC57AdxF9_0fCLR_n2XnmiHg	Mad Cat Sphere	TSlBgcLLzTs
+UCYI6VqtL5HFWdVhfD4oFPoA	東京大学 / The University of Tokyo	9R9H1mE0nSk
+UCxBZaIrrt0ZzYMV2hefCriw	Deep Space Stories	1TJ587tiivc
+UC5t_kvsawqA6o4-l4PUIS-Q	Engg-Course-Made-Easy	nCYv4h2EViM
+UCGkctuF55veBi7xDGCgcYkw	東大TV / UTokyo TV	3PVzLXdPcnM
+UCtAIs1VCQrymlAnw3mGonhw	Flammable Maths	K_Fx_8Pb1iI
+UCab2KsB-yV9cyzrbwSJ1ZNw	BobHowToAndTravel	8vtjnCBWaLI
+UCnDHeordwqE0Np0Z7AUQtPA	BoomDrama	aIpZdw33t2M
+UC2GUcyD6KYjmU_ofQtPTSSA	Robert Welsh	ZO-uei9kxV0
+UCcaTylSny8eiGSwSduJhX2Q	Perun Games	gbbiufu62jM
+UCpNC1Chk5S_YpGrAjKd_0xw	SHIV MATHS ACADEMY	u-c7Q0ort6s
+UCSvAsTpVyYrDWuojyueX0sQ	Lowell Productions	sk_nACN4p34
+UC3mYNjFaGV4ucwSRR6JsbGA	Twilight Drama Dreams💫	HIA3z5ZU1Os
+UCN4caNO-iJ8-4jGB1WOdo9w	Miss Estruch	8mqaYvuNlpE
+UClmjQX0urqGb83Bnb8Np5NQ	Kasim Sir Classes	RCDckYhNHLQ
+UCCWXov3PHr0kX9WG543svBw	StockInvest.us	AVFKJ8eW1UQ
+UCJl3S8A-5ExFMbeJN0KtOBA	The Bitcoin Conference	ZQzgC_Gt2ts
+UCFoVqS_UET3tIF7A3H-ppUg	The Vertex	MjxXuewLLmE
+UCsApDHKF4SI0n3kkBkUHBQg	Software Huddle	2LQKn0qt_8w
+UCh3LHx1kwcUdupBus4z1uxg	American History	BusRtI7I5r4
+UC2LdCiAsuXTM5KxqScV_V8g	De Nieuwe Wereld	YnHkrq6xRQs
+UC5Qz5efUK0wKhNAhjjRaJww	Book of Valis	378gNcROBSs
+UCtrFDttZdb4QxBpQc3fi1Cg	Uncharted Mysteries	ZXMe7vZGeYc
+UCHDr4RtxwA1KqKGwxgdK4Vg	Computer History Museum	5ggjLhYVzh8
+UC79Gv3mYp6zKiSwYemEik9A	DataCamp	zliwc7gbU44
+UCxdWHEhEPiYhCADMrn4PdhQ	Fin Tek	p0L33DDfTh0
+UClWTCPVi-AU9TeCN6FkGARg	EO	IfNPcmoFYn0
+UCHnj59g7jezwTy5GeL8EA_g	MindYourDecisions	o7SaAdAyUU0
+UC522meTsOjFWjSdLLrEMMBA	Google Zeitgeist	RYTGno8T6G4
+UCFlnKDqG512KkbDvPa2ybRw	Fexl	VmQeAWjsw_Q
+UC9u3UqkoikJ9Nr8t4wvyNRQ	See U in History / Mythology	UIuYyLGIAxE
+UCrjFKLCqZnx5XuvWt00y4Jg	TheSimplySpace	aVdc4VzMLxo
+UCnfhYMd3iRe5pzuJyopVuRQ	Manhood	0fBtsx1-Kfs
+UC0a_pO439rhcyHBZq3AKdrw	David Perell	7fpr4055HBY
+UCpAaVBsACXjESbGOYkynjXQ	Sleepy Philosophy	Z_PHCI6xDEU
+UC2Kyj04yISmHr1V-UlJz4eg	Jared Henderson	iK1ZZInYRHY
+UCSHZKyawb77ixDdsGog4iWA	Lex Fridman	U1H1Ob7jk8Q
+UCZ5C1HBPMEcCA1YGQmqj6Iw	USA TODAY Sports	9JAWO79CxSM
+UCfp5MBK2IC90Bdm5IQUJvYw	Michigan Medicine	6x6dVCNXy7w
+UCZS6ALSJ4ozRiwmdCKmNK1g	SleepNomad	ncRPO6lHj2o
+UC-tLyAaPbRZiYrOJxAGB7dQ	Pursuit of Wonder	gxglts0Sw5I
+UCZgHOeJBfMKOZ5PMlZysy8Q	Harvard Mathematics Department	oHiVVqck4d0
+UC6GWtMMc4RnjcJAOHbr7XKA	Extra Mural Lectures IIT Madras	MU9-IrnZe-0
+UCGI2NUAxXMyN8-Up3n4piaQ	Tokyo College	MKHDC72mSTk
+UCvzhkIinfe7hDRQXHkVzMcA	Nurse Bright	BKTd9mDesdM
+UCyqlbzLoYtpqDXwRI9Yh5LA	BWB - Business With Brian	eRnN7P2kQeU
+UC3uaNGMpUL_Fqr7IWcebiFg	UP Department of Philosophy	V616VxwKFBc
+UCWBkBmz_nNliH1AfJpnlrkA	Dark Echoes with A.L. Whyte 👻🧿	J4HJjIpNKOQ
+UCquT5NzE7P8_wP7m2tnbRjQ	IEFA TV	NFDHjxR-Hu0
+UC7kCeZ53sli_9XwuQeFxLqw	Ticker Symbol: YOU	pPk9zHhP0ug
+UCnjgxChqYYnyoqO4k_Q1d6Q	The Diary Of A CEO Clips	pvdPAOq5R5c
+UCLdrmE43HwZDGS92Qi3KhbQ	SK Maths Tutorial	65qvpZNC8Ws
+UCrM7B7SL_g1edFOnmj-SDKg	Bloomberg Technology	1O5Qo3qi3iM
+UCkkhmBWfS7pILYIk0izkc3A	This Week in Startups	6tRPTof_aUA
+UC7QwagKeKBBE-1RnXC9s6Ew	Anime English Club with Sally Amaki	JlDil-k8kYA
+UC9rTsvTxJnx1DNrDA3Rqa6A	Dr. Trefor Bazett	mgcNO58BLk4
+UCRxn6jf2MKoSOaHMCZ6q8Dw	University of Maryland Medical System	nJch1oIXc8k
+UCxmh9CHjpMmQGFHvZQt0GTQ	joost klein	PWJJQUwf-m0
+UCQyRzwszdJ_UL6CECgWMx6Q	Chronicles of the Lost	a2YhQ9SlMEE
+UCVyksjY1z3ixZAMLCVfoIsQ	Faultlines Studio	CFAZtcvbCLg
+UCWOkV53dAW3zpDMzoqDMpCw	KirTop - Archaeology	bXVXhYoGw7M
+UCr8ZlC6iUhMUvGNziD4H7Yg	The Bitcoin Revolution	1MjbNyvLS1U
+UChVUSXFzV8QCOKNWGfE56YQ	BriTheMathGuy	nISrZ80Oa50
+UCNYRXycLpyp_ozeRbopJUQw	After Earnings	3NMLqagBmFs
+UCOQPxDKP_Y5ldb1ldI0rVVA	Bedtime History	PUlI0RRjwBg
+UCrrXvYmau-9oMA6XJKZS2fQ	DWS News	2QjQZesbc4g
+UCC4leKu2BwJZpv9jaUXpC4w	FIRE	KU_deVZ-zpc
+UCXl4i9dYBrFOabk0xGmbkRA	Dwarkesh Patel	aR20FWCCjAs
+UCUGwVgtUewevtLvu7NaxVrw	Dr. Roy Casagranda	eSEOrSKNpiM
+UCk8aLmjQ-IKVZCuGJks0rkw	Colby Martel	sW-DdyJ7htQ
+UCNjfNLnQYbjBEvnS8KFuyGQ	FOX 10 Phoenix	2WKEcK7LUEo
+UCXIJgqnII2ZOINSWNOGFThA	Fox News	D_NbjHFF6K8
+UCvyaZhkGWT2qvBRsta2jBgQ	Han Zhango	TtjORErdY0Y
+UCTy8D3wAtiJtSuA-2YOEfAw	GreeneMath.com	ec6qLOd1Jwg
+UCZzqG2zfeRKMoJwDwk1FTvQ	History with Cy	bshgaYC0xjU
+UCVeuau7DLrg7zlAjxxDbdww	HubSpot Marketing	WOVhHWR5B3E
+UCCrl9a26fDCZvofnCnA5A8g	Johnathan Bi	DuCO3dngans
+UCw_LFe2pS8x3NyipGNJgeEA	Learn with Lukas	QgN6r-2Lgqc
+UC3wxPA1Sph--HxKGdOGVjrg	Official Alan Watts Org	W6GLrOFk1KU
+UCEBb1b_L6zDS3xTUrIALZOw	MIT OpenCourseWare	pTe0A8ZOAGk
+UC3RwLOQ2myWSyrPvcH4ohdA	Maddie's Fund Education	8bHXjEFpfmI
+UCHqC-yWZ1kri4YzwRSt6RGQ	Right Side Broadcasting Network	vfKKbm7zOcg
+UC7q-GcHyjCHkTpXCUTLzy7Q	Philosophy Overdose	TxkuGxFxFfg
+UCpHvNclapYpq8b0ZnGRoMeg	Perimeter Institute for Theoretical Physics	PWMKbsitq0Q
+UC-EnprmCZ3OXyAoG7vjVNCA	Stanford	zonHdFxLQcI
+UCV-yCAXMS-nWrHtORuDfSuQ	Odyssey - Ancient History Documentaries	K5mIx9VGcK4
+UC6QYFutt9cluQ3uSM963_KQ	Ninja Nerd	_f5YYQvXxy8
+UCGxGC5RCVFOEebFfepv6frQ	Stanford Medicine 25	4fszEL_wpD0
+UCaXkIU1QidjPwiAYu6GcHjg	MS NOW	QBWin2kzB1w
+UC2-Q6VJ4ozwkxUKdVGz-ClQ	ReviewEcon	EvroG3XDFA4
+UCEWpbFLzoYGPfuWUMFPSaoA	The Organic Chemistry Tutor	vgAFZPFcEHg
+UC0uVZd8N7FfIZnPu0y7o95A	ReasonTV	k6mjLSoaFQU
+UCsT0YIqwnpJCM-mx7-gSA4Q	TEDx Talks	F6inD8P0g5w
+UCftwRNsjfRo08xYE31tkiyw	WIRED	VhUdYsNR5po
+UC0HeJC5p3XNiIGU5AzW0i3A	Upskill with Catherine	gg05NmhouCc
+UCS7tJlcUA6PzVHEMo-X7ddg	This Week in Startups Clips	gyvsrOuM7Wk
+UCLLQ2NRTQD_UpLfHwLviU9g	Akash Jaiswal (IITB)	BRKatbMl-oc
+UCAuUUnT6oDeKwE6v1NGQxug	TED	7UGkIOGkbKU
+UC640y4UvDAlya_WOj5U4pfA	nptelhrd	lKsoSCxJv_M
+UC6YafiOh8B3Vk92sJIivKfQ	meschian	Yu8t30kMpIg
+UCpsrJufAUNXwot-znspubbg	essentialsalts	jw5f92dl4o0
+UCh6KFtW4a4Ozr81GI1cxaBQ	University of California Television (UCTV)	NsZrRk5pKTY
+UCtslD4DGH6PKyG_1gFAX7sg	Alexander Amini	GvezxUdLrEk
+UCtYpAa5Q_1Jb8rsgraXphXA	Benzene Classes	eriKsum2ZHw
+UC4EY_qnSeAP1xGsh61eOoJA	YaleCourses	qX03sm-chv4
+UCETMXtWTOl0M27EYE07EJFQ	Excellence Academy	LnqQrFvHWR0
+UCW56M_vzj72sBPFzI-8hTuQ	CAMLab, ETH Zürich	jnjYsm4NjhE
+UCmFyiFKnO4bUr6k9KArYwdg	Anthony Marinac	znOB13McZpg
+UCO8npE8Tv3znMWY767ub5UQ	Central Book Supply Inc. - Official	2DtYbiHoYuM
+UCzCMyBy0VRoQBF8x-TsXTnQ	IIIT Hyderabad	Ne3piLmv_Sk
+UC5XhBLIJs11l7dQI4zWuk6w	Carleton University	I16bbcyWR9c
+UCMI1E-H6bJ3lG2576ENBo1g	Alex Kontorovich	U-xG56YHCiE
+UCbV60AGIHKz2xIGvbk0LLvg	Jay Shetty	drGfytizI6w
+UCUMZ7gohGI9HcU9VNsr2FJQ	Bloomberg Originals	FTYN3l7BrmM
+UCXPqF6wEXTcFtml-mF7_J9w	Chemistry in a Nutshell	MFGsy2-bLD4
+UCSzx-qTK2639JBWgrb6mTmw	Fields Institute	drfGLCK-vMI
+UCC7w3An3dU6YsruHvP3Y2Og	CambridgeComputerLab	CWWLfDRufG8
+UC6B-8q01CqGJmZ5NswbYGDw	EduNex Nepal	cmLKr7Dke9c
+UCObs0kLIrDjX2LLSybqNaEA	Great Learning	7sOzUl1-rG8
+UCwp1TFPWo6JLvfQ3Y_o0vHQ	MaapsIndia	nBBuUtoY6kU
+UCdsFw-tO0HrZfOVK7aH7f0g	Easy Explained 2.0	jHJ9mODrecI
+UCST7O07V0HwBkK_wCB6EB5g	H C VERMA	LeL81I9TdDU
+UCbcymZiDyq0pXkqD3XhE87w	Francis Madden	-q7qE2_oEpw
+UCiuvIXoJsLBVgkhDA8gTuJg	Engineering Gone Wild	j_DcHO9xSCo
+UCktMIWomeuj4pwvBb-OBwMw	Infinite Codes	_rivENRG1-4
+UCASVJPUf-W-v33eCfUIhCYA	Mehul Mehta	l7EOaHatm1w
+UCOfLm6gZGt3vwTMKRg-irhg	For the Love of Physics	I3E1-9LZwVI
+UCrpEdhTAYc7n0_KIZZ9ofqg	Fine Theoretical Physics Institute	lNr1k6bkanw
+UC-V6odR7HzLCuqjYeowPjLA	Nobel Prize	_FUeJocE4pY
+UCnNVlMl7ZIy2laJ4Md8AdLA	Jesus College Oxford	9VNqjDtahtQ
+UCig0KhrB5NClMvX9QrbXcrw	Global Health with Greg Martin	IwJAKydre6M
+UCcWodF6K9bwle1f3x6fwnLQ	Healing Quest	_nB0jO6EMTQ
+UCVUjsfIErUfWI57ep1L7B6Q	Motion - NV Sir	wJYAbzk51ic
+UCBcn1VNOJUsPNrsCJGTcquw	Harvard Law School	d7XAam3Kkas
+UCYgL81lc7DOLNhnel1_J6Vg	Math and Science	bSogZQ2h094
+UCjDOIgX6zkUOUcs6o_H1zdA	Kieran in Shanghai	OrmWAo8yK8Y
+UCqoAEDirJPjEUFcF2FklnBA	StarTalk	OWWQKWShaSQ
+UC_ltCdLVMRZ7r3IPzF2Toyg	Najam Academy	4icyu4weV1Q
+UCv8Ngyqvzuf48OC9t3YYGdg	Oxford Engineering	mGI0tHihHWs
+UCRfo-DAifrP3lzcxUHtGm_A	Tom Rocks Maths	MaSioUSFU0I
+UCj_3iDGRgsrO8uyxVFtuMIg	SNUOGA	Cd6EB-74hVg
+UCSDJUz9NdxnAPBGZN1b3JKA	VickkyMama	KieZyxTl63g
+UCHIqMEje_NFJ2u24CVaNQvg	Saïd Business School, University of Oxford	mjKcDt5C31s
+UCN9qzrsT8gYS2I3tbYVKfcA	Tharun Speaks	hudK1xaOeNw
+UCiJky5l3spKddy_rQKICE5g	Texas Science	GzE5jjSYuk0
+UCwHlQocBSCkopoT159_7tKA	Studicata	OFAkce_E5Lc
+UCJ_3L5ElVq7fI0AAB91tfng	서울대학교 Seoul National University	W_ZnyOcS1js
+UC3UbGrV97_wjWYA6QT9gmEA	Content Creation with Matt	-M5AqlxxRPs
+UCZMvJVq-HD6n3O1pHEF88xw	GodART	0L6YKCZdb7w
+UCH1oRy1dINbMVp3UFWrKP0w	Good Morning America	4mvYZmjSUE4
+UCrapqHgq--AdzOjjP64otvA	東京大学大学院理学系研究科・理学部 School of Science, The University of Tokyo	2TH9bfa_Ql4
+UCQG5_6DwEXDL47_aNZ0SiNA	UTokyo Global Unit Courses	kUnZaP9EKlE
+UC7vgBlrlf2EIx76xNrHyyHQ	College Friendly	fhDBy-wV3ic
+UCcDcn4rfCoJfQZZXnzv3SQQ	True Value	SQ-mI6w-VmA
+UCShHFwKyhcDo3g7hr4f1R8A	World Science Festival	qFuYUSWwn7s
+UC9HGzFGt7BLmWDqooUbWGBg	Matthew Hussey	u8aeRhV6XPU
+UCJIfeSCssxSC_Dhc5s7woww	Lex Clips	VHg7g7N1Axs
+UCPmndhZFhtO0yjCvuUVoUKQ	LeDuc Leadership & Media Group	aUP1Sr_N57Q
+UCh9nVJoWXmFb7sLApWGcLPQ	codebasics	a83mfwd_6nU
+UCYRcdzyGQ_zGxxKcqJDFhqw	All Time	Ks9M-Vx8rMY
+UCvCYE-3TrY1GAe2l8K08N-w	Digital Engine	AyOtosgd-IQ
+UCG2B6emunc-8ACAChpHv0qQ	New York Stock Exchange	3XalgjsfiSc

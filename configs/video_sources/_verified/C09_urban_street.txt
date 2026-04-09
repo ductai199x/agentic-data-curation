@@ -1,0 +1,208 @@
+# C09_urban_street — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+# C09_urban_street — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCfk4Df9QxO267wlFbStSyAw	Boxoffice Movie Scenes	tJQpoHr--gY
+UCkcNUKNEB0BJgZk9jIdI6OQ	Gaming Tours 4K	661-QC0NUQ4
+UCJRYTUwfeeXRJDMmIvwl4CQ	Jeronimo Ambience	yqEudONwHJU
+UCWK2EvwgBDSJogxf8tAhuZQ	Lofi Zen	SuzmYTFGBuQ
+UCHwanJqap-ucqaDCBj8s_2A	Nomad Solo Travel	LRXkyKDkvr8
+UCfhqk1LwYmPBH8ALa3nqAdg	Peaceful Relaxation 4K	m0iTi31BmOw
+UCqjD5UzXn11INaiKUSaUGcg	Relax Top Music	bqzDi7H1Us0
+UCEZ_zB95xT6J8u33-pBF6UA	Tourister	91SZRJwbg-4
+UCx8zbeoZmHf8DpS_AJVaF0w	4K HDR WALK	qVS1_cB1JOM
+UC0zYnUkhLrSqARPjfLFUn1w	Choolutter	gPsDOH6wQTc
+UCj0VQx_rJuOM8JAeV4tiQ_w	World Driving Tours	oKxCM_V5lsY
+UCnn00LcOevDIq77W8IYskcA	Driving Tour 4K	iyGk3hsBG10
+UC9fJ0Ic5ki8XL8p2KUs4hmA	 Mesmerizing Time	VG-ADAHn5vQ
+UC2Alm9dKXWmgQBrrlWct9fg	Frequent Driver	ryOW1DILJuE
+UCRBxNo8g0KMaas3-Pvk6_gw	Cozy Ambient Escape	BzLLNL70WGA
+UCH1enUKl700Hn10NK8v4TRA	Japan Journey -4K-	4JBuZ6mDJXo
+UCfWCF37MI8ipa4_Bc7vbuIA	Legacy Travel	ZP7qXAMzbFE
+UCg4THfp6wZJ1yHEhVe2G-Pg	Night Rain	ttB4TVIx4Ok
+UC0H-Sa4Ua_wWGYMmc6ITpRg	Neon Driving Tours	CXvO64Nicrg
+UCKQPEnBI3x65YPaI2rQbcLw	Calmbience	MXHEb5C-Y-g
+UCiTyVU7qZ59SVbnye6xyOyg	Relaxation View	oA5hOhfKaZY
+UCuHPMEhw_DLb4xr1kAcuR_A	Philip Hamill	VdcaMkNTQZI
+UCdXwJCI-7jOR4vgB3MasJyg	Japan 360	JstARhsjRv8
+UCBiW2ntOESWq4bpEsW7-IpA	4k Films by Adnan	q4KxOpcl-As
+UCAcsAE1tpLuP3y7UhxUoWpQ	Rambalac	U2ILWYcbtrA
+UC1T_pR-Rt-NdHgytn2GkTeA	Abao Vision	O74Ihv7jopI
+UChZb5syQA8J_yZqMQhJGobA	Leon - 4K Nature Film	uGHP2knoPYU
+UC3gNmTGu-TTbFPpfSs5kNkg	Movieclips	7p1liJYPAmw
+UC-tSba_3nKvO5AGH5CXwu1g	ClipsFromStreet	-W6TsVjWGpg
+UCSZXwdBppzhYpcqf69WNOIg	Seoul Walker	dxKqFmhu_es
+UCrXaYAnixY-U-xSeQPxHB5g	Cozy Bedroom	n4tqDMTO05k
+UCX8Rxrd3And6CNmNhWCrBWQ	Drone Profs	7dKNpAKWYBY
+UCSYUlIhGMCdM-oHxwvbhhLg	The Travel Docket	d6IDJX_kdbI
+UCUWaNOcKBi24MH9GNGAUKbw	The 4K Guy - Nature & Urban	Ax-eskNuTrM
+UCtjqbDcN2ojpDWPKocup-hw	Japaview Walk tours & Videos of Japan	agRO6Tu6vIE
+UCwnse0x8t5YNtMTxdKliZJA	TravelUSA_withme	fWZe_oBPGqA
+UC_Lf7jaHMbla1YBgkAEKdvw	Transit Observer	K-Y71BBvaJg
+UCVvsgQ_glD-W05t_1UQMGdA	Just Pattaya	6RDoZFlz4CI
+UCbhy5JHXn3IVZMksNSR7LkQ	ΣHAANTI - Virtual Environment	QcDGiR3FNmQ
+UC20vyRWEaC2GIS8DkmeRQaA	Walking OZ	zN-1NQbfxeM
+UCqRTj-Nu_8to3jIBlXptOtA	Nomadic Ambience	89r4hUMxMtg
+UCM-Y2arEt7fd-CILPVLB7Tg	VISUAL TRAVEL	fvsq6buZQkQ
+UCPDdorKbAsdIYCUwsbg58mw	Mileage Mike Travels	aiBfVnicNN4
+UC20DNxT_UjT49mYOIocJAww	ComicBookCast2	VNx_vgz0u5I
+UCfbkraMQPT7l9d1yTYpDR1w	Popcorn Picks	VOmFXJrRSQs
+UCdd_lCo2RDJxi-prcY66tHA	Your Virtual Passport TV	KuRKZDG3h0A
+UCPur06mx78RtwgHJzxpu2ew	Wind Walk Travel Videos ʬ	BgOTJdiU4EA
+UCaK6gtupBKPeQT-ZLSEWigg	PEACEFUL MIND	37IPAyDpTvQ
+UCZIdQhj-8h6oAqbyFi_a9Sw	Driving Japan	gkD5jVOzQdI
+UCJQvXv_-IXoibYT4TWeQx4w	Adnan Akhtar	gx1WR40jiHo
+UCEMU7EH61v91RUaCQFj38Xw	Relaxing	4baPplZOjqo
+UC5LPbPp5DRKabKfWS9XMPWA	4K	lmMjxgdlGwA
+UCKJLkcrrNyOMsmcoxpPDUtw	HideToMotor Japan Roads	nKFEjiyr_9o
+UCNzul4dnciIlDg8BAcn5-cQ	Prowalk Tours	0OnjDaJR1z8
+UCgAk-RQ9MTdrSJ4twHoEcwA	Footsteps to Nowhere	6sq_FaaHoPA
+UCFnFAtTOnrLWdkH7iOlikmA	Earth Vista 4K	Zoq2CpSTT38
+UCH6tlt1xmwe4iPzcaQvvseQ	Soul Healing999	Yna0HB_P6zw
+UCn9Sy5xQttDp_a5NYf1M_Uw	JapaNomad - Video Tours	GlMCDQX8iPA
+UCV__3m5-J6XIxBNPUZYDvYA	Canopy Soundworks	BemJTeG3iCM
+UCT-uo-xs6NSWok1c9SQnflg	Rihard Travel	KXh0k52ahWw
+UCBcVQr-07MH-p9e2kRTdB3A	J Utah	EpgtyTRdUQo
+UC-49Q36NmhHko3xFCdmBwKA	LIFTED LINES	6iM-eZiu-K4
+UC9MnIIO-899pbY97HdcjrQA	Lubos Benko	ZO6fivg8v_8
+UCZMXqLB3rFFMavUDqazI8wQ	ShiningstarTravel	2GTPTX3hvEY
+UCFN_dQuFU6tXwVLXppqOwpA	The NYC Walking Show	suOd-A0ihak
+UClHrno55WYH-bfhSmTRnNRw	Journey Across Earth	XcYsN0OuXLE
+UCxgndWM4UrZqXuX-Fmv2n5Q	The Movie Clips Dude 4K	vRDyAuDsSQU
+UCE5jf-aHkKPjmfJMSU9iaxQ	LONG STORM JONES	3gAK6U_baV0
+UCa6DBGeztqfXOwcpUnk0Ccg	Pure Sleeping Vibes	EZOdjz-oWb8
+UCdK8la4Jqaa5UGkCyhqSZrA	Passport Nuggets	_ZPSJKOpDkE
+UClvDJQWivXXrITTl5f8jakw	MrReese	pxYoT1YaJ-s
+UC5MUVU_-OpPDTXMKsYcxT8w	Travel X Overland	GhuRS7KvPMg
+UCM3_5y5xvgqLfh1Ez9l2Rrw	Nature Sounds	e25WhB1lUmY
+UCmye1eV9Uuw6TCqkUYJW1oQ	POV JAPAN	oP4cCkn1cMA
+UCF9KnzQ28vwosfVDfSmvjXg	Ultimate Ambient Noise Soundzzz	51VeajfsQNc
+UCnvLGayHxWh5YZjpJjZ6WRg	WALKS and the CITY	1mkZejya7zo
+UChJ3CppCX4P0nkLCvpWqfKw	Relaxing Room	LKYHdR1W-XU
+UCvBeCYTRflgKv-KXVRt5GDA	Rainy Day	Tx4pgWnC8vc
+UCInI8V7BZc2HghONZWKFGgA	Window Scenes	x8dxjvZuBTg
+UCLg8e3iLC1uc_10CTgmy1JA	RainMelody 비멜로디	ZayOhcLNVRc
+UCj87Qsp3k8DzlwZTGp16Jlg	5TimesTravel	FX6pu6HPu7M
+UC1rJC1fTt_vQV_nLhNdXVwg	World Scenery 4K	zeJRLUKqKrM
+UCgYoND3mgHqm4X7cB5PXC6w	City 4K	0hvJvDoJlYs
+UCtpR8yd5zItyPAa2uLFTPtQ	Time for Sleep	R5S6O7vrYmY
+UCkkeqkJGE5tnTezZsndN6_A	4K Cities by Adnan	sA0mYJ5Onpg
+UCZpGWKnO56t67JmCfBLwoYA	Smooth Jazz BGM	nq4v2wLepGs
+UCliVSFfevlGUhItfcceOiMw	SwissWalks4K	OVtJY8FAQuc
+UCOzUXFP7J2k8zf3KN8ms6-A	B-Cam police	Koz2gzRObXA
+UCBX_wRb6MXqG3WKIfseM4oA	DayDream Gaming	RcXMoSYViTg
+UCtz2BUySM6IOlt82RQ3mTTQ	4K Scenic Relaxation	HW71IVzbcEg
+UCAxMEpfzdJ2dkrplSWehgcA	TokyoStreetView - Japan The Beautiful	GqEUtsZpnUA
+UCoaBUy9HDbcqvJQMrQp_YeA	unseen walking	t4xm3fhAD9o
+UCfak21UYFUer7Nhucu3CuJA	Cozy Rain	41E2t63hqUM
+UCocQXijjm_TLg3af1W4Ie5g	Storytime Grandma	rFaWvcGEGd4
+UCV95t9tjZ1Dx4kOcC-XUyCQ	Experiencing London	4xp8qgZSbP4
+UCtGqQSpH-GMs6SjhgC_MPHg	Earth Relax TV	LLO8xgkwP84
+UCCRSaRxwIJ6BMFeoC_DQIHQ	Urban Rain Beats	u7tLWTEDjhk
+UChI-cTok8fJePnryAd0mTvQ	Lifestyle Hal	gudUTVdDknw
+UCHb7wgS69oUwurcI_tvatVg	Tas Drive in JAPAN	NAWA87F7qdY
+UCHw4XxOMjRfWK3k7G9ANeGw	AdventureEveryDay	e6fNniTyO7M
+UCjoWDPwU6goZ1KWvhuRFtaQ	JAPAN Promenade / Walking Around Japan	LnDvEJ7zydk
+UC2VbiLtl4NjMYIzXzMzCLow	Luke Adventurous Spirit	qYrS3ORfPr4
+UCBRKUCgUJsb85rV0mUpvHXg	I-CHAPTER FILM	WwJ2x6Pe73I
+UChK7ia5MI89iJpYQBDBiKCA	Hike The World	nsVH2DQ9OIY
+UCDQOGrdxNgqcErEmV_Q-yvA	DarkHaven	BEIw_xP4Y3I
+UCtrKN4Ty-tI1S99zIOhq8lw	Relaxation Pharmacy	VMQuwGojtAY
+UCFhJJJVfXTr9XjYrU5khVXg	Cat Walks	vhuEkF3tgEY
+UCunOiFZn42_G32ZMvndoLGA	Life In View	JfPe7W81ZuM
+UCPQBZj9Cv4b9b89oh8qgHvA	Pure Nature Films	3DQUwprApiE
+UCCbnt4UokMxYG3jt2FKXtdw	Japan Shrine TV	7BiOjNIlR90
+UCMZWwO7gMk6FdyTK5zCeULQ	Alae rida vlog	vm3n5LRFQsE
+UCTpVX5Rqs6JSBDEOHIuHr2Q	Epic Earth	Xn2GMgBc2PY
+UC2PeZFS241nBy63YllGvxtQ	Virtual Explore	52_kHMSIgEE
+UCfsZsMaDMDpN-1lYeWnteMg	Nature SFX	D06Fu1LwMwk
+UC67uA1i1zR1Iu0UWUf8nBIw	Drifted Films	WTQYmh9KcTU
+UCjKV4Lsb9S_2pKUbnHfrYVw	WisdomBox	mCE3ox-9Ois
+UCdKaQzCC_XkE8MFOI2M0_VQ	Paul Drive	IbDREcjtADg
+UC2wPj_TG9CZ1_DZS69oyKnA	Relaxing Music Collection	dU85XUuA9LA
+UCgW2rvcP_ptNrgCw2QmiI0A	Flow Travellers	XrRYKUzgkYw
+UCGN7VeYOJgZ7LXnnoYMyNLw	KNOWLEDGE ATHENAEUM	H-z1u-wTzsQ
+UCR2GKAWfBpi_7lioy7mLGfw	CE-note_vision	ibsIelpANlY
+UCU_i3oDBvGJTg7JC2MfYV1Q	Hidden Wonders	_Cv3UA1Khlo
+UCu5uVKPpNUxb0gkWazjozmA	Floridaman Drone	dJbx4xVaLg4
+UCwKDfsEiTX4XLc6NQvMsYoA	Rainforest Recon	JA4NpKMBFU0
+UCE_S1IfcsmxaE-OLK2oeizA	moviestudioland	TgClpYf9bh0
+UC6dvBWj05dbLxpZaZlpmbZQ	Rain City Life	MpM5Co-1IXY
+UCR-8Vk-r7HLTDHGaPvfJ0fg	Travel With A Plan	cQeNWB6oF9w
+UCLAcytNR3gdw44yzoSiKluA	Hello Korea	227I8Zs_bWs
+UCOCCcqrqdsEqlkMjZwEYwSA	Denki	sJZ_zOLEcNQ
+UCb0xfM3HGOsqPYNAocXXNAQ	truTV	Lda54XxOzpw
+UC9mWO6vm9kREdHlIOhMn-kg	595CSGL	Gwdgyy9Bha8
+UCIxpTD4vAehR9rtwZuLpwtg	Soothing Rain ♪	eaxJDeoWd-A
+UC07J-FrWO04H6B0eE_qh6ow	Seoul Trip Walk	C1UnnJB4xY0
+UCU29V2Jl2unpcOxm1kPDqmw	LADmob	W0tCKTlwOO0
+UCrmI11fTLiWZpgvs-rC4qRw	Quick Travel	GlW1OTkzxNQ
+UCBz3XIqavhbYRTHCr-aimmg	Oxmo Around The World	C4_pOgVwckQ
+UChSX8BXAOFGhZnszQxxNxmw	ASMR DRIVE	YJ0awxB3nPY
+UCnPZTdhDoffZqkkmjgS1PJQ	Travel with Dante	4pY-K5qk_Q4
+UCfZheyP8picuxeKLQot4u4A	Japan Drive	hIN2dKDtV1o
+UCx6QQLpRolGQS6mDKayAHeQ	Mostly Walking	Nn3EBGznNQU
+UC457V3eydK4jUJ4JhQq0LcA	Binge Society - Action	X9wz8b5vIh0
+UCZFoFDjjVq_t7RP4As45RIA	Relaxation Station	rNUPFMeS_hM
+UCiVSJutRI7WdDuXV93fRWvA	Walking Alice	OXDMxxwHeuA
+UC9OIZ77MhlVoi4IxLFXl-nQ	TOKYO TONES	q5JyjvS-Al0
+UC5eLdius-QAABjYXDWDK7SA	Jonathan Zaharek	5Up-ecsBqNE
+UCy7G-lfkfdurEdTjFW9njdw	Clipped Vidz	xnpRnGMnhiQ
+UCtKu0FmGM0pwiYFuAinPXlw	illkoncept	lddakaxXQKQ
+UCmXvGGaL69PXcI3mSI-s5Tg	Eye in The Sky	jrckPsp1Ol8
+UCMMjqbXWsx2McZEdTs8IuhA	Silent Japan Drive	opl7QhpLDwE
+UCwGZ0gavp_labowvu_h97mw	Eff yoo	UlhZtVCXSIQ
+UCTmuAFtEfOOYbzuu8gXjx-Q	REAL THAILAND 4K	HyrAko_ALKY
+UC9k8DFH4a1yYtPZs2P0BhtQ	Latha & Prem Around the World	NNfw0N-ycJo
+UCXAEqjQBhY4M0vGwC8K7ozw	The Broad Life	2CPrYBr3gFs
+UC_9XPoGXSj9LIEQIiXMyqvw	BeyondWilderness 4K Relaxation	sKi8YAvlUdU
+UC94QN_kttlQtNDBeExGkErw	Gabserr - Cinematic Story Gameplays	pELqfYy5gd8
+UCqtCCNUAwf8Tv3uD4VWjiUg	Scenes By Sevy	Agq_8Uh5GSk
+UCpcqcjmoP794vZcEjhBLE2w	GoScenic	0932sqLDHRY
+UCzUv4XPAHqkpyrdi7eTcmpQ	Unlimited Travel JP	CUW-q4QBGoA
+UChM5vUkgZBaW8lIGvmo6FfQ	Tj Blaze	fRVMVc6L5EQ
+UCKk1DfbCOBm_42PMyz7HqEA	Punchline	FQ0OE6dz5yI
+UCeYUKvRrRY9V3DYdZd1Z_eQ	Strolling The City	0E4Z-x6cdig
+UCQGWqQUSBwr-E_Qduirv5GQ	NL.Droneshot	g5F2HbFMhiI
+UCKdCEbeDBLUsY93XUS1yM8g	Japan Rain Walker tkviper	huvQaKVZWlQ
+UCircJf-FlToBNjuy9xG-i5A	Watcher	oQ6twxhbciY
+UCvYJV7a0ZqM6Ly7t-xptm_Q	King Kennedy Hart	WnOfk2m8-6Q
+UCYJPby9DRCteedh5tfxVbrw	Smosh Pit	91hOqYfP1Ks
+UC-uwguDW4NVcbrteg7ab0vQ	Through Streets & Tastes	o7ld_CeUBnw
+UCMyvDILm_rR5Oob2lACU1LQ	KCP NihonGO!	xh_74hAxwBk
+UCvXcFMZ9zfMSt6P4eGkd5Jw	sakura2336	uy11eKE5D9s
+UC4c52O2m7xp40a6Pp3T1g9A	LidiAI	qLjx3iqYWk0
+UCzlwplcC7kx5_YvMvQJXjLw	Travel at Home	G6rBqkKvD80
+UCI_4xw1y0CV-1gVYK2PgW-A	Tastes Seoul Good테이스트서울굿	Rw4zF4qh8I8
+UC1h4-dpT9xmqTM_k-IxVOAw	WhatsYourPriority	N5SAhWar2GI
+UCt3TJzZvMkz3AhkpmysFThg	OurWildWorld	rz4b5zgO0-A
+UC91V6D3nkhP89wUb9f_h17g	MeatCanyon	XsGgrDKHQmw
+UC19kr9a7XTY7vVTPsUczCdQ	🌿Sam's Relaxe🌿	WM7dlrHRLhA
+UCUfuoQEErdPHP2zbEWBjO5Q	タビトム サイクリング-富士ヒル挑戦を目標に毎日成長するロードバイクVLOG-	bm2oZPGRX-E
+UCQOU3PMT7Fc4s5HNazNn5ZQ	Walk This Way 4K	RMH5fcrAQW4
+UC_AUPzveIuso3cYXKgWvlqA	Unique Mecca Audio	oHJ8zB3CccE
+UCuA2X0bGjSAsN4EurtuQlCw	AROUND JAPAN	ET06LPH5iA0
+UCIkNZ5OtGHSsgm6Ja9hnLJg	SightsNSounds	XiAWRqhwTB8
+UCeQiJnrYpwUtkWnFLSWWtcQ	RC Family Travels	cX14RT04_yc
+UCiVH7ncT6ghUKvSpY_e0DNQ	World Wanderings: 4K Walking Tours	qcNXcFD9jRU
+UCBpHtPJG3glSjjqKrKAF3xQ	Walk From Home 🇯🇵	tjZbEVwkIhU
+UCZ2YmU9IkNVbeCCcBmX6oyQ	footagefarm	lZjRFo_KLSU
+UCNeMDuzREWzMyBlps4T5J0g	Isobutane	9bw5gGYB9xE
+UCE0EZHiUixQiyApteP7ovvA	Explore Earth 8K	yX1z1-nI_Ek
+UCWgAmDnlxMxS2gJ5cqlEcnw	TOKYO 4K DRIVE	dv7fmQbPCEo
+UCqPYhcdFgrlUXiGmPRAej1w	Jason Stephenson - Guided Sleep Meditation	Cs_cCixKPFM
+UCdvpva_ZgCAUYdbI1Ov-gWA	Rain - Sonic Meditation	7nshE35G6iU
+UCpk3W9ZdKX83AakFh6j4uQw	Serene Places 4K	PncXannI7bc
+UCtMEpYpBm3YVo5ijQzUZdLg	Clip Empire	IlM1QzK35bU
+UCqsSVUYOJCe2yM5lRfHbjjQ	柚米短剧	kL5VX5SS98I
+UCZqhZ_ktrD_UfZY--lXU_ZA	Edina Explores	GZ0_t3SCnIA
+UCxMeEu6qgNPQ0iz2b-0adUA	Mix Master Six	GIXXe4D0mF4
+UCQSb6nZYMZLWBnHfxi6OV0g	WizArno: A Magical Journey Together 🪄	y5oiocc2ulk
+UCTgCBbBiUCeWvj8v2uTY_sw	BakeryPilot	dw-23S6mRFU
+UCEBupxsmTWCbREdkVHXMwVA	Japan Space	zhz-B5h_qZk
+UCNiGYwneyNvfAIAcl6eOqmw	City of Newark, NJ	2N02j3sosF4
+UC6E9LRz8DiWiEPwVgmiXv8A	SD | Media	RR9Bjc7Tut4
+UCZJEemrM4Ot6Oo5YV-IsIew	TOYOTAKIAS	7OFEiZ96mGs
+UCsnQaDlVPbQMR_H45K4vm-w	Zenphonic	m57s7-Xv7Ok

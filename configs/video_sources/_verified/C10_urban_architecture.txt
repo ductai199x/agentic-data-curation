@@ -1,0 +1,143 @@
+# C10_urban_architecture — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UC4CAxaO75mfkPr3GRiSGE_w	8K World	D69pijxCVII
+UCY04Nk2nZkUkT4hqf_7suZA	Apartment Therapy	OzEbGNFcKFU
+UCx06USvd84IK217WlrHNswQ	Charlie Frise	dAnbhQxg1nM
+UCHWbZM3BIGgZksvXegx_h3w	Enes Yilmazer	7fjY9mWAP_g
+UCV2_l3k3JuZwIhiY1H0kSxA	HP Walking Tours	wZKTsYW8BoU
+UCQySZfn3B_fnmcr0XYq6TZw	Interior Insights	1vOu9U8UWsc
+UCqmrp68Ufn2uiaV6mpYAktw	Nats Can Fly	WpGuUcBoXFI
+UCfbkraMQPT7l9d1yTYpDR1w	Popcorn Picks	VOmFXJrRSQs
+UCX4ppwcUldlxpuiRGoT1INQ	The Aesthetic City	EXTApRxDgtE
+UCkKRXhkY6fcLVT8MLc3FH3Q	This House	NF73WgXloz4
+UChB3UnDddahXU7FKZXmpzMA	8K Earth	Q3Fv3N5gxbU
+UC1KLGYyoFKEFHHHTwuqCoVA	Action Walks	Hgi9xHo-Qls
+UCwcoHMhu7Z0FLsqN8MXuqrg	WalkAround	ccG03QbtGuo
+UC7L6P29Eaom6FWGP2I-YmgQ	Andy's Awesome Adventures	wIw-Em4e0LM
+UCq6H4g9eVY9WxoboCFd0iRA	House & Home	2MKZ8a5y-fE
+UCcCYOO2uYPnG-21WDOWdwew	HDTVTest	e4hABgOaPIs
+UCsobvBV5Zq9ySD_SLZ7R5LQ	LAUREN LIESS	Wxi1_Qxnnf8
+UC0k238zFx-Z8xFH0sxCrPJg	Architectural Digest	SUAhsSRUuf8
+UCbq3QlzTx-UpoSWfT44XAMA	My Barrio My Mundo	jLHq2KUPcXo
+UCD2DbJnKu7pTLRNd0bsUopA	Bros Of Decay	XKjJkbVseoc
+UCSp1I5DAJX6CnW_FutqNj5g	BlessedArch	tcuAuGJNHs8
+UCgbp1Idym1kVWGt2ErMDSLA	Fantasy Realms	sZgrgaWrHmQ
+UCFnzFmFOlXt9InRRrtzm5qA	Holiday From Home - 4K Walking Tours	KXoBzH6283I
+UCU_VfIT4N1GUsUWhKOsUdfQ	Living and Walking	b0mC3umJU4c
+UCFHQXJw7ND7kouS-QreyNLw	Portugal Walking Tour	icEv6NpJ64I
+UCAHeAByxhlEoGK9eMn2rDDQ	Slideshow	z1PxXxpfv7g
+UCXCjr92Efqo2HH020QwIDYg	Construction Zone	prCeffMB2nI
+UCnXF08ViHVAlQCq8D85QeiA	The Old House Agent - Daniel Shew	QTitTymQD9Q
+UCyQ-DUV6lZgoL8wiPusYiUg	Amelia Dimoldenberg	ECXAFUmdJkI
+UC-v-NVvOxMYb0Uf1E_yA9wg	Ruth Aisling	szgQeXj6FpE
+UCZV7oLSPYBgygi6FZ84rA2w	Virtual Walking Tours	s3f0EfH1k5s
+UCEmp4AT8a9gIKg851w3Xsiw	MovieGuy365	zO3wfyOuNDs
+UC-9tnfp40b1IUcnUC1B9ajQ	Travel Diary of a Fighting Couple	A1kFkFBtlIU
+UCVDro8TZ8GiEj3B0RXBZhHw	HENI Talks	p5uu06gYEnw
+UCYulrOk4EbqL833oETw0bWQ	Wanderlust Travel Videos	pKNK8Gtk24w
+UCn5XzrXtuzLFAf_Mr1gVv_A	Designer Home Tours	wNT7-T2mmH4
+UCraJuq3OGqF_Wl8nryxN6iQ	Movie Trailers 4K HDR & Stereo and 5.1 Audio 🎧	Z_XV2L8Kb8I
+UCg3mk3FN_3PewjoS82CMaPg	Fotógrafo Brasileiro em Paris	yPNEnKIEZmA
+UCeDhIF1CHqX6fpF9O6Pw0rQ	The Intérieur	V0XehVAtosQ
+UCySMIzA1MFSsSrkW7TU-jCQ	American Countess	oL_MVAJ_ZEc
+UCZSrRkUCYDrGuwhLaip2MEA	Wandering Momentz	lFu_b7sgATM
+UCl1X0WD2UZloaRK3j2Mdtfg	4K ULTRA HD	O2-YkoZZpvA
+UCw_XdTDBWdrGmKqjox882QA	The Art of Interiors	AJ9xzYxXXYg
+UC2oAso3hNDqYxgqEEP-Esrw	Homeworthy	_3Lipyb1WOY
+UCxkXzJtYHLeLJZRTd3lDeyw	Just Live	bynuBa8RFdY
+UC31JDWzBBJnQ5SLToAHceyA	Fab Little Dish	B8t4GXLtcg8
+UCT8LvKOfhhPlyKyJnaF2ymw	TrailerNow	qiPYZAF0QtY
+UC-POZfHxncrs1N1LtZYTX7Q	16K Video ULTRA HD	8QjUiJwbat0
+UCUuvM8Irrn-dk8j65QpzIQg	Brent Hull	om1O3PHRyCo
+UCvdqteIb2gDX25TpqjOishA	FabTalk by Fab3D	8WRB2NSpq6Y
+UCKwM-7sO1_Tw9EmYhKfpBBw	Perkins Builder Brothers	I2zzXGuDTZM
+UCk1qvhkPMbF703QHR8qj8og	John Rogers	O1sIScHN_Uo
+UCieYPHYYkiGfNW9lfsW1_Gg	Walking and Food	5M8aapNO_ss
+UCFEkwFTrP1WrQym33cul9qQ	Eric - 8K Nature Film	zasoIKiaNhs
+UCQUF7BK9w7iNXgAJtbpE5Ww	Pushpa Interiors	owSp8vaKd2E
+UCnX4TNBFUxNjNSHu2IQB4Ew	Walking Tour For You	HV9P1OwjEnc
+UCXyonl6j-aTFwbL8eT-BMxg	civil engineer Anupam pandey	uhIONYZqOnk
+UCLYrUmw0L_bjFeQCvWuiijg	The Luxury Home Show	kd2iUDKDn6g
+UCsyzJtUOLbgHicw8P-NKr_w	Torizta	ph4hp_pd06I
+UC_ZqMtpInFLdQ5juQbvNihA	All Out Action	ULUc-WRm7-w
+UCzw1Ge8HE3Wg6bwH4eEY_Fg	thelanoz video Comeback	XdGbil4-Bzg
+UCCfcBJylrCIuyd03dme0XEg	My Engineering Support	IJFR1qNKgc8
+UCiv_L8A8Sg8pklJMrhj6-6A	interior home expert-Construction & Interiors	64FQwyBx8UA
+UCiunfudMsIhCj9bgY2gK8Og	Civil Site visit	AGVSHcb298U
+UCbudMJZOEsN6tlLtGBPjwlg	BORDERLESS	x6rotnveodY
+UCvHuibOYBaqt8WqcwDFCwBw	VG Top 10s	N2cHrvgMpwI
+UCb2plumnTsXcIroLdl9pDaA	Walker's Story	iAnfAtsss3I
+UCFfYZktQzl62gpIb4oCSHMw	Max Hasman | Vancouver Luxury Real Estate	FSC8Lcxt0TU
+UCid1tLzKxrTAHwDoJvKh4-Q	Travel With Nom Nom	XGZ5HBMmvhU
+UCRN58bTxyDyo5sDe58omukQ	AlexTube 4K	mVOmnxij_WM
+UCrhfr2rZijRYnPOhoj6cB4w	Where The Road Takes Us	dF3WdykEHjQ
+UC4tjY2tTltEKePusozUxtSA	Abel Mutua	HQCDBE3KXmE
+UCqv3b5EIRz-ZqBzUeEH7BKQ	myVideoMedia	HkigWuhwuIk
+UC93fHoH7WbSN9E1vv8riq8A	Civiconcepts - Bhushan Mahajan	CbqGS9Bthcc
+UCPgJ6lekEutiDFIOpyhSwbw	360hometours.ca	WLP5qGLuSK0
+UCZwU2G-KVl-P-O-B35chZOQ	History Hit	eMPyQ25XQ4E
+UCikxHnp_BNk9CJ6XC9hcC2w	CoolView Relaxing	loRVUbXJeyQ
+UCrLHBCOz211YirQRg2QVJvA	ArchiTech Network	TiYFZjIHEcg
+UCHudN_9O_OD5KQIueahpYvg	Bright Sun Travels	KPFy6F4-K74
+UCNngTzwV9nM_ng_Lkpa9dcA	Gaffar Tech	Ghxjf1DAnbM
+UCWGxQ4mMBQbm1QUpENNZnjg	Escape To The Country	ZH42aeCN530
+UCwKvgFP7gsNdlBQWOXq_fIg	Brendan Miller	qrwEMILNJt4
+UCYUQQgogVeQY8cMQamhHJcg	CinemaSins	QSwfTJpMr6g
+UC_dBC-RDA9Z5WLc3ANRh66g	Aaron Battley	9sPUCrQxATI
+UCdZGNOYhDdHJ8HtsLdMR88w	Manuel Bravo	FVwXREkct-I
+UCtylTUUVIGY_i5afsQYeBZA	Lyrical Lemonade	QMnpREa1A98
+UCAHvzv0ij9Kys9a0tK1eyeQ	Chateau Love	Yww97L417xU
+UCyL9fpmGzZ0TAfAGBV8G8gg	Epic Cinema Vault--Full Movies	uXsX_COWfgU
+UC3r_kdJocuqtDYb2GgM42Ng	ArchDaily	CF5XBh3Sk3c
+UC9pmiLqODQ0phoEfxImCipA	Mỹ-Thiên Mai	m8BzsbkJGbM
+UC8C9HDtv5gZCs_IKSFRKrvA	Endless Walk	VQKVeyTs6-g
+UCSu7x-J8ESHojsq8mCvFOZw	Binge Central	wwBrXg1yCjU
+UCQMr7OFh4vRa71EcDuwJNCA	Pandora US	6xUXTozOzYs
+UCMGHxDj3SN-BVqG0KXiR6fA	Orange County Living with Gabe Cole	hDr6u98ykW8
+UC0g6ZRqY4ifa3fr4gaxsQaQ	Gaurab - A traveller's memoirs	Lpnrb5yIgQM
+UCIS4wNyWohuTKwPwsvjkjlA	Amani Rakeia	gltaJRb0yxA
+UC47kJWRBD-NREBvmBg5kWeA	King Von	h6UA7UM_Aog
+UCheCB_ewJf_L2kTk0649ZDQ	Gareth Leonard	SmmGwIOkako
+UCTJ7IDh5U24l9OTnECvtelw	Castles & Tiaras	XkbydH0bYcc
+UCqrlnKSQlVU42TEn_-PAtWw	Santa Monica Closeup	lqeAcn7fIzg
+UCpgUM6AudvZ-WSlHKOKUWVQ	Kendra Gaylord	-45mvPsadnc
+UCwxgFxGSckDmkVudIlY9gnA	THE CITY HOPPERS	kx6YapMe4Z0
+UCkwRXc1mUMbr2vHZ5GXu5-A	Living in Orange County CA	UScqfDH-Wjo
+UCd2Q_1PaHXssJS9ucG0Hw5w	Bajan Englishman	h-AIl6QU-5M
+UCY2mhw-XNZSxrUynsI5K8Zw	Louisiana Channel	vyqiEfaH0sA
+UC2pJcKRSpFO4Kcl78AZRlPg	Drone Video	9Bm1G8ndqWE
+UCwWhs_6x42TyRM4Wstoq8HA	The Daily Show	YKNYm6DpXs4
+UC06Vy5KSUGfD6JTboubtRzg	Tommy World Walker	RyxhWpsbjQk
+UC_zQ777U6YTyatP3P1wi3xw	NEVER TOO SMALL	VH82G-RUNpc
+UCRXiA3h1no_PFkb1JCP0yMA	Vogue	V4UG-qF7ytA
+UCy_b-3y4ua9H5GPwIosu0OA	Joyous Travel	kBw7AkJJ5No
+UC0UYzpddRCTqcFF1R2x8fRA	MsMi Scenes	zJoYr3eGlL8
+UCn4sPeUomNGIr26bElVdDYg	NowThis Impact	yQruHNx1mJM
+UC9qbQ4UCoJSN-fdD4B0PNFg	Pacific Motion	yCFkGIwPm5s
+UCeqSAzZVmY0G0ZwGzEIFI3Q	Where's My Map	uk01yV6jjs0
+UCk0gbMCABlY1KYxWRnSqcMA	Will and Alex Travel	yNuFSP_Cqas
+UCAyddtOj10srUgBhHG71BzA	Exploration To Go	qi9eSK5Y7mU
+UCnPZ7YedLSjFn8gCACy9feA	MoneyVibez	66ykjedqFjk
+UCn_W6mZN-8dtiFEU9mxSifg	flypath with drone	6dPSHlzXC-c
+UCk64U_r-2YwaJ9hinI6fUBg	jsargbah	Qq6qnE4-o6A
+UCTGQL6mwuBICDXdRHJrVQ6g	Il Faraone Tours	I6DkorTmqD4
+UC9a0sXTccGgXhde2kjNKPow	StreetBite	5Y24RseUsKY
+UCatEzcVFeQ9GSyWKKQ0orfA	Third Eye Traveller	59pBwJXNTII
+UCy0BfAebCOmztxDkm9XzJ-g	LA Walking Tours	S5A2U1KaOys
+UCk8rK7tnHbaeEwnFpV204Gg	Sleep Soundly Rain	1a3Z8PLqHxk
+UCYnLQtTdSUxWqQg0Q-rnKcw	Mary Berry	3mVoJvSpHQw
+UCKHYa_nu5-pzqHXabpGF-zw	Virtual Vacation	-QP7rPeR9pY
+UCeM1rUJwXY8gFWplQzyJrpg	Vision Walking	Drng5aJl2Yw
+UCIejG_j_cqMSvzdbt6JZrpA	The Unseen	lcBrVyf__U0
+UCWeh4Zw3TnXnN1jEjDKFv_g	Wanderlust Journeys	hZk1o6utscw
+UCkGDJyJO27OvHfxCCSbL_Mg	Parametric Architecture	A_HQ77AuhxQ
+UCmbjDTe_QzhnHtLTpOmhzLA	Wanderlust | Ad Astra Jean Dar	zL1O6jPEYTw
+UCcaFyLX49J3PWsCoWePk2iw	Sara B. Holt	VLZG9pRK394
+UCn2YnnD2g33upkbSMkQK-Bw	Walking Tours	RG584DCVHHI
+UC78cxCAcp7JfQPgKxYdyGrg	emma chamberlain	Y6KGt0gs6Cs
+UC7EVgWKLQ-9kn0_PQWU3GDg	ToORiMa	I4tAjca99SQ
+UCQcmb3lvx7hZCoOXvcCvgBg	Tele13 Radio	ba7ilAsm9EQ
+UCpFAum9P9gKXwZ9uiqjyIMA	ZERO ONE	gtO-PLwli1k
+UCFf7iV6gCzk7dJXJKWwwaiA	WALKING TOURS CALIFORNIA	iRQfq2qIHvw
+UCVHZnWY_N9NEcqoM9UdUyJw	Wonder Walk	6CmH2egJXsU

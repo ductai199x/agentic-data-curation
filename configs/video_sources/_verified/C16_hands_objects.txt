@@ -1,0 +1,221 @@
+# C16_hands_objects — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCi8QgZckGYg3RFvEbdkMWfg	ASMRctica ASMR	yH4NzWK2mOc
+UCQDhxkSxZA6lxdeXE19aoRA	Hugh Jeffreys	0rc6c8Sa1Fw
+UCU0EcCb7B_Ln-8hR_edLsHw	Joey Does Tech	C5dCa44c5Ro
+UCKSql-GFCO400w7xNFbYeug	Little King Goods	-9r9ipdUW8Y
+UCzQBgoTRBCTMrss_N5J47yw	Mario DiSanto	LAtAQQ-DCCs
+UCGIztUq6zdCE_z9P0YC-yrg	Origami Tutorial With YJ Hoffmann	vsRh6c0eiQY
+UCEUFWdI-WyvH5bvBPKGWbdw	THE SECOND HAND	9WPdBQqkrOs
+UCgRQHK8Ttr1j9xCEpCAlgbQ	Variety	4JtUPBkYQOY
+UC5y_hpfH1ChKcKx7wUEM2cg	WUZU clay	j_mOmQ4HSak
+UCPCju5TA11PlMkhc74pqe4A	ASMR Fleur	B4WY6CC5fDs
+UC39z4_U8Kls0llAij3RRZAQ	3x3Custom - Tamar	QDEqEwCbLaQ
+UCEk77oFVAHsG8L2i33eZngw	Also Maya ASMR	gHbK9x7VWEs
+UCXP1vXb0Ht8dZTXXtwMWL9g	Chasing Light & Shadows | Woodland Nomad Life	jV7ITfwQC3I
+UC_JmxhTrCk-Hduf-iuageug	Daria Studio	giPQzSpLhNc
+UCgU0UlAvS04cyjjZTMg8MEQ	DOSE Skateboarding	_e_rqD1Q8W4
+UC6I0KzAD7uFTL1qzxyunkvA	Blacktail Studio	M8tXHQMxEVQ
+UCIB8y-y9_0LdSnLqpeXs7sA	Electronics Repair Basics_ERB	fk1LpVZKiQo
+UCDSUFfZ6JLPrBsmZugfSqvQ	Connor Creates	fAYsTyO-e8s
+UCHYSw4XKO_q1GaChw5pxa-w	Fix This Build That	tYdGwQvxvLk
+UCVUSDq6-oSpWAAPUppHFtZQ	John Malecki	V1ASDKkYAOY
+UCBoPBBSR0dgDT_32g7XSxLQ	Draw Sessions	yZCzacExpkg
+UCLtWjB7eRzNsAoYojBgFD7w	Artology	BYsMsUbbSX0
+UCubqOcCz8wzk4y-sKrqjCRQ	Sleepy Cat Meditations	LTLXgqhIlwo
+UCU-yiUewFYxfXeb3-o9d8jQ	Flourished Hope	GHC6ce4ykK0
+UCn2qOBTeRCHjqr-Mo-j0CBw	MWA Woodworks	KImlvRXBSG0
+UCSLClJLzdUMRMe0E4SPfc-w	731 Woodworks	4-wSKo5X2sk
+UCuVaqIpPgUyGP6AytqSfs0g	DIY Woodworking Projects	jlmL0xvs4RY
+UCqal-8AqDFpsYwZwxs4TaHg	Lincoln St. Woodworks	OXHeklBAYYI
+UC6ktP3PLU5sAJxN9Rb0TALg	Mike Shake	IR4UhwAqdBo
+UCZdGJgHbmqQcVZaJCkqDRwg	The Q	t9Et7lnoru8
+UC7wT_mqUvCHEIWm1cuw_T1Q	Bluewhisper	dypmFYaD0Bg
+UCooKQlg-HZ0PFAPc4Ymg3RA	Electronics Repair School	L5hVZCzM2HU
+UCtaykeSsGhtn2o2BsPm-rsw	Make Something	T7qdHzlxAzg
+UCOI_LbDYLcQPMdCw6NqwOFw	Trinity Wild	yZKtMD2FMVc
+UCLaXgfNlVxY149shiA1pykQ	NorthridgeFix	UiPyV7YDxuc
+UC92cJFAyi5Otkvnqh6Axa5w	Claire Milligan Art	bkjiTuQuzkw
+UCftD_LCuDAwlPipnM6Uikqw	Moonlight Cottage ASMR	94erEKanAIU
+UC5YtPtkKYR7oC3sxd_H1tPA	Easy Origami and Crafts	mobYqIrgNz4
+UCzGEGjOCbgv9z9SF71QyI7g	asmr zeitgeist	fNaznfnBFPo
+UCc3EpWncNq5QL0QhwUNQb7w	Paul Sellers	OAf1gZUSoLo
+UCBLUjdxnrxzvK1CyVrcZUIw	Jeff Mack Designs	0yl9XcOX_Qg
+UCXaty-UbYsd8CR3mItUIpIw	Origami Princess	c1yoRJHonrI
+UC1V-DYqsaj764uBis9-UDug	Foureyes Furniture	_MpRALFP0Lo
+UCvnSyOfwtn7J14CYRbCaveQ	Rajiv Surendra	Zea4bSsVMMg
+UC8jmv1sbVe9H5p7zjXujHCA	5-Star Craft	JHw9HUXCCUU
+UCQ_bmgSrYsQS0LboA_tZpEw	Bourbon Moth Woodworking	mf00zc4dwMw
+UCKXsR_4aXwnbDSXroVH0WfQ	PearFleur	EJwNO0EhoSw
+UC-yYAksFLwj5lvK6JrywS5A	How-FixIT	o16rGA_SvQs
+UCTjmLCEVb9r1OpFDJMMWyIw	StezStix Fix?	9YXMLGs8mlM
+UC1ez5vPW1WtzXLd1G18XI3w	Jono Dry	K8qSK1luUo8
+UCfxzr4iHJ1ZFq7KT8bwfiBw	Men With The Pot	5bbnvemY1Z8
+UCK0HOXJR9OKgaZNeAg8FzCQ	Rebecca’s Beautiful ASMR Addiction	UCynCSeK0sk
+UC8uWcoxpRni5yyBT3enSa2Q	TheCrazyTutorials	zfTpMVc2vUk
+UCt8o0j0ouYdjlEHcZTj0BQQ	Easy Paper Origami	ne2AdFDbmgQ
+UCciQ8wFcVoIIMi-lfu8-cjQ	Anton Petrov	tcHBk3SQjak
+UCsvBij7KiAcI2s7f8VEMdjw	Steve's Assorted Stuff	-teTGuETX3k
+UCfegsAhpeMKldQ0Cv0cc5cA	Linnea & Akela	b4ClOsVRHeo
+UCFtc3XdXgLFwhlDajMGK69w	NightHawkInLight	Nqxjfp4Gi0k
+UCFpPh7pDMC-mrPP5HHdm3jQ	Vladik_oladik_2222	xDpdEFa_2y8
+UCXMVaxrax7RNDPdfRrXXgtQ	Hafu Go	jbVdFJAgP1Y
+UCQeBPhEDYOd38n2z1BgEWyw	BARN BUILT DREAMS	hEqySJwRjU8
+UCcBnT6LsxANZjUWqpjR8Jpw	Marcello Barenghi	j67SvFDZO9A
+UCiLSEwYKrRPY-wC758azVqA	The Happy Ever Crafter	xpKwDw8awEc
+UCuxbOHa_nj8k6qotTzJrWZA	Woodworking Skill	2DhUVGzcqV0
+UCNvT4F1eFg2mRI5VFL5y7jA	PPO	2nKqNv2pbjQ
+UCjqCOLOIp8HKkBxBuiQFTdw	Ingleton Pottery	CaUujdzrlV4
+UCU9SoQxJewrWb_3GxeteQPA	Mr Carlson's Lab	bRi6_-iikvg
+UCeA0McPrW5NzzcMHP4uWC5w	gazoo studio	akwMxs9jlWY
+UCfOrKQtC1tDfGf_fFVb8pYw	TronicsFix	TjjqJ_RD3WM
+UCD7ODiS-v7QJmAT6iYx7pWw	Comfort Line ASMR	SkhmyVLerPQ
+UCmkNQnKfjID-cI1CVqYZYow	山白Shanbai	GefsM9KPZ2s
+UClM2LuQ1q5WEc23462tQzBg	Proko	koCwetzNtds
+UCBGcU67s1s-vL8zwgIAWPYA	Kay Rose ASMR	PsI3BMrAytg
+UCCOrp7GPgZA8EGrbOcIAsyQ	Phone Repair Guru	xXh_K0fodKM
+UCLkwcZLUexrl-BTvfwxyYjQ	Dark City Sounds	6ZIqJQ9tiv4
+UChy0EmNquJW2DlVYNs9cLqw	Alana ASMR	NZYUiG9HGf8
+UCXb8rEItKN8lqj1x2YEZFdA	Woodworking Studio	AeKluTkKqNc
+UCskSVFrFk06fopNoi-kLsRg	Sleepy Keys ASMR	SkyFS-zfpyM
+UCci1MUB7x7yRkwgqIFpD7WA	Red Dead Restoration	DTL0UCiNMxk
+UCVJ9gemIM5UfH8NNaB_ucAA	Decorezo	7SPMYYOe8qg
+UCxZRF3OG7gapQ8kacWUwj2A	Lock Noob	0P6rsXJg978
+UCFHEajJ2TtlLoIR78tOos1A	Ashterisk ASMR	4jnzpA2nuS8
+UCOKvzrg5Z-LTDfaO2cVsIrw	Terry Kim Shoemaker	oJiSdohLpS4
+UCoah0FMpaTxHpZlF09kqQmg	프로세스 케이 Process K	pXZRv7sQEHk
+UCDbfjlTzm8GJSOafKZgz7ig	MyLifeinaBullet	yuh_fo6OKfQ
+UCj1VqrHhDte54oLgPG4xpuQ	Stuff Made Here	WsPHBD5NsS0
+UC0oK8s58FCWQUePi32hWhdw	Totally Handy	5R5ofLDzFZY
+UChTyTCPELcpWvohJeqnKebw	AnnaBellAsmr	WE5BCLan5VM
+UC71_mrmoliZQgd0rfhShGfg	Foldable Flight	Vvpz4aHypGI
+UC9CswYtb5rL31CHwyVoyJvQ	The Museum of Modern Art	SqMTHdkFDG0
+UC-2sH7g2CaP6i5Oc-wW-lxw	Ale ASMR Therapy	JUOA8a9aJSw
+UCQ0FduJEeofGZhhQFBK7djw	DIYForKnuckleheads	ro3-BUBvyrs
+UCmaflrfppKNfq8uuZVZZxQg	Victoria and Albert Museum	-GUmzdn2r3w
+UCrXT0_LYy9eKXbrpVTuCc5w	Brady Hommel	wlD8ptd2DHs
+UCeImguVin8kYI34RT9UAm3g	Guthrie Trapp	NRGK-gOL6C8
+UCjrb6YumTXFixchqoGyULkg	Pottery to the People	EOJrHVfFHpE
+UC3Fl7HVtEH1Zeitu1ELrTKg	Turdtwig ASMR	_VKG1UmUyNo
+UCejaHizj8RLiP7bPDv6v0tg	WhosTheVoss	v_mILDIaxAc
+UCxw_JBZaRWtL6JKvyxdUx5g	Celaine's ASMR	o_kEyG6BTd4
+UC-hTi9atsD6wAl2s46LpAVw	Crafted Workshop	hkC-fp39cUo
+UCClfFsWcT3N2I7VTXXyt84A	Salem Techsperts	T6eiFyJMWgM
+UCHu2KNu6TtJ0p4hpSW7Yv7Q	Jazza	J2aHaJA35Bc
+UCxzOZyDPg05JBLYm4-1f_jA	WATCH with Mike	ij5wU-_6OSM
+UCJ0-OtVpF0wOKEqT2Z1HEtA	ElectroBOOM	lT1v5RdCl6s
+UCKjUSWqyEfuO2WbWWeu8a9g	vintagesterlingfinds	ZBhn3kJ_GW4
+UCzrTUwE76hHl_VEXvN_pDyQ	Eigen Designs	9FDGxaxZ088
+UCkWQ0gDrqOCarmUKmppD7GQ	JayzTwoCents	KJRsEFrHqcg
+UCKM5PiZrKok0nBKQCONtrtQ	Just Origami Magic	5YWLqXWooS8
+UCD80T1s2Za4K682CQDGwEKQ	Wristwatch Revival	dTIycQHFy7w
+UC4fsm3kk1LBvVfyUY4aivcA	The Restorer	mEauSLCRz04
+UCsP41EOAkk5gOEzKHFqFqSg	GP Like	NtT4esEKTho
+UCc1CLrC4C7llE9OldgpwjaQ	Ikigai Green Life	rZ9CbL_uwgM
+UCErX4CQeesrYOs03fufBiHQ	Ventuno Art	Xg7HzQsaeiY
+UCoSAitETqcEeWnWBMO31xzA	Art Hub Plus	0eY5_ydcvz0
+UC2YkJ2iPMuUVGyxbt1DcxQQ	nanofix	NGUh3r0m93A
+UC7NdLB_r9v4_oA3PiK7EjOw	Kewas ASMR	mgFkce0nUHk
+UCIxAaCJ84uefATKmazDyIjw	Modern Builds	NZbJ1zEfgz8
+UC6yBPZj-BYf8Fx6yug1Iyyg	John Builds It	77Z6rkqPsKk
+UCh39IWu1XUSScEOuXCJ3J1A	JASCOgoods	ogxm9Ks0csg
+UCFmL725KKPx2URVPvH3Gp8w	ASMR Glow	NHp2vmOPnTs
+UC_mcFH_r7Aq6SyQ0HrGaenQ	YouCanMakeThisToo	GiXjbuhsHWk
+UCWCk81c_nQOsm5M-xKuTFnQ	Pure Unintentional ASMR	8H2ELl2ZMDg
+UCSN1j4-NZ3dzC7_HKckmK3Q	Lowe ASMR	OQ_EuCalXMI
+UCOfuQBhgJMmIfukihhmsEEA	Lumeniora	lRr3rfPJpdw
+UC9RWcJmoebvtnnCRgcBq8Rw	Alex the Historian	qA62gwyoDZM
+UCoNfsDH8sZe13u7rSxaEBkw	FrivolousFox ASMR	Xm9LBF1nYsE
+UCJO16xy-QMvR-4HKrNqvhVg	Shallelujah ASMR	fnAYXrl1hYI
+UCRBU8dPtq3u8cu9U9bXwoxA	Moser Makes	uYOLP929Hj4
+UCS1WxtExH4fCuJ7UENHT3xQ	ASMR Nirvana	TSLiwOM6WME
+UC4d18IlLmw0utmVxIjSadLQ	Maxence Rodier | ASMR	SpCoGbFL5I0
+UCseDz4jEDybdEg1VKAyhgSg	Restoration Tips	bCtdv0zJRMU
+UC3ICcukYYeSn26KlCRnhOhA	Origami with Jo Nakashima	59myu-mHjNQ
+UCM-RdIsflcAVqZBmw9P1oSQ	Origami World	mDoybtXQQ8k
+UCAwylBbx8RiRD3VsaYdwNTw	Video Advice	WNPsA9LPn-0
+UCfwnG7h7YWUFD-KkVYCSw3w	Sumeray Builds	7HvqOlOQD6s
+UCjyi6by44TTH0j_U3vXEGpA	Jojo's ASMR	duJJneLZ2x4
+UC8EaH7INyIS3fQ3mWu59Vog	Five Duck Studio	SXpFFGrh_mU
+UCmmPeEvuMblsz0S5udF39Xg	World of History	T5UibfuYp2o
+UC5uWnYudXmGlTlR45xrpHiw	ToolRev	fwoQJHKArdg
+UCNRXHwAfOsAANg5tx4r-G2A	WARE Boilers	7j-f5oR23mc
+UCTiyb6O9IhgBeE2EEzAZf_w	leedah ASMR	sRR9l_4oF2M
+UCteT78fBM-ovQP2SnVEzByA	Restorations Genius	ZYrlRapI-Yo
+UC3-SIZBPbJ4urENQnq8_zhA	Itoshige Studio	-Wd4UnWRfW4
+UCxO9PSNeS0oz_DxvQdSdTPA	Seniors Gardening Advice	JpI4nsvk_zk
+UCHnyfMqiRRG1u-2MsSQLbXA	Veritasium	tZ8ehplVFp4
+UC_3BTjvtaAsCwfwjQDSqFTQ	Andy Ward's Ancient Pottery	Ixx21Sn6Lpk
+UC567DbfLo5ktc8JBrFKCQeA	Art.Simple.	7fPXoM_ddGQ
+UCdjKI0lwDXyB_tsDgJQl04g	TingleFry ASMR	4BEqW_5oKM0
+UCDLxnaDQzo8YolFqsBAHVLQ	The Honest Carpenter	C4OeG61FZBw
+UCloseNEb6epWL36Ap_zZmow	HelpfulLockPicker	cX4fGkYGJdY
+UC5717AVDiZUP1dRpk7Jd8XQ	Nishiegami	qXx9iZfNKAw
+UCe3O3bSPA7a0VOUIb_XVrcQ	Sem DIY	Ydx2VRklcok
+UCxr2d4As312LulcajAkKJYw	Townsends	T6gnvd2hL8Y
+UCFvz0E5-GOMZgsqM8fWgFdw	Bear Mountain Builds	w8f1f3KYozc
+UCRKboTSSMqD2ffPv58h1RtQ	Himbo ASMR	AfT31BWWgTc
+UCzpeSFOBK37zRAt09pp_Yxw	Sunjos asmr	uvptcAeaKq0
+UCOnnmKlDZltHAqJLz-XIpGA	Universe Inside You	g2h8O0Fni8g
+UCzPW2uxfH6QOFYDaDJFWMAA	ALB in whisperland ASMR	fJ77JsWcQCQ
+UCXZC_rGGptXQLsVuKL7HkTA	Bearded Lumber	8mZaY0b6Zow
+UCE0j66h1oN7qQD79QHMRriw	DIYwithWayne	fe38EZ2ynoI
+UC7x6gCBh_PyQLq2qndXZKcw	Decorate With Iris	0sQ3Bew1DbY
+UCpcna2gXzjoqV3r3JYNyRLg	IT'S ELLE	tmkbkBlCVEU
+UCVbn813ctsoChuTT4LuLqrA	JetPens	7SdYCxmLhm8
+UCcZd_G62wtsCXd-b7OhQdlw	JustinGuitar Songs	RIJd4iF30E0
+UC07pXvVLJgr8KnRrhDHeU5g	Life with Kimberly	aQyTI1bjJxM
+UC0Le_ilaOlp9HftXeiMglsg	Maymay Made It Crafts	JDyupY6wmGY
+UCOZ41zKvjXiTeDXht3W5lAQ	The Factoran	My1w38LigRk
+UCII_02oFJAZ8HG_8PyzJ5Jg	Natasha Whispers ASMR	SXPfqaBW6Sk
+UCXV8h3I9pnfZuDpg6xEM_8w	Watch Repair Tutorials	nz6WIhDCn18
+UC-73P87iZAfZ05it7mjgbLg	Tool Review Zone	EMby0VZwMSI
+UCOWsPnhfBTps3fWl5MHxclw	Concept with Justin	ZUgqIf6vyM0
+UCgOfiuubHnhVrc9IEcSk1Nw	MassageASMR	VVT9JLRZpkU
+UCyFyBt-scA9yp5Nwu-mXB1Q	Kapper Outdoors Modern homestead	Lh5cPM1Vc4o
+UCZkP2o1Au69bs464Aq61dcA	Paige Turner ASMR	q9G0_qT2v0I
+UCD_wbYHQeVbx_utWokhFdEw	Jocie B ASMR	rVV9pOECgKQ
+UCO1ZM4DsONdAWTQdX8o49QA	Concord Carpenter | Tool Lab	dwYUw52oDOw
+UCmCo_RF_aNlvNNCB2G9CNJg	Eric Sorensen	wLVSgBVHYP0
+UC4bOYyhQgBVzk-neOMHJilQ	Its_Bunnii ASMR	ji4mp-Xyw7U
+UC_9QQ9zwP7lFkjTFXtw7bWQ	The ASMR Outdoorsman	z_ZYMymI5Zw
+UCMwxcKBkxVUu4IRMvcHli8Q	Top Tech Tools	iR9Vjoj-uUk
+UCLzyRutWvgf91ANpFW1sRjA	tiny hands ASMR	_0lf-5aDuf8
+UCZHhLyDll3hYHC0pyjbWFJA	Mend It Mark	NeRfJrpvB74
+UCu97hBFhxT-DwqnMW0ETN0w	Annura's ASMR	0Ju6qFnqohY
+UCdZE_GcudT9kzOGKle5xIOw	MW Ceramics	2r_KFlnV_HE
+UCXGlVEKXkAbFebCn5DpDCrA	vapor.03	epW4XTEpyJ0
+UC38Mkyko_biVZjeZ8QYMJ7A	Bargain Bethany	WAopDWsi9DE
+UCqZL_f4Jp8yHnv2KNvcsWeg	Florian Gadsby	1gV6Xy8IPsg
+UC4rlAVgAK0SGk-yTfe48Qpw	BRIGHT SIDE	nBzGq8vJaRc
+UC2QVV48Yg5lDHpTFZBS1P9A	bitter melon bindery	uCOkuGWgPcM
+UCw1V3VC3xAzL66X4VwqaKlg	Everyday Home Repairs	3VvBmUdNQPc
+UC4v2tQ8GqP0RbmAzhp4IFkQ	April Wilkerson	LPNTWZH631E
+UCm9K6rby98W8JigLoZOh6FQ	LockPickingLawyer	bGwnChxO6II
+UC4mftUX7apmV1vsVXZh7RTw	Drachinifel	KOw7HBHEDAc
+UCbsfyGlrjrKQC0gbzK0-EiA	Jared Owen	rPR43MiRtmw
+UCuosZmOlQCNWg5qqVIjTOmA	Draw with May	olW86NsN5dY
+UCU-NS0mDTR03_QXW50D-gRw	Jazzy ASMR	4H9V2Q7jGsc
+UC4niGTqWgP1c4sKZJpJKP7w	Mighty Machines	Bq8uxww1Qr8
+UCCWMyhn61JaQxoZedFCNGBQ	The Daily DIY	MxMcpYlpMn4
+UCMIjEnXruVHtvgSVf6TgfUg	Wranglerstar	-cFOCkjMGMM
+UC4ZVkG3RQPzvZk7alIVjcCg	theMITmonk	cvIdPMmuptU
+UCr6vWe5goPw6-4YknmrZioQ	softlygaloshes ASMR	UaeG0CcGhXY
+UClh61qrYDdFwLvLn4IupZCQ	Olivia's Romantic Home	MK4EjBNqBY0
+UC6E2J0aD7t4lywnsCaC1H8A	ASMR Katalinne	LjXz72lhsWg
+UCYhgzOkDng0mUgULqMAgJtg	Craft N Toyz	DJiwGDae9qY
+UCVZF6QpNHRg6FSy9YyyyTYg	PaperCrafts	h0eQZlbHgLw
+UCqEcM-ZrWoC7AgGDoxi2X-w	Jesper Makes	lWLw1iqb4Bs
+UC3Q4wMX2OgZeIGOBKC2xdTQ	Backyard Design Guy - Outdoor Living	WcuAifhMLBM
+UCcmJ6BXfjEtq-AcTJPzo-BQ	AuntieTay	XzI4frQzvO4
+UCWMhB_iUo7n5b0dkdby1Suw	ASMR CHeeks	mW1R_IpQ5rU
+UCSJ7LRO4GaHZdzowk2-7hJw	Nekkid Watchmaker	1wmefGRKG-0
+UChChq-8z4Ooth1mIIg_05EA	David Morales	s8a9uQD7jWs
+UCxhj_t8QeXUOJ6ufGX3jeYQ	Slick Garden	qJXGLDT4tgI
+UCz6yk6jOlrHI9TTS8B-vb7Q	DREWS LENS	vbjFzwxjRyU
+UC7BcYkYNcVxCmEz42U_ZQIA	JKirschArt	G69xRYzNEn0
+UCbGszproOniYqV0R9Gp4yig	KINFOLK CARPENTRY	ukFQn8gZTqI
+UCUj9z2nkIesDh3sa8575qYw	DIY Audio Guy	Sv6FViDV9FQ
+UCcE5zSk3OxOlR5GM_2zb60w	EASY ORIGAMI	z93AD9vvipE
+UCzEGKsKj0lVsTMLUR_2qoIA	Inside Rustic Elegance	ni0lI5F8teM

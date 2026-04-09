@@ -1,0 +1,335 @@
+# C02_people_action — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCwiMjrqg7jNZjULzaHYxniw	Action Picks	7Lcb5Jjoyak
+UCpz9AMGvz6-iUZZVU-rFGHw	Big Muscles	gH4bSkJV06k
+UCdssYeLkenhYMDGk1gBdDrQ	Boxing Ready	mBnDE_zHjRc
+UCRs1pHnES3QDdh43xbjOmzw	CrossFit Games	YaSxHMYOiws
+UCXIYLgIp6DYZHjmUUUXErmg	Adam LZ	v84nLQHzuz4
+UCKBmMXWUWPZv3yFCd79kNPw	Dutch Goalkeeper	dNk243HMhoQ
+UCa7M4Cj4cL5uvXUVkfxoX0g	Back to Boxing	x_JZEwnQNvM
+UCPIavfNa4DTfHXDBaFOHuKA	Anna McNulty	voOh4vDu8xg
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	YYV0luRdoac
+UC8eNyF9eYwgr_K-Nl4gSHWw	Adam Ondra	IPCQjStvEnY
+UCLp-zGbkrbHXvxG9tfD8hYw	Aidan Brown	Y8kkn9fEoIQ
+UCA-wtc6zLLYvL-N1tTibKUA	Arryn Skelly	zoG2XgQuPwQ
+UCC3v5GppyKCZmRGTza7dGKw	Get Out With Glen	3fNLFc6tXpo
+UCpddpgIdNcE_uJNmoGcmi9Q	Boxing Highlights C4TV	NrJQL156dxE
+UCNWgHP_0lBoB8QqECjZTgoQ	BFordLancer	UQM8h8Odz8o
+UCVDHEBOHttEnHHugMCZNwOg	Andraz Egart	5BMNEomqFGc
+UCdNWnREajTpcx-ccrng9vyg	Ashton Kelley	CWgH6snI_II
+UCFfFE-6nfCHz4uDZ-08o6ng	Become Elite	ukd2ARCXfUo
+UCTB7xIF9U_-EsKi67N_NALg	AMPISOUND	YhhDCRq2vuw
+UCeYue9Nbodzg3T1Nt88E3fg	Ho & Pringle Productions	3ZDRN2czKLo
+UCHWZDzWXskDuhAxjh2yE3_g	Ben Echo	pF3iUIY-t2U
+UCfuMsLOXQ-QsQvuUt43O4lA	Brent Weldon	CXll9RT1m-k
+UC_zgOsTPdML6tol9hLYh4fQ	Ballislife	jAi9bdgJ4E4
+UCpis3RcTw6t47XO0R_KY4WQ	Caroline Girvan	pRY8DmcheYs
+UCm-W83LJom1VyOtDw4Qvjbw	Ball Game	K6lM3_SkiJA
+UCWhMeA7TdkaClRf2jlkcBgg	Billy Perry	akb8ucA2Hos
+UCz4vf16zgUMxpaDiPQ1XU2A	Brandon William	tAPdfdu8dKg
+UCwvcDIEPGbZCwUM6vZrSxfg	Jake	YSmr6wcSvlE
+UCnmkPMsIIkLEEyafdodKBXQ	ChloeD_Gymnast	3LclOM9No2o
+UCMKP8n1dUg-b84lfpb0mfdA	CBS6 Albany	TmWAKgSf1aY
+UCPbN59Kf0uQvS-xBKXEzMGQ	Brent Durand	IGDFIMvcRGw
+UCYQvOcj29vIVzouPFKlBAdw	Dan the HIIT Man	HG1ozPUyF3I
+UC5lhvsxEezdsqwZLCZEWQuw	Chris Chann	STAud-jfHu4
+UCSWVIwg0PgMx5xTNHKVvUsQ	ChrisJohnsonHoops	TdxMECzBL2Q
+UCJmf7hN1scXuprHDWlxSpUQ	Boxing Life	hRdEYbeOtu4
+UC7pFQTRX0v1hksAeEemGyqw	David Rowley	qiWryyYeFyU
+UCwrXi5ZknKThspJc-Gai04g	Juice & Toya	TXSUM5HNxD4
+UCiZguwuBYq9TtAQ8oGjWBcg	Drew Dillman	1WQX0YEiA-U
+UCK9JEqf7LBBx3tkrPx2xvbQ	BullyJuice	0lJ1kxMRkj0
+UCey7V2zwnjaxPKhfJ0sYE4g	Chris Rogers	F1OwhtjaPVI
+UCc9f5LwHa3ahOQMMrFAW6sw	El Yuyu	bz3Bv1y-mYo
+UCx4W5dZNjtvJaylHqqDdeXg	DIVEIN	RpYeZXkIspM
+UCwU_XmppMy9R9k4YJET7R6w	Brett Barley	zUSlwqK2pLQ
+UC9jsDBF3DLM3BdDp6jviqFQ	LevelUP	O0GvwojDHZ0
+UC-mTPJifUkmOgnDcsPIQapw	Ella Berry	PO3GSAEHMeM
+UCr3cBLTYmIK9kY0F_OdFWFQ	Casually Explained	pGEWPY3nqHw
+UCpcTrCXblq78GZrTUTLWeBw	FIFA	nktjsF7ga7A
+UC-BlL1ERev9O82Ar4WQmKig	Foot4k	zWPxG7Pgs-w
+UCw1mvHj6NL86Pj01IeBvjWA	Isaiah Rivera	yD-naMgLGDQ
+UChnsdG5s-4v0oP77Up0fJQQ	CrossFit Mayhem	T8uqTZbJP3s
+UC_oC48TCMFmwAYlMp6B1wEw	Chris Foster	UmZwFP-rBhc
+UC2pHEbYWB86O40_1o0S3bNQ	McClure Twins	bS2YJ1XIoHk
+UCrGXQcLNlAH-MQOgzIjnVDQ	Circle H Scuba	ROEhBhN9h6g
+UCPGBPIwECAUJON58-F2iuFA	GoPro World	R1pARXIPlDw
+UCaswSQszj4JrK2d58h5y_Bw	Gymnastics Method	Y9i3K9R2PHU
+UCvPhQc4CRzngfV54aHYD7Jg	Gracie Kramer	LdN5AdmZalo
+UCKaCalz5N5ienIbfPzEbYuA	Jordan Matter	YBk4FgzLnzY
+UCk8gzAOGprcGAFMWGzZ2zQw	ESPN UK	drFS5lfPcc4
+UC7cjqSN8Qsgy9Jb_Uy-XpTA	Monster Mike Fishing	LHdLWvONoAU
+UCeI--jINF0G1jmDVjT2PX_Q	D'Vontay Friga	2I5HXY_dhm0
+UC-Ej1wMqFaMT83qAo0rIwVQ	DPS Breakdowns	cTpwrJrGCwk
+UCQ_7UnwDpIwZTnmoLZgcEVQ	Home Team Hoops	4DRdyibCHWk
+UCaLCRvvau4acqQ4eLGZUywA	JORDAN HETRICK	OONh1VgGtE4
+UCGt1ClMrP7rwQyxDiEy3aog	Jlewww	tpqZrhpWlKo
+UCcIt3Zja29kaPjS3J-3_2fg	FilmFlipside	VN5MCawOVOg
+UC6uX6GF5q2JxLjMkyivM2Og	Nathan Florence	6eqpmrlGUjE
+UCRijo3ddMTht_IHyNSNXpNQ	Dude Perfect	rWt4ME_xyfM
+UCIJ_l9TjwwVNO-S6QW0OXvg	MartialClub	TczN9gKgRRg
+UCm0k2MnMLPRwhmzrVZa8Ccw	Ethan Heinrichs	F7u_Mr25__c
+UCRIeMHsEdzA9RroG19kXdYg	Jesse Enkamp	HbbtdL1zwTE
+UCo_q6aOlvPH7M-j_XGWVgXg	Jamie O'Brien	a79Puw2gTGc
+UCmzxts0YGES5tN-oJ9abTQg	Kai Lenny	I3tIroQTsw0
+UCOhyUYINjSfKziP3DR18czA	Jayson Hopper	fIi_EakN4b4
+UC2V-OGycOYuUrKGmgrlVdoA	LEIA 리아	j_H4syp9500
+UCIc1veA5enDxyCdfFfkkE9A	Fusion Josh	hCMmb_Ms_Oo
+UCOtHosOqPe9d6vLy-8LfHzQ	NobodySurf : Surfing Videos	g41C-QAsE4U
+UCvPS-bXLhLFCb0rYQwHnCSQ	Jozef Naništa	MsHzRSd9oHo
+UCMaHobSU33-_hCM6ASjGNZQ	Josh Neuman	-RpI0_3YUIo
+UCMm_ZOzg_jRCoLqw1qfK8UQ	Logan Jacobson	OsTfo5kF1jA
+UCoBssFKG7Sh3vTgE2R4rpOg	Liam Dawson	_l7JebuVJAY
+UC_gSotrFVZ_PiAxo3fTQVuQ	Magnus Midtbø	Ms3yRqjvWxY
+UCUW7snTX39vSvmq2df_tIPw	OutworksOnline	K7wb4_VPPc0
+UCa4a4FtQpaI469IrKr0lB4Q	Gravity Lab	8xTcxBE3MUk
+UCOfy9sh2gPU9ZLrqbr-zXaw	Parkour POV	0gWh6V_Ld4k
+UCBPnGS40b6RqJvsGKkTHw9w	Lucas Dias	_HG77ZtD5FQ
+UCbNWe0snu7U9H2qioNH2nvg	Lakers Nation	zMmQV8Kg6Ys
+UCTs-d2DgyuJVRICivxe2Ktg	MicBergsma	H2YY-ggqjTk
+UC8zD4kYGTooRC3DsiN69AEw	Ry's Football Paradise ⚽️🏝️	2Y9N3Ql9N2M
+UCF20gIlDAtEme6GsxXeydVw	Mike Malone TV	fotFk0WX1mg
+UC_Nql0AlGzl7dSAuTqBUPEA	MountMedia	EAvjYurYtbU
+UCReuTWAZuUyObHYJniUCAXg	JLawBball	bMeVKQHf5F0
+UCblfuW_4rakIf2h6aqANefA	Red Bull	8o40mSS05iE
+UCAh09QrKLTxTATeYoGqKFhQ	Matt Ray	uvi4MNtIxQk
+UCMxa-jlTjiVZfkQoZIa-RWg	Mat Fraser | HWPO	e3Ipa55Sv8o
+UCqZQlzSHbVJrwrn5XvzrzcA	NBC Sports	YWZY5XwqCkQ
+UCMg-LKhuSEbW107mO0vgkLw	Sid Paulson	4huKHpvjTbE
+UCmpBaVt70o_YhZJYKvvCFcg	MrBlack	48Vjs17ZQyg
+UCKMYdnHrn9DCh3SQpsZWOKA	Nat Hearn	Cbb-c5DN8uA
+UCRLhtHizl1rM8EMsd7Wvj8w	Oracle Boxing	sesVSP9CrhM
+UChTfj2KuF4Hhgxgo1i6C6rQ	Sean Elliott - Underwater Video	b1aSOH4jzLA
+UCWVAf2ErX6MYCd8NZuerBPA	Kendall Gray Vlogs	H5x8VLYyhy8
+UChCBHudFoBnsF0O1flPXqiQ	Nick Pro	-1ZsmXXlmtY
+UCZMkAjS-_TfI_njSLUbjEzA	Mike Orazzi	Pjm2CVetaw0
+UCI3FouQtZasvRFE3ugBvKGQ	Sophia Campana	JfEmQEHERYQ
+UCnINhoHWuVjUDXp7dav5e3A	Nelson Dellis	o6bEo1LvjLQ
+UCoLrcjPV5PbUrUyXq5mjc_A	MLB	IjEFuui72C8
+UC8iUvA_e5vDViIzJGymVZKg	Up North Productions	H4CPDk6BDSI
+UCa9_TpiSkqYwcr35uh5N7Og	NateBowerFitness	bC6WaL-VfQ0
+UC-mw3KFSWpZnU4wW7jRZOTw	SV2	FSnkVlvPDis
+UC0JIZVhIjJspEMtOwOW5glA	Scott Bauer Below	FZ2dlw7ByRk
+UCk2s_j0cbkWy7bXRV3NLfZQ	Shangerdanger	5JeaIxMN4ok
+UC--3c8RqSfAqYBdDjIG3UNA	Red Bull Surfing	zw58IM80pE8
+UC9rMiEjNaCSsebs31MRDCRA	Stray Kids	sKi1gEtnSAQ
+UCjdwPLCGd-Wids9B7Fq8tFw	Rico “Rico” Hines Basketball	vy3yCIfxhYA
+UCY95zbGK0vlAZ8Gk8OZqa1g	Virtual Running Videos	QTXMGw5YkFo
+UCVo06dBGK9VBBhq15wJxZHQ	Waves of the World	_K0SL4kcobw
+UCkRRvXs-Msk8elFSpMrhRRw	kuro-obi world	WjIaee7lcvA
+UCkBY0aHJP9BwjZLDYxAQrKg	cricket.com.au	COT7rQQGVKY
+UCYNc-Yi3w9eI9BDK2NU4amw	MrOnPOV	Q-Vb_eW5TWU
+UCbFmRo8-Vk7t4U8ctZQCguw	Meka	DlynwsviI9A
+UC81ikAPeMgn03WX9CLi1wDg	Paige Anastasi	Vo3uMXoDtfQ
+UCZqnx_Ctn2jrKW7YIoThDDw	Niek Kimmann	nwdhW8SEFjY
+UCGb34D3ThpmjLNn-FLv2_yQ	PsycheTruth	L1AwKfN1wnA
+UC1kgtmc6-jANUwCxaCawFQA	Ralph Mayhew Photography	evi56yYESZ8
+UCKhJto32Wm5INNgvc4lOcGg	RunVirtual	drlzlk8RLMM
+UCdPui8EYr_sX6q1xNXCRPXg	STORROR	USb9iT16uag
+UCMuDqExNJkCJpOHsX4VKY9g	REEL ROCK	8ANw6Rlgh5o
+UCczcxCUOJu9agXPKQcTa2RQ	Skillr Boxing	tbiiaDh5wPQ
+UCaOW7sI19vI3ngfyINmwlqw	Rylie Shaw	VlXsrrIHmv4
+UC1W_Jc9UmyttYlSo0i5DzJg	Show Me the World	i1Y0gcboh5o
+UCEPvuGitHpo3Yt-W8Jyr8Ug	Swish Cultures	0QEIJBkJXJU
+UCoMdktPbSTixAyNGwb-UYkQ	Sky News	HNSc0Nsjhyc
+UCB6hdydB90yEVv5mpkjv2CA	Skateboard Bruh	0rX5qV5chIE
+UCV79Ue30-uQc5h1a2tSq0eg	12k Animals	g81kQQ_uPjI
+UCoicMEw3njXscfwHlaAJVcQ	Surfing With Noz	7ZQfd9F2lv8
+UCK_SeE1Q0YrRuRdG4sPzJeQ	The Climbing Heads	5_ejNHs50LY
+UCrom-lPe2Ekby1kWLOAnL1A	Tabata Songs	f2pwINJcYZM
+UCJ5v_MCY6GNUBTO8-D3XoAg	WWE	VcA03TMK8mU
+UCu8YylsPiu9XfaQC74Hr_Gw	Berm Peak	AkNqCJeeC48
+UC2PSDZUjEjSNV6PEINeY--Q	Thomas Benzing	RwtusG1jKYQ
+UCxEUEkp5y728nY57wg8z3dw	Tristan Jass	6_30DjP1qig
+UC8vCXc2W-h7PO65np_-z_ew	arduous paths	BaZmaYkBKH8
+UCj0V0aG4LcdHmdPJ7aTtSCQ	Clean & Delicious	WJY3qrtI-NI
+UCoYPt6E_mUCXKM8e3ZoizCA	WOLFPACK ADVENTURES	1yXdd_SpW8g
+UCNRMF4aKRFUCdzvJVBEMFdQ	WODprep	jWyfngPVjp4
+UCv3y4abqIghr-8kyZ43af4w	Virtual Trail Runs	pg17Yr15K1k
+UCYE6RsX7PYC4BLB-TuTfMUg	Amanda | FitFoodAE	FgsYa5bOyUQ
+UCZTCVSyqbB29wm65GsBXTpg	Ethan Fox	8OLxgKvMF8c
+UC9GtSLeksfK4yuJ_g1lgQbg	aespa	F-phI7k8gLU
+UC01fXAThaFAwXmN_c0tniHA	BRAAP VLOGS	MoSLOyAYdSA
+UCtycvA-fR-wl0VpYLFJmokw	qwik11hoops	yUxc2xSHC0M
+UChp08hcL-qAJD4LK51ZZZvw	Jimmy Oakes	S3-uoKKCvK8
+UCpJM06hPNG9-CO9HA6WI3tw	Chanty Marie	f1WMG0XL4r8
+UC7lKD-MOxzqgGjDQP5YQVNQ	Chelsea DeNofa	mHQmMrGDDx0
+UCh-NnpoPl7A3aLFCEkvJaWA	soeslife	kgwZ9oFTE98
+UCBF73y3tK1gYu9p2ag9wJEQ	Flexible Dieting Lifestyle	9n2Phd6aGpA
+UCfszJcRlB9DiX1B1UTo__nw	ABC Garage	-EQofU2204o
+UC8pE4eKOA-KLZosVMgl3ddg	Larie Midkiff	4qzNEq_Qg0Q
+UC0dUztXkolz29wOeUmFuNEg	Alex Gamble	1oHMTp5_gQQ
+UC17IH_7LhXszAU-SB1wvx_A	Dennis Collins	cQvyYDnm6wQ
+UCkSjBGnUeQtSVADv-F-o7cg	Calvin's Car Diary	I3nJN5aQYNA
+UCy3QR_ekOXz2YzMOgs_eu5g	MSB Michael Schublacker	czrYNOucBkc
+UCtNBFUsxj2YVbEc5HquzFqg	Carter Sharer	swxwHIE3Nrg
+UCT-2OPZT6P8j4nEKW3DXpOA	LegitStreetCars	i0gda9YoNgU
+UCNwNI05WRUsE6kGb1qKchpA	Daily Driver Media	GJ9aSJWRt3A
+UCDdocnbyUNzVMJ_LcNWtXZw	Natalie Matthews	g1FohKRAapg
+UCRCQqLFXOOJ4tzw9zwcd1kA	Deep Dreamscapes	d88r3TMwROU
+UC-TMVAGzJgOzJQCMN7Acmtw	Josh Bailey	BsLtGsZjdH0
+UCxXeB-iCxYqJHt016iCn6Aw	Fear: The Home Of Horror	qgHU7E4qa74
+UCQrJ7QxeCR6iqENWuyly4rg	Micah Diaz	F3AYDp61jys
+UC3Cv_-li9yagpZ7OkeCbCcw	Exercise4CheatMeals	XXj1UOXfDmk
+UCEnaoRpbxiSbAhBkuvODGpw	Netflix Philippines	9bWAhzw_jBY
+UC-eLmL8SZ2-wUx7lNVfDC5A	Lone Star Drift	yr4ObRvD9Vw
+UCDHTLhQbYlFnPBv-iLgFsQQ	The Doctor's Kitchen	t5MlAJfVzIQ
+UCdEczn3MVkx_4PnMZ10MVFA	Hoovies Garage	FYBJXL8WXlI
+UCBuYm7ueu8dh_JZOpaVyBbg	Hélène & Serge	xaZ1SLHXDQk
+UCdzMR-m5eDZ1ENF8BiDQhuA	Tuna No Crust	4dq0HwbYnAo
+UCMS0JTKMUmaZctgxbtjKpgQ	John Ludwick	Oy2zg2GURr0
+UCBo-ssJHH53_vK3EJypMaEQ	Jim Acosta [Trail Troopers]	MKdts5RTpeM
+UCris5YFP89EjwSnPCCaLfRg	Primal Tube	woZLcH-bhvA
+UCw6ihAOz1JvyiI7OSHuanGA	Scott Vasnik	ohYoCFsTuGg
+UCqFIfMu2b9gpNaX7_n4mhbA	Clarity Brief	ECjT_pRnmQ0
+UClhfSftSlbo9eHXJWNDcfTQ	Logan Nathanson	hynwG8Ivwrw
+UCTt36XpXheXap3Jo3jll26g	Miami Miles	-FsKTqse04k
+UCvLaRcvwQq4RCX-ER_zEG5w	ThatDudeinBlue	-SB0OQCKH2w
+UCO1JV3K46zy9Xe4TrZ9ZqUQ	Dare Obidi	_9jkpmA9j0o
+UCTbe_P7qBYg0h5MUVrgFOPg	Mary's Mindful Bakes	ippKe7GJyrM
+UCqlYzSgsh5jdtWYfVIBoTDw	Fox News Clips	S-zH_0JhSpI
+UCIwY1Dps7IrvWJpHhDAfXBA	Pilates On Demand with Lindsay	hAmJmWXmm2A
+UC_7ja4-2ts7U9TxX5hIXFCQ	Throdle	WC2yIKWumTQ
+UCrfYXTIra2_-rCBrcZzGK7g	SONIC TUNES	5-2B4hdUYyo
+UCL8Nxsa1LB9DrMTHtt3IKiw	Mashable	dcnLNHW2Ed4
+UC20EYMGqaxJKm4OOb1xjbeA	Midnight Echoes Soundz	ic1aX-Mju94
+UCAZKwgbL-MwOkE-gz_5llwg	3P	XCRI3EXPqdM
+UCmheCYT4HlbFi943lpH009Q	NASA Johnson	942n6DsJIRw
+UCq2E1mIwUKMWzCA4liA_XGQ	Pick Up Limes	hqd8i8eXDsQ
+UCcqcAJ62tsyye-HbXm5GDHA	TUNE - Musical Moments	smjRjfffqs8
+UC-4B_iZGvvs8TlcHxo18JzQ	The Sweet, Simple Things	cEuFVrPAtnc
+UC4UDHmvKFlTTF8jf7vdwyig	Nine Club Clips	rj7f7f0oQ5Q
+UCNi6v2iv_jMxCoYRBQQi7zg	The Protein Chef	APzthXy948o
+UC1Il_BprB6pf-3litowKA7Q	Random Carrot	9FFrs9IKiWw
+UCwd7pERggUt7qrBY_keAr_g	Vin_ tra	0NuGzzc4ZPg
+UCg0Gd9BrfEFJV9FhHKOlQJw	Casino Kelly	vj4S7ndW2O0
+UCLM37rJTC_82oh1YhkIcVWQ	3 Minute World	1_D-BLdsJxc
+UCV4jBuyZYgsUyf9bKTvrSNA	Andrew Cannon	lTxZQ_sSnkY
+UCie09bMB6ITYmpU3z6vv2tw	Communication Coach Alexander Lyon	Jpui8efFqI4
+UCFmkoDo-WmQqfWtzGBAq5OQ	Andrew Cooper	Hp3etAC8vEc
+UCQ8OG9xwI9PqGD2MmSeOpVQ	BrittHertz	XaHO7FYYhxo
+UCLYvn0RnvCl0a5CRgEkwLpw	Spencer Nuzzi	08C-FVwvvaE
+UCu8hFKz5EFwWtiZR5eXz-MA	Desert Degens	TCXsutq8JoI
+UCdvBex6r_1-i8Sut-mCy2Jw	Taj Tracks	jSqNovk_n0I
+UCA1JbaqfdLRLu8Jzm29IUJA	Bryan Arnett	snnguuhITf8
+UC_ccnfnL5M7bZZFU09b5Bgg	The Working Retrievers	oo5ZEa5kXcg
+UCvn5eEsNzr9Yp1KyUoL3mPg	Dale McKenzie	BIVia0JVN9Q
+UCF2Vv7-Ha6z4Nk3OUh9RJ2w	Tom & Mindy Travel Vlog	bcTFbMluuI8
+UC8YyaK2XvDMpD_3Rydd0T9g	Gambleholic Queen Slots	7_Lkk0WteTQ
+UCm0-r4DxocHYBoDoW7PwJqw	Christopher Hiett	q6QzvpPT6jQ
+UCAn45suDflhrvBI4EzqF5vQ	JD Steel	7nAeG1zJjus
+UCet_y01v87pE7MPGikjTQQw	Unspeakable Studios	SNd7D2ibgPM
+UC1FbPiXx59_ltnFVx7IxWow	FOX Weather	Vrf_BURFo-g
+UCR3sXK17qMK0zeTvqa_p5Ug	Dan Corrigan	boapCGrrVFU
+UCzdH_Lwu4z339RY_eQMYuOg	Willy POV	PgD74au38l8
+UChnNAI6ufyKtF__Lo4lusdw	LOL Clips	rgRgm02mniI
+UCBfrFWbBIy7C5rB4SKjmgWQ	Fail Better with David Duchovny	XXLcq1lzjX4
+UCUu1UsBQWANwBoMGP4MViiQ	Life With Labradors	d-_nsneSZ_E
+UCUnOjJ0SRzmN7pD8UPugsMA	Luke Eich	8S60glDW1uE
+UCiU9mHY9vsfwO-VEpIlfrow	Jordan Matter Top Videos	7v2qSvnbK0k
+UCqatnujllh8XF4TA_APRgkQ	Miss Jo's Nail Co.	UMYoDGZUTqE
+UCoN7jbN54AaJXj7TcFZikCw	NEN FAM	jlMnvg91MBE
+UCCjG8NtOig0USdrT5D1FpxQ	NewsNation	rZXpTRK0SzM
+UCTFzlMvFx2f5D9t3fl79w7Q	Nile Wilson	51a-cvSMzpE
+UC9z_z-3W43h1XsEMnMq-0HQ	Sam Tabor	ZShWVgowh0s
+UCpuz5tYd5lUJLwR_YnQfpVg	POV Skimboarding	N_rCvOhyx8E
+UCwn4w7renctPTMv9G5NzDVQ	Perishp1	tEWy3M_hmQM
+UCF0_hwTeQ73IhJuEtsUbEtA	Sofie Dossi	6xkMfq5F64Q
+UCwIOKbL9wYPQmHGAkYgWXPA	TONY VERA TVNEWS	kQrfsJbaXT0
+UCfw8x3VR-ElcaWW2Tg_jgSA	Rebecca Zamolo	TtZ44aSTZpg
+UCuI1Qyjq-ZGt0Dlu-HJ3qQQ	Sonny Stacked It	dUG-xS3Dvos
+UCDRdPzo9qB5xwQNJsC0n9lg	The Rush Fam	mO-kg30KSV8
+UCSnJViPCcosLqod8eAVfTFw	SDGuy 1234	ZkSktBuOzC8
+UC2s0uKOc2WgB9eGta7cUUEA	Washington Week PBS	8NKSDfaALCs
+UCfcyjCP9MOfYlV6gjR9odKA	TransWorld SKATEboarding	YpDzfa0QOrw
+UChbv0D0rfjBhtoMTUAP1XcQ	Serenity Sphere	w72m6wwNSyQ
+UC6tjutGdTWGKZYBHL0Eyq0A	RAODY	bxw6QcVHaT4
+UCGX7zXjsQRUMg916AsXFQ3A	The Cohen Show	GLEWr5FqYes
+UCxvwSBdFZ6xq8hHz_R3Inug	Philip Hartshorn	KkQ3XGl_8DY
+UCNHNBVSTBLNAdWR0d6a5XOQ	Sean Brown	JobO-_H7DXQ
+UCHcPqfkHN6NbWIK64HCw-Lg	Top Baller	Gxbyz1E-VSs
+UC4PwJo76WpTOk-3N8dazt1A	Precision Striking	97wIaaGJ3sI
+UCDSfK-fHq5T1DJl-d2DXyfg	The Next Chapter	aXG0Xr85h5c
+UCfTFGpTl0VV016Meh8i9idg	bignoknow - Noah Thomas	3K9oI7Q84mE
+UCZksKzC_Hy-yJeeBkgDjYaA	Underwater Tori	eRU9fxEdvqI
+UCn5Wnz4eIjfa9PCoJhmdxmg	Treadmill Entertainment	qwEdQjELg7M
+UCzHJie29XpO_3IPH5Z5fJMA	Ryan Mitchell	GyXVJenXvWI
+UCcDZZVeNEp3C6owwN2Tor0w	SportsFoundation	6rmm3NPzXQI
+UCFz1irDsvD3_8H-hzk-Fytg	SKILLER	qukXdVXNUhE
+UCTzwXPppsYnWXMJZ70S9hxg	4K Scenic Relaxation	B6T-yxPzVcc
+UCd5WxLFvKjEbJl5xyUqyHSw	Weightlifting House	5EjAPd0luD4
+UC6U4p0QeGM6pNpeSzxkhWmg	victor pov	HBAbu0ru74s
+UCkabQDa6r-ci7jLTO7_1CMg	Virtual Run TV	Q_lE5Guqc9Q
+UCJ1MNUmO-vYAOBFTMoCbjbw	Christy's Cooking & Lifestyle Channel	xcGIsJ1RmJs
+UCIpM7ftbvEBY7UnheY37Oiw	Ged Cooking	OgV4gFfJjOk
+UCWlGf9eizK1jnA2AlyayCAg	Collete Davis	KyyPHVRFqf8
+UCT_8YwHmACxpUootXe7yKjA	Tony Jeffries	YjZqckuS808
+UCsLF0qPTpkYKq81HsjgzhwQ	growingannanas	Pg9zGucNvIw
+UCOFxOq3mmdMly4A9JSzcf6Q	James Smith	VpYYeVsrSS0
+UC-8X_0mdO3YXlpNIPn8M0Zg	Christina & Grant	M8N6TtsFKaw
+UCf0Y7Bvjhbz4OOUNG5QV76Q	BREADOR	HcdcCpi9gKc
+UCoEHznu6FbrhleVGe0sAP5g	Morgan Green	-GSUZQDhM2Q
+UChiFpTm0zZjZ2umagxD8eQA	Nathans BMW Workshop	BWjlyFmHKuw
+UCFVmPjPhx-XT6-ZVa9Tkuuw	Low Carb Love	IrjGv12P1gU
+UChbDTVNd_hcgQPu1fQ_vo_Q	Kayla Nelson	c3mYoqLb-qs
+UCLq_wsgNZE2XPsGDTaimYaA	Joey Suggs	vCPEof9SylM
+UCL6JmiMXKoXS6bpP1D3bk8g	Donut	tZaTCbwU2IY
+UC3NjmpAe8LfgQdf5ZSzoJbQ	PIANO RELAX 4K	wHM89koOn1U
+UCtn2hU9HKYQAgDtwrhux7Sw	Samcrac	BkmB841SrlU
+UCIXgmMDAnXZ2p7HTi-nt1iw	Rahul Kamat	rtfI-dleVJs
+UC2JD_xPL6VI9paxjA833Ofw	Sierra Roselyn	9C4dNIhMkUE
+UCB_t-aVDFYhOVmdsDHHVR4g	Pastry Living with Aya	pOtyxUUH8mU
+UCPuI6BuxfLHN5si8lFroQPQ	Nicole Renard	1OqN7d__Pco
+UCi7ixG2CUf-FFcj-14qReHg	Adria and Oatmeal	TlQhEYXMGcg
+UCF3Nshu23wjPgK4DW7cEpbQ	TGE TV	Vi3qyxTghck
+UCB4VaK5rjEZb5rfU-nptTvw	Screen Bites	irPqbEHLQnI
+UCDP7DZOgj8VTyhyVNup83QQ	Amp World	sfWXIdwjMss
+UC4UC8pWGPt6RvJjU4abNrfQ	Rome Cp	2NeaP9n7SwI
+UC9PgszLOAWhQC6orYejcJlw	Braille Skateboarding	NgQh4G9D9cA
+UCmBjuEZomfLwlYf2wMGWLdg	RAD Industries	7NFPncFKMwY
+UCzAOF4YbQpDkypu3gBXh0rg	Total Car Reviews	k54PzjYTXTk
+UCl_v6Wxefduoy5LWZgtx1fA	Conor Kennedy	k1TwuXFIG9A
+UCbpBiQ4QuTC0qCCrzMM3Neg	CosmicMojo	roAmvtfcpzE
+UCXpxKdZAiyUEaTkoCPpEZzg	葉式特工Yes Ranger	tdrDHIULFEY
+UCwmP1r-DLCNDgd4bcyE2hhQ	Tidewater Teddy	yZz5owZ2bkg
+UCZevH_tgMbrm6r-_OiU6Ubg	Drew Dirksen	HiF35TpKEqg
+UCtX3LAcyK4klLgqz4ztsYnw	Manuel (Mogely) Herrera	7sPKGSKFGZo
+UCmbTQB6UFr2AbPs0g0FmruA	Jack Payne	NJisE8i30No
+UCEYnvUlcdeaQEJJEAqtxScA	Jade The Sable GSD	trtRZOFYXek
+UCEd60YdGPruWq30B2MlhOAw	King da shredder	jjCeQvaARb0
+UCtQm1GJsaeN67Kgy-RFaKfA	Nerds Rule The World	5ulcoKXqVHQ
+UC5hFfTXIfz-7arv_dLM_gRA	Leon Paxton	vDwvj8hDK1E
+UCSoHFTtzySZicjAyw0Mr2_g	Dern Brothers	MvD7n7slb9U
+UCJgZJZZbnLFPr5GJdCuIwpA	Legal AF	pQ7eibYiN_A
+UCAHXKUBO1FSNsvWv9D8vLIg	Rebecca Zamolo Too	ueYS7pkUiC8
+UCvo9oZCTg_UaTQbhyXkXX3w	Matt Slays	0L85xSxwUW8
+UCdomP1JqhnyBQGaBmfDl4KQ	Squirmy and Grubs	o8ciMSg0PI8
+UCyVO-gi8FZ1P_7-5BB6Z9YA	Martin has ART in	WyPozUm6VCE
+UCAUxlf13OOXmAOVSkOWrZaA	SnuggleWound	nPV0Stl6ZJo
+UCcgbj_CLv_Zrr2YGn5clyfQ	NinjaLifestyle	O74MLRwGKp8
+UCbCQBD9gKSEnNtIqmKY1R3Q	Vegas Matt	BC0wWLpJQTY
+UCfAtRPIM8OOVhyVXWHnvaIQ	Venture2Roam	D-f6URbA42Y
+UCN_nfTW6C5G0cufi7l8tf7A	The Philly Captain	ZSNvwDkI2yQ
+UCTQY3JIbngitYLq1yukAAyQ	The Contrarian	8wCHHxf_TLE
+UCoK5NOxkZBLfI_5eqf8Es4Q	Shonduras	pgiV2U2Jtx8
+UC-Pk-TTaSrDOjkPKQ7C8HXQ	Skate IQ	6ENme3IZfkg
+UCPuEAY09CtdTzFNWuqVZgDw	Topper Guild	e7PbarlZDw4
+UCM6gid2jm7Pc7d_wOrDgQQg	굿엔트	vgvbH6aLM7Q
+UCy2RomOcw6oMP0YU2GwNnVA	Tiffany La'Ryn	i_nxwFC01dc
+UCLNoXf8gq6vhwsrYp-l0J-Q	Xiaomanyc 小马在纽约	bkL06cL_Ds0
+UC1yBKRuGpC1tSM73A0ZjYjQ	The Young Turks	UJbuCNTSkd0
+UCxj_vl4qdX8MESp3ADqynsA	VlogAfterCollege	v3BjF2IL1RE
+UCAouKkaOQUrGFenL9aBT29g	Павел Куликов	fmQCcACvLs0
+UClxdDtMfv9h63-Zp5R81FKw	zachbealetv	eKj-eEQoS-s
+UCfQgsKhHjSyRLOp9mnffqVg	Renaissance Periodization	zeA4DvEyMIk
+UC4EP1dxFDPup_aFLt0ElsDw	Shoot for Love	hKcpehKPHdk
+UCXtKYdLGPTO13uU109qAb_Q	Jen Chapin	weq6qYH9LLQ
+UCHEXh_xkq6dnga5-BsHGU2A	CHUCKY Official	YI9JGBhm08Y
+UCu81Hq_ScQ8tUEuAbcP1ECw	M3nameisjosh	h55MeRl95RM
+UCiE8Bhqwsxx4sjYzS2hxL9w	Ash Watson	y0EQzPOpdlA
+UCwaNuezahYT3BOjfXsne2mg	Chad Wild Clay	Pylq8i2uJvI
+UC5Hi0UkephOloKgZKLM9e-w	The Anazala Family	Ocfw-GxSDM4
+UCzZgbE6e-iSggVVaDswiwyQ	Ninth Island Connection Las Vegas Updates	YWLAFCrAfNc
+UC36MGPfPwOWafAXauiV4LdA	TmarTn2	F23VeIJGrV8
+UCpHaAKu74UHvcYCi2g_PvBQ	Shout! Studios	Ku4U3qqyB5o

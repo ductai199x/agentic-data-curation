@@ -1,0 +1,261 @@
+# C14_product_review — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCHIRBiAd-PtmNxAcLnGfwog	B&H Photo Video Pro Audio	l42rMAsGgpA
+UCML15nS7tyrKoQCvoALTrtA	Elliot Page	sKN17aaGOqI
+UCTCpOFIu6dHgOjNJ0rTymkQ	Freakin' Reviews	eCg-dF7BWX8
+UCTzLRZUgelatKZ4nyIKcAbg	Hardware Canucks	-aif3JnrKm8
+UCx9bOYEjkevIDYONBAstK-A	Joshua Valour	363ETa-Vs8A
+UCwwuSBYcErVlOpveYubHv4g	Mark Ellis Reviews	udrf1hD_DM0
+UCMyOj6fhvKFMjxUCp3b_3gA	Nick DiGiovanni	IdENz7Spr74
+UCN_umhHPplEwQ0K9BGRpJQQ	Rachel Catherine	zf52LKXnSS4
+UCwOCcE4enBgo4DenWHv0JYA	Shane Symonds	lGtfqzWtpeo
+UC8wBSS6pK3PIIhv28xTvmnQ	TKI Tech	aJNbFJQFGpg
+UCXGgrKt94gR6lmN4aN3mYTg	Austin Evans	Ie0HRalAZKA
+UC0Vjgs42ZJ9E9HiILq2D9Yw	Bobby Tonelli	hW07Em7W0gc
+UCVLN0tY51ewH44wUtx3YZTA	Tech Spurt	PNM7cbcQwKE
+UCqP1gIWh2SM3lRXf373gMNQ	DPReview TV	580VQsbCw2Q
+UCCVyGW9Rf8b5Puldlem_6cg	The Film Alliance	AOB_vAsOD_A
+UCsTcErHg8oDvUnTzoqsYeNw	Unbox Therapy	_2KlEW3Mh7Q
+UCphah5UhLfJKX6QJuDrl3fA	Dr UnBox	pHSvFs3jRVo
+UCEuxVKSJXGDYjGznHM3_rMw	channonmooney	5Iz-CX3wjyY
+UCTJ0mtQs5T-xh7LDxO8gIHQ	Alexis Therese Castillo	DmkBLeJmxjQ
+UC1u7EDUCNHkMPtktFkuCraw	Fox Gadget	_IMdbVyinu0
+UCoi3Uk6JtP9QgA5BRwnh6NQ	GregsGadgets	yXVAhshmMwU
+UC7VjnZDJlyMJHPVVpV1Pp3A	Barefoot Strength	GMSdGvM64Zc
+UC2Rzju32yQPkQ7oIhmeuLwg	Jarrod'sTech	EDZfsS8w9B8
+UCajiMK_CY9icRhLepS8_3ug	Alex Ziskind	XGe7ldwFLSE
+UCbtxtxD6k9IXzWoJSI4kNRg	Crimson Tech	sC1J0eIR_n8
+UCM0jJNaWlmM2iMrs14D5zXw	Chalid Raqami	OCjdPL-DqqU
+UCAsBqw_Mf5-F2p2dMX1fCQQ	Maria Draganova	rFJKX8SiD-M
+UCVYamHliCI9rw1tHR1xbkfw	Dave2D	fPZqmNrcBAo
+UCsjhvYo5YRif1izizHO8P_w	BlueCJ Tech	Jp--__7VmOM
+UCMTl80jTQwGkO335HoVf0ig	Dr. Aanchal MD	VivfSEHhTV4
+UCUun7jLOtkOcLuSC9KADjuw	Picky Audio	Gcgus3HiPGQ
+UC98BSoeQd1sfedJpoJNNLLg	Fasting for Fitness	XewII6G8uzM
+UC8wXC0ZCfGt3HaVLy_fdTQw	Digital Trends	ykECg9zFA0A
+UCG2ONGx8bCGBwYfr_dB-LXw	Gear43	_az-cJwld-w
+UCfyehHM_eo4g5JUyWmms2LA	Sorted Food	yI3VKRKRFIo
+UCS261lQDXjMvc8Jck-2CQEg	Gyan Therapy	XjJJc3hHmfc
+UCLU3L9RznREsypblMiNZLuQ	GadgetryTech	jhKojUTShUU
+UCFzvjSawqjzcWvR_CmhV-_A	Flawless Physio | Shoe Reviews	tYBcj0pfUAI
+UC_v2uw8FoCm2BVkC8hPakGg	Angel Polikarpova	hWgU6TyNnkw
+UCTjF8TNC7blVsBtWyMrsj4A	Horror Skunx	dgQ5SPuzW8I
+UC8hbHvOenwYrbcUV3GRZCYA	Bailey Dedrick	uTR9UCEtoOk
+UCgjkiGfJvgV6XWZy9EHwrjw	Tech Maiky	SgWH9fDULvk
+UCULadXL9c5fjMXRsXUuM-cw	CEONTHEMAKING	fqrtZPmnYIc
+UCeEqIv7lVwOOLnwxuuhQFuQ	Hugh Hou	ebT8dGWv7Sk
+UCzmwnZ_ZElg6kuE6e5QS4pg	Brian Tong	qeB2ucVGTpI
+UCdp6GUwjKscp5ST4M4WgIpw	TechWiser	D4zWiJC0MtY
+UCknMR7NOY6ZKcVbyzOxQPhw	Kai W	ldGupjlVyUM
+UCO2N-kyAS464gH17K-cavFg	Kennedy Rae	wSlkdRcaLMo
+UCmb91zwG9Zuyi6-_ErJJ7Pw	Drew Lipps	Q__G97-IG4E
+UCZUaaalM0k4QrB0ID2k3GwQ	Dan Watson	Q5zvyAv34nw
+UCTl0iu23pRJ4zbah48RF07g	Luna Moon Drama	880g70jJU8Y
+UCDqzuoZDmQ1u9oNZ_F3zi4A	Moment	1qZAZyUHAS8
+UCgNGEu_mRucHDeicVLjHWGQ	We Do Tech	bK_afKjH-sg
+UCMiJRAwDNSNzuYeN2uWa0pA	Mrwhosetheboss	HzH-2vPLvqM
+UCdgGyYFpMNOcQ51ecEwWTvQ	Freaky Tech Reviews	zSabaYbjdxk
+UCKKl53eAW7ZRiG-mkKlytHg	Dr. Yonatan Whitten	IZliwdOw8ng
+UClalp_FVoiqw7v_ke2uLVCg	emi’s spellbook	8jEwnPEItqo
+UCwPRdjbrlqTjWOl7ig9JLHg	PhoneArena	dniuAj9DqKM
+UC4aJMVRrycBeOVEuidU4XVQ	Siva Bharani Udaya Selvan	I9AJqSOKsxM
+UCqYI3lmZgTsRs202mY15QfA	Talking With Docs	kkeNE9pcWcI
+UCy-HrIHWrohKaKb1ejFmDdQ	TechToko	GyMbZMpOyTc
+UCIh_TPYPqjJuS_-nOfAIlfg	The Bioneer	YcNci7ZUNMk
+UCEPL07qzVsOcHd3sMUws65g	Trakin Tech	N3EvjekQh-c
+UCHKnV3AVMyRhb00s8si1QTQ	Versus	dArUxUgsSeo
+UC7chA7fkFm_rD9vt3_RgnjQ	adriana noriega	MW7lC3NXRBc
+UCDO4TddEd56iu9mc3sLbWNA	lottie parkin	_gbDGWUPkH0
+UCDpxI63bfQsWCevBDs89s8A	Jan Rybář	sNCPIeWWuCc
+UCUAzh982ZbDziKIL8MxGmVA	WearTesters	6CMdi2eCpVM
+UCQ0jSGgYMLmRMeTE6UaPPXg	Duy Luân Dễ Thương	3zHtqzG-yck
+UCWVuy4NPohItH9-Gr7e8wqw	TheRelaxingEnd	pTMQBz6GUF8
+UCABGKshRPlJcWXXkZddllbQ	Matt Pierce	cSCDV1vPuNo
+UCBIoK9X-5jqLI-iLEcNBA9w	Katelyn Abreu	HVA53w8iICk
+UC0hpE9DDQpXjFSsOx0XwwcA	Platinum Skin Care	TJ3ZszTjTeE
+UCvadUJcVjdSKA0cUJpStQKA	Coach Chong Xie	T5v7LwJCgXI
+UCTj40oI2e4BFTUB3LkY7PQg	TechEdit	V24Jv4HZcqo
+UCFEcHmrStgfQ2qqgH5gnqdw	soph mosca	Tc176GIr-AI
+UC5mItOHsTRKmuPkfv3SkvWg	Get It Done With Gabbi	8UFbVvNgkdY
+UC1Uuou8eo2G26rDh-QwM3gQ	Alex Murphy	xs2QHdiv2CM
+UCVHInTKeaC5eX9jBtrF0f1A	Vladimir Kostek	OOLiUdwDCtI
+UCfA5OXqwTGSBLBa8Fo5gOUg	GuerrillaZen Fitness	saShRZ2Suvk
+UCzZ2VXordh-R0WLAeNwyltw	ChamiaTiarra	JgWxAR0_jl8
+UCxhnbjW5_gD9I4gk_5t6-Aw	City of Mesa	_vBRojjS7p0
+UCAlwrsgeJavG1vw9qSFOUmA	AIM Network	siaFf0saxQc
+UCiAqOXh84uaYvrI-733Fkwg	Amelia Raines	A7e5EaZ_1iM
+UCEj4ouk1rnaVdVCPkWR3PmQ	AllCasesHere	jUsP3TbRN3Y
+UC4dbttuF5CffVX3vf0p6iuw	Colt Capperrune 2.0	vVUu1d73nm8
+UCZ8tubfhdq68I9SHc35XCgQ	Izzi Boye	37NcuJIEp-w
+UCUQo7nzH1sXVpzL92VesANw	DIY Perks	ibEN9FTLdkI
+UCb9fs9s67BXlX7rXVzRf5cQ	Amy Wang	aaoR0fc-roM
+UCHP3G9mWR21e_dZme5-Nicg	Dr. Janine Bowring, ND	HkBBm-6xrKA
+UCNZd_IlALscd28cbri2pUMA	Davey Gravy	IlleQ5CeAOs
+UC6Vz5Rp5VNJGihU5mOtbgyA	Beth Gould	AolrhcD_0uM
+UCB_9D4wxI7PRDDG5EuMbuXg	Jayfvisuals	Y0BdxGVTCZo
+UC0IqRM2Mwybj7XV9YPnJn1Q	CJKnowsTECH	qYBd4wiz_cs
+UC8Y5CC9p9F_V-x4jWaAP7ng	Becca Bristow	k3Z-FX1BU-4
+UCkYKVXPYN2dFUJgxAPeAkGg	Emily Norris	YJWbFpHVO8g
+UCuyvaRuDaB-0T8ZlVERzyug	Drama Glitz	Jn6DyXGjzb4
+UCjF2H4EytmSmTM129GL2C7w	Katelyn DeWitt	iOT5EbWbV1s
+UCqWZxMBqKuKXYhCZfk53WcA	Fil Valiulin	2SxyTeXqVx0
+UCiTrvunKfhrK-qc41ZctFrg	Clara Peirce	g2UAbQcT6wo
+UCtDd1HxzPTmvdwHa-cylISg	Evan Ranft	FQJINy19DiM
+UCknKMzugCaPXD4AI6rq3wiQ	DocJenFit	xE4zw-adm0E
+UCFuE6zYaSBoN3jDDgxuVRgw	Grateful Glamper	mzSx5f0CAKg
+UCQ29YcBh-g6onRujX3wD_XA	Luka Hocevar	0IiY-iLHbXI
+UC0ZzC0WV8hY9GGo_AVfoofQ	FishBee Productions	Skdcg6nebTk
+UCPf67c3vUrFlNOERwjHyR2w	Media Division	r0ihhVeuSaU
+UCfuBtB3zJtdz_Z8YI23PHAQ	Engineering The Impossible	55bd-CmCnY8
+UCUodELQsFwF8dq0X-bK9FQQ	In Depth Cine	mShfsLjWiUs
+UCys9M-9S6DFDG8gs2J28eXQ	Hangout․Audio	olN8vrlDqaE
+UCSOpcUkE-is7u7c4AkLgqTw	MrMobile [Michael Fisher]	iWi1grPS3pA
+UCogfkZkgl0Il4wRGUkKKsKw	Gerry Oginski	00I8Z3wpsYg
+UCdV8E_Ca22hjQh1-REttX2A	GregglesTV	03EotkgRNaE
+UCBG4ZzTTBVg23yVdQhztnfQ	Jason Vong	1tTDny2MGxU
+UCKIL4dMp2qbWElEEZHK-aug	Jester	QKSzDc4vvz0
+UC0URdxn-zazosQ0AnjAWi0Q	OhCrayZ	R5eNpVJkkw8
+UC8oiJrLncD7V9Hv2EYFQeBQ	It's me Ali	RN8-S5zlTj8
+UCbGqvI-XbGy1SSO2xAp4unw	Jordan Anderson - VA Claims Academy	qgxIoI3YtZs
+UCZzV1zRj0oLYNv-GBSilJZw	Pete Matheson	eP8Z6OzKUio
+UC4i-Z_QvI2CuFT9eJoAeazA	JayCity	m4l5eEXftag
+UC_w1oqof_V7buKOfKF-CUtA	Margaret Matheny | Simple Living	4PMmLL8iJK8
+UCdLpLTgeqCQpqQ-iIlwlL5w	Lucy Raine	AQHUFM4MZbQ
+UC4VoaWbC9pYxGCawDknpSXQ	RYUCAMP	j3vbqmkuT6k
+UCYRE3PMYatMVXmqmulF0sgA	LADbible Entertainment	RMqs1Ty1INc
+UCAZsJCYZzGVVf5FN2_B-QWw	Mind Pump Clips	kk2QyB1L1Y8
+UCK6-keo1X1LQbqThbcw5gqw	Seri / UltGmx	PkgbOeoMqJs
+UCNVB6_eY4h2Xj54dQFxjJ8A	Madeline Hegedus	QTmCAm9jSRY
+UC1wBLtUP6ek17hcfFQbucEA	NEON AIRSHIP	VdrDSuPMMnw
+UCV3AlfJ2mfeTzWI1xOla8Jw	Steven Foster	YZckCuVzjBU
+UCbvIIQc5Jo9-jIXnkPe03oA	Matti Haapoja	iHEoZVHX6Ac
+UCiIhoHKPMHm0tpga58IBQNQ	Payette Forward	2i35XmvbpBs
+UCyekNrBLyqG2SaER31hys5Q	OnlyBestOnes	qWjwaYn0QxY
+UCwY9B5_8QDGP8niZhBtTh8w	TWiT Tech Podcast Network	GUUbF7qNT8Q
+UCq0hKkwnW5Cw1wQqu455WrA	Mind Pump Show	kzAfTDHVVC0
+UCKUHwx9Nz4cK5APGl6g8JWQ	Scott McKenna	nvx4C3t8ng4
+UC_lGMZMTN7Oh9DRKV2eaMtg	SPACE DESIGN WAREHOUSE	To-cUJ5WQK8
+UCiJ7alz4sKCtl7vz_axzH2w	Techie Bist	KHy5y5yQTZs
+UCOL_jnSeaZxOJUoNnDknIxw	NoisTech	QWjQ0wLvYLs
+UCfNWN9s_s8kRTCadk04WWJA	TBJZL	9NGWj8V3uns
+UC8HlbqYj-9qTta5WleFvNZw	The CAN Family	1X62dW5Ol70
+UC3DXMnUdiiP4t8dLQCq4hMQ	TechConfigurations	g5xoMEUJ_ZY
+UClNsQ7W8jLQmVUHGmFOsSLw	Simple Scottish Living - Zach & Annie	87gzC0MMjGw
+UCHEf6T_gVq4tlW5i91ESiWg	People Vs Food	HpJDV8JEdpo
+UCARp6m7L_aVoONOHtI451WA	The Tiny Nest	nhf1PxkZ_UE
+UCt9rlCOS_VDRgmd-cuaTy5A	The Besties	eALKkkJU4Q4
+UCrt_7ysQfN_StH3voR83Oww	RV Lifestyle	GUVFoAzobsI
+UCsRd7WVROeTytsoKddoYVFg	Videomaker	z9noBpxHz-8
+UCE4xstUnu0YmkG-W9_PyYrQ	Usagi Electric	j-pAKMc1sic
+UCDM9h31g4YBxFFa2jrjXKXw	The Carla Project	vh1BG3OxVP4
+UCr6JcgG9eskEzL-k6TtL9EQ	ZONEofTECH	7LgfLhsRZ8A
+UC1KrRuj9mEuS6JhApLQjfLg	Steven Divish	tzRU-PZUCJ4
+UCvkODZ-I4tsdP2Qopov0jrA	iPhonedo	ENFFocMv89c
+UCo70g04Tc4x7YfQShyEtL9A	Thozi	-PB0WRRrvHg
+UCz6SUbEq0QwXW3jVbLI1WpA	Video Club Reviews	OsXEerlfl5E
+UC-Wlae_p6l2FU_2c4PCPyug	VA Claims Insider	wDsP1xAvnMA
+UCRw5sR-ZubiAr3Dxh_sJ64w	THE WADS	NeqbdLOum5s
+UCdz-AzeXveWr2FICZZastrQ	What's New in Orthopedics	7eXqIbNqJdc
+UCk8-8rY4q0cV1sOuSbVC_hg	Vin	coaI-EZkcXE
+UCGoiclUrJhOA14waY85_D5w	Zhirelle	eCTF1a6tLsk
+UCVUgjaDIy2i2LP4Dw0fCYJw	urmomsushi	76hcrQc10YQ
+UC417Fs4aGBM__5fmMSKrIFw	koz_tech	K-oPjx4_dXc
+UCabq3No3wXbs6Ut-Pux6SzA	The TRY Channel	HvpjuR2r5n8
+UCFCYZ3cjf4KxdrFlht4tZDg	Unbox With Adaora	T85orpuaMcE
+UCTqMx8l2TtdZ7_1A40qrFiQ	XEETECHCARE	vJ-nEwleWBg
+UCheoCqHDwPcfS9Jrgz8siQw	VideoWaliSarkar	R7IbkhOW1zg
+UCKJ0a4zegyhMi3YiUx7dt4g	dphog	yFAsr2HzOCU
+UCwOBG77Tm8cE24FPxHb_abw	Smart Home Solver	pmnvruq9D8g
+UCR0AnNR7sViH3TWMJl5jyxw	Jon Rettinger	rPQqKqf7DS4
+UCIrrRLyFMVmmL9NDAU2obJA	SuperSaf	O0AjAnjjO8A
+UC1aSEGgiJIWTpEUOQ5O9A0g	Vishakha yadav	FXM-6vO04EE
+UCCOYQJMAmH_eflkBhmOPfAw	Elisi Wolf	M7ltr3gD3EY
+UCBaEvVugA3dppW1yFyxjWqA	Yashasvi Joshi	WH06X_hMi3o
+UCVlMUh4WsDQvOxCJJXmWwdw	Matthew Moniz	7OxE7FwJPJM
+UCbLq9tsbo8peV22VxbDAfXA	GSMArena Official	gAiLf8Z6Kh8
+UCHFNDph3zTYh8-hwofOVXsg	stupidmadworld	SHrHVVH1pn8
+UCgYBZV36oE580aGehFcHCkg	6 Shop Films	RP-ok83GP68
+UCG6F97Fpn7o7cKnBjMuuzkA	Whitney Nicole	JS9TYdO06OU
+UCpZ88DWlKW0H_AYDaUZptcw	Ninja Kidz TV	qUcy0f9w_lA
+UC9zEqIwv7yPQ8IlzNYpB_Aw	Keltie O'Connor	S8FTAC7nCn0
+UCsCex8aMDs2b39TS_49Mpcg	Jonathan Casey	ZUnPD0u7Uus
+UCmdlnVFzmf7Zhqm_QE-UlJw	Alex Leonidas	skDLLV2-L-c
+UCrLO95wGXUW0fY00Rss4aGw	All Things Theology	JItN5muoYWo
+UCt0UhJkbi1LlZejVLm6ud7A	Amy Farr-Morris	9eZUEnSUDCA
+UCMAdVfKZnIlI2SRJGIwGD6g	Adventuring With Nala	xzg2doRFs5I
+UCW_EQERE-3EuqDxF9vj0bBA	AniThing	oirgDUvRkJU
+UCzzOKT1SkE7qdycJvPCR3Gg	Mia Maples	yHmNV8llGJU
+UCiZLhyFBJPwvdcvZn0pdMtA	Adventure of The Viper	pZJloj0babE
+UCpFC1R_aZOH3AfCuEMZrJUQ	Ben Azelart Top Videos	2Lzh-IJW2AQ
+UCjRFLVIyTEmVi-4wS3XJ1WQ	Andrew Hough	rt47nDG7k04
+UCPy9UmxYySrCaUMvQ-7vYiA	No Excuse Girl	FupDvMhgMAs
+UClLMEPnOs9IZdFVBeYG5ybw	Aman	Yk9fGXbcQLI
+UCLjgYurnKRGCCF6bCq-mC0A	Chris Pieta	Z2eee2eHBlM
+UC3fg6pL63upkXCc0T203wVg	Sara Dietschy	eTHft0-OSWA
+UCpCLs6S3l1SKhoiN5t7XFWA	Ben Maclean	BQRWGILub-k
+UCcyq283he07B7_KUX07mmtA	Business Insider	o5opXRMhcyg
+UCN5KuPWyHgjm1CGCd4EvIxg	Becoming Ashley	-TZNLZ1d62c
+UCCZlDCbFTqHkzV_rUP4V5bg	Crappy Childhood Fairy	8LwbkZDUtEY
+UCTfLI1dgLQiEzw8u4joYsAw	Camber Film School	JiJ7h6rLWSI
+UCSNFDumy9XnI3Z9m91RzeNQ	Design Dimentions	CsSJh-gRqcU
+UCI9zpG0EGiiMLmaHtQxeyYw	Bushcraft improvisation	FvVteWIH5r0
+UCz35G-z-ZB5rTma2yka7G8A	Crusoe the Dachshund	FQLrRK6Voog
+UChi_LhxT2sYcrV0SB2wCQug	EL JEFE REVIEWS	bA2d8Ld5Rw0
+UCjb4DUdtFSMCa1dRVqpRUow	Stephanie Stoven	e7AqSKLX694
+UCaMfX5Gmyll4ceAX_NIAU3g	Cozy K	7ks-jpXOWBk
+UCWjrE-uy_lHS1vGMaH4rtsw	Elaina Michelle	Arjh-3ESvmA
+UC3F3zZFiRElw2GLwzndp05A	Gabe Bult	zPSs9a0MYGw
+UCDYJ3BCFTGLylzCtKTrlkMw	That Mark Gilroy	Bs8azJbE-Eo
+UCY4KO2xXlgIwOD2DRf25lkA	Greeno Eats	FnAoAXl5eBU
+UCAt39dgBl-O6tOj2rUAmuWg	Fox & Crown Creative	kWyvONwTSDo
+UCRmnt09hfWo6hD574tLVVDQ	EWU Bodycam	_1_JZe210uo
+UCIxLxlan8q9WA7sjuq6LdTQ	Hayls World	EwdeXhT1Rrk
+UCEll4-P7YhKzRxauw8YcctQ	Jimmy on Film	wjCtuAw2V_A
+UCKJgBJcJkc0Q4kZeGIyNTYA	ThisIsE	Kd0OO01N9Lo
+UCNPA_KrM6G5UwdOKkWpXBrw	Kevin Breeze	YLUet988Ur4
+UCBMKymQczkDxCpE1R2vvA4Q	Joshua Becker	EojB2ZaUB2w
+UC3cEGj5_qIPzm4L_D6i7rug	Fatima Bah	zE_d5dxeaIc
+UCDuhuDr0OhYeUtW8S7gwimA	imbadkidpariss	spUFsZU6-UU
+UCH49s-lQ7vcKWVgYdc4xb4Q	John Willis	pi20ObqVV-g
+UCL5Hf6_JIzb3HpiJQGqs8cQ	Matt Granger	f3Uw3LzVta0
+UCTc_AeO-lZzigNewmMPcs9g	Lee Zavitz	rCcqoACfWds
+UCcjKNU_1Uiy0uLJRGUqejZw	Government Technology Agency of Singapore	eUEkMewMAbs
+UCuROGphRDQe-tN8uxZ2X4_w	Aaron X Loud and Wireless	JpvIkIgX_w0
+UC_s_C2S3ZxVzoopjHlVAWLQ	Kourmoulis Corner	Eh_yhdU91Cw
+UCr1nLIQFpNV5DxD22qxGsyQ	Nicole Laeno	02XgHo2qo5I
+UC8bzjKacG_NOrDs_7k703EQ	Michael Swaim (RFMike)	Dg9JR0r1j-0
+UCHDrwKDMbmL0MRkjORBYGtQ	Alvin Tries Tech	Pkuo-O-mQzE
+UC7QwWqU_ZcWVko-SZvgcdMg	Kenneth Tanaka	-fWu04ocSEI
+UCPoXPRcNIJs6O9HFqDi5sqw	Opengate	4vA7pOPBneg
+UCUUNkL6Wke6i0P6funa7wdQ	AppleInsider	lOgBOB0zvys
+UCcdoCX9WJZZrhXHmpvhgc7A	Mark Spurrell	wOCY7qw5hT4
+UCR8SyAWIDDc9U0LDMZg_QWg	PhotoJoseph	7O7uNd4Nkl8
+UC5lDVbmgb-sAcx2fjwy3KQA	Booredatwork.com	_izummey24A
+UCFFfqIC3npbT3eRewarazdw	Natalie Bennett	y0hp2fHS1n0
+UCLt1ZCWX6QCDWVUElrY5_qA	Super* Review	OnzCzIrH5No
+UCUFoQUaVRt3MVFxqwPUMLCQ	StudioBinder	WMcWLFtGnAs
+UCyPYQTT20IgzVw92LDvtClw	Squat University	8d9kbkAuZGI
+UC7l9_nNV7JWaSnNMqNjTEAQ	Petersen Automotive Museum	9XUohpeRyPs
+UCKzdLDnM4WMcTp0HHfdBKLg	Technoid	jfYsAIPPbzw
+UCIsbLox_y9dCIMLd8tdC6qg	Vanity Fair	qmfxZJQRSUw
+UCMp2_VQ4mHMGW94VrGcCUsA	Tech with Jerad	tizZwgfzeRA
+UCbM-fdGZyGd-NNRpYscDeHA	Everyday Legends	s5KPFps0e-k
+UCywYFXTbWQwp2ZSitdspJPw	aleshiajeelan	hOeF8eWP8Zk
+UCO2x-p9gg9TLKneXlibGR7w	Snazzy Labs	9mJwHo30eUA
+UCiixPxHcHIOp2eltCRkEYaw	VideoMakerTwist	voS6WqrjbBg
+UCEP78fa8psaWGvQMP4APtMA	The French Glow	Mv4k3BRZkuE
+UCUNbVdwPCfo3iOac_PRNNsg	Garron	ZcLmEUCNSOw
+UCy0wlsZLFgwMxtsCpD9dlhQ	Tech Unlock	Jd8EqxWFPqM
+UCPivGkDwFySKlZR_8nO8lGA	Valid Consumer	DK98-1B5j6E
+UCVrSYkR10_JxMM7S64ZVSMw	Hi-Fi Insider	9o18-Bemf2w
+UCmwQwyg4oDJYQgYSnsJAA1A	The Breakdown With Luke	03CiUIwaehA
+UCfwEsuyMCLEd0eLntOEDn0g	Lexi Vee	GPfUBr61RPw
+UCqBERDzM6ZcovT1s01kIrVg	Michigan Foot Doctors	M9PhYF3kb1s
+UCeHgwTcKWbZhCNmdS96kTPA	Oscarmini	2Wi6YULDGTE
+UCbLelaq2Z2VdVATqkxArVqA	Richer Tech Reviews	ICF1ESr_YVc
+UCC9EjyMN_hx5NdctLBx5X7w	Scammer Payback	OUKI5AxEpZU
+UCqwQ3zetIksvkO_-UXORLXg	TessaaLo	Nug1EnVCUoU
+UCV0L8CyL9lzXTvaVYh_prfQ	These are quick reviews	nOQO0PkdG88
+UCwHlQ8RikHLN0NB-efrn91Q	VittorTech	AE7orut1hJA
+UCGDcIpHhVp-UqN1hTNd-AQA	mamah!	OiUlwDp44E0

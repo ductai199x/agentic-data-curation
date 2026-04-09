@@ -283,158 +283,92 @@ UCCBEoJQ2XjNAHYz7ivDZwqA	lostintravel.at	20	620	4K
 UCQBi8sVAzB2bXffEwG64yeA	pangea	20	349
 UCoRC5ZKiMjz3rbyCGBcWH5Q	symmetry	20	3762
 UCygYYXg84ED6dxx9oc1GTGA	wotw tv	20	2457	4K
-UCOoQiW3ywuG0SzqjysUWj1Q	Seppe	19	350
-UCtMr9ZgraacKwDyBhA_FbqQ	Wildlife Rescue of Dade County	19	255
-UCjkONCANClnUQ44Oy4BMrCw	Window To Wildlife	19	483	4K
-UCFCzIB_97tBmct3KMtbVViw	OYASUMI SOUNDS	18	28826
-UCgGIpjeMg0xxqBT3wkUfvXA	Auralis	17	3437
-UCBFfxL_7Ttp_uqP3yZwVi6Q	Background Company	17	32956	4K
-UC-MJ7UvEusNoe7C_txoNd1g	Savage Nature	17	2958
-UC75UTIRAoMfb_kiZtfR8y-w	Lucky - Nature Relaxation in 8k	16	7129	4K
-UCJx0OuuPwugf2JG1UyOdOtA	Barn Owl Live	14	370
-UCEEvBPoq9Ah4xxCpzmc_jwg	Free cleaning TV	16	1224	4K
-UCPZqnOfd5Icf5EyT_qZejyQ	Amazon Wildlife	14	1518
-UC41_mYWEEFSTnx9tOYohvag	AnimalScreen	14	1493	4K
-UC82OvA-341r7R0MpugLYxOQ	Lucas Veuve	14	128	4K
-UCas_5ASP6FWyKuaFveS72BA	Ocean Life 4k	14	1142	4K
-UCAiYAzqIIHCVrhyHPuTp5Aw	Above Relaxation	13	21697	4K
-UC5lNakfSdpqXCW214H5sBgQ	Ozolio Live	13	201	4K
-UC5DXSIeSzQ-qwFFDgmLIVgQ	Maor Benezri	13	156
-UC5_jR28q89QFRrNju66sNWw	Kevin Wallis-Eade	12	191
-UCryiu8g8NZDlRZZ3SnSnmvw	Eoghan C	12	519	4K
-UCm2U4RiyLFKrWQCtBdW1IpQ	Bananaanimal	11	1780	4K
-UC23hPzjG-5Kb3dp7kEwU1JQ	diaryofcreation	11	560
-UCOM1gIM4Q_-OniEdhUvHEkA	Mr. Science	10	1245
-UCd00KkPIdedHMCs3CQnqfVQ	Nature Relaxation Studio	11	3279	4K
-UCCzUqFMahiUHDX4G9OlhZPg	Marius Balthasar	9	179
-UCSjRGhWviP1BLiWeXEOOTgA	Syrpentina	9	8169
-UCu02B7hYtq6Kju85seKgX7Q	Antarctica Wildlife	8	1292	4K
-UC3ndYILeJQHyYENS-si226A	NatureVista - English	9	3550
-UCW3duU4vc0MwDEe3Rj4d9mA	Born with a Backpack	8	229
-UCcLEvCJlt_n36xV0gdUv2DQ	Wild Majesty	8	2243
-UCXHwXOmkPTnTmN0CScoVr0w	Junior Santos	7	188	4K
-UCYKp3v9YOcv6UpFvrM-dzgw	Aura Video Art	7	12858	4K
-UC8T5SWQ6amJG4E4f5aXrXqg	Marine Melodies	7	18476	4K
-UCoeDOjssQXNCEmRoanNwPow	Wild Roar - Animal Documentary	7	1069
-UCXP3ZzMABOidFuGSvsoGnFQ	Jake Davis	5	1309
-UCSV6Ycn6NTV4t61OZ8wbI7A	About Everything	6	339
-UCIQVWkOilfxoQSFcban_d-A	Maui Live Cam	5	848
-UCwIEULh0DyyDxBes-03A6aA	Royal Oaks Videos	5	838
-UCa2tYR53aMcMj2vsMoTFrNQ	Koen and the Cam	5	577	4K
-UCrhmv7iDNEwHbS6TG_fVJEw	4K Ocean Color	0	0
-UCo8Z3Eyh-Tv_IySpPwv50Mw	4K Ocean Life	0	0
-UCdu1mjkqIMNeAJsFYRRqlYA	4K Ocean Realm	0	0
-UCZ1RnWZs90V3HKaPvv1ySkw	808Watches	0	0
-UC-U8v76du5PbFPv0VqijXzw	8K Deep Colors	0	0
-UCC8Y4seJ2ihmFZTHk3-MFUA	8K Ocean Colors	0	0
-UC5GBWpAHQ9zcXrDAlzdzxHA	8K TUBE Planet	0	0
-UC-HBex8e0BbiPETeBE_aWBg	8K UHD WORLD	0	0
-UC2jKMnDNLLvupJHvS6-FMLQ	AQUARELAX	0	0
-UC8S_a5XE-v4TXjQYakF5D0Q	AquaDream 8K	0	0
-UCgCVVfYdVIRnoUMIcN-hOWQ	Astonishing World 4K	0	0
-UCs_b-rh9j2yvrLc9ZU_6oGw	Blue Ocean	0	0
-UCak-rxe8c3jIa3teZUu6cHQ	Blue Ocean 8K	0	0
-UCc5x5ntW-4c_ySVsqruaxGg	Calming View	0	0
-UCr3EzXSFvgz-ppNLx5YkbVg	Calm Aquarium 4K	0	0
-UChhy8_nJxsd372XSASQyn0Q	Cozy Relaxing Dream	0	0
-UCciLLw-UUpM2c0bWO1wcDAg	Deep Sea Life 8K	0	0
-UCPXSuhVDmYx3PqdhaoMmNng	Fish Dish.       1M views	0	0
-UCPO1xTZQF31NFWluogyDegQ	Dream Scenic Ocean	0	0
-UC4YgaTYgSnASisd0I6B2Vqg	Free Stock Video HD	0	0
-UC5AhX3z4KlaWVZcJwpCRjCw	Free Stock Videos	0	0
-UCWe6tOlvzOS7SfsjXLjmQFQ	Gentle Wilderness	0	0
-UCzPiY4-UWyB7X_8grY7pYEg	Glenn Tupper	0	0
-UCPbwQ9JY8oNwDYhO6mEGxrw	HDR VISION	0	0
-UClIFWPEu_Tza_tcEorPXnoA	Hdr 10k By ijaz	0	0
-UC3ACh1AmxT1zizGe0Zf0P8A	Heal Yourself	0	0
-UCnXHaHmfmBG5-ekpmAXAkAA	Healing Dream	0	0
-UCC87EWnrd6k6EjhDqn4I_aQ	INPRO KOI	0	0
-UCYIprDJwp9X7QRZw571IvQA	Idyllic Melody	0	0
-UCshzvnv5cCTduIgy0_yzCyw	Incident Cam	0	0
-UCWPnKI1PqbK-OOQtOOUXWFA	Judy Hopps_Rus_ENG	0	0
-UCmxvdr_ColNKLIyLPCsjPlw	KW Lounge	0	0
-UCk4VavrP5zNIoCTCkVO_aOw	Kay Burn Lim	0	0
-UCYf2MDbSCML3HEW7htOuWnQ	Life On Earth	0	0
-UC8mqXAXeZ72HZPP62zuwcEA	Mr.&Mrs. Nemo	0	0
-UC6jH5GNi0iOR17opA1Vowhw	Lucid Dream	0	0
-UC7EFYwCuA_N714AX8_p13yg	Nature’s Harmony	0	0
-UC2yX9EFbeFWTW79clwBJG3g	No Copyright Content	0	0
-UCAK35lY4NsBb6o-acLAH6lQ	No Copyright Video	0	0
-UCOBEQOUEV_OCAbmnm3AWqIw	Ocean 4K	0	0
-UCPsFV9w8B81-N7fwNggeH1g	Ocean 4k - Relaxation Film	0	0
-UCTolGZ564II-w-NiodCDVpQ	Ocean Dream 8K	0	0
-UCH3M2BAXFW73SlmOstxVUfA	Ocean Marine 4K	0	0
-UCRbV-q78z7Z2_omV-q04grQ	Ocean Meditation	0	0
-UCttf58PBJSFmNRqL3FFZ4QA	Ocean Reverie 8K	0	0
-UCMWgfbsa9jr1AGkRaSqUngg	Pelagic Life 8K	0	0
-UCR9r9PIG5ULMh80orcIWjNQ	Persia 84	0	0
-UCkcGDjehd_w_ukgPKqPb1Fg	Ocean View 4K	0	0
-UC9R9T-2NCvIQ7gORy2LH4xQ	Pocketkai	0	0
-UC_Ww_uTLHVuM_hUL5PPZ56Q	Relaxation Max	0	0
-UCF0wJYhrCW2J50QXBnNB-fw	Relaxation Animals of Africa 4K	0	0
-UC9JSA6VZVagN0oWKQNhjhOA	Robinzon Muzo Studio	0	0
-UCft6NgxFBAwzpr7bvqwp7MA	STUDY WITH ME	0	0
-UCI6-gM1fopKwPNNJ1CSWSaA	Soothing Relaxation	0	0
-UCseiKcMA0VV9R5VXROSbU1A	SaltyKayak	0	0
-UClkV5Bpm8T11uDhZ48HmesA	Sree	0	0
-UC5YPvina0jntpfIkiHNIi6w	Starry Sky	0	0
-UC7qDDWpqBBQOmDHsfQZ_VLQ	The Rescue Journey	0	0
-UCLexb9WvGox2foFLgYB8w5A	Swiss Frag Reefer	0	0
-UC_zLXtW4RXHaBPi-ZtccFOw	The Wildlife Animal	0	0
-UCA3gSLXwZjPOXOTTTFS86uw	Tranquil Aquarium	0	0
-UCvRvEcGg4NbtTvXDUjZBdAg	Tranquil Ocean Views	0	0
-UCrBAnt587uyfrezsFPU541A	Tranquil Music	0	0
-UCwJGStMKl5J6jUY0inKlnTw	Wary Travelers	0	0
-UCjySRlUTWdSFjmkbrpEWy-Q	WildCanopy 4K	0	0
-UCM91BFprmyYk4X1nxnwzAEg	ZachWorks	0	0
-UC6QtkAsid-aDVvgzc66XuqA	Whispering Piano	0	0
-UCHy-Q98nhdTUuHK3RiRsFaQ	Zoolatry (Cute Beautiful and Amazing animals)	0	0
-UCtr3aIEp-OoGb7DTvIYmO3Q	제로아이	0	0
-UCt3EWrYdE2NcIOhmqdOr_xQ	java baby	0	0
-UCDa9vwHuA4Jt7ztHUov-6rA	12K EARTH	0	0
-UCOEDykxWYNfmZCj_v4lG3IA	4K Earth Nature	0	0
-UCN_4-hD1BDk8tDEamXIyObg	4K HDR Earth	0	0
-UCKE03aGxMhGAObhdd_ZQbog	4K HDR VIDEO	0	0
-UCVHa2jMkV1rctNtKSRrAszQ	8K ULTRA HD	0	0
-UCCOj7Kx_W9WWHRCX1WoJZUw	8K Vistas	0	0
-UCpgQJbfKQntojYhAbcvfSww	Aleksander Agapov	0	0
-UCDoHHY2Y5blBWEkawePFqLA	Axarus	0	0
-UC8kICBlK9fZZlYh62qKiF_A	Birds Inc.	0	0
-UC6E2mP01ZLH_kbAyeazCNdg	Brave Wilderness	0	0
-UCguMpZSqrvMo-T79MT1_98w	Bob Gilbert	0	0
-UC_sqJ7lV8lM77Ww1bVkhmfw	David Day	0	0
-UC7yxYO44pGx6KzCUHaXtZfA	Doomed	0	0
-UC3b8SJbWHEj8MIbjXX7NApg	Debbiemango	0	0
-UCgUJ3788ZaI6_eeGEYY6lOA	Durmuş ERDOĞAN	0	0
-UCZXZQxS3d6NpR-eH_gdDwYA	BarredOwlCam	0	0
-UCe7JgVqu8IfgflsS84eAPww	EmmieJanJan	0	0
-UCbhO8CxBUcq-Rf7D3ASoBCA	FUNNY TV	0	0
-UCY20mm5UIAYsd1Hs37EWvLA	Fatal Adventures	0	0
-UCnHOHiH_hP-EmaJy-hRmrhg	Figyelő Természet	0	0
-UCFL9ckFGOkeELpdrCt2eUTg	GlobeGo	0	0
-UCjxjaBreTTKjqGNts2cIhZQ	Heligan Gardens	0	0
-UCOch_vMp7AKaiGE7e6kSHfg	How to Survive Show	0	0
-UCN6odXJ7c_znsSuELQ1LVOw	Jim Beauprez	0	0
-UCEhT-L_62y3zW5mtOgezP0w	LG Malaysia	0	0
-UCNglZarqcsZ2iYSNKz3t_OA	KostyaTM	0	0
-UCu-sAlMVwdQ8zA1-egT_GxQ	Lady Hawk	0	0
-UCn05k3vf5GvNs8feKyQlAnQ	LadyDawn142	0	0
-UCcNyzOCKvyMBaA4iQVgO9EQ	MyBackyardBirding	0	0
-UCUnGM0k840G88uLhjDsv-Tg	Navarre's Wild Shots	0	0
-UC9NGTRnhpeBuOqAHSL-UViQ	Nature maniac	0	0
-UCmLQqA5g62GIfQa9oME05wQ	Origins Explained	0	0
-UCuaj9p0p-ZXc6IN17jh-VHA	Owl Antix	0	0
-UC3Vuq4Q1bKFtAiKYlwRv3oA	Peter Santenello	0	0
-UCl1rny9qBKEd2ZwDNlgJ9aA	PCS4Eagles	0	0
-UChNfbCKRGSa1yv_wVWrjr7g	PfA Wildlife Hospital	0	0
-UC9lM-OdK5amdkS4o8wMdn1g	Phaty Tube	0	0
-UCEWb5TUSeEmDHcmZaU2sOAQ	Phonograph Man	0	0
-UC_Di7JO6aixBH0IUgrkXdoA	Sassa Bird	0	0
-UCJroJtUM8-CpZvB6Hro2QOw	Songs You Never Say	0	0
-UCuM8SsH2BJin8JSudl4NePg	UNITED NEWS MEDIA	0	0
-UC50ZUVmjLQY5qMIeJpoPHVQ	UNTAMED	0	0
-UCGaLRQBET1fLzW8L1E8EoUA	an Ambady Story	0	0
-UCPozxdjn6hWNNbrN3y3HGjw	bb4dandylion	0	0
-UCBLWIzk5fqQMvfC9PkNFTrQ	j kuecker	0	0
-UC_9l5ZXs8ec9iOebTsZ8dHA	nickdepintoactor	0	0
-UCSUssFluHVSnMM8sBsdCryA	scyllabub	0	0
+UCrhmv7iDNEwHbS6TG_fVJEw	4K Ocean Color	0	0	20	11837	4K
+UCo8Z3Eyh-Tv_IySpPwv50Mw	4K Ocean Life	0	0	20	11090	4K
+UCdu1mjkqIMNeAJsFYRRqlYA	4K Ocean Realm	0	0	20	4814	4K
+UCZ1RnWZs90V3HKaPvv1ySkw	808Watches	0	0	20	329	
+UC-U8v76du5PbFPv0VqijXzw	8K Deep Colors	0	0	20	14419	4K
+UCC8Y4seJ2ihmFZTHk3-MFUA	8K Ocean Colors	0	0	20	14550	
+UC5GBWpAHQ9zcXrDAlzdzxHA	8K TUBE Planet	0	0	20	20427	4K
+UC-HBex8e0BbiPETeBE_aWBg	8K UHD WORLD	0	0	20	5424	4K
+UC2jKMnDNLLvupJHvS6-FMLQ	AQUARELAX	0	0	20	3648	4K
+UC8S_a5XE-v4TXjQYakF5D0Q	AquaDream 8K	0	0	20	11531	
+UCgCVVfYdVIRnoUMIcN-hOWQ	Astonishing World 4K	0	0	20	3213	4K
+UCak-rxe8c3jIa3teZUu6cHQ	Blue Ocean 8K	0	0	20	12413	4K
+UCr3EzXSFvgz-ppNLx5YkbVg	Calm Aquarium 4K	0	0	20	1662	4K
+UCciLLw-UUpM2c0bWO1wcDAg	Deep Sea Life 8K	0	0	20	11052	
+UCPO1xTZQF31NFWluogyDegQ	Dream Scenic Ocean	0	0	20	12693	4K
+UCzPiY4-UWyB7X_8grY7pYEg	Glenn Tupper	0	0	20	802	
+UCPbwQ9JY8oNwDYhO6mEGxrw	HDR VISION	0	0	20	1464	4K
+UC3ACh1AmxT1zizGe0Zf0P8A	Heal Yourself	0	0	20	11875	4K
+UCnXHaHmfmBG5-ekpmAXAkAA	Healing Dream	0	0	20	11011	4K
+UCC87EWnrd6k6EjhDqn4I_aQ	INPRO KOI	0	0	20	158	
+UCYIprDJwp9X7QRZw571IvQA	Idyllic Melody	0	0	20	15067	
+UCshzvnv5cCTduIgy0_yzCyw	Incident Cam	0	0	20	352	4K
+UCmxvdr_ColNKLIyLPCsjPlw	KW Lounge	0	0	20	1099	
+UCk4VavrP5zNIoCTCkVO_aOw	Kay Burn Lim	0	0	20	145	4K
+UC6jH5GNi0iOR17opA1Vowhw	Lucid Dream	0	0	20	22799	
+UC7EFYwCuA_N714AX8_p13yg	Nature’s Harmony	0	0	20	7420	4K
+UC2yX9EFbeFWTW79clwBJG3g	No Copyright Content	0	0	20	191	4K
+UCAK35lY4NsBb6o-acLAH6lQ	No Copyright Video	0	0	20	612	
+UCOBEQOUEV_OCAbmnm3AWqIw	Ocean 4K	0	0	20	2060	4K
+UCPsFV9w8B81-N7fwNggeH1g	Ocean 4k - Relaxation Film	0	0	20	42523	4K
+UCTolGZ564II-w-NiodCDVpQ	Ocean Dream 8K	0	0	20	12305	
+UCH3M2BAXFW73SlmOstxVUfA	Ocean Marine 4K	0	0	20	12089	4K
+UCRbV-q78z7Z2_omV-q04grQ	Ocean Meditation	0	0	20	11335	4K
+UCttf58PBJSFmNRqL3FFZ4QA	Ocean Reverie 8K	0	0	20	11214	
+UCMWgfbsa9jr1AGkRaSqUngg	Pelagic Life 8K	0	0	20	11024	
+UCR9r9PIG5ULMh80orcIWjNQ	Persia 84	0	0	20	136	
+UCkcGDjehd_w_ukgPKqPb1Fg	Ocean View 4K	0	0	20	11671	4K
+UC9R9T-2NCvIQ7gORy2LH4xQ	Pocketkai	0	0	20	435	4K
+UCF0wJYhrCW2J50QXBnNB-fw	Relaxation Animals of Africa 4K	0	0	20	7668	4K
+UC9JSA6VZVagN0oWKQNhjhOA	Robinzon Muzo Studio	0	0	20	2839	
+UCI6-gM1fopKwPNNJ1CSWSaA	Soothing Relaxation	0	0	20	42563	
+UCseiKcMA0VV9R5VXROSbU1A	SaltyKayak	0	0	20	983	
+UClkV5Bpm8T11uDhZ48HmesA	Sree	0	0	20	495	
+UC5YPvina0jntpfIkiHNIi6w	Starry Sky	0	0	20	4989	4K
+UCLexb9WvGox2foFLgYB8w5A	Swiss Frag Reefer	0	0	20	1027	4K
+UCA3gSLXwZjPOXOTTTFS86uw	Tranquil Aquarium	0	0	20	42856	4K
+UCvRvEcGg4NbtTvXDUjZBdAg	Tranquil Ocean Views	0	0	20	11059	4K
+UCrBAnt587uyfrezsFPU541A	Tranquil Music	0	0	20	10413	4K
+UC6QtkAsid-aDVvgzc66XuqA	Whispering Piano	0	0	20	3992	
+UCHy-Q98nhdTUuHK3RiRsFaQ	Zoolatry (Cute Beautiful and Amazing animals)	0	0	20	2484	4K
+UCt3EWrYdE2NcIOhmqdOr_xQ	java baby	0	0	20	1859	
+UCDa9vwHuA4Jt7ztHUov-6rA	12K EARTH	0	0	20	2150	4K
+UCOEDykxWYNfmZCj_v4lG3IA	4K Earth Nature	0	0	20	2925	4K
+UCN_4-hD1BDk8tDEamXIyObg	4K HDR Earth	0	0	20	1464	4K
+UCKE03aGxMhGAObhdd_ZQbog	4K HDR VIDEO	0	0	20	773	4K
+UCVHa2jMkV1rctNtKSRrAszQ	8K ULTRA HD	0	0	20	2262	
+UCCOj7Kx_W9WWHRCX1WoJZUw	8K Vistas	0	0	20	143	4K
+UCDoHHY2Y5blBWEkawePFqLA	Axarus	0	0	20	148	
+UC6E2mP01ZLH_kbAyeazCNdg	Brave Wilderness	0	0	20	815	
+UC_sqJ7lV8lM77Ww1bVkhmfw	David Day	0	0	20	973	
+UC7yxYO44pGx6KzCUHaXtZfA	Doomed	0	0	20	2405	
+UC3b8SJbWHEj8MIbjXX7NApg	Debbiemango	0	0	20	545	
+UCgUJ3788ZaI6_eeGEYY6lOA	Durmuş ERDOĞAN	0	0	20	171	4K
+UCZXZQxS3d6NpR-eH_gdDwYA	BarredOwlCam	0	0	20	223	
+UCe7JgVqu8IfgflsS84eAPww	EmmieJanJan	0	0	20	135	
+UCY20mm5UIAYsd1Hs37EWvLA	Fatal Adventures	0	0	20	1156	
+UCnHOHiH_hP-EmaJy-hRmrhg	Figyelő Természet	0	0	20	313	
+UCFL9ckFGOkeELpdrCt2eUTg	GlobeGo	0	0	20	1384	
+UCjxjaBreTTKjqGNts2cIhZQ	Heligan Gardens	0	0	20	194	
+UCOch_vMp7AKaiGE7e6kSHfg	How to Survive Show	0	0	20	1204	
+UCN6odXJ7c_znsSuELQ1LVOw	Jim Beauprez	0	0	20	127	
+UCu-sAlMVwdQ8zA1-egT_GxQ	Lady Hawk	0	0	20	803	
+UCn05k3vf5GvNs8feKyQlAnQ	LadyDawn142	0	0	20	140	
+UCcNyzOCKvyMBaA4iQVgO9EQ	MyBackyardBirding	0	0	20	274	
+UCUnGM0k840G88uLhjDsv-Tg	Navarre's Wild Shots	0	0	20	183	
+UC9NGTRnhpeBuOqAHSL-UViQ	Nature maniac	0	0	20	195	
+UCmLQqA5g62GIfQa9oME05wQ	Origins Explained	0	0	20	2116	
+UC3Vuq4Q1bKFtAiKYlwRv3oA	Peter Santenello	0	0	20	3434	
+UCl1rny9qBKEd2ZwDNlgJ9aA	PCS4Eagles	0	0	20	418	
+UChNfbCKRGSa1yv_wVWrjr7g	PfA Wildlife Hospital	0	0	20	124	
+UC9lM-OdK5amdkS4o8wMdn1g	Phaty Tube	0	0	20	281	
+UCEWb5TUSeEmDHcmZaU2sOAQ	Phonograph Man	0	0	20	235	
+UC_Di7JO6aixBH0IUgrkXdoA	Sassa Bird	0	0	20	129	
+UCJroJtUM8-CpZvB6Hro2QOw	Songs You Never Say	0	0	20	266	
+UC50ZUVmjLQY5qMIeJpoPHVQ	UNTAMED	0	0	20	1147	
+UCGaLRQBET1fLzW8L1E8EoUA	an Ambady Story	0	0	20	1009	
+UCPozxdjn6hWNNbrN3y3HGjw	bb4dandylion	0	0	20	291	
+UC_9l5ZXs8ec9iOebTsZ8dHA	nickdepintoactor	0	0	20	230	
+UCSUssFluHVSnMM8sBsdCryA	scyllabub	0	0	20	130	

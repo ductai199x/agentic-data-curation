@@ -1,0 +1,220 @@
+# C06_nature_wildlife — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCRauo6y9tx0FB0OLLtqLA-g	4K Video ULTRA HD	IoGbg4ehHNQ
+UCi-aFgvnNLJSHBCiBYiGLlw	Ambient Worlds Films	ndVV31CfxU4
+UCwmZiChSryoWQCZMIQezgTg	BBC Earth	XO07dZWNtcc
+UClt7490fKeXetMN9CJKd5sw	Birdies Buddies	o-FcjJ_OdZo
+UCMSSvp2cS1PrlD-fkailNtA	Dream Life	2VMZ1WiSGbk
+UCC9eBdDYvqrKxyES4qTfyeA	HuntingFarmer	ZdCwOcN24DA
+UC4aWW13XewnB_izQ-mTAO2w	Maasai Sightings	bGcPoVZxf84
+UCdbwGqrOyOs2qCHpT3jtztg	NAV - Wild Animal Documentary	3Kkk81uuYUc
+UC2rWTDsj7Utv5i_-IeD6aqg	P E Struckman	_q3Le-GZAnI
+UCEiS8m8OLFI0REntmsTvzjA	Piano Relaxing	4dbiVol1oDA
+UCJduEGukjOXzTW4jfkQ-ihw	Relaxing Nature In 4K	Pmon1Y5XxSg
+UCP-X5CMyLmsuYbgrUKYdYxQ	Somerset Wildlife Trust	9l3okcUEScw
+UCdi8yQBdBfn1ECu3ayH_TnA	Tim Janis	0sOTpoHOlg0
+UCSmi9AQVgpfy-iP8omwd7vA	Ultimate Nature Documentaries	hDZ7D7SdAGI
+UCZ9xTqC2LWbD6V8AG-0YJmA	603Wild	sExjKriRd7A
+UCrs_hmx9gpLrkHh5Su2x-pg	4k Scenic Nature Film	vKvJ4rNxFSE
+UCg72Hd6UZAgPBAUZplnmPMQ	4K Relaxation Channel	yUHikkPN_o8
+UC5Yo88QF-chdugJbAnB2tUw	Casual Geographic	XDjuAEkhhWI
+UC8NnosPOvXnm0O1u5YnLQiw	Explore Birds Bats Bees	LknjB-hgSa8
+UC4dMNPt9AGb_o2GwVBf_qNA	BBC Earth Relax	hnSn0ESwMBE
+UC-hKdAEl4c86O9lNTNrOqhw	8K VIDEOS HDR	viV0ohaZ63E
+UCjEXai7n8k4Xi0xZQCtw8NQ	Blue Ocean 4K	1GSjJ6hj3-k
+UCoH34ICdyyRO9C88UJOEvow	Karl Watson: Travel Documentaries	ADWqEJzedoM
+UCTMoXjUfOSddSgrA9TO6c8A	LizNm	PR0IPjbjV9Y
+UC1dI46fKIO2W3D3IU01KwZw	Eagle Country	8N7yvMqxHxc
+UCysv2fk_LGYEjyNlCXhVodA	Mixed Phenomenon	M-Vy0P1NguQ
+UCpwh9JDV_gQETnISqmpFQSA	Dream Soul	LYwYDZ9ZjW4
+UCAvD0u096ONsvnnCKBqNbQg	4K Ocean Wonders	-iwrYsR50zo
+UC-2KSeUU5SMCX6XLRD-AEvw	Explore Live Nature Cams	4GG2HvbgLBg
+UClQK9j4uUAnrZamq1_FhtcQ	The Weather Network	jWrUzAGV2aM
+UCGxO11YEar5LJghJJZxofQw	8K Clarity	dYJ9_aUKTOM
+UCkzLgN1idDE7sOk3EyyvnyQ	Mind Travels	8VwBZcacWE4
+UCkwi3H7xoYTJKycMI9YAn0w	4K Ocean World	AReFeiRv3Ps
+UCFQAfYrDqmF8CMk6WK-6NSw	DAK Hunts	OXTX8vFWuWY
+UC3_m43E0-lc2ljTGCx52ayg	BGM Relaxation	uKG6qYSXcGo
+UCYxsXxbjJO1YYa9yQ3lKC8w	Luxury Travel Expert	IItfwMd1YOU
+UCjzIC1UPbpBmd65-qWcptEg	Outdoor Life	faft2yJclsA
+UCspbiAKcNFO0GuGFCvr9tGA	Animal World 360 - Nature animal documentary	0ulB6KgoqGc
+UC2Sk0aXLq3ADkH_USGPKT_Q	Explore Bears & Bison	-Po70FJCFtc
+UCQtwogRmY8_1DQXadbnNloQ	I Fly High Eagles	K15D8CwfMj4
+UC-DqJ54Dx0a5SzANKdTKwPg	Red Squirrel Studios	uCad6RTDw0g
+UCppYlTilU4MSFnVGVZHhdJw	Wildlife	21rWYasKnGU
+UCjVVoe-ZcIY2ZKI0C3m55pw	RAW Photographic	l9dd7isi7Aw
+UCLY9tMRbjVHSAte3kLJZiBA	Wildlife Film Central	3E32rFqiCXA
+UCzbydNAcB7jeJGssRFb_dCA	Charter Group Birdcams ציפורים אונליין קבוצת צ'רטר	UZJ5N9SpZMg
+UCv1EJq5MaAHuLYLPGt1DV8w	Bird Songs	X5KrBYtMMwc
+UCL_r3riNH2oGxA1dsq5OfXg	DotGreen	-Ft-qdRUhLA
+UCsxQCFPkeCMLhbHq04gRQZQ	Domenic Biagini	OL5GUO4NFDo
+UC_g32e3JeECjEuRbk-loywg	Free High-Quality Documentaries	SKui7jah9P8
+UCE8mjWSpn7b5h_Q2giNIW7Q	Animal Encounters	0KLk9I5iXJ4
+UC7R28A21ABhLnvY9bRed8MQ	Nature's Moments	fm_P-y3555A
+UCouPeqI9PDQ4kSI2lOEOLpg	Our World	uukZVs_ODuQ
+UCbtEMxhSfdRXorVMhw9FnzA	Discovery Relaxation	bYAoNuS_NCI
+UCxTYDvjUu-1CVt9oLM3TPZg	Peek Outdoors	Z4Dtcq9-t78
+UChKEz7vEp_muMNar39DO99g	TheTechMag	NoC8z-Q2mgE
+UCYq-iAOSZBvoUxvfzwKIZWA	Jacob + Katie Schwarz	9QgT6ZIoXN8
+UCGDXj3vSgJ8MCbzbb_C9thA	SLICE Full Doc	EAeDWcryHOA
+UCPJXfmxMYAoH02CFudZxmgg	Paul Dinning	ZDK16sJEMHA
+UCyFQfir2GCQFn2mbwyqaNRQ	Animal Quests	8tETOwDPLoc
+UCkEBDbzLyH-LbB2FgMoSMaQ	Animal Planet	XGR51ypBeFA
+UCnbJLrbLevPk5rgNMNogKvw	4K Ocean World	Dhq1AlhNrtU
+UCDldqzAy-Apc-V6xHSQdjjw	8K CLARITY HD VIDEOS	n_jdVD_q9wc
+UC7fWeaHhqgM4Ry-RMpM2YYw	TRT World	VDEfHqrOc08
+UCcEQ9H6MTQrNqSq8gfy6_jQ	SK Hideaways	CeUxQWwidwY
+UCvD2qXjAQ0sBSqzdzvVvHcA	Corno van den Berg	uH7SX2ewYVg
+UCUTOwFZ5grVnUMvvleA_JMg	Balu - Relaxing Nature in 4K	78gDhq-wI9k
+UCXNVw0S9_LZHhWTr-skizhg	Brief Case	yK_RQ30DfeM
+UC9c19dHDYws3W9Vzf9NQz0Q	TripleRwoods Outdoors	YMa0cPALk7s
+UC1C9wcqMqP7QOmYLSqDJRLw	SuperBeaks	ESUXfRfI9Ss
+UC1KOOWHthbQVXH2kZue3_xA	EVNautilus	N357CnStxYk
+UCbAlVnKhbGLK78GsSemQXxw	Top Fives	DOhoYRO8IOQ
+UCBluMXW6H-vp1Lchq0Rm-Yw	Docuworld	4f0qEFwjdok
+UCHeQBoXOhN0uB-iu8Cp2tIA	Fernweh Chronicles	rBoYIDWghZc
+UC7UX-1Ce1TOzQKqXBG48MqQ	8K Dream Color	h4d28rBAqlw
+UC0GhshjHVIjGf39EWsvlagQ	Ocean Relaxation Film	m94K2dknArA
+UCVvg93HlFlqYEQg7SmXDRNQ	Wild Earth 4K	jC8kkzF8v0s
+UC3p9jlA5YLVBDWdomEpv9gQ	FOCUS Point	o8z6aQuC2gQ
+UC8UsFJbMqqIGK5eMxOs6kRQ	Apex Predators	rnHNTmS4KgA
+UCwUQBLQ9E7PMdDI35OqJ76A	Horizon Travel 4K	3YcxG1O0vww
+UCnw01C3LwEX_Xi_R492l2UQ	Crosby Grace Travels	3PSFVYso2nU
+UC0AUSVaQ726XcyrWZ4XFU_w	The Trail Camera Collective	rReUQWrnLHU
+UClgH1xu9I4dryhaW2kUDGxA	Hap Kindem	h7qOiTlAnC8
+UC5g3t_XWCC2jNLFA1POenCw	Next Generation Science	BNJmbGrUex4
+UC70FT9FuMUjCHW5axnhUvdA	8k Top Wonders	S46msAkWuyA
+UCI6nWQf9igbskxRiyW7ltdQ	Keefer Brothers	4YJvjrCjVjs
+UC6OD4RtRu_JDaI6k2f6CwTg	EarthScape 8K	kJD9RM9dL94
+UC867ZSxOcDXHtGe--EHiOSw	WILD DISCOVERY 365	KaZEBy80C0k
+UCKbjzEQnUH0titXdm6Gxw7A	Nature Ultra HD Videos	T3Za_6ZcNeE
+UCootGfTV_uEDeB9mdpW26NQ	Pete R. - BucketListly Blog	otVIVCOt2Pw
+UCFz7gXEJCRAi6qKcdIB-0mQ	Claws	3nkvKCbYz0c
+UCSNpKEljp_Yqlo-1lUpnJNg	Novella	P-4nQaJVJD0
+UCtNhcki1klcheMoo5Tqy3aQ	Gentle Breeze	aydnoSnCrgY
+UCxDQx3dnWpGA_KtNcx3Xd9g	Peaceful Relaxation	WtWBRmWVKOM
+UCI4WioYScM9VhSIFfS5pirg	Earth Relaxation 4K	QXuWWDLVeaM
+UC5lMzpZvCLpwyvu348B8zYw	PixCams	cjZFL48LKwk
+UCRpNVpZoW56rOsV-6wFK3lg	4 Ever Green	zYZ-OCG5Xzk
+UCLjChvMsWUjT6xgEpu_l1bQ	Sandra & Markus Trachsel	e3hQlFhKN1o
+UCg1-N_lAAt5JjH6HiryT4XQ	Unreal Planet Earth	XAOkPtGGmII
+UClcwtxVA2_AgF6NVOjgYdUg	Autentic Documentary	bGC7jWXE5kQ
+UC7E9XYQ8hbV54ZDuOKYYxmA	Forrest Galante	QJ86kj7k888
+UCuM7eX4Pm6-eMFo5_OZoxuw	Savanna Chuckles	6wzQ5Hv2WVE
+UCv-z2Q0Ucx8lxq8mvYRK28g	Nicholas Eager	jHp9O6n_rtU
+UCSoRPhBTtQ4ntgOj4RA_XqA	TRUE GLOBE	qp1R-0u9gus
+UClDHklFpCTrQ6p6EJFHIl4g	Exotic Vacation	9cuCP3gMuxk
+UC06KL-Br-0EJNgbhvCHh2EQ	WILD Nature - Free Documentary	vJHl03TYDlE
+UCtBmpBhOfS6G3YA52rnNIhw	Natuvo Global Wildlife	NBFyd3gck-g
+UCK2Dxvy9H1NojirvaxnEnqw	Terra Mater	mDztZtE_mFI
+UC77milo_FINGDril9KSI3oQ	Prime Discoveries	lzYOk4EoKW8
+UCahiAd0-n4zI7BzNHYALWNQ	Travelheadz	1lwfmAi-kMo
+UCG5_BraUMNcluZPZ__oOeKg	Natural World Facts	vyFujlLCz00
+UCtWrfpKEy1ZNZbeco1LKiFg	Seriously Scientific	19pZIbm36Vg
+UCCBEoJQ2XjNAHYz7ivDZwqA	lostintravel.at	yxSupkTSoj8
+UCHw4qgBUVVGDNSxuoB3Tnyw	 Scenic Relaxation	XAa2-5frb1o
+UC_QWXkR6Sbztc6tcmpZNTvw	Pathfinders Travel	cZVWloDpiGQ
+UCWX26196jLLqi1YF35dIAYA	WILD NATURE WORLD	wLreUrQ1TFQ
+UCIOGkXCakRM9twStk8ZYnnQ	Paolo Cattaneo	q-8YYxRnW9s
+UCfzTk7ebcRCeo-4stV3IWlA	Wild Roar Us	HP5K4bxu4nU
+UC-U8v76du5PbFPv0VqijXzw	8K Deep Colors	P73-6I1g-gI
+UCz-PtKDa54Kx0Rh2wkzutGQ	Wonders of Nature	g9Dmu_Ur3Ck
+UCElh2pUrMKBgJk7KBs51QMw	The Experience with Keituu	WS73c8xelz4
+UCG9ShGbASoiwHwFcLcAh9EA	SEA	lLt9i1Z4Skw
+UCSjBJc4ZHzfkfZAlMDi6_2Q	Vibrant Vision of Nature VVN	9Kv-iD46B9U
+UCDGrKOtVH1kWDD-DrkTm0ew	Hidden Planet TV	vAL54xF-vng
+UC2Epn4v0dZGy0VtyrafdnBA	AnimalWorld 4K	nuEaFAKb9Ik
+UCdXfEfd8eqyd4ZpRaxLwy3g	UFOmania - The truth is out there	ietKX-UY4cY
+UCr3EzXSFvgz-ppNLx5YkbVg	Calm Aquarium 4K	zN69wgdpD-o
+UC6n_HeL8xgWIQsKsWs4KO4w	TRACKS - Travel Documentaries	wTlBL7XkCVg
+UCdu1mjkqIMNeAJsFYRRqlYA	4K Ocean Realm	1kUbsSDV070
+UCG_5iG_cGqAZzsqvWq0y1EA	Wild Life Documentary	QmHC4Dje5KM
+UCdizwDxIWeZHq6UzZcFHaig	Wild Habitat - Nature Documentaries	G7GNdzaCjyc
+UCzXpJub6qs5O8OT-xYgiIOA	DeepseaOddities	vVgcvMLq-MU
+UCjHz5SVHeMT0AViCYZvsGDA	NOVA PBS Official	gyQqodlfLiA
+UC4GYgpgZzfMhYr9y6rs5O6Q	Trust Me Bro	PcCoZYTYIxo
+UCRgsi4-icT-wzptD7qzdy-w	Ella McKendrick	4dWAYqLpyjA
+UCOBEQOUEV_OCAbmnm3AWqIw	Ocean 4K	kDteZYucrEs
+UCGFjQTIEtNhLhBo7R83BYnQ	GioTraveller	RKRM8aFHGpQ
+UCnXHaHmfmBG5-ekpmAXAkAA	Healing Dream	RsZQ9D8Z_KE
+UCIrZ8HRYj2DIIm4sZhKdqrA	Nick’s Trail Cams	B3Akn2ltckU
+UC7YUnIFA9VuYYhZpGLV_4vQ	WILD EYES	Gbw965UPZTM
+UCC8Y4seJ2ihmFZTHk3-MFUA	8K Ocean Colors	q4etlnPRbZ8
+UCZ1RnWZs90V3HKaPvv1ySkw	808Watches	9CVF6dWQwZQ
+UCkcGDjehd_w_ukgPKqPb1Fg	Ocean View 4K	2jKR1HgIPnU
+UC9hCQoT-VY7vVRaC62WJOJw	Jorden Tually	CyVBRmQICC8
+UC2yX9EFbeFWTW79clwBJG3g	No Copyright Content	3aO5lp7f-oA
+UCDoJIpPvtEwFvfNXsZvCqKw	Xander Budnick	2gwTXFNmIHk
+UCciLLw-UUpM2c0bWO1wcDAg	Deep Sea Life 8K	uF5kkE_QGnA
+UCpvOeZNmJyVlFMjytrBz06g	Relaxation Scenes 4K	mKerA7E01wc
+UCak-rxe8c3jIa3teZUu6cHQ	Blue Ocean 8K	kBHfsoNCcuA
+UC62NeTy6Ocd5Jmh_963mLFg	MagellanTV	INgPh8-EYIM
+UCLexb9WvGox2foFLgYB8w5A	Swiss Frag Reefer	IkJzX62kph4
+UCshzvnv5cCTduIgy0_yzCyw	Incident Cam	Fv2egiyXT_I
+UCMWgfbsa9jr1AGkRaSqUngg	Pelagic Life 8K	MvJKmKLxSxQ
+UCo8Z3Eyh-Tv_IySpPwv50Mw	4K Ocean Life	8DGrA6EDBHw
+UC7VAvZCFvB4c5kidAY4Z8Jg	ONA WILD – Animal Documentary	omsXwbXwNe4
+UC-q2Y0BmYIDWNxfVezetCzQ	infinitepossibilities	PpQqKnunG8g
+UC5YPvina0jntpfIkiHNIi6w	Starry Sky	_Kgyx0DNDNw
+UCOEDykxWYNfmZCj_v4lG3IA	4K Earth Nature	LJ3YITEFmDY
+UC8S_a5XE-v4TXjQYakF5D0Q	AquaDream 8K	RLyQkJUBX-o
+UCPsFV9w8B81-N7fwNggeH1g	Ocean 4k - Relaxation Film	KYTH8MIMOCQ
+UC6E2mP01ZLH_kbAyeazCNdg	Brave Wilderness	dDUl8kWyBvQ
+UCX51Dixddr5HuwLVBH9ykeQ	Top5s	D6ctuhP1dTg
+UCynbJaJfTsbREvHNMZYeO_A	Animal Harmonies	i-Ek8ds-dNs
+UC7yxYO44pGx6KzCUHaXtZfA	Doomed	WXopL7DGlXk
+UCDa9vwHuA4Jt7ztHUov-6rA	12K EARTH	DpUZFtLugOQ
+UC3ACh1AmxT1zizGe0Zf0P8A	Heal Yourself	2slTzGsXj10
+UC9R9T-2NCvIQ7gORy2LH4xQ	Pocketkai	BSaP8Q40NgQ
+UCL4QhVHro8H0jmWAQdrbvYg	Virtual Relaxing Travels	nAQl05Xi86A
+UCKwIWByGLhE8tuUIjddZt5Q	DirtFish	3BCRKPhfbL8
+UCA3gSLXwZjPOXOTTTFS86uw	Tranquil Aquarium	XaQ-_oVg1vs
+UC7EFYwCuA_N714AX8_p13yg	Nature’s Harmony	tqaPwn4x_Ss
+UC1Js_K8tpQY_FwAIF2HkMJg	Wild Nature 4k	2tVhjIfSKLo
+UC50ZUVmjLQY5qMIeJpoPHVQ	UNTAMED	toPX4bOK7yU
+UCFL9ckFGOkeELpdrCt2eUTg	GlobeGo	YpcQItUvTnU
+UCN_4-hD1BDk8tDEamXIyObg	4K HDR Earth	PHus7QQNeX0
+UCttf58PBJSFmNRqL3FFZ4QA	Ocean Reverie 8K	r04R8K6xSxI
+UC5GBWpAHQ9zcXrDAlzdzxHA	8K TUBE Planet	gTTunrblkRk
+UCPO1xTZQF31NFWluogyDegQ	Dream Scenic Ocean	8aCHzkhDmQw
+UCEWb5TUSeEmDHcmZaU2sOAQ	Phonograph Man	3jqlF3OBpT0
+UCL9SfaiEORmmm8l6qxuDkJA	Virtual Travel Videos | In Case You're Wondering	F3yC946Y5bg
+UCQXXL5_LBz2vGU9ijpLfVzA	Wild Nature Now	uItbfUX1yyU
+UCvRvEcGg4NbtTvXDUjZBdAg	Tranquil Ocean Views	2kBug6b9Ia4
+UCH3M2BAXFW73SlmOstxVUfA	Ocean Marine 4K	vteTq-1lOjI
+UCu-sAlMVwdQ8zA1-egT_GxQ	Lady Hawk	46AJ_X-XorI
+UCyxSE_uKcx4wjWH4QQ4XCVA	Scenic Relaxation 8K	oN4XvYPV85s
+UC4h-a09mGWKmfv-J_sWeubQ	Review This Thing	QgQA-kvIQmE
+UCBfGoFRkYgHuzbc6DsF_1LQ	12K UHD WORLD	vr5wa64iv-U
+UCeVDZfohTdtCiaa-eFi-2zg	KIDSOTV - Kids Educational Videos	YqwekO04GnI
+UCWBtLCE-BnzZx3DneqDiXWQ	Astrum Earth	_XTkaaS7zr0
+UCMRsdqLOXmIjbAZD_jx9Ieg	Wild Vision 4K	38J2vzKcYfM
+UCRxL0nf9H3ZL-CeI8wGmPHQ	Discover Wildlife	FyZFQ1NdxBc
+UC6PKOju_xOQpzB9eFsFUwcw	Epic Unreal Planet	3xtjNro1NNw
+UCPsil91i8gN0XLIbwl3vqsw	Lonely Planet	8_aFtMNVQpc
+UCHpe0VGgt2dm63CxJVCPrYw	Spinosnack	A-Ko0IIj3sc
+UCrfwgh-TNOjDbuJsjlqyJLg	HYSOL WILD	ITckVHsry0Y
+UCF_y2shYA8CSd8ZoSlbNjtw	Nations Uncovered	kI20gSPbxu0
+UCbq-4OJxnziD3awH-aTezeA	Real Wild	ES3aN5MUfuQ
+UCoRC5ZKiMjz3rbyCGBcWH5Q	symmetry	kwrMk-3OTWU
+UCygYYXg84ED6dxx9oc1GTGA	wotw tv	Rr56brb9GWM
+UCnGtBaMXZ-QW62toq9nJlbQ	VirtualFieldTripsnet	55daK2qqOSE
+UCmKik552JN4CbCtHBme7OGg	Eric's Owls	qVWZVxpfYdc
+UCrhmv7iDNEwHbS6TG_fVJEw	4K Ocean Color	jXaaPOLSoXk
+UCUmVotIMVDOHNetxVKxs2Tg	MrBrynnorth	yTBjL2cTiuI
+UCzPiY4-UWyB7X_8grY7pYEg	Glenn Tupper	Q9CcTr_0i-Y
+UC6jH5GNi0iOR17opA1Vowhw	Lucid Dream	phXYmt8Zj98
+UCTolGZ564II-w-NiodCDVpQ	Ocean Dream 8K	PE0xH-ZE7xU
+UCCOj7Kx_W9WWHRCX1WoJZUw	8K Vistas	4HZkuzGcO2g
+UCF0wJYhrCW2J50QXBnNB-fw	Relaxation Animals of Africa 4K	DsKubHrhEaM
+UCrBAnt587uyfrezsFPU541A	Tranquil Music	zg4mhToMFh8
+UC68Y0fx5HqgJSj3A3m3-ynA	Tozome	EWnHp2X2Ugg
+UC3Vuq4Q1bKFtAiKYlwRv3oA	Peter Santenello	F74xFkF-qYM
+UCKE03aGxMhGAObhdd_ZQbog	4K HDR VIDEO	DaFeZAgvpYs
+UC-HBex8e0BbiPETeBE_aWBg	8K UHD WORLD	ymcH8eFu0DI
+UCgUJ3788ZaI6_eeGEYY6lOA	Durmuş ERDOĞAN	6Ah7i8ld2tA
+UCPbwQ9JY8oNwDYhO6mEGxrw	HDR VISION	zSwr_kZOmuA
+UC9JSA6VZVagN0oWKQNhjhOA	Robinzon Muzo Studio	B9fuNftJzZE
+UCY20mm5UIAYsd1Hs37EWvLA	Fatal Adventures	0Ni35Er8VGE
+UCVHa2jMkV1rctNtKSRrAszQ	8K ULTRA HD	XGB6Bljsc2E

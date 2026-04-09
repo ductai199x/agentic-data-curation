@@ -1,0 +1,270 @@
+# C01_people_casual — verified camera-captured channels
+# Format: channel_id<tab>channel_name<tab>sample_videos
+
+UCBZ-eULOoon9gdncmlb4ihw	4K Watch	-dTreXAEGwg
+UCQ-JKqNo_T0yoeDZff1y7Kw	4K Urban Life	yLGa6LKkn_Y
+UC7kpCjVmzNj-UlIqwAQqBsw	4K WALK	LhLpjHvB7e0
+UC5zS0_6TYr17qTnvw_9vang	Allen Choudhary	uzq7LXA0GIY
+UCkIheBPH76LP2Drh_WsMfUg	ATLANTA STREET INTERVIEWS	HqDsiaQ4zpM
+UCoXm66ArnAYGC0SCItOb2Tg	4K JAPAN	cAsDPQsh5ZI
+UCzIJVoH2RGS9Pjzab9rywZg	Aerial Earth 🌎	KEQFROIGcmo
+UCe0441Jr_eRBPsbPlI_Ie9Q	Alessandra Rosa	2v6xy_kVIzI
+UCUTeHzYqrKrMJMB65b288Vg	Aliya Created	7ISCUEtZogI
+UC7GPAMg-b2y_BtVJtXmYr9w	4 The Culture TV	3jK2QQcrdOk
+UCHL9bfHTxCMi-7vfxQ-AYtg	Abroad in Japan	ZjQj5GRwLSY
+UCEzPt33mdyhRs3aQPhiN_pA	Allison Baek	7FPGJOIGkNE
+UC_zEzzq54Rm0iy7lmmZbCIg	America's Funniest Home Videos	UXK7d18WQAY
+UCmLKaHIZqVpAeQCayN9GZpw	ART VISION TV / C&B JOURNAL	-pMxuRX-zrk
+UCXwpwXo7_VTvf371xuR9V4A	Afro 10	tPiCIgn2zXk
+UCiiFVjk0cuq6NPeIG0p0Yrg	AllyiahsFace	nYLTTYDNDoQ
+UCH5_L3ytGbBziX0CLuYdQ1Q	CNBC Make It	8bqPzv5kO_w
+UCk9aeo2A6a1fg3VeRueTn9w	AmandaRachLee	RBLE1AWHUgg
+UCdxIU-ab8WG8g1sRzesGw7w	Amber Alexander	h_wS9AUJThA
+UCfiPlabDIrXLwJz4NPrKEyQ	Amy Cheah	YZBN724hiqY
+UC3uODtYvKjb7gPY9EFOlUWw	Ariannita la Gringa	zdUga70b8QA
+UCNqLK36Gm214qufpgC5C45w	Ava Jules	jSztbZN8bu4
+UCVi3LF7JX6eODqPhTiHS18g	Caiti Mackenzie	lsrMhtETj98
+UC2-_WWPT_124iN6jiym4fOw	Asian Boss	oBS3fAqY0lw
+UCmOCpBKeoBPp-HwarhIBA2g	Best Documentary	Tc49tSAB6Vg
+UC8hbHvOenwYrbcUV3GRZCYA	Bailey Dedrick	uTR9UCEtoOk
+UC1dZyUuWN0Fzpnh2nbqmWSA	Carla Yorro	9dk_Z9zo-7E
+UCz9F9eEkt2KcLXZt--M6vjA	Breanna Quan	I0o6gym8JL4
+UCfdyhdY_-5AA4hRI8cW3zOg	Beautiful World 4K Film Music	xAhQ8tCdlhU
+UC8dM1XojPrqVhcQgXuNWILA	Bárbara From Brazil	FNyhu6FBsdk
+UCW39zufHfsuGgpLviKh297Q	DW Documentary	xYKmE66qz_8
+UCjKnNUbNcj7p_i3_gDyGyPg	Dallin and Bella	078qY1w0emU
+UC5_Tvq1v_JlYaZI3VcBTlsQ	Chuff Reacts	sIcuRTjfeNw
+UCFMkPeE8jiPirJMv9kttuIg	CoolVision	DOQb4vueeQk
+UC3FVa3GIGSPxXbcJpA5ukIQ	Chews to Explore	1ofaAj9V0pU
+UCknLrEdhRCp1aegoMqRaCZg	DW News	OE-IVeII3tc
+UCYJZoDH5Bt66b0SO2_ZY6-Q	Curtis Padley	xUGaT_64vkg
+UC-iSALixD-m0bxfMqu7MtJQ	Digisnapsss	CEK5qah1PWg
+UCH5mdDlZ0haTodJmSxhst2w	Damon Dominique	6CaZsNovZpE
+UCr14LIEmM8bBd_3XEN339Dw	Dre Dre	-8qSC_elJf8
+UCmf0FVB5zt6Ltq7RooWvc0g	Dots on a Map	RZYCVSSYL0I
+UCvHeh__RFFonMM8vaKda82Q	Czech in effect	T5s70S5LzxQ
+UC3OuMPuNDTThKO6l8PduZBg	Doris's World	r129aZEFgkc
+UCN1ONDpR_gV5SUxIhxAF3gw	Doddie	PYYlFdNiExs
+UCDHDjKlpYIszdXPNPS_Ti_Q	DesiGirl Traveller	R1jDHxt0NWw
+UCp4wHZCrDhITkiUILOd4gRw	Documentary Central	pk68S8Bewb4
+UCq8EwIdN0pmgs-EymfaiO5g	Dr Faye Bate	iYj25eLHSp4
+UCXtj403nEjWU073xESSMi9w	English by Jay - Sprout	-cgajIN2k7g
+UCIYu7gRbI1cWLKLUcvTGCvA	DreamSushi	oF3951KPYW8
+UCoEme6xBIdbEmDFAIPKQBKA	EpicExplorationsTV EN	k0izdnKqM_M
+UC_MMr7PWkzmJhirCyhyQylA	Faith Afahaene	Q741u-9Xe9I
+UC3eQ_-7h-6jsqh4Mb7XzfiQ	Emma Marie	qXHYBgiKJ30
+UC0Ize0RLIbGdH5x4wI45G-A	Drew Binsky	SARQfbvT5Q4
+UCeU4N-JPetIAkd6Tq6hqN2Q	EmanRTM	W9VLU4KvRz8
+UCg327hfa0fw865I3pjRfKsA	Eureka Travel Explorer	WEokfaKrea8
+UCRjkwjGTRyaXll4F-ywMQMg	English with Brittany	0N4pdm8OyZM
+UCi3w4StK8pp4I1IZJcNKREg	Explore India Life	tYVoTWCuYvc
+UC4-eGDvOe41__-RiE0E9L6A	FV FAMILY	r0JJYjp3ruw
+UC4xnHwpEIZtDOP-B5d5Ee8A	Evan Lindy	bdfYA2WqYFg
+UC1lvLffaU1wh_YuvTDCWcOg	GIRL IN PARADISE	E2lUX3-2x7Y
+UCD4UWbxOOrFsxkMMfjYQ0VA	Foltyn Reacts	PZ-tDtQ1b2M
+UCE-LpUN6fWEDnR3KhKFbJ2A	Faiz Aly	_ITeQn5S8sE
+UCOlx478DxwYAwkLnz9ELNIQ	European Walking Tours	Tsj_mkDc2_M
+UCyS891Ie9r_GGB431XBvSPA	Family 5 Vlogs	LzxhCXOzqhY
+UCQg1GmXnXGAZDpsHxpPBlOw	George Holden	LNbCbWLKyB8
+UC3j3s9E69jBtC4_dxgWij3A	Free To Roam	oUcuNE7sDtg
+UCq8GIvVUKcsTTYUIkH6Q-bw	Fernanda Ramirez	D7ZbyGzva3w
+UCCavka0AbNklF4cqfaiwqEA	Forever Family Vlogs	UDFN27pyyHM
+UCV2_l3k3JuZwIhiY1H0kSxA	HP Walking Tours	wZKTsYW8BoU
+UCoBh-IxEIYA8UoZHIadoa7g	Gano Did It	onKLTfWcb98
+UCcDwLodXV1ghBfUiAObSTow	G Gatto	_r1OSVr7E3s
+UCijcd0GR0fkxCAZwkiuWqtQ	Free Documentary	Cjwm_96zmMo
+UC1oyQebO-njIE1mOlSav4iA	Haru is Japanese	6kQQk5oDTT4
+UCyWxjLVNaYG2f0rFi9MDngQ	Gumi – daily life in Japan	0daaFXcxhSI
+UCw8neN02mV6o4ue9IJOJIRA	Happen Films	yJXIsTa-6w8
+UCMjd5kdpsBJLee8CzpQjBgw	Hidden Japan	mDWHnPFnd8I
+UCvfrfH-VOHPYzMddGWIzoWw	Julia Bedell	3fLFghSTkRI
+UCrL7yKKNYlSu3cENiJR81Yw	HOTLINE TOPIC	Nms_ni9A-Vg
+UCXicAYN7ZovOeynkxfLBUTQ	Helaine Zhao	QtaSgGU02Ug
+UCnAU5I5d1jEPCMlCU0jz2AQ	Ginny	9OrxYk-UpBk
+UCXulruMI7BHj3kGyosNa0jA	Indigo Traveller	wNDYBhUemlY
+UCyPlNY31BgbhvKl-QQAskLQ	In Your Fayes	yHT8Sp5QSgU
+UCR1PVwrPjpz0U_Fbju-BAzQ	Jarvis Johnson! GOLD	q2oCOt0dmwI
+UCSp0T7ETiVM7NI4yx2os7pQ	Indian Real Village	NVQoKMf3Z9U
+UCMgQgnPmNzSbzEKPxyADM3Q	KBS TRAVELS	QePJJgUwx_I
+UC0XWFcnLALIzRWh9-QaXfVg	Know Africa	s7FHxjToTfE
+UCGKKS6UEV0xwo32jMk155_g	I am WalKing	p2viftql0Fc
+UCPNtlKyBaK5feCyEsWovLDw	Julia Huynh	lLTgI7TyjBA
+UCwJPNuiwMrK0DclNzXgIuLw	Jeka Traveler	Potjm58Ue14
+UCc_vPhizwZhUIw7Y069cg4A	Joses Frank-Ndubishi	pyXs48-RDLk
+UCsr9GgR1-Le7L73la6hxq6A	JeruWalks	KChFBD_k90g
+UCjsP7LiFtpyBQHb1OC8SG3A	Josh Dominic	JyP0U12-DtU
+UCYSEiVwdSSEBivuhDo2tatg	Let the truth be told	2ZeHqzV1_W8
+UCXuqSBlHAE6Xw-yeJA0Tunw	Linus Tech Tips	bzosJNHD8jI
+UC6Vqh6feP8SyvguJFVk6adA	Kenna Marie	iTDbrkNFTSo
+UCLWNKb7pjIS_ff4zaoneJWQ	Kaitlyn Johnson	QbMnK_bXnI8
+UCFPig_0jYIr_iQB1vCmBDMw	Jimmy Shixin	Vss8Ql13t2k
+UCakPalfw_IIEkEQUxPSpCeA	KIZITO!!!	RiDfYu0XDmo
+UCnMXbRupDg3mxvOiE35yoRg	Lou C.ルーシ	dWPUgZppCz0
+UC7ncFsotV_hsd29yG0q_9Mg	Kaylee Malcolm	luvnicIN6SE
+UCBvZ2hEzZZaWAIrUHVN6YUw	LONDON CITY WALK	hCS2NYTgg1k
+UCv88VZJUuRoot7GfSO_sm-g	Moses Bliss	LaNLoh5tamE
+UCLLC4hipTYA1e-Rv-l31Z_w	Kimono Mom	eCqBV3Qr1go
+UCAk_loXdoKqPXwnTMmCuDeQ	LenaLifts	NSuDmbszFps
+UCsACNR3tyCcwso1h6I8r5zw	Karla Espinosa	h9ag9O5-9xc
+UC7T5vLmfZ_DUqGtw6R8WTew	Lucas Torgesen	y8Zg_5-7PnI
+UCAQLIhgbZGo1GgyONrKHuWw	Cory May	A0GAe-nWmeM
+UC5QZLB7FsSsl20UeosaktVQ	Linna in Japan	nvEhFV1-42M
+UCqwxJts-6yF33rupyF_DCsA	Life Where I'm From	pxPjKoFKFVw
+UCTBH7hLun1r2h56HbOhhCmQ	Alone In America Walks	iB3rX-vgEuQ
+UCYh931jrUVrrISOGV1qyVtw	Lisi Shops	9KEeJMy9BA0
+UCk1UtTuFBi_cVRQXdiakOFg	Lulu Miki	jrAhSnpfks8
+UCmhVIv2EEKNvZY4iwhWRglw	Marie Ferriday - Britânica no Brasil	Z2eGH1SiLMw
+UCU29V2Jl2unpcOxm1kPDqmw	LADmob	W0tCKTlwOO0
+UCsAKRVq2n1vcHBzNu1ZikgA	5 News	DxnqomvnY2Q
+UCfibdGchpabQzZ247kC5wUA	Earth Wanderer	4ZUiTWpC6iM
+UCWoMpx18YeSVuI7ObqEk8eg	MedievalMadness	ns5zGykukN0
+UC8XaFKreMSEf0UDcvkp0IXw	Hippie Walk	Vv-tU9wLqro
+UC0voPVlzhRJiZumCwNfYufQ	All Of The Way	NdZZk9Hbo-A
+UCUkdk5nI1If0-0it-JPrBAw	Mom of 6 Japan	uc7-TWJGwkc
+UCv-FsSgXonCTFQwtkOywuiA	Mana	p1UYSonjU-4
+UCLeBjrmfpAFGqDRJNL1PF5g	MissMangoButt	RJUInKPuyqw
+UCwqnFC_jTQ7OSKBJC8azZ_A	Go Scenic	4Co2qsKi0UM
+UCXy1HN-j8b6B08GwSBq-mpQ	Jim and The Road	6J3bbsPrxNc
+UCA2zoL0xXXc8mFfxBCuCzog	Monet Zamora	Nmsz7mxz3yg
+UCyfFZo_9h9Yql3kRNNaRATg	Love or Lust	dx1EOWFNcEw
+UCbaGn5VkOVlcRgIWAHcrJKA	Cut	agRpi07a5R0
+UCyZx9zIxpaa4xm2ecRNQB5w	Blockchain Travel	RsZEFpERmYI
+UCayJ6E3ni1SiQJXC7GTTENQ	Beach Walk	5EIKCH9YkkI
+UCr4-yFNgc44teZJ4DtD5mhg	Mark McGee Photos	6oJlKUZTSRY
+UCk_rMXGK3bLnGxIjj7t2JVw	EMMVEE Comedy	CB_DQiKL8a8
+UCnOo8dtBgwJbdwl4HxqPHwg	Life Where I'm From X	f3N7tlXJ3yQ
+UCcatOwnBDMpbFnYaXj_0OXA	Nakami Vlogs	O-lGgvJo5FA
+UCB6IRN54rEurJesKWTEY0hQ	Brazil beach walk	2v0KA9uPum4
+UCBr-Zw9J_cWkv9W1uVQfY8w	Hood Views	Lzph8xbxuhA
+UCpKC3aEGPM-ZC2ZfUl8Y8wg	Beachside Journal	qT6euPfPA1s
+UC_hK9fOxyy_TM8FJGXIyG8Q	Dhar Mann Studios	W5DCoSr0RtI
+UCagEcNw3b2fBeFD_KTK2zcw	Thebekhalalelo	-6xkTX-XNFk
+UCX7e7bwIdMCcEp_ZigwGBNA	JayJams	daG0qMBHVo0
+UCQBoTYhRBvsFbjYysUzwEJA	Ninja Explore - 4K Japan Walk	qN1l5FNT79s
+UCb9iyrxkhvfG2mLUuI_1eUQ	Rakai Live	5B2snjrDfnU
+UC44AQLZMIkwitkz3g_0Q-GQ	FilterCopy Candid	db_IsYorOgA
+UCeQrwFmWCU8rkwFbLsKiDDA	Driving Nippon / Japanese Roads	rkccrOpVbUs
+UC7VWjWks866ALEL_94Bj74w	Kalucci	rsKpfy0unxw
+UC7A3Yn_P16HvTZ5u4cwRQTA	Japan Vintage Camera	bV0pTOtcwUA
+UC1rfWylIPT3rP7Y6wvgyaFg	Window views	028ge623SHA
+UCPcHKWpVr1-So5oAryaa6ZA	NYC Driver	jIuX4dw6AUU
+UCVyXfESIkAh04g_UJz3TJdw	SAMURAI JAPAN | 4K WALK	t_rcAeohUTU
+UCnZKG-Ul-iSEiG8m9dqyp4w	TOKYO SMITH	hhSAdS8ZZCo
+UCMJJd3zL43LY4wtze06QEsw	JapanToday	6rgj3fu-q70
+UCMoGrJyZuoWhAFK-vQeG47w	Walking in Japan	zrt75pUfRes
+UCsni1BLbh8VkfdUU3vDTuPA	Nomad Wanderings	JWg4WiFHP8U
+UC17_aMbsbwtzpa4-SUlDEOw	70cleam	KVNcYI8NNi0
+UCNzwsYxGc_AQSe5apbkIF6Q	Poppies Studios	4BHrgwwFjm4
+UCR3OH16qB8Hdth2JaJxIziQ	TerraWalk 4K 🌍	8uFJByuceg0
+UCkWB22IVgpDtvdLSSe0sUAA	NyCLensView	coyYVtXrI1U
+UCsx3x8vjWZ5x4vnk9RAZP7A	TrulyVisual	VKRYE82a0oQ
+UCYkYVnv5xyFfu4IZDEXvZVw	Mike Lufa	NMIkDbOHOSQ
+UC8d5J4MxwHtbGINFyJgAJzA	kyde & eric	LIcqZyVMYIk
+UCuV5yAA9nOuf1QfJJaR3MQg	Wanderlust Walks	rxHmIMFc-7I
+UCNl6JmUQN9R8uCa0zAfmsUQ	Stella Voyage	Nx4By-sdAkw
+UC-AVSNvCVhzi0_dwjh-9OIQ	Aquarius Music	GZiGOSMyAcw
+UCSoBOeu5hQsw90Q31hI20Sw	UpDating	azxdY6JgLmg
+UCcYrdFJF7hmPXRNaWdrko4w	Chris Brown	ep523mpr78k
+UCiMfy44B8m-0T42JbTvyiPg	Shivam Yadav	JVx0oIUx254
+UCyD5gPEfJKVkoET__hqbCUg	ark0369	0Qn63X5WmfE
+UCzo3jVzn-Z9LrFVwAE7iDbw	Pop The Balloon	xjbMT8vJ50Q
+UCaoyvHOxmdmqa4Q99dNbmpA	 BLACK MOVIES TV	EGxz3HaCNzY
+UCTQuKo8v0PaPCvk5aRxc_Yg	Charlie Chang	pcTLaq-nYwo
+UCZC45sBWNdkqSQ9Bwtt5lfA	Anna Akana	IbfLBD8kZCI
+UCwfmp9h9GfmI4YgvLrxljxg	TroyX Travel	W_umR0YA0mY
+UCQCKnN9inc30A9f7IYP5_QA	nectar	LLBXB3dOiOI
+UCB__d3tjGpDqRQJjFKUPGsA	Flowers World - 4K FREE	Io6yLhGDb3U
+UCtUId5WFnN82GdDy7DgaQ7w	Better Ideas	2jWN-pMTf3o
+UCAvDSF1FqCUSJTrp2Mjnq-Q	Yamil G Español	Wq8K9QDUj3Q
+UCtkQxyxMNoOYtIXzqMfkmUg	Simply Tofu	ZPVoTxuAzWk
+UCzlZYhwwaIGZABqaEffGj-g	ChillTracks	_nButFlS_hs
+UCs_6DXZROU29pLvgQdCx4Ww	Dan Lok	fWl_6YoJ-o8
+UCVWDbXqQ8cupuVpotWNt2eg	BiggerPockets	lF2iFVL6UEM
+UCMcAqkv11uUXpsYDWFZYT-A	CarterDaCar	t2OSj0USATg
+UCIKGhmu-KdHCG5vZvOuNaww	Zach Justice	GG-cfY_9mLY
+UCOU2PEQuXiz4JsfEtW3frhA	Jimmy Kim	e1xYsAAth04
+UCC0nqUpBrzDxzOajbmYunGQ	Explore PTV With KS	JZF1uYaZChY
+UC-pnSdXRsSi44apSO5RXjlw	Laugh Over Life	JyjVDfJq00k
+UCqSwaBPn_p0oQhRFU-0SxmA	Aika Agustin	6DdKPSX5cLI
+UCwR7sfacuPghWn-KvVwxOeg	Travel | Relax | Listen	mb1juYcgZYo
+UCFFiqEY45jT9yaAs_-joVfQ	Dentonking Shorts Plus	6J3MBvWbSDE
+UCFMAEVqwaeSc3P2Zxrvu7JQ	DailyDose	3yVEb4c1l1E
+UCnEHh-jZzkoM2TvMWMZej6A	Comedy United	qdoJv6Jfe7w
+UCThviXLHvH8VwqxQEa4vZaw	Maurice Sam TV	hPQ1p3ogoiI
+UC1kkcxIVt0sqZeNBiv5LMMA	CHIZZYFLIX	yzKXQdvR4fw
+UCybBViio_TH_uiFFDJuz5tg	Einzelgänger	pvlLMWHud38
+UCy3BDnBwfMAMFpqt3j9jHvQ	Courtney Daniella Jesse	oJuLrN4m8ek
+UCnoYaHN1zDCD-vcNXdwF-8g	Deep Dive	ttSdkrZ8IL0
+UCGWNHkr2WZcRbxqoet-nyeg	DPCcars	c9ErvFBfFjs
+UCPT67XCadQ8UO_Jl8lLzm8Q	Grace's Room	DIG9drl5ac8
+UCeK0jhC7-Ot1bEaqvpr1Vaw	Cracked Comedy Club	MC8VnrSlQ_E
+UCqshia0jfgagt-Q4Kbln2rQ	Flxral	xE7LLnmzjoI
+UCQ0PT_ukTeNVAr0XPiSX2Lw	FasterFreedom	F78MfacyCgU
+UCSbyncU597LMwb3HhnAI_4w	Epic Gardening	mK_cFMMeW8M
+UCjzlHyzN-3sUfHTJvwtbgPA	Jackie Baker	nv3ZwYn7KwE
+UCzomXQvDl2UblYIjBoFR8aw	Ken McElroy	H-_eQJYHyao
+UCPhe_fk5RpI0Nim-TELj-Cg	Drama Feast	bHalw7ZeqYM
+UCm6NRZvIcYwpj79CIa1Lj9g	IBAKATV	Lq8sE717vBo
+UCNf_tvZTlfVoTdViGCZA7hw	IAMCHELSIEJANEA	YDENh769rgs
+UCmk6QS9q8xQvxHoup-5tQig	SUKIYAKI TRAVEL JAPAN	vfPuiM-dddA
+UCSU1606eim0bCnIpvYsz4_w	Homo Deus	XGVGkjZIp7U
+UCPneMWu0cTbGIQ76wYv_fWQ	MaameAbena Pokuaa	YnQzfssk-D0
+UC94zlVUZ91h4rQyr3zq97rw	Kevin Ha	e3l_2SopJJQ
+UC0AAvxmjMAqljjpc23e1f7g	Sherman - My CPA Coach	LsozZR2eGB8
+UCwMuFPT4DMI4ame-fBkvD_Q	Justin Brown	sBubjjbBHxA
+UCr9kIx7Zlj5EzClzMx_CSfQ	Fort Boyard - Replay	E00xny69CXc
+UCGDMcgLb89_NSbRFTQi1VgA	Karat	Ek_fpPZnYfo
+UCkfTm3HfC4Fqr5dTPJHc9Fg	Maddie Borge	b3GvKNspFIg
+UCGwTgAeKquvu5hvVO3n0Kxg	Jerome Maldonado	RZ2yYhYu3MU
+UC729zVPbW9U3SXqSg6yRw2A	MOVIE CHOICE	4V_xEKRmODk
+UCpEcZL5B7i6gJYGfqLvMCbg	Linda Sun	gcz0teP-aAg
+UCpX4TG2__cXdBKEF2v40NwQ	That Single Japanese Gal Vlog	002A6-jwZ7s
+UC8oWBtrF9VcdyaqEiMCY0dg	PeterMc	lkuxQcas_JQ
+UCFBpVaKCC0ajGps1vf0AgBg	Humphrey Yang	9Tjq6GQD7HE
+UCql7G3k-qxntjRFNkf1IkJg	Love ReelDrama	0er2hrrVfyw
+UC0BQcFlXaXgbYYYWZcK4kVw	Nature Video Calendar	85NCA4Dtw1M
+UCv4N912yWFDcSZVShhlz4Wg	Naija Gist Direct	Fa6eWY5IiHw
+UCkhDci42AiFnJIgsz_q0Z-g	Me: '’Japanese Salaryman'’	9Mb5M3zUHm0
+UCovtFObhY9NypXcyHxAS7-Q	Roberto Blake	LAvCVJ-pNpM
+UCypAoMCRQuNL2RBwy-x4oQg	Uchenna Mbunabo Tv	XbF1NM4VB5c
+UCJ10RzMEPNfXL7CueGKwMIw	NOLLYWOOD SERIES TV	jLuAWvYINHk
+UCRE2zmVNW9wG2dndMoV4JKQ	Quenlin Blackwell	_9-Q4mykBnA
+UChKCY9X0CIYtnRgIOH_egFg	One And Two Films Tv	KlMFGIqx2dU
+UCy_MchSPaUTBKRRckg2OPKQ	NollyClips	f22uAiDQ46s
+UCpho61bUzmt4gFFb--Kggkw	Sarian Martin Tv	dOzB4eHvLlU
+UCUTfgb3b5KqmN38u-eo22Bw	Zenith	eMP_TIsKE-M
+UC5bRW6t65qnSgVSuKYB-WSA	Locavore Eats	zBtnWJQ2l10
+UCbvdwZvZgdl-pPyomEmaEfg	Omoni Oboli TV	JwfQxQ-Lz88
+UCTMd5fOTWCvvUzZJmU4u8sg	lifeofcian	FoKg4Q2MeHQ
+UCILN_EvJ2ocZ5MW7168oQLg	Raiti's Rides	zI5gKhiJtPA
+UCulcQNJeXMh38b8kl8VHxfg	TEMPLE MOVIES TV	6u6f29LahkU
+UCxmRRf1MaskrhuTGS_j7huA	Salaryman Tokyo	Ej2QYoy45SU
+UCY7dBd0LHHynMlLs421IDOw	Tabi - Real Life in Japan	kDTJuGA3bn8
+UCO0akufu9MOzyz3nvGIXAAw	Sky News Australia	JeR7wX3Pjoo
+UCfQx-K9zBExhMLfKQmXBxJg	Sam and Victor	g6GvGkqFngk
+UC0M6BJj039bknQaHNiiOekA	NollyFamily tv	Z261iVEVBB0
+UCkYmKSqZFBH8mPVjc48SZmw	The Real Spark	GD3SsruNdy0
+UCjcFNZE51DmSrGYBqixs0Ug	RuthKadiri247	TZU7aMNqDS8
+UC8-Th83bH_thdKZDJCrn88g	The Tonight Show Starring Jimmy Fallon	8TcQxgrXLwQ
+UCqSWipNEN_m4ZxGZgFgmeRg	The Crime Vault	uUj0y5I7Crc
+UC14-B_3C30cxZGuFJR0I-Ug	Sol Life	nsMYqwznb7Q
+UCbAwSkqJ1W_Eg7wr3cp5BUA	Safiya Nygaard	p5BdjoeMOHE
+UCwead5BXl2xDnBg2ohIh1TQ	Stereotype Official	1sRuCNHFGD8
+UCm8xNi3kuBHE99QH-N_VJVg	Sharmeleon	IwHMEeEp2yA
+UCb_9CAFuPYvf5xUKqXX2LUg	Uche Jombo Tv	MAakTOzSo2Q
+UC9BMWLruGWsr1nTzFqmMfHw	The Meme Sheep	8IHoyADRegc
+UCJRSJB6qs8aGjYlpcxRq_Qg	SnapSaga Drama	oaXXasuD84U
+UC9KxzD-vp_mIkYYzYaDd2bQ	Viaje a lo desconocido	NRjJMhuTDb4
+UCmw-JM4ToC24PSpKrJEI4dQ	TikTok HOME	E5pV_sqHyKs
+UC64KwGynvj3hA7T0C9gC5cA	Thewizardliz	AcqPc40ja64
+UCGRC6hm8mD8WqeY0auwrCrQ	Uche Montana TV	gc3BXH3ge2o
+UC4HiMKM8WLcNbt9ae_XNRNQ	The Dr. John Delony Show	SOx2iyrPfNA
+UCnUMQAuGfgB61oKsg05yLjA	dramacrush	2R6SB4154-E
+UCrkzfc2yf-7q6pd7EtzgNaQ	Wild 'N Out	ig1jObYCIOQ
+UC3vnHYOJk10ixaOrbgEhvLQ	Wayne Turner	qOneigKOpmA
+UCnQROBvteCNoB2U4v3CwUWA	Thevoice4dappl REACTS	8ELvDOvW3qo
+UCRmbFkjfC6AsYHfCtOE0S5g	goodcharlotte	TZIMXjxSVPo
+UCBjPLAWq3N4twCg9FtVCLjQ	asuka🇯🇵	f7G9gQFUyVA
+UCEOqZCdOzY-4keEKXasETIQ	壁畫太多	EX3IR1YO_VI
+UCxS8yVpNqQYXVW7l_5U8i2Q	adelala	vTxz__socJI
+UCYV0u8vDulWl6kTIgoS4Z2A	Yuki’s Tokyo Overtime	2zMDLiedJBc
