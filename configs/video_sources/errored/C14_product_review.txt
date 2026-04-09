@@ -1,0 +1,264 @@
+# C14_product_review — 262 errored channels (retry later)
+
+UC3vFznWAkGITMT2clmgwOaA	Running Wild	0	0	20	610	
+UCaP1PNnr055fOt89JPry51w	Justin Tse	0	0	20	697	
+UCa8U11JrxgFAQP63bR9AAZA	Dr. Mamina	0	0	20	516	
+UCxUmrHcAH_gqE3PXGXtPOGg	Harris Craycraft	0	0	20	658	
+UClxxURE9qXxynDZxCAxfzIQ	Septien Patterson	0	0	20	929	
+UCRT8PJADT0ad6zW3H7YfwNg	Cycling in Alignment	20	3701
+UCY2fHupCOlVPSIqnD_NAn_A	Hannah Harrell	0	0	20	1177	
+UCBIzPk0lne1w22jZR3LA36g	Jonas Blue	0	0	20	614	
+UCUyoKsibDgEdznOc84ccXKw	RodryFocus	0	0	20	478	
+UCtVr-DLQ4xAKpk9d7MOYPLg	Simple Lucas	20	949
+UCHo5_g3yB7Axgl0HwS51UUA	Loved by Mercy Bivin	0	0	20	368	
+UCBJycsmduvYEL83R_U4JriQ	Marques Brownlee	20	670
+UCwuZi4ktxC1mMTFwMLZ2UhQ	Jasmine Ngo	0	0	20	714	
+UC_35hRJlT4PEmvFCcU6l_3Q	Patrick Zeinali	20	1479
+UC8GRLDtr12b91BhGq-x92Zg	The Lifestyle Cog	0	0	20	757	
+UCcxAgEfLXLgPg0bPKaPCL0Q	Sunshine & ARTXSUN	0	0	20	1455	
+UC-HQGixOfW1dn3IYIxjE8Eg	Deepali Kalra	0	0	20	742	
+UCqvULRRboZeXVezSm_XduLQ	The Everyday Dad	20	649
+UCpHvDA_ladtos5LKzl8TzkA	Tech Gear Talk	20	653
+UCogPpaQ0wWx-VQNBcYYCzSA	Random Finds	0	0	20	294	
+UC3lJL1pUvQ2Ih2qZ-4ozrLw	SoundGuys	20	563
+UCZG-C5esGZyVfxO2qXa1Zmw	Jared Polin	20	1670
+UCe8i4p1nRtMdkivW1U2INag	Hannah Victoria	0	0	20	1127	
+UCxiwKYT274GxbGqsextnauQ	Jacklyn Anne	0	0	20	1002	
+UCtHm9ai5zSb-yfRnnUBopAg	Just Josh	20	1104
+UCwBH93nb_WIK72Z5RZVeEUw	Literally Lydia	0	0	20	793	
+UCYEwGyXLLEnk5L2pF8GET_Q	Home Is Where The Smart Is	0	0	20	370	
+UC5vt3SGZfEfp6OTkDJS-tDw	Tech Twist	20	247
+UCdWyuk7lxQERbqkmEKn35uw	Easy Playdough Ideas	0	0	20	542	
+UChBEbMKI1eCcejTtmI32UEw	Joshua Weissman	20	1494
+UC1DuOQg0-nr99t17Ca8Hlag	Vlad Savchuk	0	0	20	2137	
+UChl6iDqiYPgjJI95DEYqXbQ	Lu Ran Outdoors	0	0	20	1222	
+UCizPRfRAglmLjQZTaNTDE2Q	Media Bolt Productions	0	0	20	464	
+UCLyPL5A76sCkTpAPxEz9kOQ	Srushti kudale	0	0	20	588	
+UCxUx4ZkrmJ7loZ_CQIe9KMA	TooManyAccessories	0	0	20	545	
+UCmqH_QmPilpOwMCx-Xfde0g	Graf-X Tech	0	0	20	940	
+UCfVmFxS5whjMooa2uW9YjqA	Kayli King	0	0	20	797	
+UCbj3KAU13TdQMf1cSMp2biA	Sarah Morris	0	0	20	764	
+UCMDc9nEISqhX9dvjYg27OTg	Acne Einstein	0	0	20	286	
+UCm4--U6UJnI1taBnkekOlxA	Cassiopeia	0	0	20	229	
+UCMsgXPD3wzzt8RxHJmXH7hQ	Cartoon Network	0	0	20	701	
+UC2ePGMF5jsWze1sc0Gftf4w	Mark Savant	0	0	20	822	
+UCNXs9MHpK5n_dcd83bMT8pw	Little Star CC	0	0	20	307	
+UCvUDN5vgCjCN6dWHuCdkWKQ	RunSmart	0	0	20	1675	
+UCHhy08xelXhKIOwgsFssaTQ	Good e-Reader	0	0	20	542	
+UC-AlofdKECUdhXrbJQZ6iEg	LatinHype	0	0	20	205	
+UCnH9Y7qqSJkhInOuR7Z3paA	Tech Elixir	0	0	20	400	
+UClmH3B-tH99v2hvK0QEHzxg	Brett Conyers - Reel Prodigy	0	0	20	491	4K
+UCt29z9MC_AG1MdPnKM6fOOQ	Samantha Yonge	0	0	20	736	
+UCAlwbNvolMosuxPfanc-jLQ	Gabi LeMoine	0	0	20	950	
+UCY3_f-t8VBYh9rq8iHS-kdg	AbbyBReviewing	0	0	20	789	
+UCWrbS1Y_i_7mRJ60HPLVZxw	Tashemion Watson	0	0	20	998	
+UC7Mb0NDgD3lBfB6iTqqCtjQ	Bodmon Zaid	0	0	20	872	
+UCgMRv3bHSXTKSYKb6lG19rA	Looks with Lindsay	0	0	20	930	
+UCja7QUMRG9AD8X2F_vXFb9A	The Royalty Family	0	0	20	1574	
+UCQ_Fqb5xpqvg0s6EiYQqtkg	The Spark!	0	0	20	824	
+UC-4P0PHFypN6s9XVjn5uJmw	Sleepy Bunnies ASMR	0	0	20	2326	
+UC-lOss13v6QhqkO9yfNVJEw	Jon Gadget	20	1191
+UC4XJeGGdXj0vA4CxDDJ8J_A	Cakes & Eclairs	0	0	20	205	
+UCdBK94H6oZT2Q7l0-b0xmMg	ShortCircuit	0	0	20	850	
+UCqpOf_Nl5F4tjwlxOVS6h8A	TheCameraStoreTV	20	426
+UCT6AJiTYspOILBK3hMWEq2g	Switch and Click	0	0	20	877	
+UCadRSZabLYNcQFTUvqI4_Cg	SoulOfTech	20	644
+UCHpX2lMzUys3GC4csVRiYBQ	Jada Janae’	0	0	20	769	
+UCrI6_31b1OHRE62BHTMYN0Q	TechTablets	20	1006
+UCYOtmEXuZyWbBiSAai0e5dQ	Cierra Johnna	0	0	20	1122	
+UCbAfwV9u6-Fn3hTfVFwirMA	Ryanne Darr	20	1033
+UCZZ4ivUawsXRktLKej8d6Xw	Mike O'Brien	20	880
+UCpP9pMt2AMRS2xfBdOFf8nw	Benett Graezer	0	0	20	717	
+UCbLa_s6wkPn67-89zMEmBJA	Histransform	0	0	20	326	
+UCLPrb1CfaQn3KVlytqIlJpQ	The Balanced Runner	0	0	20	732	
+UCbi5-41TvUYAZGirhMRJtvg	Teri Adrianna	0	0	20	842	
+UCnDxXCljJ0XQXcpRzYOjqkg	Monica ASMR	0	0	20	1358	
+UCMYuF0mNxTgOzr1lS7opIBQ	ATC Android ToTo Company	0	0	20	910	
+UC9RQSlsCuHg-UWm_kL8wqjw	Hope Wilke	20	467
+UCBweXNt8SIqX20AhC4bAzaQ	Glow By Sana	0	0	20	489	
+UC4wHXzIM7XFS0JAbLC_ifSQ	FromJWithLove	0	0	20	726	
+UCiClCuun6IT6vuTIvZPW6iw	OrganisedByJoe	0	0	20	432	
+UCvv2gRhh1NNBSVfgrN9MiQg	Rick’s Tech Reviews	0	0	20	349	
+UC500_29hTGKAj6GBmSoMiBw	The Icing Artist	20	1516
+UCMIqrmh2lMdzhlCPK5ahsAg	Jack Rhysider	0	0	20	4191	
+UCiCe7Vwwu2b4wsu8C3IoHBw	MakeupByCheryl	0	0	20	1256	
+UC_h8g4oWkIDm8LESmbRZwMA	SBK Living	0	0	20	352	
+UCJrY_xIs6WYiZAb1DlKCQfA	Abi Roman 🎀	0	0	20	1632	
+UCelMeixAOTs2OQAAi9wU8-g	CookieSwirlC	0	0	20	2743	
+UChbwShvW42EmawHlyZb1v8w	Izabella Trevino	20	781
+UC3SwyS1lXP_2byvUIf46YgQ	Carissa Burnside	0	0	20	2433	
+UCU2nsuXb1xP_5DSgsik8J0Q	Byte of Geek	0	0	20	835	
+UCB95yGqsItfWFkJixnEDiGQ	johnnykham_	0	0	20	3150	
+UCM-rbHJdqAZimcsong2KPNg	NOCTURNUM.	0	0	20	368	
+UC7rL_9swxhwrGsichDroA-A	Dr. Jenny Liu	0	0	20	1192	
+UCyWz7EKqS_PpGYfTOJ7HdPQ	Spencer Scott Pugh	0	0	20	575	
+UCWb40FwBq3m8JBljAcwu7EA	How To Do Stuff	0	0	20	703	
+UC2SVYohPFmWiEVn1i5Y57DA	BillyVisuals	20	275
+UC4QXQ6ao_OzewhqSMxuacvg	KG Simple Reviews	0	0	20	144	
+UCJOl2JvledP26K2OQ_HLgnQ	6 Months Later	20	815
+UCG9N2lgt5lorP_9_rpNnxJQ	Desmond Wong	0	0	20	912	4K
+UClcYchlRF3XUbkxL0u1GCvQ	Nipun Kapur	0	0	20	963	
+UCjTT0lI8nAr2vV1ZgsFS_hg	Patrice Conditsis	0	0	20	1251	
+UC7G3MxSUdFk5UND0TjJyaqQ	Chelsea Trevor	0	0	20	1569	
+UCaZwRZY3gHJE7ibsLhgzhMQ	Ulmer Washington	0	0	20	317	
+UCWrbdYR-h4B7RKKTrksFj1g	Dora Renee	0	0	20	945	
+UCwAMahiZ4RQb3i6BdQ1cOGA	Roberto Jorge Tech	0	0	20	540	4K
+UCNlPXfdkhKuyx252Ql67BOQ	Movement & Function	20	1250
+UC1MWdXFdFL922d_W2ESs_mg	The Polish Potato	0	0	20	656	
+UClEWtMDCXO-_FXS15aAh_pg	Unboxing Plus	20	769	4K
+UCy_cuwmA9gnABoe-YIT0tyQ	Athlean-XX for Women	0	0	20	623	
+UCPBV1PRZIZM-HoH0oqyKinQ	Post Stroke	20	640
+UC5c9lj_Hjy7KgNdyG7pz_pg	Tech to Remember	20	968
+UC_Wcz_xdzDrVERaTHuWLoBw	Chonnie	20	268
+UCVYd9HVKN-LeYNM_wc1P2HA	Shane Whatley	0	0	20	1067	
+UCJTU_AGUSZ956_SQF5vxffg	Ultra Value Tech	20	166
+UCoizrSwEpnXuNYENoYxq45w	Will & Rambo	0	0	20	850	
+UCUox4vsU0kP2STRyN0zUNhw	My Deep Guide	0	0	20	1688	
+UCFxrRdfu0robNE59kqdgV6A	Jeff Keenan	0	0	20	350	
+UCv0epCe7VNdebIcmOlVzeiw	Rima chan	20	860
+UCuKTPjd-fCrSllFQdqcNkUQ	Glenn Thoughts	0	0	20	2150	4K
+UC5UjwxWzDDoLzHoeAsSx8lw	catherine walsh	0	0	20	397	
+UCwsa-MpLNx4pnsM1PiQwhyQ	Honeysuckle	20	1406
+UCyzb6idAdIPhJ3Qr7o3iQQA	Kate Ramsay	0	0	20	1181	
+UC2gLw7tBP3xHaTb6ZEY8FfQ	ASMR Emco	0	0	20	1553	
+UCLVihavmaUONy0SeOX_F7aw	SarahGrace	20	975
+UCoQwIxyj8NGv_siRkpgfAAg	Glamour Lifestyle	0	0	20	601	
+UCMGQP2fpOJnzD_6BvWFhaUA	Adam and Madalyn	0	0	20	3153	
+UCFfCqe7b9YiDk2ZiAG8UIGA	Flossy Carter	20	3044
+UC2THedAWDeGkclG-_CtoAig	Tiana Lauren	0	0	20	655	
+UCHyTai76PvCxzDYy2YMvc5A	Zuu Psychology	0	0	20	1367	
+UCasRvsSx7KeIxcpYH3xetsQ	FPSpsycho	0	0	20	2087	
+UCElzaYE7S1_SzK1-kFNVi4g	Smelly Belly	0	0	20	929	
+UCZ3ACfGCvwOdzK8MUapY77w	Maurissa Rachelle	0	0	20	546	
+UCFo8insXP4MuNmH4qXOy2Zw	Erfon Elijah	0	0	20	822	
+UC0BtO93XezVc6n-HsC3iiGQ	Style with AUDREY	0	0	20	844	
+UCTapQc0lfB0GYlzOBiXqvAQ	Paul Rankin	0	0	20	520	
+UCmJA11wzbP9E9YSElUu-Clw	Tech Bandicoot	20	279
+UCxNVaHUJAz43J8lh99RvxMQ	lexi	0	0	20	1242	
+UCx8y5-arC9FSVOi0KzhVPug	The Chicago Maroon	0	0	20	450	
+UCo6hpY_BpeDt72PEJicyVOQ	Techisode TV	0	0	20	825	
+UCURf4XubwRbXibROBfZBR5A	Paul The Podiatrist	20	591
+UCuC2uafLXu61I6v5s8ME8NA	Tom Milano	0	0	20	887	
+UCFhNEma4mmO0AH2qEsF6F8A	Chris Rawls	20	507
+UCd_7Fw6OBvqjQpeqrrmQ9Dg	LIN D	0	0	20	267	
+UCPvHOyOiTNdKZE1XmLPddZg	Veteran Nexus Letters	0	0	20	302	
+UCpx55tmhTTMM-EVlTVQpXLQ	Goohi	0	0	20	873	
+UCcq9onYHbs6go3kDpfBoqhg	Alex Kvazis - технологии умного дома	0	0	20	1028	
+UCCRlb-dhXmBz3bJ2-MPaYkw	Tech Guy Beau	0	0	20	1767	4K
+UCIQ-tPGfdy8hm2XVWuB2s_w	Callisa Coleman	0	0	20	900	
+UCmdY1pHB-KbFYxOyhwjVeQw	MattyBRaps	0	0	20	189	
+UCd2-z-dzraD-v_EYB3x5g5w	Isa does tech	0	0	20	592	
+UCHyjsn5b0SSktKrbXSZJWrA	Kyle Meshna	0	0	20	922	
+UCPrw3zyUKGnVjzXHpVR4DLg	Ashley Sarvak	0	0	20	967	
+UCARu50vbmLIJ_fGEhadH6Vg	Ariella Anthony	0	0	20	959	
+UCt44wdefZzrhNDYYAyEy3Xg	The Headphone Show	20	908
+UC6God6032f0bqYRrSrn7HkQ	Your Friend Owen	0	0	20	565	
+UCtAT5M8Pwt4vsTumkObZwWA	sophiastorerxo	0	0	20	1081	
+UClRLSMqTivv7bS93ivIE7ZQ	Jenna Evangelia	0	0	20	2079	
+UCmAvmg7u6LmzAVqIcXY2-WQ	TheAgusCTS	0	0	20	314	
+UCQqGmUEHTqsecUa1ltVNPYg	Nikki Panis	0	0	20	384	
+UCVtQ4AOSmCFUuvixddYiSxw	Smart Home Junkie	0	0	20	660	
+UC_9tBCeHdBG13If451X7FRw	Intel Technology	0	0	20	804	
+UCn7Z0uhzGS1KjnO-sWml_dw	Unique Vibes	0	0	20	192	
+UCQpIbuYcueHEoasnIbV9Uug	Honest Reviews by Christina	0	0	20	431	
+UCzno7dRWSF0g1b1ztlwhrgQ	ava rae	20	888
+UCzoK4o--s4n71jT6zmqm8HQ	Nikki Naab-Levy Fitness & Nutrition for Women	0	0	20	691	
+UCk_pvW0ARNwn1lZgRmQFIzw	Simon Says Home Assistant	0	0	20	411	
+UC57haygBTuywPaaW7PRkGHQ	Karyna Cast	0	0	20	519	
+UCRx0HAyAfmcqtrQYK3IITBA	Bret Contreras Glute Guy	0	0	20	1294	
+UCNMUIjeu84SPmii-Z-M1l0w	Maya Beatriz	0	0	20	3226	
+UCcRfHXtswKFioKZpsPeOuUg	Velvet TryOn	20	311	4K
+UC6U7L_rS_Cn9o_qv1KdZrDw	Nima Hosseinzadeh	0	0	20	564	
+UCaFGDBmGK_jw66u3av2Ysjw	MacRumors	20	503
+UC60swxNfnuCYKaFuSSgVwwA	Alice Thorpe	0	0	20	1497	
+UCrzMqD-OBLBvask6oqHxijg	Politika Nexus	0	0	20	261	
+UC634L9eG-YsskyzWxnp9BJA	Conor Harris	0	0	20	688	
+UC8DORV0LsJSxiDuWLb6yGlw	AlyssaAllDay	0	0	20	1223	
+UCXUJJNoP1QupwsYIWFXmsZg	Tech Burner	20	1006
+UC32FqN3ArzlvDnZvMmtUitA	MyWifeQuitHerJob Ecommerce Channel	0	0	20	768	
+UCTOpXa7T36y4aDWvWml6UCg	Keilly Alonso	0	0	20	756	
+UCLfFh9iUUff6Ft9kBcAAv8g	Robeytech	20	707
+UCOYXMJcUXo58HmJN1vuzKUA	JOE	0	0	20	548	
+UClkLE-2Fb5Mj7ulBq1OljMQ	LaLichélle Made	0	0	20	416	
+UCgECQwD3dqJWZdG3xLp3xNA	The Ian West Network	0	0	20	765	
+UCjlddd4BeK028Av428tFDkw	Grey’s World	0	0	20	1685	
+UCDbGG9NcuBSK3k0HUZ3L-0w	Grayson Tate	0	0	20	755	
+UCKE0Xnj818IDaHvIcRiq0Bg	KIDZ BOP	0	0	20	585	
+UCey_c7U86mJGz1VJWH5CYPA	iJustine	20	597
+UCzv5ad94LWeDntEyc2EghNQ	TechSpective	0	0	20	502	
+UCNSjQH5h1g5TE_fdQaV376Q	Daniel Fitzpatrick	0	0	20	191	
+UCLb3pKXMAdM4qaKBK6ORT3w	HAHV Cares	0	0	20	492	
+UC3DkFux8Iv-aYnTRWzwaiBA	Peter McKinnon	20	1126
+UCXGu1bCs03r0WNwZlmtc6ZA	Alexis Usa Style	20	280	4K
+UCZvvID0Bbfshpj9RKNG7Vtg	Sarantos Fitness	0	0	20	680	
+UCqYJ0BuUYHLUVepW_4U_9HQ	Miller & Zois, Attorneys at Law	0	0	20	1034	
+UCSOQGnOJqKOlIeQoXOSFyjw	Foot Doctor Zach	20	839
+UCIZrM2IwzgoXjKd6atiqJ6g	Home Assistant Podcast	0	0	20	1517	
+UCKf9lL2QgzrIWTkJ-zIREsw	Alexandra Alvarez	0	0	20	681	
+UC45Qs-a8qustZ8c8yQVs0Zw	Christopher Hole	0	0	20	607	
+UCa6TZrSDlr5iEaWOJCfY0jg	oflorentyna	0	0	20	939	
+UCHOMwu9rsESLsDNSB8XgCUw	Dr Debox	20	926
+UCSxZYFbdT0IYwszgX1PB5Hg	Android Digest	0	0	20	951	
+UCX1SyrD3q3V1QxDjQtL2O1g	mya’s portfolio	20	672
+UC95OxeHEWQmw_BcAq_i6Q3A	Digimorphosis	0	0	20	593	
+UCfGWsprhe5sZSay7LT2RxWw	Dr Sam Bunting	0	0	20	757	
+UC31MBHVd8nJ-MvvUwmZfE7w	OmgHelayna	20	783
+UCgRBt6iPeBE-ri_BaMrykAw	Tech It Easy	0	0	20	736	
+UCQ7BOezizWbaS_ZFgThlO4g	Apple Home Authority	0	0	20	734	
+UCYGiWMEIKXL2EhIfPSUSmvg	ben's gadget reviews	20	621
+UCoKWSXyg_-e5-v5icXjyIGA	Taylor Kruger	0	0	20	968	
+UCPDRCBOWJFzPPQbeUhPc1hA	Jan Keck	0	0	20	409	
+UCedMvcSI-kycD210_0DUe7A	The Unrefined	0	0	20	904	
+UCgtHJiyE6ZwaJO65tdudDfw	Seth Fowler	20	971
+UCzYfz8uibvnB7Yc1LjePi4g	Aphmau	0	0	20	1198	
+UCP0R1BiTra_nLQXXyn4PzVQ	Nananaji glo.	20	1407
+UCw9zJ3qnebPPGsutiEAvu5Q	Full Time Filmmaker	20	1172
+UCEAMLkMKtq6YhmaZdUT1ywA	This is Tech Today	20	1071
+UCAdzxODbBt9yCg3fLLcCyoA	Talks Daily Tech	20	220
+UCQnmZZUKvpY3IVSGf44MVVg	FISH13	0	0	20	2386	
+UCvcRA2Hva1lULVf4GCouH8w	Dawid Does Tech Stuff	0	0	20	859	
+UCVz-FfaUOvFxueLOChOIlMQ	David @ Tablet Tech	0	0	20	957	
+UC1SDtiAShOvmjNS71AjIooA	Lisa Stevens	0	0	20	1689	
+UCye1X_h5DlZc3coGDr2ZzmQ	Lace Love and Laura	0	0	20	399	
+UCRHPwaiNWTDnnj73P5dpgSw	The Wolf of Williamsburg	0	0	20	615	
+UCBKFH7bU2ebvO68FtuGjyyw	Roxxsaurus	20	1300
+UCZcfJRYRhYXQjhWg_egqFdA	Kendal Kay	0	0	20	480	
+UCptwuAv0XQHo1OQUSaO6NHw	Max Tech	0	0	20	860	
+UCoOlChYcQE3kQfCFwwiCiaA	101ArchiDesign	0	0	20	2854	
+UC0rDDvHM7u_7aWgAojSXl1Q	DaveHax	20	724
+UC4RyjlpGdRfet3xl2dLsYkw	Danica Lizama	0	0	20	1368	
+UCtETwNgMVBR4UdVlxf5Txbw	Dr.JRuzicka_RPM	0	0	20	636	
+UC9fSZHEh6XsRpX-xJc6lT3A	UrAvgConsumer	20	840
+UCiAlWpmp905JHvVLtZnIk8A	Kaylie Stewart	0	0	20	1683	
+UCK81mcGq-hLp3oqYG6dOcaw	TechNick	20	856
+UCId9g4zlQ9BOn6fLKIt1Y0A	Rose Anvil	20	1281
+UCPFvgBqzykc8ZkrVJFWN6UA	Emily Grace	0	0	20	1017	
+UC1S3EiYLDrrVc3Ev9rdUE6A	TrendingTracks	0	0	20	197	
+UCvpfclapgcuJo0M_x65pfRw	Beebom	0	0	20	403	
+UCiCJWidiNy85_xPDHV65_bg	katheleen marcos	20	631
+UC09sWsFb___TF-cc38RJlow	Stevie Stedman	0	0	20	1340	
+UCNLVcnTu0QJu-2lt0kXYzKw	Alyssa Howard	0	0	20	2285	
+UCnxmUrGMtpQT844Yd_l7Zyg	Dr Dray	0	0	20	1009	
+UCeDNVLP9jf9a2BDaLUQC7YA	That Practical Mom	0	0	20	1159	
+UCvlmHF_K6UpaoqTnTBonRsQ	SimplyPops	20	730
+UCZ-8PpoBeoiw4xZRm0W9jGg	R&BHype	0	0	20	234	
+UCRhADYLTpsb0JA-uaLWovGw	PCMag	20	394
+UC-j70KQRkvG8ncivshIyvHQ	Vocal Pineapple Academia	0	0	20	1442	
+UCQRm_z7seHnGsBiWDNEWr6A	Mark Watt Tech	0	0	20	722	
+UCQqEC0LPfvgFCP8ixrCqADA	7clouds Rock	0	0	20	229	
+UCpSyaaBO1sKpOcMOo2tojtw	Sano Sana	0	0	20	448	
+UCrVLgIniVg6jW38uVqDRIiQ	Everything Smart Home	0	0	20	884	
+UCqVVYOLFzbh2KG_c1aXeyUg	Victory Marrie	20	1664
+UCwlUjQcTMAvsuuFbOncwzEg	BIGDIABEAT	0	0	20	695	
+UCWoOwxBPihNLdmVdtEjWp5Q	minimalistcali	0	0	20	944	
+UCzlXf-yUIaOpOjEjPrOO9TA	The Tech Chap	0	0	20	672	
+UCiU--5PKQOMdfMTG7dTKc7g	simon42	0	0	20	1563	
+UCcq8pko7KqkgYeXMM_SGFNA	TechJoint	20	3113
+UCj_Em0eWVCsMcRiryiqAYaA	Beautiful Life Reviews	20	184
+UChIZGfcnjHI0DG4nweWEduw	TechSource	20	1184
+UC18ju52OET36bdewLRHzPdQ	brutalmoose	20	1827
+UCMN8RP07NMLmoY_mlATLm5g	Kali Engel	0	0	20	491	
+UCs0RgDttc-wjNxHuFpdEmQg	REEFLEX | Explore. Create. Inspire.	0	0	20	533	
+UC1iqebKNH36JIdBIjEy8-iQ	Pixl Networks	0	0	20	194	
+UC_7oXaj1uECyItN8Gw05URA	Film & Media Studies	0	0	20	1387	
+UCoqnA-5iLDqLXhO9XodbvNA	Geekception	20	1023

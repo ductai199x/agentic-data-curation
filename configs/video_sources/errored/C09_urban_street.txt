@@ -1,0 +1,85 @@
+# C09_urban_street — 83 errored channels (retry later)
+
+UCpFIFyodGNcj9MzFeatH9nA	VerbaVision	0	0	20	502	
+UCPD_ssNliyxReKVRkViacag	Family Flicks	0	0	20	1439	
+UC3SVw0HRggtc__N2KymtTMA	the voice of wisdom academy of English language	0	0	20	186	
+UC1s4aRc578_PIRE82-Zs0SA	東京夜景コレクション	0	0	20	273	4K
+UCgKkNPU2Ib7_TcyAl8M2S-w	Warner Bros. Entertainment	0	0	20	388	4K
+UCCw3bX2H_-bf3ALCuPbNnKg	Daddy T Japan	0	0	20	627	
+UCq8AsL5N5nHj23_acBbn44A	Samurai Directions	0	0	20	1036	
+UChedcjWAIK_J5t_zaYiftyw	Merk Life	0	0	20	385	
+UCESjGPG1z4NqS0QidZVD0kA	Sherrie Edgar	0	0	20	239	
+UCW3fRysHidYIHanAeqM4Qfw	Serpico Dreams PHLTV	20	524	4K
+UCfHfiZb-GZIXgx1TqrGCQ8A	Travelling Talks	0	0	20	452	
+UCj-ZTw5RIniYcMn2OGSeL8A	AmbientDreams	0	0	20	3380	
+UCDIB942078BlAGqzRa4yEkw	TWK Adventures	0	0	20	892	
+UCivMv2jT152cuiE7is7E9zw	Shogunemperor	0	0	20	415	
+UCWf66qylPbIXt1OFcTu3ouA	RELAXOPIA Relaxing Music	20	1532	4K
+UCMLmKYy3rUlrQhYdtE6ibgg	Jetset Explorer	0	0	20	374	
+UCsFvZgrLVdQAgv2XGvU2sfQ	History Uncovered	0	0	20	737	
+UC1NaiiVy_jnY5qaJU11PZJw	Sleepy Rain	0	0	20	19247	
+UCQhcGRlM7dwEz-0IJgqApvQ	TgotSoul	0	0	20	223	
+UCNdGwhwU7EU51MuBhQFRL1g	Sleep & Relaxation	0	0	20	375	
+UCvzLTV-oskDiZ2NouAQCM0w	Etherealm	0	0	20	7190	4K
+UC6JRT92lR2Q1dlA3Fs0nnTw	Rocket-Media * Juventus F.C. Legends	0	0	20	3806	
+UCllzb1aw-cfnq6pDtWuQBxw	Mood Transition	20	3690	4K
+UCLCXvU8s-kgM8ePd8iZl2yA	Southeastern Pa. Community Watch	0	0	20	1034	
+UC4SGTFQps9OF4iM-5f9nSyw	Reddit Brew	0	0	20	661	
+UC4Mkc1afKX2skWtsFm-Lo7g	Drewski324 Plays	0	0	20	1250	
+UC4dRXF0zdzVguISkvlaST4w	Carl Rosa	20	596
+UCjNOW2OaRN6_wK3hQdeRrIg	أشنو داز فالراديو	0	0	20	604	
+UCtUrcYnZk2UhXjO2iIBySGw	Tactical Peace	0	0	20	372	
+UCE8kbb2nJ0pgKKoo76vSjzw	AnonymousInfection	0	0	20	912	
+UCYb2ju9EtiFW__bjKkudGzg	MiX - افندينا	0	0	20	530	
+UCUO0B0xmGVDwJuTxQXKLF3A	Dani the Explorer	0	0	20	1173	
+UCX4baPDYj7oQeMvzzZDIeSw	Canadian Cheer Videos	0	0	20	183	
+UCnLi4uq97b--ATRdaxNsa9Q	神の空	20	460
+UCtT8fGWyOK9OlhttrbVHknA	Ryan Felmingham	0	0	20	208	
+UCWmXjudJSKyIaIFUBwe1ZtQ	Nature Speaks to You	0	0	20	38880	4K
+UCy-9H9smSzM9SkKRLVm6jgw	Wingspreader	0	0	20	1010	4K
+UCJ5Xz72QxlzG86SKoPsbaRg	AngelOfThyNight	0	0	20	5443	
+UCdXdz8_mHv7tdhjZRUeMffQ	Trip Taste Reviews	0	0	20	1001	
+UCUlP1MngXCZP3Wp-8rVhBww	Drive Japan	0	0	20	706	4K
+UCCNGKt-qmFPkrrJbUtZbkHw	The Unfolding Journey	0	0	20	531	
+UCNjGGIUyC6KJsion044HaXQ	YetiAF | AI Universe	0	0	20	552	
+UCYV1gU-S3img0n2-fvfFPCg	revenge reddit	0	0	20	1478	
+UCckFgF1RFFbLn3bkaeLHI9A	Unseen World 4K	0	0	20	634	4K
+UCVIaEd2qVJyoIDMtD9WkcSg	Lofi Lounge	0	0	20	27722	
+UCfAgm2ONoRBLFdN2--VC8xg	Inspired Money	0	0	20	621	
+UCaB1TemERfb3FF7jPx0bJ5A	Medieval Sounds	0	0	20	26763	
+UCIxapChazpLOEZQa2X353Aw	mayorbloomberg	0	0	20	1589	
+UCbH8eAkAKKkbLimDxCV84nQ	الدرجة التالتة مع حمدي الحسيني	0	0	20	1032	
+UC-2vh3f5tIDkt4K01ZsGDXw	Statue of Wisdom	0	0	20	783	
+UC3TB96_VjCUuaAXaAtvDEkQ	Travel Across The World	0	0	20	619	
+UCqJ1KoFaw1SqnALuYyIFq7w	Exithamster	0	0	20	441	
+UClAoHFQu0FI7ZQg2RdUByAw	Steven Rosberg	0	0	20	374	
+UCVtHlqfvXn-6m6A2IWUB8MQ	Unseen	0	0	20	1688	
+UC2tuYIUxRV1Kk1gTQyggJZw	Genki Gamer	0	0	20	672	
+UCdN4aXTrHAtfgbVG9HjBmxQ	Key & Peele	0	0	20	834	
+UCPuD3WYJ0rkpLqDdyavC2WA	Wax Museum Podcast	0	0	20	747	
+UCzn2lMnI2LR3qHSzXaT2PcQ	Tk	0	0	20	449	
+UCiOumh1r4X1vGgCBSD__NgQ	Mondo Made Magic	0	0	20	426	
+UCzopXWRdJU5Bta4Af0IkdlQ	Truth Revealed	0	0	20	463	
+UC3qPevWmIloDq43h2Xtq8rQ	London Explorer	0	0	20	2046	4K
+UCHoRCZIwPBu3E8aFbJvu1JA	Tru Natura - Relaxing Rain	0	0	20	36611	
+UCwJzC-GSNWPC4t3Pkycd84g	More Bunny	0	0	20	607	
+UCpq_tutd0mGSzIa3HF7A09Q	Adventure Ambience	0	0	20	14991	
+UCalcFcqOC_UdfxQAPHhwOqg	Jersey Shore	0	0	20	267	
+UCkODG7pU-t0J1VK5T4UZIrg	World Holiday Vibes	0	0	20	140	
+UCvRPUod-KvLKHE3DgCQPK0w	Travel Titans	0	0	20	484	4K
+UCK6sMTsM0JM6hmqe1IrlWSQ	hideto ODR	0	0	20	1211	
+UCZVVPzAvbSS65SSkOIoLIjw	love music	0	0	20	11228	4K
+UCCDLunGhXN3QvWfvzVhZyRA	Vibes	0	0	20	4578	
+UCqcjI1_Z0OMbdSvONoYsGhg	Tour & Travel	0	0	20	496	4K
+UCa2aRAISGzMawoUFDhundNQ	Qlobal Gist	0	0	20	596	4K
+UCuIVkjuZ7om5jG-RxDgQQtA	Cosmic Siesta	0	0	20	10241	
+UCEEbKW8_JXWa22I98MdL_Vw	DJ Wiz Life	0	0	20	5826	
+UCsSdO-ueDY8SIil3Pdhf8iA	الإستاد الرياضي	0	0	20	430	
+UC1pHTb2xQfdegrTaXhxGCbw	Snow Renkon	0	0	20	288	
+UCVLaXn5DvZofIIp3527mSQw	神馬動漫	0	0	20	5717	
+UCE_tGX0y1gnONCwUL6MkaDA	The Elocutioner	0	0	20	342	
+UC1NyCbx5Q9NLCK88ZA6sJpA	Relaxing Ambience	0	0	20	17274	
+UC_EKvVzHwuJKTYOkRUkv4gg	Sensory Sheep	0	0	20	3606	
+UCpEbBMzk9G8d1fu12THjsng	Hop Light	0	0	20	2203	
+UCF9-hyKg9Mzc__Q6JF-JEjw	The Christopher Dean Band	0	0	20	571	
+UCrgZVe7PztRFCi6UtPgMTvQ	Soothing Sounds	0	0	20	43200	

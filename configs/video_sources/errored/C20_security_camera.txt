@@ -1,0 +1,604 @@
+# C20_security_camera — 602 errored channels (retry later)
+
+UC_vFLohxs5PkAxlk7Y6jEtw	ABC 7 Chicago	20	300	
+UCuI80PeuuCYHXxBj7r_0OAg	TOTALLY FUNNY ANIMALS	20	300	20	572	4K
+UCEgcBFhje8DQLAGeyC74H9A	MadeForMums	20	300	20	310	
+UCUVf5qAIh3T6hvPk3Vz4mTg	김감각의 추천노트	20	300	20	328	
+UC5CvFUD_dTt7rwq7d2_VJxg	ViralSnare Rights Management	20	300	
+UCPmUDr8JtNLEURx_orjN48Q	VlogsdWendy_	20	300	20	958	
+UCtRSKEipM17PF7n0mi66btQ	Automate Your Life	20	300	20	844	
+UC3339WgBDKIcxTfywuSmG8w	ViralHog	20	300	
+UCC-SlGuIK9hsQcKdNsWUmKQ	HypeTech Picks	20	300	20	371	
+UCbxcm9LhLtjpIOy0-dz2AgA	Is It Worth It? (Product Reviews)	20	300	
+UCCfXt4VJ3fNCBUGM-DrF4PQ	Property Files	20	300	20	765	
+UC9MIfUP6LRsaqD_xv-A79Sg	Witnessed	0	0	20	2486	
+UCCLpYbF6epWOUuJurR8INWA	Ubiquiti	20	300	
+UC3o0hCZN3AV4iLkZDT1BB7Q	DXアンテナ株式会社	20	300	20	180	
+UCkQ9b0vEOTyfCdr_2AoCJdw	HOME-MALL	20	300	
+UCi9dzt39TA4Pka9vbbOG4Xw	reviewnik 리뷰닉	20	300	20	303	
+UCdU3K0pmvsuxcHFaI3aWKHw	TechFlow	20	300	20	558	
+UC8ootkKAbJC9bABoRcQf0Kw	TuTecnoMundo	20	300	20	909	4K
+UCXVygvmJ6ZvMJXkPZPysCMg	TinyFish	0	0	20	841	
+UCV1ZEiWZTHaQAxlklmsLbWg	인프제 INFJ	20	300	20	462	
+UCdY0izWIJUi-AXNZ3Q2dcXw	Ethio Tour	0	0	20	1399	4K
+UCiTIEsLecaTmY-HVxdwk_wA	レトロゲームファン	20	300	20	1495	
+UCB74tpdumqNGXQkUe8o780A	Smart Home 101	20	300	20	397	
+UCNRfCW75kp3CZdQ3N0WQHdA	Raum & Außen Smart	20	300	20	816	4K
+UC-5HPUcqvXR1s2yIGDrHf7w	Warehousing & Distribution Tips By LaceUp	20	300	20	598	
+UCYRSHrouYuiXeTW7za7I9AQ	Project Bolony	20	300	20	471	4K
+UCrjQtlO82Yc0Icq7isIUEfQ	찬집사의 전원주택	20	300	20	555	
+UCwMaalqxW71jtWZ3826sPtw	ECAM	20	300	
+UCxec_VgCE-5DUZ8MocKbEdg	ARD Marktcheck	20	300	20	892	
+UCf6NfYwI4pSodzU4WaHDLFQ	Lindsay Fraser	20	300	
+UC5lBPQsMMJEE5PTJMzf_sug	Foremost Picks	20	657
+UC5yGKjPWGyRvOm7lljgP_Og	Chip and Milo	0	0	20	1008	
+UCH1yZ47hXkgpSlNOFtdRRgQ	일해라 현아-Work Silicon Valley	20	300	20	693	
+UCPNIejzGsqqPDNuSRwvCrjg	Tuk	20	300	20	643	
+UCWTkpYvniGIUe1jeCncFzKw	KMBC 9	20	300	
+UCWNQgyEP_Wi_Gl68VhGiMZg	Solar AI Camera Trailer	20	300	
+UC84spgrGezGmRIzavXQZgyA	Carmen Whitehead	0	0	20	1187	
+UCX15yQQOgUllNFd8wNRV1KQ	A Current Affair	20	300	20	422	
+UCla_Qv5UPsLjybunudak9Ew	Descubre Productos	20	300	20	274	
+UCIptJSwOOKB6WP22uBjYy6w	George Langabeer	20	1142	4K
+UCZ32JAyPXVY2f3g2VxekBjA	The Fixer	20	300	20	1457	
+UCIY7gzIJRMjJ0n0t1UsatsA	Monitor Insight	20	300	20	612	4K
+UCktPkW_bFfOLIUa1mYSBteg	2Spooky	0	0	20	2560	
+UCqzUL-Bv5w_e7SPCGLf67aw	Funk-Alarmanlagen-24	20	300	20	459	
+UC5P5NlgQmjinm_M4OCzbOHA	BT beartai	20	300	20	2389	
+UCEgvzVCeW2MnHV-M62CxBDQ	チャンネル隊長	20	300	20	759	
+UCVgAw4uotO76sk2bsB9_EGg	SterenMedia	20	300	
+UCWvK43RmIsS-KDhLohJ-F8w	Ainhyzic Baby Monitor	20	300	
+UC5pK3w6QEq1bUMmU2Hs43Pw	Best Buy	20	300	
+UCsxPwtXAPmzX3K8HPsmlPzg	San Help	20	300	20	543	
+UCTtwoPlP23HAgZO5MVeHT2Q	ナップスちゃんねる【オートバイ用品店ナップス公式チャンネル】	20	300	20	666	
+UC7yTtbCGtJ5M4jsmKXBi7PA	꿈꾸는삼촌 Dreaming Uncle	20	300	20	356	
+UCAnWpUqQ7wE7YCAyNp6ZeKQ	家電ハック	20	300	20	856	
+UCnSwsLYn5hBF4QRPXljRPjw	unNERDeMEZZO	20	300	20	1513	
+UC5G3Y59gl-qX3qC9UIk83Rw	Vera Hsiang	20	300	
+UC4yXJPCjHrlM0TTmMGwYcRA	shop shop-H	20	300	
+UCuaokHMpZYh7qgZYc6AyLEw	Serralheria & Segurança Eletrônica	20	300	
+UCL6vBMI4aB-M-ddVrhhYbvw	방구석보물티비	20	300	20	693	
+UCm9fJ_IhnpG4AmTpcwyNXBA	Rico Xenn 2	0	0	20	1555	
+UCy1iIf8Nd9E0Fs9L7A6Y3Jg	Calgary Sun	20	300	20	218	
+UC2KBJSZ21741isRWvS9ctiA	Abyssal Toons	0	0	20	2833	
+UCZ73BzdiJqXQKWG-fga2rAA	Academia L R	20	300	
+UCia6Ff5chPFAfdZR9RmieRw	DV Comm Systems, Inc.	20	291
+UCWQkgL08ExnWFx5T0rVSzVw	Driton Ferati	20	300	20	882	
+UCHEEJUAIHuTgtlvyZAwRc3g	Tech In Black	20	300	20	451	
+UCSf0s2ogUVYpJPuzW1zpAOg	LankyBox	0	0	20	1923	
+UCBINYCmwE29fBXCpUI8DgTA	MostAmazingTop10	20	1752
+UCqX8tFHGa9rJDQR5Vgd_QBg	DORIS CCTV	20	300	
+UC-AwiIvqGObkVwiGUmYTonw	Top 10 Central Dark	0	0	20	1842	
+UCXXXfFeG3fTPSvWpOsdSH4g	Jeff Campanella	0	0	20	1058	
+UCemj6fzwjj_8C1yJilVKdVQ	高市早苗チャンネル	20	300	20	878	
+UC386AwKjgIgMIimwGzK6zKw	Ians Tech	20	300	20	477	4K
+UCzIO0iX4yKW2P4NkmmKq1PA	9to5Google	20	300	20	1641	
+UClA9ikUW1Or_FlmTnR_rDJg	SimonRetro	20	300	20	821	
+UC9V_-gqJsZNOy4v_HqbRz3w	The Gardening Channel With James Prigioni	0	0	20	961	
+UCsJgYqFlZ_JjSj6ReJVz_FQ	The Product Review Room	20	300	20	218	
+UC45OWitn6BWG20rxLCL109A	Snook	0	0	20	5385	
+UCn5a8OmjbfVdDAZ16eSMaBw	Archived'Case	20	1014
+UCEFLuFv8zCjURzHviRgzotg	리얼스토리	20	300	20	980	
+UCP_fyZ3NtiIsKgwU0KRgYxQ	Gary Templemain	20	300	20	727	
+UCWnPJVZyXndJWt9lVcQnLIw	Trim That Weed - Your Gardening Resource	20	300	20	158	
+UCUGgU3vf-y8gHbzumbzSeMg	Buddy Brown	0	0	20	363	
+UCb_EYtoBVoxjC9G2FGrWRyg	Dino	20	300	
+UCuN9l6AzVVr48PNVnyjLGIA	Watch Before You Buy! - TopFindsReviews	20	300	20	120	4K
+UCHmxkaa_IisHE9G67opsPoQ	Sly Dodô	20	300	20	839	
+UCHYGInw8gb8C2cH1u2xiPYg	The Ambient	20	300	
+UCZVH1Hm_nh9HUTn8GhJlTmA	곰세 iT	20	300	20	326	4K
+UCVlx2F_pCTm_PSnno4ggKtw	WasanNoy	20	300	20	908	4K
+UCcf-CHfcyAadCyZnZ2UlnvA	TOP VERGLEICH - Elektronik & Haushalt	20	300	20	369	
+UCVnxXwnBqufOFi8rqy25VWw	A Warrior's Garden	0	0	20	606	
+UCmwitbrVl9xL75PcaYZ5LKQ	Tech Coast	20	300	20	274	4K
+UCT0nistHM-Ryu_0YfO0OKFQ	Donkey Cam	20	300	
+UC3XW5yt4hKgsMzfdvIxzGHw	AmazingEarth	0	0	20	893	
+UCBRQneNUSdU_bnRXuARdMFA	Lorex Technology Inc	20	300	
+UCVFG337KjENEe57xGNuLyaQ	SecuSTATION / 新鋭株式会社	20	300	20	179	
+UCFsel5Wa76ucyypAmCNyIRw	Quality Mobile Video	20	300	20	410	
+UCXbRVpv-X_zCmj_DCpk6DaQ	EyeSpySupply (Spy Shop)	20	300	20	211	4K
+UCXPMAxlVSkIuj5c8rdSdYxA	Richtige Wahl	20	300	20	406	
+UCSaf-7p3J_N-02p7jHzm5tA	The Quint	20	300	20	1048	
+UCf6ZB5gQWr6wVb0NVhRTxHQ	Mark Reese	0	0	20	1091	
+UCpgty9Km_rAnzOZhwJUVMqg	UpsideDownFork	20	300	20	740	4K
+UC_m2wZKQ-Z_QMZTLFBOZLPQ	Techie Tech News	20	300	20	662	
+UCPr5aScym2v5qR86rwiNXGA	Selectos IT	20	300	20	121	
+UC55hqY2raaKzzKHqAqMExWQ	Teox	20	300	20	462	
+UC3blNNls5_SBMfvu8TPfjLw	viral 00	0	0	20	1579	
+UCMdWpXN4QN-jBiACi9n5VTA	Asen Asenov	20	300	
+UC_gw-r1bA266U0mlddXJ4jA	ThisIsBodycam	20	300	20	939	
+UCeUsTn31ChEin2dDQR2li4w	Bodycam Bear	20	300	20	2061	
+UCdMChcosQoKFC0pOzLNqkeQ	Smonet Official	20	300	
+UCiOmTCan1HRYtZ_wWu15KJQ	WeatherNation	20	300	20	284	
+UCsfVHmTxY-0HDVlbMN7Fq8w	Lauren Seabrook	20	300	20	162	
+UCvjpQSmx5_7364gta_U-MUA	WicamFi	20	300	
+UCW9GQJWmwUjJ-IAxUil4xwg	Tofanger : Unboxing Channel	20	300	20	532	4K
+UC0R6pL4lMcrrmSL9wYTUaQg	Comic Stories	0	0	20	441	
+UCKAxxqJNje18XSCo0UWCjqw	Mutant YT	0	0	20	356	
+UCanxaMfrJzm93mDyU8dbtnw	WarenCHECK - Kaufe richtig!	20	300	20	259	
+UCL0Dbx_KBKSIFWZbF662UzA	DGB Group	20	300	20	884	
+UC0cgXAzcrhlQ1bUneapXxDQ	Gadgets Corner	20	300	20	296	
+UCtbPPRwnfsXAvmBRHL0LUWg	Security Alarm	20	300	
+UCmvqviNx70U0l4ZcvUAXxhA	Top 5 Best	0	0	20	766	
+UCTvNswS3K4CR9vksub9yH5A	eufy Tutorials	20	300	20	274	
+UCNS8QijmVzXxgWndUb0h1Cw	CreepyVids	20	2621
+UCiDuTLuE5oh5ZPH45wPccXA	Prime Picks, お買い物のヒント	20	300	20	736	
+UCmtcRcYDp3B2fEs38ar8eWw	ライフイリュージョン	20	300	20	888	
+UClWRgl85-pp0ks6u5vFP9HQ	Bauforum24	20	300	20	1642	4K
+UCaI0fhScgG93rrjX0J5hr9w	SmarthomeAssistent	20	300	20	1092	
+UC8KwdFvuWwpAPAKuqWh64dw	Vivint	20	300	
+UC0YIB7pYulW7lyeW0Lo8XCQ	Camera Warehouse	20	300	
+UCeGOL-t8YnV-5v8b0M_Dj8g	iAMO	20	300	20	318	
+UCU0bemXPpdTUDM6Yiecx0ww	Hinovision Solutions	20	300	
+UCYKFs-dYqta5ONjwaIiYTsQ	KATU Lifestyle	0	0	20	410	
+UCG7SsVMmJ7g4RMGSSz3lDew	Quiz Channel	0	0	20	458	
+UCZu-uY9vj6uCDvpW_NTAmGA	The Lokey Lab	20	300	20	225	
+UCDmM5w2p8LnaIQ8O2GnKXhQ	おランキングGO!GO!!	20	300	20	678	
+UCgjkecEb2BFlmjHqmoh_Nsw	La Familia HANKINSON	20	300	
+UCRZIP0WWZEi2QT6YSMieKLw	Techlapse	20	300	20	530	
+UCu527dihBKkOD8WsndXP_gQ	Bible Questions Simplified	0	0	20	324	
+UCEm0gdukLIfI9P-LzLy2DIQ	FOX Carolina News	20	300	
+UC8cHt-SAeWJ5En1TNnryCVA	Linda Vater	0	0	20	1286	
+UCAFvytGJRtT_uwaKH-Fc-Ig	Top 5 Wiki	20	300	20	195	
+UCaDBRJTQhIg_QhCkW7SxWGQ	TheUnlockr	20	683
+UCqQFOPM7FDJDA1OoT7ivSLQ	Top Home Guide	20	300	20	309	
+UCXTd_NJldy8tkixXPlXbEfw	만장 Manjang	20	300	20	510	
+UCo2Bp3ENc_GajXG8duQ6JGw	Reveal Rabbit	20	300	20	891	4K
+UC2MJc19aTAUJk7TrbPrMhEQ	eufy Official	20	300	
+UC6C06dhFEgWI56f3caOrqCQ	Topby Toast	20	300	20	1597	
+UCFtKpKJ7zvxPLX4csbhKeMQ	Weby Servicios - Soluciones Tecnológicas	20	300	20	485	4K
+UCZQlwQQ9FA-npql7Y-djOGg	セゴリータ三世 / Segorita the 3rd	20	300	20	905	
+UCaKjtSZXjFLX-vynS5pRuYQ	tuv	20	2809
+UC0fWyGqW2XovKQ8rfZjpBZg	The Scary Cherry	20	300	20	3009	
+UCdAeRRjq6vjnAkxatZVxxxg	RM Videos	20	300	
+UC3nisAt2c173wXsh_QZ0__A	Sodimac Constructor Chile	20	300	20	320	
+UCWcaPuauzqtewGf-STtnW6Q	cambuy.de	20	300	20	264	
+UCP4SN5d6nKClprvhdOZJDgA	Bad Boy Reviews	20	300	
+UCHbjSCOuZoAdgOvnZjPwCEA	Security & Smart Home IQ	20	300	20	475	
+UCnVi7LxpBrmYV22m-fu7Z8Q	燃夢短劇ShortTV	0	0	20	6070	
+UCMO0GxiJsGHogCMoYunumtA	All About RV's	20	300	20	622	
+UComfals_bBr3Yc9-gZEiAfw	AIVID AI	20	300	
+UC-IdN5EFZvzzZGqgul8eXKQ	戸田覚：ガジェット【辛口】点数評価	20	300	20	690	
+UCSDG3M0e2mGX9_qtHEtzj2Q	Ring	20	300	
+UCU-0fQZwCwA8XD10h5_JRLQ	The Hidden Side	20	300	20	1187	
+UCtOgExF2WblOlxtbX55SUsg	Kru Petja	20	300	20	504	
+UCeNKIqylPDx3sIHt67OhUZQ	San Joaquin Audits	0	0	20	718	
+UCdECrTBKajsj-BsCHlfHEVA	INOVATIONALS	20	300	20	1034	
+UCIayn7O3ByxBYfhuXZutJCA	제주몽	20	300	20	502	
+UCD-EH4WltNle3dsHLvVEwnA	AUCOM Surveillance	20	300	
+UCb3LxBOwT67MImN9lkf5Ylw	デイトナチャンネル_DAYTONA Channel	20	300	20	160	
+UC7Wy-UuuwOqHxu4JeVWVX4g	Steve DOES	20	300	20	826	4K
+UCkxG2Pw27sdoMtIC0xycy4Q	でんまる電力株式会社	20	300	20	560	
+UC9upKwLn0ghWefuMHJrF6kA	EZVIZ	20	300	
+UC-9s8vy2U4m9odnXFU1yMBA	동네허준	20	300	
+UCnM3Zz5cc2KkrWu_tnj0C7g	TechUtopia	20	300	20	346	4K
+UCHPLsx1isPz6Lujau1M3bJA	COMPRE BEM	20	300	20	453	
+UCZbQ5capukYbdB9ELDWuN4Q	Unseen Pet POV	20	300	20	251	
+UCW_2-kUlE0l0f_4pGPDMBhg	Strange Signals	20	300	20	251	
+UC6biSOQoQSabnrAAdw23Wcg	Riccardo Muscarella	20	300	20	772	
+UCO4VzMiL_ZpDH1HGOjWtvaQ	Uncovered	20	300	20	805	
+UCZF0FmTrgzRHTMZ2lPARm-w	jaykay18	20	300	20	885	4K
+UCTCMk9I_YW-xjeHEHCXZ6AQ	WebPro Education	20	300	
+UCTYglMDi3W7jnR6aBtemWAg	Soy Miau	20	300	20	203	
+UCJs-osMHzjeJ41VkJb0ICFw	Tech-quisitions	20	300	20	626	4K
+UCPieYP4S8xbCnwwYY5-ZOgg	まずまずガレージハウス by 一条工務店 in 大阪	20	300	20	830	
+UC6Ko62-E2iMcdJ48tBvLjUQ	Apartment Maintenance Pro	20	300	20	461	
+UCfvi3NJqy3QIDuHfYTrjgRw	The Review Dad	20	300	20	714	
+UCOmcA3f_RrH6b9NmcNa4tdg	CNET	20	300	20	428	
+UCDdGCxn-zXFvF2ymefoYNJQ	Trailcamology	0	0	20	1022	
+UCPx7kDsXAFleWPIFQHQCY4Q	TechMirror	20	300	20	482	
+UCEVj9RyLMWjvQUbzeTvvL2w	Digital Surveillance	20	300	
+UCcG4Rr3ohJ0qurzdD7WunYg	Barry Graves	20	300	
+UC8sibhG707qg5AlVlj5P3mw	Momentum Productions	20	370	4K
+UCYyC6ne5e6R37qm0AVe1MMg	Bodycann	20	300	20	919	
+UCKhpW-JWnKrcmTtrOm5GlVg	scholarship & Education	20	300	20	148	
+UCyVDZzuRMWcn3wbaBOrcgXA	Body Cam Tube	20	300	20	778	
+UCvFqvqWI35eQyGUNpJLdTtw	TOP HIKVISION	20	300	20	608	
+UC9h7f8dsFcLUQNYMY6UglgQ	Genius Tech Trends	0	0	20	631	
+UCh6tgKgevBpZ1Epe8XvJS3Q	MESSOA Tech	20	300	
+UCGV72aVJuWP0QPNGH4YgIww	Olhar Digital	20	300	20	263	
+UCBoD9qWJVIwuqFMpImiqqDw	WOW TV	20	1958	4K
+UCoFuP5GUZjHaAy931fCCZbA	Analog Trash	20	300	20	3041	
+UCPOClTqxiMA_lVTVxfhY96g	file	20	300	20	3917	
+UCPhKMwKw3h6gZ8zNG3tp5UQ	Nelly's Security	20	363	4K
+UC3X3cZ20PGo32fHV-5_P7Fw	Yoatec	20	300	20	748	4K
+UCcRjXjxtrgN72Nueyd6RmoQ	Hoodwatchnews	20	730
+UCKrFBY7y1HIJOJhR9g1EWSg	Secure Gear	20	300	20	988	
+UCwWg3lbc1lbeSIsefhesDvw	Rabbit-Senpai	0	0	20	1366	
+UCjdjyjdcdmldCK5XuuWbn1A	AndreoBee	20	300	20	1255	
+UC6Mjg5R5QOJYjrio1JmP8Fg	oompaville	0	0	20	2763	
+UCrNCOWRo9N0fJHhNwIN600g	Cestman	20	300	20	457	
+UCPJK3x_2L_ArY8OmwwvQMYA	Pulse Media	20	300	20	501	
+UCymFBY1aZg14H6jZK7Wov_Q	White Ghost	20	300	20	1113	
+UC1GzrIsvdok2QG6np6k-slw	TechWinner	20	300	20	564	4K
+UChVnf1qG7rS1chSbevXcL7A	Santitan | Technik-Reviews & Tutorials	20	300	20	418	4K
+UCuq4oA7QP7a4ilvIOnGdyAQ	Mr Fails	20	300	
+UCeMtostq9Re1yIOkqAWcwQw	AI Eternal Chapters	0	0	20	6857	
+UCjMVmz06abZGVdWjd1mAMnQ	Tech With Brett	20	1040
+UC6EmR959HIts4gzdt80t3Xg	Mega YTP	0	0	20	360	
+UCu1gR34p_clvpg6wIJSvy4A	The Regular Network	20	300	20	255	
+UCj18JJCI4kNX8ZYQL7f3hYg	Reed Security	20	300	
+UCewglH92gLwdm-jor6kIf4Q	Scam Sandwich	20	2816
+UC23yn4j04_wSQGYlX6ukeSw	Spin Stories	20	300	20	445	
+UCCMfy0ghzQ84BgVoAQ7G8eQ	AdamDIY	20	300	20	645	
+UC0kVx8lpBOPNZltna58Axtw	BAISDEN333	20	300	
+UCTmRVkw2SrQm0bC2P_Bbqgw	쇼핑연구소	20	300	
+UCFD3bXdB_sO0BNOSfk2mx3w	Ivy Circle Gardens	0	0	20	1741	
+UC7Qo3ka5RC-AoU8ySah8pxw	Hot Gadgets Story	20	300	20	571	4K
+UC1wdcmkXNQce-qwINGFPUKw	Product Verdict	20	300	20	434	4K
+UCHgI_MItRWEKLX7lKz7Xn0g	Top 5 Unknowns	20	300	20	2447	
+UC3c4kGDD4hSmjsIIJ0DdpYg	Bertha Africa	0	0	20	5026	
+UCfjvEhw87LGduwCUPi6jkkQ	Times and Democrat	20	300	
+UC6GBQeLZbK1qn3mpDPKjZKw	Sam and Colby Reacts	20	300	20	944	
+UCQe-5NGYuUl1VMvauj20fRw	ลองให้	20	300	20	1131	
+UCAi_4-apx6TTHVDVyj9X3bQ	ReachMora	20	300	20	360	
+UCkbVhdFggajsiVe8JAwiUow	TECH Genius	20	300	20	447	4K
+UCiBug1rhhIY5lR4Berdnmnw	ipvision.by	20	300	20	422	
+UCFiDpQsqTWz8H_CRczq9mLQ	Ghostly Grotto TV	20	300	
+UC7os7y-0gilHnsNNKCAlnsg	Smart Outdoor Home Security Camera	20	300	20	131	4K
+UC2Bz8MkHXZgCdi6voGQ0v0Q	Beyond Evil	20	300	20	2332	
+UClA4mspeAMaFzHQpvufaiNg	ColmeTecno	20	300	20	541	
+UCc8ACUpd_ZutCunMqQmi95Q	The Home Depot Canada	20	300	
+UC0QRG-gMqHhF5-BPdmJfs1w	TT Technology	20	300	20	481	
+UC5yZKb9-EkvkxvX-fGgtjhw	BlueCamBureau	0	0	20	891	
+UCwAdR1g7vrAJjh_SwYIu4xg	Camera Man	20	300	20	1279	
+UCrRDWpuotrnxQT9xu7QjaDA	VISUAL NINE	20	300	20	3601	
+UC01X7clAH7RBkAur0COYU1Q	Bone Tactical	20	300	20	866	
+UC209CW0v-DTZupcdru4hL1w	simone 111	20	300	20	293	
+UCt8WWr5ogoTV-OZIiFCeR_g	Tech Watcher Now	20	300	20	169	
+UCzGVNkxkhySBwKfxPv_8VZA	RBN Bodycam	20	300	
+UCmVtlSjkPS9M5roX_KtR2KQ	Chilling Nightmare	0	0	20	864	
+UCiM3Dk2vxb4JlI3hvpsg4Qw	Top Reviews	20	300	20	572	4K
+UC3lYJD8nbEXa3mQwV4gYqHw	Jungle Explorer	20	300	
+UCxm4UwriiF_GYrWXmhe7J_g	KMIZ ABC 17 News	20	300	
+UCUVPX_rHwCZ6drs9jyhP-8w	Tech Hack	20	300	20	246	
+UCaQSlfXVJAOE7wJYSIfOM9g	TechOffside “ล้ำหน้าโชว์”	20	300	20	524	4K
+UCdlTdDZz8jL3z7APQA5k8pg	Surveillance Experts by DSMLA	20	300	
+UC882n8r4o21seZieluj8vVQ	Fc Vids	20	300	20	1394	
+UCB57yiVx8sobM2vQCRMDpKQ	Paulo de Tarso - Segurança Eletrônica	20	300	20	1720	
+UC1Q4fKuozcI5yqyjkSWqBfw	The CrimePiece	20	300	20	752	
+UCQFvmd1tcYe4ZIw-Bqf3aLw	Body Cam Watch	20	300	20	895	
+UCCkIGY6CQou5wdWz19z_zCg	Christine - ParanormalTV	20	300	20	907	
+UCyv2zf_iMuy0t7htgfSZsxw	Test and Tell	20	300	
+UCBbIb7eYDMr62W_-L-Hrmgg	ゆうき工房の外構裏ワザチャンネル	20	300	20	936	
+UCB6p3i-OcLkg9kq6agBV4cg	Xring3 LLC	20	300	
+UCKlDKlgru8KFzPMJeYuKnrQ	BlinqBlinq	20	300	20	286	
+UC2x8AzQvFjDlw43CKP3RWww	첼리팜스토리	20	300	20	495	
+UClRmpQI0iKAad46tXkRMM5Q	Mohica Creations	20	300	20	792	4K
+UCBU0SoyQRFlxZdxoOiHPTYw	Storyful News & Weather	20	300	
+UCb0XwyDn8f037IBU8JetWfQ	First Alliance - www.faps.com	20	300	
+UCLDLcIcdHiHxKRtQa9BTZ4g	Mitnights lastbreath	20	300	20	1607	
+UCgWqDN4PaQa3PTe-qiv8pXw	HateHilal	0	0	20	1329	
+UCaqe8FwSxvplg5sp_tdI3fQ	Bodycam Ninja	20	300	20	755	
+UCd_Taolo5GMpclQ4_npZ25A	Crb Panther	20	300	
+UCupw078JKouoF-6ZjEsR5Bw	Talk On Tech Solutions	20	300	20	470	4K
+UCDroKO5y6YK_kncTby_IXfQ	庭ファン【外構の大学】	20	300	20	1000	
+UCuzgAbIbNYUy5mUEpMMIxRA	Central Jersey Security Cameras	20	300	
+UC_gGBK9v36vwYjZphlA6tBA	RHINO Lawyers	20	300	
+UCn0jLusKVYk9rMG1gK4Ruqw	Secret World Files	0	0	20	1248	
+UCx-wGUwjCJYzTGD76N-lbig	June Love Tech	20	300	20	187	
+UC-wqtEPRB2MyUEbLDVnk1zw	OpenSecurityFootage	20	300	
+UCcBUzxqiWJE0rmrJgL5gvyg	Eaglephile	20	300	
+UCOvSrRy-Y7cIbXsdd_HyYcA	씨인포	20	300	20	261	
+UCQVezpgfqPy9_pYVAXj6LyA	News Guide	0	0	20	199	
+UCV3Ar1Mb7r1_dFmpNA19QuA	securitybros	20	300	20	432	4K
+UCHrtDyCVENgBcwClY3YFUlw	SpecPrice	20	300	20	521	
+UClDAdF7QCpKHLrE3F_VZjrg	Huckabee Today	0	0	20	597	
+UC__spnljoqvOVYaMTMsSn3g	Stu’s Reviews	20	300	20	945	
+UCZz0VeSyk5WirfkiCR4jXfg	edlee563	20	300	
+UCVTDqKGUUvbmaVzyFwGqZYg	WDRB News - Official	20	300	20	143	
+UC-nHQIlX7u8o1-bUG-14h6A	Come Wheelin’ with John & Christie	0	0	20	1322	
+UC9E9xLgrgWm92To_DJtmXoA	Security iCam	20	300	
+UCkqEX4I6XYfiOZ5zIwL7oag	Which?	20	300	20	1246	
+UCQQGzu97qKkMWGFLJe3XWEg	SORKORdiy	20	300	20	779	
+UCySPETZPynSo-O4rdicM-qQ	TuToTV	20	300	20	646	
+UClW_Xzgr39UUQAiX3QViqIQ	motomuse	20	300	
+UCFFWeoXWDCyBj7_DvDD2edQ	Kiljah	0	0	20	1024	
+UCtUVqO8NgGWqKjH2pWbA1lw	sourcebrew	0	0	20	13279	
+UCoxjav_47RpxVF7HZy-DBxA	Wild CCTV Fun	20	300	
+UCevD0EseIJtVbrJWxmO1E9Q	PROLife21	20	300	20	809	4K
+UC7JqpCGJj1LuVu_DkODF6LA	ABC Parenting	20	300	20	146	
+UCiIVot3G9fFiKBTQB9THP7w	Smart Home Nerd	20	300	20	373	4K
+UCwH0CbGwujhMGmbrIV4tHVA	TOP 5 PICKs	20	300	20	427	4K
+UCqTjEaU6ql4a2C2wvaNs-rw	AliPickTV	20	300	20	134	4K
+UCsLvlBU0Hx0YSUu7jWZIpvg	TechShare	20	300	20	420	
+UCZ8vmJ5KT4XC7fLvuXTbOqQ	Battle Team	20	300	20	250	
+UCdJNQfVFlrRbfB3SQTM0KCw	The Front 40 Alaska	0	0	20	685	
+UCIex4XhBBm9VPJx7Jk0sb3g	El Mejor Producto 💡	20	300	20	531	
+UCspQie3i29iIFbCgfGisO9Q	The News Minute	20	300	20	1336	
+UCFaIiHMneg_z7gpb9Kzz9Bw	Smart Baby Buys	20	300	20	365	
+UCpn_ODet9knMmEj5DB0_KnQ	Kanel Joseph	0	0	20	1322	
+UCfsDNqVF9G0F22WbvfY2noA	캠앤CCTV	20	300	20	156	4K
+UC40ysd4UTgdVPIW60Z6BQDg	NWSLouisville	20	300	20	468	
+UC7Z6ais32rsEJQNgK7P42Wg	SCARY COMP	20	1744
+UC6H7XxvenQFRAXA_b42BQ4Q	VTech USA	20	300	
+UCXCYNVEXJcUZ0VxqZiUPeSg	Kaufberater Kanal	20	300	20	602	
+UCVjQbVA4PBa6AB0gYxxC5Tw	Security Portal	20	300	20	201	
+UCm3mQEAHXXAV6WOd7KK22cA	Patrick J. Hughes | Vietnam Marine Photographer	0	0	20	481	
+UC3w5qsZoX8dRoE_3MST0EbA	MyBestOn	20	300	20	126	
+UCquwd3xBZPul-qGUNcpbRfA	Bogod	0	0	20	401	
+UCyDCtTCcomOTKL52T2xyiKg	Growing In The Garden	0	0	20	1275	
+UCk5NPQ6EtVqGJfO5Lr-UnGA	Askdeb Reviews	20	300	
+UCDhPiDSDgU3Rz0CVGC9Qwgw	Stockdroid	20	300	20	1656	
+UCtKez8HRKOEE4NmUKyY096g	techstube	20	300	20	321	
+UCQJY-WTEcAdtDgRumET61wg	Amazon Japan Official	20	300	
+UCLQorFDhblNtFsUc7yPW0tQ	50 Police Body Cam	20	300	20	1340	
+UCk5VQQ3DQatFU7PDZAQF7_g	Going Viral	20	300	
+UCRLY8rpHpGBlL-47-GBXCHQ	The Kapulu Standard	0	0	20	1073	
+UCebo4X63pDG6lz61Ya5Q27A	AlfredCamera	20	300	
+UCbJ8oD5Gmh6CKv0GPpXpK8w	The DIY Guy	20	300	20	1187	
+UCoE62aZBzQrkk-I7ityANzQ	Simone Nobile	20	300	20	680	4K
+UC_EIMdaJ2WppiAaVIFj7XJA	Haha Life	20	300	
+UC6ygB5M3qnUNzbvxnNf6IRQ	Qubo - A Hero Group Venture	20	300	
+UCtrsxzZDd8cOjyn_b_HkVuA	Swann - Security You Can Trust	20	300	
+UC0liguJai_5EFZmhjeL7m0w	น้ำน่านทีวี รีวิวกล้องวงจรปิด	20	300	20	761	
+UCnDzoCsxl85I6ilu_RUVLaQ	Les Dénicheurs	20	300	20	509	
+UCqnrCi6DlOrkF9DPbjoIcAw	Dantavius	0	0	20	2865	
+UCt79ZE7F9M7G-Kbu1cLuBwA	Reviews Point	20	300	20	334	
+UCCT9brdmnIp7U2cv_ya8ftw	Security Cameras Installation Los Angeles	20	300	
+UCkbYVbiiqXp-OeSHSW03DDw	Bodycam Case Files	20	300	
+UCtwCYfTlzosoER4wSeqRNfQ	Tech giant	20	300	20	555	4K
+UCSqC3LaE2eEj8lq9TL-YZlw	TheJPCorner	20	300	20	451	
+UCfMfWxGL3pGNmDE9poQSTag	ALLCHECKOUT	20	300	20	275	4K
+UCd1WzwZ430IzBAjjoYQglGA	Verisure Italia	20	300	
+UC7-HANqERHxkbZo1QMaPlQQ	오근 Ohgeun	20	300	20	259	
+UCvU3GpIlqhoO64SKM53LEYw	WeLoveTech	20	300	20	810	4K
+UCGiE06cOR913YkFmUl2_rYQ	Blink	20	300	
+UCF6qPqyk6U5rOiodEjY6GmA	TECHNIK & ALLTAG	20	300	20	156	
+UCSeIfMDiZDs1yvm4HHRCxhA	Define Explaining	20	300	
+UC5TEC_au5nWJIu2uPYhjtAA	Underserial	20	300	20	668	4K
+UCVxBA3Cbu3pm8w8gEIoMEog	ABC7	20	300	
+UCvoiXGD8UhXXKzbI-tYo_Ig	We Are Iowa Local 5 News	20	300	
+UCXOHKTKnu4yk0bTVP3fTI6g	PickNest	20	473	4K
+UCHAr66RNYKxWEap6ugn9rXw	A Gardener's Journey Homestead	0	0	20	1811	
+UCRBkeTSd6eoTpGrkiK9-Ybw	BE Epp	20	300	
+UC1I7PGYs25mImiscDGAmGug	Seeds Of Talent TV	0	0	20	1560	
+UC2c0mrWsOLts3U9Z44oXH-w	ビックカメラのB面【公式】	20	300	20	385	
+UCdtQ9-o0DPn-DOygMqo20Rw	Tecnol charlis	20	300	20	357	
+UCjtIij1WYaQqZ9wsw4uCrIg	Leo Hashee	0	0	20	5397	
+UC2mhTewm1SjghNRpeVG8DbQ	Zions Security Alarms	20	300	
+UC7whQa7kJf7AlZ40YHS8csA	PVS Security Integrators	20	300	
+UC-_WgWWzEGJcfYjJwM9s6Qg	Animal Talkss	20	300	20	210	
+UCVYkitqmdE9XaLXhtwuSj5Q	magi	20	300	20	901	4K
+UCGYDig6vsDraUC1F-Bd2ZfQ	Hubble Connected Support	20	300	
+UCdmGjywrxeOPfC7vDllmSgQ	TecMundo	20	300	20	604	
+UCW5obdT0iI_3JApG3iAm7TA	AcquireVideo	20	300	
+UCgxVtMfYggYyhI5ZCKmBv8g	Mama Cheat Codes	20	300	
+UCWwGk9GQePvGcH6Q6DD7lHg	iNewch	20	300	20	1173	4K
+UCsaH_yBrLlBhy0tirv6f59A	씨디맨	20	300	20	435	4K
+UCQlpWa6yjhoExziyC7_EdAw	꿀템분석가	20	300	
+UCCXoCcu9Rp7NPbTzIvogpZg	Fox Business	0	0	20	363	
+UCzKm2m24ZV0aOSUy7O0R1kw	Rogue Encounters	0	0	20	1329	
+UCuAyuOQP8zwP6xxg_RrP93g	Tr-Android	20	300	20	1074	
+UCWsi0qfIRf2-eFSODXqUVfA	GetSafeAndSound	20	191
+UCFtl8e3gGx1STcwhOP1Bgdg	Quick Evolution	20	300	
+UCh3n6weaGYedZf74AOTre9A	Top 5 Best Picks	20	300	20	530	
+UCW_wOOOnsFjQ-oNxAVQw3rA	sintax77	0	0	20	6200	
+UCmomg9UXsci5lnlL8SxVoaA	Handy Homestead Reviews	20	284
+UCYXlRJxXcBmE3uuKyC7JaCA	Alaska Cabin Adventures	20	300	20	2323	
+UC-bk3CDvTwt2TqPHykduhcQ	UnoTV	20	300	20	197	
+UCBmaguWr8ng3t7uGT_FBFTg	Is It Worth It?	20	300	20	625	4K
+UCbOC8IXduLO0ndwSSxuQ55A	Smiling Gardener	0	0	20	340	
+UCHo2FZuPMMIljjPuSx0HVIw	bazdaddy	0	0	20	1633	
+UC0_AJcFkLiLQ2RZReO49xCg	SpmZone	20	300	20	530	
+UCX2mh673YYeJQgrXXxJGuYQ	MVPerry	0	0	20	350	
+UCXmgJbg44VutDsHtX-r1UpQ	Top Review BR	20	300	20	615	
+UCRdQojAhKYZ1CzpC9kpHbnA	씨읽남	20	300	20	512	
+UCDmp7UOIsD3DbCE1gXjUb-w	tk10zone IT	20	300	20	306	
+UCUsLUZWMVFVlEStTb3QxAag	YesTechie	20	300	
+UCORsaHSIP0Sn6QHKoetvNBg	추천박사	20	300	
+UCRytGrSNvdP6qn4nWuBX7_Q	itpower	20	300	20	340	
+UCjUBZDwUzZYmEKcFT1IL1HQ	SupaMario81	20	300	20	793	
+UCeH6qE4V7n5tVwP7NkdrtJg	The View	20	300	20	652	
+UCDtF97nzfQ9upHhV8PFGMPw	COMPRA DO PLANETA 🌎	20	300	
+UCbbkVm6bckt9PveeXDH7kvw	롤윗퍼 [Roll with Fur]	20	300	
+UCrJdCKIddUxHExmbMN6gZ9A	Wartime Stories	0	0	20	2532	
+UCefdnFk4AI7Ja8r3T_Iil2g	Pet Needs	20	300	20	1349	
+UCk32kXFZBfCJyFRhjSpJfFA	SonikBoom612	20	300	
+UCFgFRk_6jae5D6KUokxIPfg	WTNH News8	20	300	20	133	
+UC-tvirGhzgW0COFrpUiciqg	マイベストのこれヤバ!	20	300	20	1324	
+UCw2-2fWWHX9Ks_O3tCrREBA	NGMS Bulldogs Volleyball 2021	0	0	20	948	
+UCz5EIrDJuuYRH_mNUexg0Eg	South Bay Communications & Security	20	300	
+UC8xUGXt_BRUm0sZzw9PkzjA	Ancestry Lands	0	0	20	385	
+UCLQs9pfF_xV69tHFpF__Zag	THAILAND SMILE	20	300	20	1023	4K
+UCpTjQU3-XM0QwmYEt8tqD5A	EE Store	20	300	
+UCBtR7ynKM9odz-PW_7uyzDw	SevereStudios	20	300	
+UCMbD1URVqg_qJhC149vNZNw	WEATHER INFO PAKISTAN	20	300	
+UCgnEeyhnqRLBcc9c4oS0itA	top trendz	20	300	20	238	
+UCMa9jZax_f-POnwGyupWkdA	DOORBELL MANIA	0	0	20	1115	
+UCKb3rb7GN1WHXs4LBpbGErA	67Lab	20	300	20	1253	4K
+UCYUvL1xXhbDWsnzNMrIfzng	True Case Files	20	300	20	2032	
+UCp_3K4wc-PwzN5szPQuvgMg	DOORBELL UPDATES	0	0	20	337	
+UCq7rxQGZQVS0u1JsISRvJtg	Tickle Tickle	20	300	20	959	
+UCQLxT-gl_u3KDuexkEGLOkw	Bodycam Files	20	300	20	719	
+UCRrjCcK2YNsEqHf9pyEUoOg	다봄씨엔에스 (DABOMC&S)	20	300	20	594	4K
+UC1Aa6hCZCW79Q8aWvDft-aQ	애망이	20	300	20	481	
+UCp-Lh09dB3KxWptF6fPpbvg	Evanston Tan	20	300	
+UCGZXE_S_4gDl_OzsSVwFAJQ	eos Business Surveillance Solutions	20	300	
+UCjXY4kWVObjoS7sSu5Ai8Sg	Mr Imran CCTV Cameras	20	300	20	756	4K
+UCmMGvGIG4YhbHdCYtnKOiFQ	World News (NewsBrowse)	0	0	20	410	
+UCbMoDtZ6Ani-eyHzCvxeVCw	Wham Baam Teslacam	20	300	20	1817	
+UC_74cZqwx2-NppYqrq824UQ	911Studios - Shopping, Gadgets & Tech	20	300	20	576	4K
+UC9dqhHYDNC9ePyxBzUtVJsQ	El Real Top	20	300	20	617	
+UCOZlALOP7ZqodgQgH4BybqA	The Gadget Show	20	300	20	1542	
+UCUvEpOhD1BYa6J2dPZbEtTw	Tannerites	20	1746
+UC5yXB_ThsufRJYMRlzIGoeQ	andreagaleazzi	20	300	20	857	
+UCsBGR5UR7UCyLvNbHSxisFQ	GYPSY TALES PODCAST	0	0	20	10767	
+UC-CP26tozRRBob2PBhoLAJw	unruffled	0	0	20	187	
+UCNv7s85UqjRKtHP3XB92JFw	Dragon Animation Club	0	0	20	8676	
+UCBwKHrXeL4m_BuUrXPlXqCw	CafeMom Studios	20	300	
+UCKWzNf6ndGEE5beoO29hZwQ	Royalty Consumer	20	300	20	998	
+UC2zp7AWsYhZaGmYTjP8hZ7A	Un loco y su tecnología	20	300	20	834	4K
+UCBBg4NgLyhc8vUyhbcLYV4w	YouWitness	20	300	
+UCnwUjPK7dXety-AJ4fNw_RQ	The Paint Explainer	0	0	20	1012	
+UCGBZFFufYgUJ56MCvfyAXfA	Police Insider	20	300	20	874	
+UCw185nSrRQ8kW1uFO4l0CFg	AppFind	20	300	20	1468	
+UCo7MXycKfjx9Oygj4eyMLuw	CCTV Camera Updates India	20	300	
+UCcZfyTVa4IB1HRqv_oNSd7A	CNY INVESTIGATES	20	300	
+UCtndtv-7n_nvkE14UN_6rUA	THE CRIME FILES USA	20	300	
+UC3_96pUwkNDYVKizUNhF4cA	THE CRIME LENS	20	300	20	168	
+UCG5m78YkMG-jUs6CRUhaa7g	뭐든다있소	20	300	
+UCoYvYT90bdmv-_yRSb8xDSw	Safewise.com	20	300	20	580	
+UC3lD3vP4Oo5ix8YO0-vfGYA	Setup รีวิวการติดตั้งง่ายๆ	20	300	20	336	4K
+UCqy46Z0YZWAH3rel1uGusjQ	The Animal Fest	20	300	20	339	
+UCTdzcFC6sviYlFatClJhfAg	Abiding By Nature	20	300	
+UCgJ6Y0sqr2erv4t20DOS7ZQ	Wham Baam Securitycam	20	300	20	636	
+UCUrOiWNxToKekaxJ22k9Rpg	Robox Academy	20	300	
+UCenKYNZ4yAl2jpE8wR7X2Zw	The Dashcam Store	20	227	4K
+UC58EhoElsFqA7ZQJIOqJ25g	Stare bene a casa	20	300	
+UC_hSjGOO67A6gIDUcyuv_8A	Infinite	0	0	20	1286	
+UCuP3YibzczxjwuvxMzJdp9A	快適ライフ【便利で快適な生活】	20	300	20	516	
+UCdUVPNoYGWmxJXQCNpBAznw	Recensioni per Scegliere & TRAVEL	20	300	20	586	
+UChStfPQJoxmZIqJcSzaF9Jw	Daily Quiz	0	0	20	1664	
+UCGRryxFxjXbVAtBPE9EbyMg	Joe Bartolozzi	0	0	20	1909	
+UC3bDCaZxzsHgwZ7dEBszH3w	espymall	20	300	20	134	
+UCtmEArToh11Rr48C1krd4wQ	The Best Selection	20	565
+UCpIUKbFarxW3wNfRoMVjd5A	Rank On Top	20	300	20	498	
+UCCQFP_5qJ5iKQFaDjQpBTUA	My life In 60 second	0	0	20	780	
+UCvuDhrMwzIwRZd1dj9bXsBQ	Google Australia	20	300	
+UCzbzslGpV539gTnNEzqXabg	Shopzia	20	300	20	196	
+UC-PFZ0wF1iu12Z961Cokxtw	Interventi Multiservice	20	300	20	388	
+UCtKmt0JxMkS1n8-gpV7FPZQ	StoriesTH	20	300	20	138	
+UCLvE-H83gAuhSBy9q1fukaA	Southport TV	20	300	
+UCJW9xIhtsq_zoENXeT_C-PQ	Caputi Wine and Liquors	20	300	
+UCDK60wIO3ozvj7fpAGjcPhA	InTheBackYdwithAj	0	0	20	176	
+UCCjmhDDGu2AsS7s1ymK2OhA	TECHATOP	20	300	20	574	4K
+UCXUvomi0JnfPVTMQ1jfDOxQ	GatoCam Smart Home Camera	20	300	
+UCVUBOs3KDBgI01XgECLvkHw	Busted!	20	300	
+UCbRv1C1vbd_9UmHCkfXTkCA	CAM	0	0	20	1154	
+UCgZneuDnLKItwzVkXLI_rUA	Philips	20	300	
+UCLBkRTLrdR5v3JOUGtkHejg	The BeefMaster	20	300	20	304	
+UCjQs4Fx_j0tBbzi3ccfHJlw	ALLFA TECH	20	300	
+UCFsjnsGHRjnZrM2KXX4CF0w	CANAL DO JEAN	20	300	20	458	
+UCEEe0UZ4ix-5GPF26wMAC2A	Serious Security Sydney	20	300	
+UCo-vPTowDNai7Xj9thXnY0w	Buried Soul	20	300	
+UCK85-l-o3BKS2fry_cY3-DA	PulseTV Deal	20	300	
+UC1EFJJJyXa0h11EA7tqIHBw	Tool Wizard	20	300	20	1503	
+UCM55amrwGoz4OnNwzoUJSSA	Aseke Animals	20	300	
+UC0ggS8bt4v7NiZpDfGqNpZQ	ExtinctZoo	0	0	20	1235	
+UCNX96DdAsMwIfV19bnQvi8Q	Spooky Realms	20	300	
+UC9yvwp6Ve3VjRh7QML_c5uQ	HomeRestored Security	20	300	
+UC25yB6lrI_AjKhdnFhIntzQ	Tech Evolution Spot	20	300	20	167	
+UCBNn0hknWKfeXhmbnz2vQ8A	Creativ Studio Footage	20	300	
+UCXanW0JWPKMi7b6pSzgIzBw	Nikola Jovanovic	20	300	
+UCMQN41dGl95izFSaIFwSoNQ	e-con Systems	20	300	20	378	
+UCeK-WtMnxma1QVk2EkN3omA	The Den of Tools	20	300	20	1342	4K
+UCCadBjYJlCIBf7gbaP2t0pA	세상의 모든 쇼핑	20	300	20	293	
+UCJ4LUmdqgWb6UgBCHqRYqww	Appalachian Wildlife Trail Cams	0	0	20	1775	
+UCwf8A7L7b-aGsWe7AUrvvOQ	Reviewer Family	20	300	
+UCSr456YUwRS9ruIhTltBVDg	아이엠템 (ITEM)	20	300	20	250	
+UC2oUozWsZOekq8C4WR9yVYg	WildLife With Adnan	20	300	
+UCtT2VnurQKOAA0I1EKKHSPA	TechMagnet	20	300	20	752	4K
+UCsKoK2I0iDWtbCvRzGTnPTQ	Caspersight	20	300	20	2399	
+UC4j6HIHXVzUQeouX8ZzaZ8A	Yukon Wildlife Cams	20	342
+UC_bc3zjhJWOOV_KZmVkvO9g	ViralHog Vault	20	300	20	1085	
+UCdKC-dNJnNqwXj73ccmfvlQ	Security Cam Chaos	20	300	
+UCgMc3ErVX3BF68BuHg7zH3w	Western NC Backyard Trail Cam	0	0	20	1181	
+UCLeeA4CbdniFbo5TSuJoCmA	Nine Infinity	20	300	20	421	
+UCCik4MYRuLgL06ZMgQkWodA	씨쟁이TV-CCTV&광접속	20	300	20	410	
+UC-8udhbheRG8eg3s-6AFmXA	ともさん	20	300	20	1001	4K
+UCaNLlytdpsDYJxwr9HFvE8Q	Critical Reviews	20	300	20	139	4K
+UCZBm8Wrlm3RkCex4Ct2EVHg	Decisione informata	20	300	20	517	
+UCM1jNA8DM90LE4ywxBe8RmA	Spiel und Zeug	20	300	20	1149	
+UCVPz_nauEJpqPxxvYiOpCHQ	カズチャンネル/Kazu Channel	20	300	20	1268	
+UCdeWgeYrNHC2UEFVcdZPGuQ	David's Review Roundup	20	300	20	263	
+UC6RaExNn5MO61yyq9XlcpBQ	Josh Breslow	20	300	20	177	
+UCojNA7ZvnmGuIvYnm44wl3Q	WLKY News Louisville	20	300	
+UCxAV_IrcapJEHCyufrH0LuQ	Crano	0	0	20	1983	
+UCH0oxLuciUzak-hccCF4toQ	RECO	20	300	
+UCFLjR7-fU_xo75Cx8PhzAxg	Wins Parking	20	300	
+UCVx63iRCbRdh2b8ZvyIRXmw	Wild Encounters	20	300	
+UCper-NWj8xdXacSpFtF4Mgg	Intel Cams | OSINT	20	300	
+UC3LYILpFTysrYmQ0S7Ufrxw	Omaha Gardener - OG	0	0	20	588	
+UCG88IWZnwe5cjsw2RH7fQOA	365 Security Solution	20	300	
+UCxJiTUde7-7wnjH_AJgz1gg	Zero9Uno	20	300	20	597	
+UC4odhKK9Vyw7xL-YFP8S7xQ	Best Buy Canada Product Videos	20	300	20	431	
+UCHLOSoCgxLLvMZOoE2F9EKQ	Avant Coast	0	0	20	403	4K
+UC7YtNK-3zubrvlQcQ-0efSA	remoplus	20	300	
+UCZyEezCCIXlCYUBpJ7qE5ng	Fanny Mis	20	300	20	376	
+UCjXiV5brn8tIxHeLTtNiezg	Brand Investigation	20	300	20	410	
+UChd1FPXykD4pust3ljzq6hQ	Thinknoodles	0	0	20	2233	
+UCwGX2cE21VPBEJ49hcprP9w	SupraPixel	20	300	20	1015	
+UCcUr_9FT9kFwSY_iP3Yh8Ig	eSavants	20	300	20	940	
+UC3s0xujKiaQWwbDRnQDzUQA	Restoration 2R	20	300	20	2069	
+UCWmlRLAOpx9f1t_cVkBx8-g	Google Nest	20	300	
+UCvd12QePqaLfM9ezfSscjkA	Zim Zim DIY	20	300	20	352	
+UClEpVC3kPBQbhjblGabAHKQ	Smart Home Point	20	300	20	423	
+UCHZ5BYFiErHCu70xc-vzq-w	La scelta giusta 911	20	300	20	413	
+UCCnQOrN1ys0Rl3q9I2JTs-w	Top Tech Now	20	300	20	670	
+UCDqoeeWJSingko0Vky3Upuw	IT Magics	20	300	
+UCgOcPePLQWEZf8wlMRGu6SQ	Outdoor Central Pennsylvania Trail Cameras	0	0	20	264	
+UCeRWWEncKHGMnWybD_8d58A	 고군tv	20	300	20	369	
+UClKHxi9jhTC7F3_fp2xsX4A	Product Review 24	20	300	
+UCXab5AWv4FVoGCoVqDTq36w	DELTATECH Calgary	20	300	
+UCd0FV9po8lRLTrak7AMRJjw	Reviews Unscripted	20	300	20	172	
+UCQ6Quy5gNLVmks8tyXlKIRg	Vicky Mansfield Photography	20	300	20	1741	
+UCxpLIQbKlqBmNVz4r-mGu6Q	WiFi Campro	20	300	20	362	
+UCy_xEIlqFY15CsrHVmeMTTQ	Star Treknologia	20	300	
+UCckgpErYDjHa6k2nblMKIiw	나무아지야Tv	20	300	20	488	4K
+UCsmkvuz3kECtIvyQBeipnkQ	Alex Teo	20	300	20	695	
+UCxHJ9uPekyav_F0anTxvWxQ	digitPro	20	300	20	256	
+UCJOSOBEMfZh7a-fErDJO0XA	TechVergleich	20	300	20	445	4K
+UC5diN9y7R9vQVtGBVOw3UGA	Task Nexa	20	300	
+UCIQKW1CefgMhX8T7WyzlaqQ	TechOrigin	20	300	20	765	
+UCMlPmq0uZP4m1Azokg_LG_Q	Top Compared	20	300	20	233	
+UCr3zseJE_oWODbaDStGIayg	LifeHackster	20	618	4K
+UCguq_xuHZPI40RjNxOeRyyg	The Solar Lab	20	300	20	637	
+UCGS_OKZwBraNQGAduRxJ0ug	BodyCam K9	20	300	20	915	
+UCKBIPT-IevZPEDIYCtbLnPg	TheTishbite	20	300	20	1656	
+UCjROSgyi1aBC7yw3U0J_BuQ	CamAlert: raw and real life police encounter	20	300	20	1421	
+UCXAHpX2xDhmjqtA-ANgsGmw	Ezvid Wiki	20	300	20	248	
+UCq3lBBcYx_mc6g6W7gjiSMQ	엠제이네	20	300	20	132	
+UCx7awszH1_xk-dqW8lnJRmQ	makingatruecrimerer	20	300	20	1996	
+UCxPPgRYHH1NSp2Ya_ROiXxw	TimesLIVE Video	20	300	20	1413	
+UC_sSJZnJdsnjuAKdr95D9HQ	David Manning	20	883	4K
+UCgbMwWWiNhBNLBt2zPKCjPQ	Les Binns	0	0	20	645	
+UCg76B6yTvVU9lcXKVljt7_Q	GearBrain	20	300	20	131	
+UCCcsVxb3uwbl_3A1nhE8Efg	Veslinov Predrag	20	300	20	221	
+UCzc4Icr8K53iz2k-GdyKn_w	くらしのマーケット大学	20	300	20	584	
+UCqfcTXEuYjLoiFlrJ0KD8Lg	심사장 SSJ	20	300	20	888	
+UCoAfOthCw3NVjyUrr2KW7UA	DOORBELL NEWS	20	1403
+UC4pMULJwfSW1EeUmDYX8KPw	Top 5 Picks	20	300	20	529	
+UCxEvHdkjnHupIMyH0strRsQ	Ultratec [Jesse Sanchez]	20	300	20	462	4K
+UCIeBUqKF1MXINhq-_WxrILg	趣味のDIY作家 やま	20	300	20	1161	4K
+UC5aNPmKYwbudeNngDMTY3lw	BNN Bloomberg	0	0	20	1018	
+UCQ43SShEJwa1ToRfl4GPXEA	HelloBaby -- HB6550	20	300	
+UCrKKuub2chJQdcCF3ZsCXmg	Tenoreinformatico	20	300	20	453	
+UCs7DZcUJebuQWHxgm6XEcqw	CAIQUE DAS CÂMERAS	20	300	20	581	
+UC3cpN6gcJQqcCM6mxRUo_dA	Wendigoon	0	0	20	9262	
+UCIG1k8umaCIIrujZPzZPIMA	Made by Google	20	300	
+UCDUNKr1hbm8wSDzQfQabCng	Hertfordshire Zoo	20	300	
+UCjIxD2JsiU6RmvOXaLNthHg	azcentral.com and The Arizona Republic	20	300	20	138	
+UCU_s7vuAI3GGAJgOvXC6W3w	WSBT-TV	20	300	20	867	
+UCIbgiA7B8yJ3dHJ5T6W1M0w	Defend by Tactacam	20	300	
+UCzX8BaDLzuumeZCSfqaQnwQ	Tech Gear	20	300	20	794	
+UCwl4XbTfjlX7HU9oztvj-7A	Bankai Kwang	0	0	20	1097	
+UCi2nPWy6QtemrJQE8upEFHg	Tech Deals Review	20	300	20	307	
+UCkaJsBa8WFk_YqMbdX_Iy0w	Gadget Workshop	20	300	20	410	4K
+UCilozRmkeVO5tc3jJaIosow	Ultra Weird	0	0	20	540	
+UCAyaoA4CnqhdlXHYfO4agAQ	Wildlife	0	0	20	543	
+UChQxrbcXcXjdmtV77VncYng	Nightfair	0	0	20	1976	
+UC--m41E9RPdNHolx5sXhtBA	Camera Lab	20	300	20	570	
+UCypQ8hJKXxd9qtFA7ZQrUsg	WHTL	20	3245
+UCWaVJA-cI3X5-oWlfNITXrQ	Confrontami	20	300	20	712	
+UCxMXl9L79X1Mq_4iwCOyPFg	CBS TEXAS	20	300	
+UCyOFueecEHmP8-r7pxijlww	Little Moonbeam	0	0	20	508	
+UCeBKDAW7s_WzzMLYav_W4pQ	HDCCTV Cameras	20	300	
+UC_a3k4fhGGWZY1NO8eVCfBA	Heivision Inc.	20	300	
+UCfLYcp8eh4VAC8_BBRsHhFg	WRTV Indianapolis	0	0	20	129	
+UCxLYlpLkP25REr5Rmfk5E4Q	UR Budget	20	300	20	347	
+UCbdfOz3HDlzspixmQvnesoQ	NowYouKnow	20	300	20	196	
+UC4gHvqBbpPwsT2BsBGRzCMQ	A.S. Security Surveillance Inc	20	300	
+UCzVzADipldUrUhKkuw-ISqw	The Curious Mind	0	0	20	1461	
+UCDGoPxG1IAqhssctuW3NK8Q	BeeNAS Official	20	300	20	575	
+UCF19UqkfWNI1Z6arWqqKijA	FocusControl - Alarmanlagen & Videoüberwachung	20	300	
+UCajm0ZAgSx4G2mW4PxNfm3w	vierdoesit	20	300	20	486	4K
+UC5PYebaTivUwvjse7LOEbOw	DashCam World	20	300	
+UCXvw3vS-KzCHU7RVSJc0R9A	landpet	20	300	20	695	4K
+UC-mLLoVz_fT__SkPTbjSnzw	OurWildBackyard	0	0	20	2031	4K
+UCGjqk8uzcVOU_l0yxf1ZW9g	James Talks Tech	20	300	20	510	4K
+UCj0u04fIpo4iF7GtLNwjxBQ	Night Whispers	20	300	20	1868	
+UCT5TdLbWGjGwhIVj72UF8Jg	คนบ้านบ้าน channel	20	300	20	283	
+UCZFYExZ0AP_20SDC09NS1KA	JustinVonDoom	20	300	
+UCZpy8YurJV9Vc6hxDR1h2Fg	Bodo's GrünePixelWelt	20	300	20	561	
+UCT3pIUZHSiG6uKOMKxc89aA	geminidrums	20	300	20	956	

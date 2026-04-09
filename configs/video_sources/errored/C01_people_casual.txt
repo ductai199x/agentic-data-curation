@@ -1,0 +1,30 @@
+# C01_people_casual — 28 errored channels (retry later)
+
+UCm-qlSgOZcYVvsttznBaW9g	lynneguine	0	0	20	792	
+UCGOgzX5xWIpgHKNEO2s7fcQ	Samurai Life in Japan | Daichi	0	0	20	866	
+UCMjUr6spKSQnW03fFPtvGSQ	YOUR Life Tokyo	0	0	20	703	
+UC2q_4npNJLvQkA0CmvNGn2A	Maddogg Comics	0	0	20	4625	
+UCZSQGNiDXP5-3hjCbkCEvNw	Happy-TV	0	0	20	241	
+UCOk55dAgB8VnMlhaTEMeX5A	Teletubbies - WildBrain	0	0	20	3710	
+UCciA8PsPm3Z5E5vlKEct_lg	Scott Ste Marie	0	0	20	1013	
+UCT-k72mOxm2NUI6wDbTHQ9Q	ถนอม แก้วธรรม	0	0	20	37232	
+UCaBZFu33kVTdJH2k1-Py2Lw	HUMAN DOCUMENTARY	20	265	1080
+UCf0bq8XsJ7_b4L3LuERfYpg	Caliente Beats Party	20	453	720
+UC_N58eTl_Opi-7opulngg0A	Famous Stars	0	0	20	587	
+UCXxAj7Z-O29726iASlCtzAw	熱門動漫Top Anime	0	0	20	3081	
+UCyqYdNmWwqI_aUJCR958pPQ	A Book For Someone By Jim Heaney	0	0	20	2699	
+UC0o9T8sCx2x0LjOS6GzpxXw	RudicornVOD	0	0	20	13036	
+UCWE_ywN-0aeFdGVpLQ6mIwg	WildBrain Circus	0	0	20	2025	
+UC2XmPXm1stcZuzB0dDrwKzg	MercyBen	20	174	1080
+UCiNUYxPryqQLj6ui-_fS-Bg	Reflections	0	0	20	357	
+UCeq266ueXeVXCORHDl_4wqA	Where Are They Now?	0	0	20	867	
+UCd07rKJ7Q0pg5ths7Pz8k8Q	Funny Vines	0	0	20	574	
+UCzZiparM1drXqoWp7bhIpZw	Buddy Son Storytime	0	0	20	400	
+UC4Hdb26_xnPQsntwLazMqYw	TheLearningStation - Kids Songs and Nursery Rhymes	0	0	20	203	
+UC2ojq-nuP8ceeHqiroeKhBA	Nate Herk | AI Automation	0	0	20	2601	
+UC3sEB1HPmNa54D8XrV0vz1g	TOKYO WALKING VIEW	0	0	20	968	
+UCT6Nn93xRiCWsYms1WE3lvw	Just Driving	0	0	20	1134	
+UC3cQWF3e0qcIDEBzCzqp_SQ	Ivana Perkovic	20	900	1080
+UCDQeAQbNwAFaiF7rMLB-4GQ	Kingsley James	0	0	20	202	
+UCql3fM8OsQcfnU1F9Rg_SKg	Crypto38	0	0	20	917	
+UC8o5U4yHgFGjpKUQ9Kasnlg	TheRealTorinoBrown	0	0	20	502	

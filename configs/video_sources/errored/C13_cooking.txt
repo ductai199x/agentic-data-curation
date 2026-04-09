@@ -1,0 +1,358 @@
+# C13_cooking — 356 errored channels (retry later)
+
+UCXJO2Kp0ftmGXH7Sp7CO5Eg	Robert Veach	0	0	20	299	
+UCFw7dZVpw1FQxSwyPKMgyDA	Yummy Kitchen	0	0	20	169	
+UCwIqx0eWKDDzs-hm_Y_FyKw	JAPANESE COOKING CHANNEL	20	244
+UCcl83sSKVJpPLylAvXYTM7Q	The Bread Code	20	1138
+UCOSkmiCHGAMUnHdJUwJ4bZA	Momma T's Cooking Diary	20	355
+UCbu_-W-W5l-H59XP4st4fdA	Food Hunting	20	2623
+UCaMf7Zjmb8sjLVIFG4_fLIQ	Leelalicious	20	510
+UCcqL6DLutAQQUPTyAp1hqig	mary-go-round	0	0	20	992	
+UCnA_z5nkDO08yEMlrgi19Gg	ASMRest	20	132
+UCu9g5OmzcCpcJnmSYyHnIVw	Aden Films	20	603
+UCsDzmjj3an4-kq6nbpJA7tQ	A La Cocina	20	214
+UCRSLeYO3BOhRAYz0vLfVSWw	SugarStar	0	0	20	3295	
+UCvas4QOuzLP1M69KquzAj3w	The Pilling Family	20	2159
+UCWlm0bhG2WMsVJFjNUbmXlA	Cherada ES Recetas	20	269
+UCnuYoQ_lkYWGIPQ-LwaJpmQ	Tasty Plus	20	3683
+UCXv4RvccQ3iqgmeSsFQNeGQ	Japanese Cooking Ichie	20	377
+UCDIHy3udOhhuqUyWR1IolLg	Camirra's Kitchen	20	627
+UCkrWwLZxMsmnfPpKeJ6fyqw	It’s YanYan	0	0	20	421	
+UCIypIGP31v_JjR_r20nuFLA	Foodie Farm TV	20	1507
+UCdGwDjTgbSwQDZ8dYOdrplg	Soon Films 순필름	20	4927
+UCs_8-ZsleBuKf637n2twN-g	Cooking With Ry	20	611
+UC4p_YSvJlJpEhAh5PMyhkiQ	Highlights Kids	20	246
+UCJJV353UhowfWQPXFc7NFaw	Passion for food	0	0	20	283	
+UCcGD-1fuzoja3HRG3Re2yBQ	Olivia Newton-John	0	0	20	206	
+UCFfhvjvRMWDeJhX88dv-EmQ	Farmhouse on Boone	20	1062
+UCobgOt3poNKlml3Y5TnVU8Q	It's AumSum Time	20	1410
+UCbRj3Tcy1Zoz3rcf83nW5kw	SAM THE COOKING GUY	20	903
+UCrPseYLGpNygVi34QpGNqpA	Ludwig	20	2454
+UCNPMkfWFVOXOM8uTyUt3NaA	Best Seller Products	0	0	20	294	
+UCnIzpoj1RA5pV460st5LtRg	Lightning Capital Living	0	0	20	1008	
+UCpi8TJfiA4lKGkaXs__YdBA	The Try Guys	20	2346
+UC-fJdTvj2NpFD91z9WpW-zQ	Fermented Homestead	20	859
+UCoKnP5yh_Z4DtNffHYYEScw	American Wetware	20	487
+UCEWMW1AfmJiIUjk3DeBrnOQ	The Homedog LLC	20	1021	4K
+UCUbLKyUSfE8hI7oTeGImZEg	Cocina Con Adela	20	661
+UCpjTWhEpF1IbIVBG1yulouA	Cocina sin Miedo	20	798
+UC-HZgPxPzd81TmH1qj5n7-w	One Book One Day	0	0	20	291	
+UCP8y-qd97pefxyR4s_zrKhg	Jonathan Zaragoza	20	954
+UCr7Ba3bSD8bRnsp3heY47zw	Factora	20	1206
+UC9RWzC2UBO2EeRaJMpsnYfg	Ilya Varlamov	0	0	20	3314	
+UC_rvx8_N98wNEDXx5TIufZQ	Crouton Crackerjacks	20	468
+UC8ZyfGD_qP-v75DGCzYQw6g	VICE Asia	20	733
+UCjfLgXKOVJuSPm2gpyiRGIA	Ace’s Basement | Live Music Venue	0	0	20	1020	
+UCkuVxTlMTDApF550j9DoRQQ	Taste The World	20	6604
+UCIwvprZgMMajc2z7M43WeTg	Cozinheiro de Família	20	236
+UCJ901NqoRaXMnIm7aOjLyuA	Fallow	20	1288
+UCOgGAfSUy5LvEyVS_LF5kdw	JOLLY	20	787
+UCQZxALnUZVGnFaPCsLNMbdg	Recetas de Cocina Con Mayra	20	329
+UCWZ_8BX5HpmKN4iTgLQGalw	Rachel's Step by Step	20	613
+UCY0Yr1_k-pgrHv8M1NHZVMA	1Fish2Fish	0	0	20	935	
+UC7GkPM9iARY5V3OvFSIUZ6g	Shizuku	20	1808
+UCy0229ISL-677SAuK_1In_A	하미마미 Hamimommy	20	1875
+UCYiY2PAlmG_tceaZ3YvqRKQ	S3	20	1026
+UCiiV8stcewhoCNyiErr7GtA	야미보이 Yummyboy	20	4945
+UCVPfl7TACEAYSFhNAb3xS6Q	MoN's Gaming Studio	0	0	20	2364	
+UCfALRK7BHP9cr8wVM3NmHEQ	Steve Gow (Smoke Trails BBQ)	20	672
+UC7wwc1p86nujBxYpJxfY8GA	Sarity	0	0	20	795	
+UC6tJ9C5SBvK6b-0cejoc4vg	Smokin' & Grillin with AB	20	927
+UC2JwOlEHx9IpB9LiGipX9Ng	I like home	20	201
+UCnkBW5HSmQ4O2pvrZJXXP9Q	Mussinha	20	673
+UCmObdAaNbtVVR1OkKUsdgqg	Las Recetas de MJ	20	271
+UCVbA86KX-xaa2v9mSIfPcuQ	Whisk Takers	20	485
+UC--MxpGXJ3LVD8KvlNzRlcA	HowToBBQRight	20	442
+UC3kfrn9ggB_yoaV0r2XflFw	shook	0	0	20	1121	
+UCH1kIzuOiRii_OwMet-DBZg	Chef Billy Parisi	20	629
+UCKM58KE553jfeyhc4MawHVQ	Kosmo's Q BBQ & Grilling	20	768
+UCTSRIY3GLFYIpkR2QwyeklA	Drew Gooden	20	1795
+UCiyhG7-nTyXUyUsN6-ELhTw	Monotonic ASMR	20	2080
+UCWdG9VGBkBRSvPicPOGyjXA	Cooking With Brenda Gantt	20	727
+UCJaqkjcgKPLt59rWR2DbQyg	Ugly Drum Smokers Texas	0	0	20	239	
+UCz7LrNt_1IwEA56mga66zRg	SugoUma Japan - スゴウマジャパン / Japanese Food	20	2192
+UCcnJjjAns6B2u0DjpPx2ajw	Villa Cocina	0	0	20	464	
+UCN1h109PDDp_wYIFsoWmZrQ	Marion Grasby	20	1168
+UC49LC3pl6XfY31TXynTp30A	Mexican Food Journal	0	0	20	156	
+UCbt2VcrZzWAtMMnZ8QVtHmQ	Eliza Banasik	20	605
+UCT4Fu4eGQbDpmZHPNKOQLSQ	Cafe Imports	20	1685
+UCf1JbuFTMUfszYPlpL0sioA	The Grocery Lady	0	0	20	1373	
+UCgI26ZZ1Q-6SyChDcpMCljw	Ben Starr	20	1460
+UCPPIsrNlEkaFQBk-4uNkOaw	Hebbars Kitchen	20	145
+UCiil5kjvV70zMMduJqX1KMw	Comidinhas do Chef	20	204
+UCngpdIYbl5REio0EaQjlHSA	Crazy For Indian Food	20	928	4K
+UCQwIUZLA1ztI9QGi402qbdA	Scoobz N Petz	0	0	20	734	
+UC24ch7QbEKDCxwKCd-txifA	Delish Tube	20	6084
+UCll4kQ-MR9LplJXdAo6NvZA	Life Lessons 934	0	0	20	953	
+UCRYQQwKeqhzrhdmfk4l3E7g	OrsaraRecipes	20	307
+UCHzJcsjG93RMPORrjxiA6yQ	Indoora World - The Cottage Library	20	3021
+UCvRHCRg_q2HPmJytHn54LWQ	Spender’s Concert Videos	0	0	20	392	
+UCicwI_popX72yZY-XznHUzg	Cooking by Jeca	0	0	20	321	
+UCjRA5ZJb_2zXSGwHS-2mvgg	Foods on street	20	1686
+UCLFtf0hao8fldR8nCrL2msA	Cooking with Chef Tuan	20	400
+UCMn2Nikpq2tLtpXuMdT80Yw	Platos Fáciles con Tamara	20	269
+UCfdf0evh1dZDDM3pVKcCvJA	FOOD TODAY	0	0	20	586	
+UCxZda5O9qvh4VNZ5-TFB79w	How to Make Sushi - Chef Kai	20	413
+UCtcrO5GmqLZclhzrNawKUtw	Czarina Johann	0	0	20	637	
+UCb7Ypl3-G9lBWW08p_HZv_g	Delícia Com sabor	20	183
+UCw6Vox5OKqNNV84nNIgcX7Q	Kirsten Tibballs	20	812
+UCsDSBdhvXhFh6Y3HLxN_Y0w	minicuteclub	0	0	20	710	
+UCqlry7bopzL0x8cmBdhNE2Q	DE COCINA A COCINA	20	244
+UCS3wWlfGUijnRIf745lRl2A	FuseSchool - Global Education	20	732
+UCFAX2CWkuPAdxvraptNWXkA	Trent Designs	0	0	20	406	
+UC9hfrhJu5n3-IKoIm-mzeaQ	Cook Loop	20	1506
+UC5nA6O_7aYs3zWEX83m3jnw	Miniature Cooking	20	2039
+UCDHK7RywWc4z8J5K3MKkvRw	CHEF AJ	0	0	20	2081	
+UCZsQtHzpy_vMpZGTB8OgyNQ	Everett BBQ	0	0	20	2887	
+UCFHPc4XVzAExEud4F7V3RKg	Chef Iracema Bertoco	20	314
+UC3czz1YEXjAy-9B1paoQHsw	KPU Brewing - Beer School	20	394
+UCyF1G8EN5pS1xJUPHMgap9w	CostcoZaddy	0	0	20	473	
+UCaSrTV_-hzcjsE0gwago_XA	Toshi's Teriyaki Grill	20	809
+UCdtXmukQ1Vp86Ldl7rOrPAw	Pati Jinich	20	675
+UCaK40fmOZV58nesiHnMzo7A	Cozinha sem Misterio	20	415
+UCDFxr_sWV8mAnxV-ShVfHog	Sci- Inspi	20	261
+UCdDBPeFs-uj5E7z8mIyTDIw	Fast Easy Delicious	20	497
+UC1SeA2Jl-IN-XIiYkxRClWA	MUSIC, MOVIES, & MEMORIES	0	0	20	194	
+UCJFp8uSYCjXOMnkUyb3CQ3Q	Tasty	20	448
+UCMyxn5OJlScchmLwDUdmvBQ	Chinese Cooking Channel	20	462
+UCbCJmNKAL85O1VFeD6Wj60g	Bayashi TV	20	3512
+UCluvcCh-Hfado6xLJAmeSWw	sweet dream	0	0	20	452	
+UCa0aTySoJBHXpHigv5tsxbQ	끼룩푸드 seagull food	20	1881
+UC-Fnix71vRP64WXeo0ikd0Q	IVE	20	924
+UCIYy93WU21dwZlC-i0CMaLw	Patio Pizza	20	272
+UCJqcGYTfbP8VLJSVTyIv4SQ	Happy Hungry Hijabi	0	0	20	168	
+UCXw1ddyrUmib3zmCmvSI1ow	More Best Ever Food Review Show	20	1816
+UC6am0tFqAQVqYwF2YV31zZQ	Jacob Laukaitis	0	0	20	1108	
+UC_880q6iVUUuzi85dVH013w	LetsCookAndTalk POV	20	2776
+UC6JBm9OAkpI6NUBV_NsLxTA	Martha Stewart	20	1594
+UCBPJul6q8FUnbr7fN-lYtgw	Musical Picks	0	0	20	443	4K
+UCA84REqrdp0iCjMuqvmP0SA	Embr	0	0	20	897	
+UCIIcUq-DNRXGoADi8slTSyg	BBC Maestro	20	729
+UCtlo5tP13DuUxgZwLDO_K4Q	Karamba Lívia Rafaelle Stories	20	365
+UCxbrIA8RuGFgKXxpv6k5Cbw	Skull and Mortar	0	0	20	329	
+UCqS3ycnjIfTXhQXZ3iZiVWA	Best Everer	0	0	20	362	
+UCj9DfRCLcjY9mFk29b2YyKw	The Scran Line	20	139
+UCnke_wrVy3HqDs3POdvtgCg	Grill Top Experience	20	305
+UC0eY9wDvVgXdwVA4hwurXxA	쿡쿠 Cook Qoo	20	12549	4K
+UCOPcvkL6SK9GJV4rrWfQ_fQ	ALLISON	20	1457
+UCahPQX699ZQPXVwb1bhSNaQ	The Dawgfatha's BBQ	20	668
+UCvWDvNde1XrQmo0ATeI0Peg	Mega Tutoriais	20	161
+UCDTW1YskS73xL1q09wTUm2w	What's For Dinner? 〜Yasuko's Cooking Diaries〜	20	1087
+UCkM-5MsteXk27aAU52N0Ccg	GOYUMYUM고얌얌	20	2309
+UCsXUx6Dmp0C4Dg0ZnJd2byg	Black Cat Kitchen	20	383
+UCrC8uRNXvHtN80q4J_Hh9ug	Let’s Get Cooking With Lamise O	20	720
+UC_kARM8MBLDBxZQuZeYYQdQ	Pitmaster X	20	610
+UCbyjYRUS9gADwAGuUxcfVcA	Sip and Feast	20	1135
+UC9xrBsQTFqHTmQsYGrODDHQ	Food Everywhere	20	1805
+UCldZjgQxXbBvDG6b7JpRG9g	Polin ASMR	0	0	20	1427	
+UCdn_rwavripSnNrN_jkW5Yw	Angela Bright	0	0	20	1066	
+UCvVsD2hFZRgKNH7x5Q1wwug	Chris Young	20	757
+UCnB5HTIi44wDBD56KeT2hNA	Guga	20	1250
+UCdKHmofDvZlWRrInAQVFk_w	New South Table	20	212
+UCSeKtP7bqePrJqi99UX2NSQ	allthingsbbq	20	399
+UCt9AUgcqoY9jbcD689tNoyA	Jerni Lewis	20	727
+UCmoX4QULJ9MB00xW4coMiOw	Sanjeev Kapoor Khazana	20	604
+UCxlJ45KjG4XVcQ_hd8j227A	Peekaboo Kidz	0	0	20	588	
+UC6B6bVJ5MM-8_9k9p0Pansg	Liz Eats	0	0	20	676	
+UCibOMco8wQqk2U3sfsC4w_Q	Royal Meat	20	2174
+UCJUAqHnkDX15IvFoXIGTm2A	Travel Channel	20	1086
+UCch_NKx7pS-VMwjX7pJNsgw	Daiane Salustriano	20	605
+UCb5XsrTYLFF96Xg0kiLU7Vg	Made Vision	20	747
+UCQfwfsi5VrQ8yKZ-UWmAEFg	FRANCE 24 English	20	456
+UCr4dqycLUzMLmXWz7esm-AA	Novatos na Cozinha	20	864
+UCgpnjdjVpDEFtp1EtmPyLzQ	RecipeTin Eats	20	168
+UCyZQGi9vZNFQHouRKLndszA	Taste	20	2214	4K
+UCyukUh-uOQJE6YqedFTkQlw	Boulangerie Pas à pas	20	1574
+UClBAH_mQ4PL6OlD0euxb3_g	Cooking Premium Japan	20	431	4K
+UCxWFay423FbCZ6-ot758-NA	Kiwanna’s Kitchen	0	0	20	250	
+UCn1NQ71RJj7b8yoqmMBLKvg	Mad Horse BBQ	0	0	20	700	
+UCP21pLzoljSWpQ4nnZCbbOA	Chow With Lau	20	683
+UC9oqyDJxb-t4yp7miQkwHiw	Duncan Willis New	0	0	20	248	
+UCmpuIDDF9WL_w-MXYyZRzFg	Party Kitchen - パーティーキッチン	20	521
+UCvDExRIeyrh7PSMdleWf1yg	Sudachi | Japanese Recipes | Yuto Omura	20	450
+UCiatM4EwZ4qGWEIsq3IAogA	De un Rancho a Otro	20	2717
+UCRb1_cW-D1p_VQUd3lbPKnw	Dski Grillz	0	0	20	1263	4K
+UCGvIBxqin_rx3sY9qacQEhQ	Mashed	0	0	20	641	
+UC5PH7ZmLciZZS5vX5HPusUw	Yeung Man Cooking	20	537
+UC7Q8oXcO-x1pXPA-A7J2TtA	Googan BBQ	0	0	20	362	
+UCKBxZ7n8MhjMGHJ66pG2RYA	FV Stories	20	2238
+UCsaOzYsyshyrYL4SHCTI8xw	Kaji Family	20	1993
+UCwhhY_obZx2vWkaFtGFemXw	Tinagirl Travels	0	0	20	1537	
+UCxD2E-bVoUbaVFL0Q3PvJTg	ChefSteps	20	938
+UCStt5GJFdTr9fFAAqunPg9Q	BBQ Southern Style	20	2436
+UCoAVo0orpeA-lPtI1kt2d5w	LoveYourFood	0	0	20	376	
+UCpNFDMvbnOrZARkKz5AF4Uw	Keeping It Dutch	20	1705
+UChv0G70cYOrLs2XYuRLdwpg	The Sourdough Lady	20	221
+UCVZsY1CF9VwLTKgs9YLQkXw	Jauja Cocina Mexicana	20	411
+UC96PFB5KG3GfafdkyJi0k-A	Hands Touch	20	340
+UCyEd6QBSgat5kkC6svyjudA	Mark Wiens	20	2880
+UCqVEHtQoXHmUCfJ-9smpTSg	Answer in Progress	20	1267
+UCdCottK2mn8T7VOHleKCYCg	Isabel Paige	20	878
+UCHUbS_UKnPBjJndXpTff4Sg	Woodsbound Outdoors	20	1242
+UCsn6VjaV363s7tp9JiJSv-Q	Anisha Recipe	20	190
+UC-EuuFlvOohnSKlKVjLBqPw	Chef Roger, Recetas faciles	20	566
+UC9R0LMKOd34FDk_BsAUQpUQ	STREET FOOD KING	20	3117
+UCOgkLFmMkJLSEP9-n6hZ08A	Farmer Leaf	20	1085
+UC-olwShkpo1rwCJA-NB26mw	Saraa Vega	20	809
+UCTCjFFoX1un-j7ni4B6HJ3Q	Rotten Tomatoes Classic Trailers	0	0	20	136	
+UC4Vdtj_idJCAVDTxN-MigZw	Tabitha Bilton	20	532
+UCVy7TRGRUWZkUFzKT71nlFg	Eat Life With Kimchi	0	0	20	1159	
+UCfNCSZarB2dFGE6qly_jPXg	Metal Lyric Videos	0	0	20	303	
+UC2d-6hBoMx8ElfyEZRoEyJA	COZINHA PARA INICIANTES 🫕	20	648
+UCLyyM_zPZkE-yPT0E8hiOrQ	The Sushi Man	20	566
+UCVfXvwmusfak5Df_6hELA7Q	MuchFlight	0	0	20	347	
+UCE8q1FcoQ0wBypZb3jXw7Pg	Hey Grill Hey	20	240
+UCvfVdbUE9lZ_RlXt-DmiI5w	Peaceful Baking	20	542
+UC0fxaSVK1mIzfcKvurwwroQ	Cozinhar fácil receitas	20	184
+UC2asXnNIkyag4jZkAgadGlQ	하이푸디 HiFoodie	20	4847
+UCpSgg_ECBj25s9moCDfSTsA	Jamie Oliver	20	1722
+UCd1jEmFYFXuklsSBrI-7_lQ	Take Me Fishing	0	0	20	203	
+UC3SavWiENFTi57igE7jtUoA	Views on the road	20	404
+UCWXfd9-r0pGdQ3uNr8SNtVA	Sow the Land	20	876
+UCBp0MdzbxA70fCHlpLCbT6g	Hoy Día	20	182
+UChYcJLnVxqgO3SkM6vKX9aw	ASMR Suna 꿀꿀선아	20	1759
+UCPAG7_lEMrM1Dsj9pjGzaAg	FOGO Charcoal	20	640
+UCBiLmpWk-iKUJQDROUfFZ2Q	Champions Speakers	0	0	20	603	
+UCIBM8DAHoehmJ7_LSLDkB3A	Jordan Page, FunCheapOrFree	0	0	20	975	
+UCiKlKC8lLmldslW68r5-qGg	Paul’s Q	20	638
+UChaRs9kkNrdczD5Fkjj06Jg	Zeleon Science	20	218
+UCGhb_CKKWJHm7zNGDK8mGyw	Jenna Passaro | Food & Travel @sipbitego	20	164
+UCqK9PQV16nIdTwqhHgxhmnQ	Seek the World	0	0	20	265	
+UCe1ZsGtbRx2pgajGzwB9L0A	FoodieBoy 푸디보이	20	4920
+UCzGaX29DR0VlH2tUCODFixg	Richard Gene The Fishing Machine	0	0	20	1822	
+UCGj5E3KWdFmXIqPGbqj2uog	Recipes	0	0	20	243	
+UC9Z_elkBLzUF78K4kIZb9iQ	Amy Bakes Bread	20	1042
+UClZkHt2kNIgyrTTPnSQV3SA	Get Movies	0	0	20	2050	
+UCBYLMa_xftkYBG8sgntu3tQ	Guilherme Guzela	20	727
+UCYWDhq8aVehcZQBZP2eMZLQ	{TheNew}	0	0	20	221	4K
+UC_mXgqO9w1Ce4-Xtu5BhX7w	Dennis Martinez	0	0	20	240	
+UCNVMI-a3Q6eqrA-NLKtPLig	KHOU Worth It?	0	0	20	318	
+UCs0USpia3kiNJFlk7bwGL6w	Patricia Brown	0	0	20	337	
+UClSG2tULMfBomo03TQsax2g	Alaa Starves	20	3054
+UCcZndpM85bLlT3jNvNsGb3A	TASTE TRIP	0	0	20	1274	
+UCXvCI4YnkGhGV8ei4vE9h4A	Jose.elcook	20	277
+UC8BTzkLf8UXUkaDP5x0Qwmw	Recetas y Más TV	20	495
+UCZXnQc6-styUtkukzTiu-3A	Recetas apetitosas	20	1050
+UCT559KoyiGbKGqNeiNM0xWw	Foodie From The South	0	0	20	163	
+UCOFayEsXm9nGiRtXbAsUcwg	Sliced	0	0	20	217	
+UC9qhFrN2KQ-L8xucX-XrjKw	humbi53	0	0	20	315	
+UCNl0_rZ2meOXeWASYaNVbcA	classictbone	0	0	20	2188	
+UCj98aooN0yQZ9dgNSMlEIOg	My Mumbai Vlogs	0	0	20	450	
+UCIEv3lZ_tNXHzL3ox-_uUGQ	Gordon Ramsay	20	1868
+UCg_xrQ9KMN7wL4moBwuxZWw	꿀주부 Honeyjubu	20	1811
+UC3Pic63MMj8XTA9uCoAznvA	OPTFOOD	20	520
+UCbpMy0Fg74eXXkvxJrtEn3w	Bon Appétit	20	735
+UCbffuLTtfTFJEaTuVrMZpjg	Brian TD Cavenati	0	0	20	273	
+UCfE5Cz44GlZVyoaYTHJbuZw	Guga Foods	20	979
+UCtTTYcpivrfvwZ6WF5OFP2Q	See Mindy Mom	0	0	20	993	
+UC8Pm4TLQJO_Llmv3IC8OT2Q	Cooking for the missus	20	327
+UCy_0BO2ucepgc2jBJCihdEQ	BBQGuys	20	258
+UC_wImqmQGlIbuQfxgkxAITg	Einfach Dori ASMR	20	1613
+UCYijgX7t7dRh0fFX0DIUZcw	Roll Masters	20	1200
+UCoUWq2QawqdC3-nRXKk-JUw	Easy French	20	681
+UCb3fVpuD2GF8BWJLM0BDYgA	Woo Can Cook	20	483
+UCYGoCRp_lCg5R4_6t68aVAw	Mike ‘Rock’ Rauch	20	520
+UCDECEDkRBu51vSF7ymuUfHQ	Oliver and Lucas - Educational Videos for Kids	20	1038
+UCbgYZnybgb6vPSBTxZUT2kA	Veg Village Food	20	540
+UCEj3EHFwSOfadwufHnZlNNQ	Clicker	20	158
+UCw5VDXH8up3pKUppIvcstNQ	SLICK SLIME SAM - DIY, Comedy, Science	20	1361
+UC9BYlkLLpI_pMkeukIaZF4A	Clean Food Living	20	601
+UCoc_6LpEGC0l6wMWLhGORjg	BaRaDa Spanish	20	1130
+UCh7l3jPapSakBinJSo5l3MA	Hunger Mami	20	1683
+UCSVbpXAEVLx4vyAt1CQ5CGw	Oui In France	20	788
+UCbtgvc9joz_6xBr4OLoy0iA	Miniature Cusina	20	1403
+UCmyrsc1_mnpjC4sybp4df1A	MissPoochSmooch	0	0	20	7060	
+UCmcUAA6iuCZHQMWXtoYHZBg	Tina Mini Cooking	20	3921
+UC02O9ICMuwrfULSa0N6SiSw	Chef Studio	20	252
+UCEKhq_68wMyD9VuJf3H513Q	BOGObiology	20	518
+UCACHRBm3r_SAKJrY3VzCXNA	Akis ASMR	0	0	20	523	
+UCTdakWGvTXiAz3-O5v7BsTg	Gluten Morgen	20	3497
+UCHqBl5jVyUSjAg4BYldwfcA	Certified Angus Beef ®	20	504
+UCBFpJP6yWesUbwXdTiumEjg	Smokin' Joe's Pit BBQ	20	683
+UC3ixYy3z1d5T7rokiP_sUNw	Eu Não Sou Chef	20	372
+UCVDk2jnyNOMcEhCQ-0LrekA	DINDA ROSARIO RECEITAS	20	200
+UCh8gHdtzO2tXd593_bjErWg	Doobydobap	20	2428
+UCfQmK_5UyUhEbR5m9TmMh2Q	Shae Restocking	0	0	20	514	
+UC2S7CGceq5tsuhcVyACdA3g	Ethan Nestor	20	2318
+UCDnzkPOD1H9sv-gVThHMPQA	Brillager	20	1900
+UCRd6gdYd4nCdrIBwerR_3Dg	Receitas da Vó Bita	20	157
+UCI78AdiI6f7VKhqW1i4B3Rw	Zach Choi	20	5620
+UCH3aos_uf4pGHbkANSbceEg	Terry Films	20	2138
+UCPYHRKEqMycep7r5kO-1org	Proof Bread	20	2053
+UCbJHO5nyhIGeM5nLBQd2GMw	Meat n’ Greet BBQ	20	2084
+UCvJPz901gZcaOfIJeWV8K3g	Cooking with Chef Terry	0	0	20	553	
+UC4nUW40bqs-UgoDe7ttmtyA	Traditional Life Style	20	739
+UCTVR5DSxWPpAVI8TzaaXRqQ	Bake with Jack	20	1159
+UCtvoSByuuCsYmdMzEvxhwGw	Godfather BBQ & Italian	0	0	20	676	
+UCoRShGucSyqCLZnY3hgBenw	Diegodoal	20	1012
+UCPdKjHVKCF-YFvqHyh9uzvA	Esco Lifesciences Group	20	679
+UC2qBa9RhpRxFsKwibuSHzVQ	Tried Tested and True	0	0	20	1004	
+UCztm4C-jD0jpHlDFhRyEltw	That Sourdough Gal	20	1232
+UCfjtJ08fpywI3RU-R-YalDg	Get Out and Grill!	0	0	20	585	
+UC_r1TAhdOhbees8ozWA3b-Q	Mama and Papa Joe	20	573
+UC6S5a3MQtr_PSWZxysXkOCg	Serious Eats	20	508
+UCVlXwrd0zyZreOw0uUuO5Yw	The Sushi Guy (photogami)	20	153
+UCdSu3tgroULNBpkyWkEzCYw	Emojoie	20	460
+UCuZhxhPKH2AKRlIJafist1A	CupppaJoe+	0	0	20	1648	
+UC9wvQbCpIaooVwwx0vIv4dg	Multi DO Smile Portuguese	20	979
+UCnkXx7wtNwwC5CpN5xVtjrg	CHEF JUDGE ANDRE PIERRE MAXWELL ASMR	20	663
+UCcdoadQ554QVSNjedU_96-g	몽상욕조 asmr	20	8322
+UCHKVXtT1YBCYUnnr4apqXfg	Travel Thirsty	20	3133
+UCFuOO-7lc3puXssu9_tEsRQ	Myron Mixon BBQ Pitmaster	20	465
+UCixD9UbKvDxzGNiPC_fgHyA	Paolo fromTOKYO	20	916
+UC2zXd5Kq9Hu-_bwO1H7CD0g	MosoGourmet 妄想グルメ	20	364
+UCDBFchGuAOy5-2sy8nYMVxA	FoodyTrip 푸디트립	20	2678
+UCIn_pjeprJvOKruSiQsvMZw	ASMR Emiko Ffujio	20	1630
+UCrailkufB1aKrKc6l1osRgw	냥숲nyangsoop	20	1132
+UC5tFmE4Z5X2sAtp4tNkjOfA	뷰티포인트 [ASMR]	20	973
+UChFuuCxgOE3-dgrojnnkL2Q	ZolarEnergy.net	0	0	20	484	
+UCZvoUuniFzmOjfBt67lNsEQ	Tasty Recipes	20	415
+UCYdefCEKH0PJ6RKm4nUhgww	Prep cook Live	0	0	20	173	
+UCcvRGiwIMJb4YAHJ3Px64XA	German Recipes	20	642
+UCedsqpl7jaIb8BiaUFuC9KQ	Pasta Grannies	20	501
+UC8VKqMPCrYzddgiyCDImXYQ	Virtual Travel by Brian	0	0	20	2196	
+UCbWmMtpifzayzHy-OUhLusg	Jade Edge	0	0	20	544	
+UCGvW4zPgVJgbwKsxdcMXf3A	Little Village Homestead	20	1560
+UCv9PDdon4eD7RmzBedbskBw	Ricette Perfette	20	425
+UCUAvaQyCtGJmsiNZGhmecew	Dadi ka khazana	0	0	20	364	
+UCHuETi6--uh8-g-_7fdEJhw	Mateo.zielonka	20	213
+UCnvu2VWUo0zobFcDYi9Ongw	Yummy Food Making ASMR	20	2003
+UCtby6rJtBGgUm-2oD_E7bzw	Cooking tree 쿠킹트리	20	1703
+UCXv9Uldvn0NbB4SUhogZi1g	Lauren I A Bright Moment	20	943
+UCI9dGhdza3qupiV0mVNO97A	Chowhound	20	447
+UC600H5chBUZ9xYWXH8z-Sxw	テイストメイド ジャパン	20	534
+UC0lG3Ihe4LGV851lODRIS5g	French Cooking Academy	20	915
+UCzH5n3Ih5kgQoiDAQt2FwLw	LifebyMikeG	20	1085
+UCI1R5X9RQCdhLP_6U5ELvCQ	How to cook mexican food	0	0	20	532	
+UC6SfrpccCEaCHsvxpXCt5Ng	Food Stories	20	3156
+UCnMf-fC5gLfFrJwkmNio7Ww	marcy inspired	20	783
+UCLGWOFggdJEe0zr4N2Ibkyg	William Kasper	0	0	20	661	
+UCSGoIq_tVESqNYF1Re-zn1Q	Ha Sisters	20	2133
+UC9PgE87Xoo_YHw0IkHTNhvg	Olivia Newton-John	0	0	20	215	
+UChnEIrUq3VAGw3hiRvHv8mw	DreamMelts	20	494
+UCJdeaVvteS0Mc9DKkYxKQtQ	Thy Than	20	575
+UCymxu5TWekek8kYaNF84RFQ	Ashley Marie ASMR	20	1446
+UCn5fhcGRrCvrmFibPbT6q1A	Brian Lagerstrom	20	1093
+UC4S1r2_ulynfICcoPz1mdRA	Cozinha do Bom Gosto - Gabriela Rossi	20	621
+UC5nzlP-dHFt5UyOg78A0wrA	wow emi ruchulu	20	197
+UC3AW6nA6E0WB3kuehBvYTPQ	Cocina y Emprende	20	733
+UCPqKi2hJgQjAJ-XAJzMT3VA	Keep it Sweet Kitchen	20	1253
+UCm_i8xWOx5t1yReob58m0mA	Wilderness Cooking Español	20	1131	4K
+UCjMAdCzKod0-bGEJUJWHNjw	krishashok	20	1024
+UCmbuZHvnLQlGi6L3vOL8UyQ	THE OXTAIL KING	20	526
+UCtlth0w7_mYqpHPViMhQ99Q	Oddbods - Official Channel	0	0	20	1662	
+UCiZ9jB1O8Aof6P2F9aRNJLg	The F Word	20	1967
+UC4qKSzxdim4nU0vX2bMM87Q	Bread Chronicles	20	2541
+UCJphJORl0rOtskNvlWgYqMw	Diet Tomorrow 明天再減肥	20	967
+UCtPVT3HYB5jHMD2NWaMxzxQ	Heath Riles BBQ	20	1415
+UChxZrhm00T90YTei9oYkmGQ	Mooseclumps: Kids Learning Songs	20	453
+UCfpCQ89W9wjkHc8J_6eTbBg	Outdoor Boys	20	3163
+UCMt6QvBrgWPZyLRKjVVqxbA	4WD Supacentre	0	0	20	1723	
+UCMjA3OHuJJNA5IcMX5r4UDg	Marina Morais	20	976
+UC1NFFogiT88Uhmidrz8Ypnw	Brad Leone	20	2217
+UCIxmWUbe4OZuMDJKIHKwwKg	Acre Homestead	20	3603
+UCIQRwgZUtjf_mVibaTPE2zQ	Diego Glow	20	340
+UCl_XHgj9EgR540XGTL0RkrA	Erin Robinson	0	0	20	834	
+UCE7zN30O5vUPn5Iv_KidBzQ	Slam Motion	0	0	20	330	
+UCtqzZJnz1EsF_5X3tFW9t4w	Flames N Bakes	0	0	20	275	
+UC5ONfXPjWgqElh0NZaRJ1tg	La Cocina de Loli Dominguez	20	365
