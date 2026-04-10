@@ -175,7 +175,12 @@ class InstagramVideoScraper:
         print(f"\nDone: {self.total_downloaded} videos downloaded")
 
     async def _scrape_user(self, page, username: str, pbar):
-        """Scrape videos from a single user's profile."""
+        """Scrape videos from a single user's profile.
+
+        Interleaves scrolling and downloading like the image scraper:
+        scroll to find links, download videos from new links, scroll more.
+        Also scrapes the reels tab after the main grid.
+        """
         user_downloaded = 0
         profile_url = f"https://www.instagram.com/{username}/"
 
@@ -188,9 +193,8 @@ class InstagramVideoScraper:
             return
 
         await asyncio.sleep(5)
-        print(f"  Page loaded: {page.url}", flush=True)
 
-        # Check for login wall or 404 (use evaluate for speed, not text_content)
+        # Check for login wall or 404
         page_check = await page.evaluate(
             "() => ({ len: document.body.innerText.length, "
             "has_login: document.body.innerText.includes('Log in'), "
@@ -204,79 +208,199 @@ class InstagramVideoScraper:
             print(f"  404 — skipping", flush=True)
             return
 
-        # Collect post/reel links from grid
-        print(f"  Collecting links...", flush=True)
-        post_links = await self._collect_links(page, username)
-        reels = sum(1 for l in post_links if "/reel/" in l)
-        posts = len(post_links) - reels
-        print(f"  Found {len(post_links)} links ({reels} reels, {posts} posts)", flush=True)
+        # Scrape main grid: scroll + download interleaved
+        user_downloaded += await self._scroll_and_download(
+            page, username, pbar, user_downloaded,
+        )
 
-        # Filter to unprocessed
-        post_links = [l for l in post_links if self._shortcode(l) not in self.downloaded_shortcodes]
-        print(f"  {len(post_links)} new (after resume filter)", flush=True)
+        # Scrape reels tab for additional reels
+        if user_downloaded < self.max_per_user and self.total_downloaded < self.max_videos:
+            reels_url = f"https://www.instagram.com/{username}/reels/"
+            try:
+                await page.goto(reels_url, wait_until="domcontentloaded", timeout=30000)
+                await asyncio.sleep(5)
+                user_downloaded += await self._scroll_and_download(
+                    page, username, pbar, user_downloaded, reels_only=True,
+                )
+            except Exception as e:
+                print(f"  Reels tab failed: {e}", flush=True)
 
-        # Visit each post and try to extract video
-        for j, link in enumerate(post_links):
-            if user_downloaded >= self.max_per_user or self.total_downloaded >= self.max_videos:
+        if user_downloaded > 0:
+            self._mark_completed(username)
+        print(f"  @{username}: {user_downloaded} videos downloaded", flush=True)
+
+    async def _scroll_and_download(
+        self, page, username: str, pbar, user_downloaded: int,
+        reels_only: bool = False,
+    ) -> int:
+        """Scroll page and download videos as links are discovered.
+
+        Interleaves scrolling and downloading: each scroll finds new links,
+        visits them to extract video, then scrolls more.
+
+        Returns number of videos downloaded in this pass.
+        """
+        if reels_only:
+            js_filter = """els => els.map(a => a.getAttribute('href'))
+                              .filter(h => h && h.includes('/reel/'))"""
+        else:
+            js_filter = """els => els.map(a => a.getAttribute('href'))
+                              .filter(h => h && (h.includes('/reel/') || h.includes('/p/')))"""
+
+        seen_links: set[str] = set()
+        downloaded_this_pass = 0
+        stale = 0
+        max_stale = 6
+        max_scrolls = 1000
+        last_height = 0
+        aggressive_phase = False
+        scroll_count = 0
+
+        while stale < max_stale and scroll_count < max_scrolls:
+            if user_downloaded + downloaded_this_pass >= self.max_per_user:
+                break
+            if self.total_downloaded >= self.max_videos:
                 break
 
-            shortcode = self._shortcode(link)
-            post_url = f"https://www.instagram.com{link}"
-            post_type = "reel" if "/reel/" in link else "post"
+            # Extract links from current DOM
+            try:
+                new_links = await asyncio.wait_for(
+                    page.eval_on_selector_all("a[href]", js_filter),
+                    timeout=10,
+                )
+            except Exception:
+                new_links = []
 
-            # Rate limit between posts
-            await asyncio.sleep(random.uniform(3, 6))
+            # Find unseen links
+            fresh_links = [l for l in new_links if l not in seen_links
+                           and self._shortcode(l) not in self.downloaded_shortcodes]
+            seen_links.update(new_links)
 
-            # Navigate to post, capture video chunks, download
-            ok = await self._extract_and_download_video(
-                page, post_url, username, shortcode, post_type,
-            )
-            if ok:
-                user_downloaded += 1
-                self.total_downloaded += 1
-                pbar.update(1)
-                pbar.set_postfix(user=username, total=self.total_downloaded)
+            # Download videos from fresh links in a new tab (keep grid page intact)
+            for link in fresh_links:
+                if user_downloaded + downloaded_this_pass >= self.max_per_user:
+                    break
+                if self.total_downloaded >= self.max_videos:
+                    break
 
-        if user_downloaded > 0 or len(post_links) == 0:
-            self._mark_completed(username)
-            print(f"  @{username}: {user_downloaded} videos downloaded", flush=True)
+                shortcode = self._shortcode(link)
+                post_url = f"https://www.instagram.com{link}"
+                post_type = "reel" if "/reel/" in link else "post"
 
-    async def _collect_links(self, page, username: str, max_links: int = 0) -> list[str]:
-        """Scroll profile grid and collect post/reel links."""
+                # Open in new tab, download, close tab — grid scroll position preserved
+                dl_page = await page.context.new_page()
+                try:
+                    ok = await self._extract_and_download_video(
+                        dl_page, post_url, username, shortcode, post_type,
+                    )
+                    if ok:
+                        downloaded_this_pass += 1
+                        self.total_downloaded += 1
+                        pbar.update(1)
+                        pbar.set_postfix(user=username, total=self.total_downloaded, scroll=scroll_count)
+                finally:
+                    await dl_page.close()
+
+                await asyncio.sleep(random.uniform(2, 4))
+
+            # Check scroll position
+            current_height = await page.evaluate("document.body.scrollHeight")
+            new_count = len(fresh_links)
+            if current_height == last_height and new_count == 0:
+                stale += 1
+            else:
+                stale = 0
+                aggressive_phase = False
+            last_height = current_height
+
+            # Aggressive mode after 3 stale scrolls
+            if stale >= 3 and not aggressive_phase:
+                aggressive_phase = True
+
+            if aggressive_phase:
+                await page.evaluate("window.scrollBy(0, -500)")
+                await asyncio.sleep(0.5)
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await asyncio.sleep(1)
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight + 100)")
+                await asyncio.sleep(random.uniform(3, 5))
+            else:
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await asyncio.sleep(random.uniform(4, 7))
+
+            scroll_count += 1
+
+        label = "reels tab" if reels_only else "main grid"
+        print(f"    {label}: {downloaded_this_pass} videos, {len(seen_links)} links, {scroll_count} scrolls", flush=True)
+        return downloaded_this_pass
+
+    async def _scroll_and_collect(self, page, reels_only: bool = False) -> set[str]:
+        """Scroll current page and collect post/reel links.
+
+        Matches the image scraper behavior: 1000 max scrolls, 6 stale
+        threshold, aggressive scroll mode after 3 stale scrolls.
+
+        Args:
+            page: Playwright page (already navigated to grid or reels tab).
+            reels_only: If True, only collect /reel/ links (for reels tab).
+
+        Returns:
+            Set of unique link paths.
+        """
+        if reels_only:
+            js_filter = """els => els.map(a => a.getAttribute('href'))
+                              .filter(h => h && h.includes('/reel/'))"""
+        else:
+            js_filter = """els => els.map(a => a.getAttribute('href'))
+                              .filter(h => h && (h.includes('/reel/') || h.includes('/p/')))"""
+
         all_links: set[str] = set()
         stale = 0
         max_stale = 6
-        # Don't scroll forever — collect enough candidates then stop
-        # Need ~3x max_per_user since not all posts are video
-        target = max_links if max_links > 0 else self.max_per_user * 3
+        max_scrolls = 1000
+        last_height = 0
+        aggressive_phase = False
 
-        for scroll in range(200):
-            new_links = await asyncio.wait_for(
-                page.eval_on_selector_all(
-                    "a[href]",
-                    """els => els.map(a => a.getAttribute('href'))
-                              .filter(h => h && (h.includes('/reel/') || h.includes('/p/')))"""
-                ),
-                timeout=10,
-            )
+        for scroll in range(max_scrolls):
+            try:
+                new_links = await asyncio.wait_for(
+                    page.eval_on_selector_all("a[href]", js_filter),
+                    timeout=10,
+                )
+            except Exception:
+                new_links = []
+
             new_count = sum(1 for l in new_links if l not in all_links)
             all_links.update(new_links)
-            print(f"    Scroll {scroll}: +{new_count} new, {len(all_links)} total", flush=True)
 
-            if len(all_links) >= target:
-                break
-
-            if new_count == 0:
+            # Check scroll position
+            current_height = await page.evaluate("document.body.scrollHeight")
+            if current_height == last_height and new_count == 0:
                 stale += 1
-                if stale >= max_stale:
-                    break
             else:
                 stale = 0
+                aggressive_phase = False
+            last_height = current_height
 
-            await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-            await asyncio.sleep(random.uniform(2, 4))
+            if stale >= max_stale:
+                break
 
-        return list(all_links)
+            # Aggressive mode after 3 stale scrolls
+            if stale >= 3 and not aggressive_phase:
+                aggressive_phase = True
+
+            if aggressive_phase:
+                await page.evaluate("window.scrollBy(0, -500)")
+                await asyncio.sleep(0.5)
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await asyncio.sleep(1)
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight + 100)")
+                await asyncio.sleep(random.uniform(3, 5))
+            else:
+                await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                await asyncio.sleep(random.uniform(4, 7))
+
+        return all_links
 
     async def _extract_and_download_video(
         self, page, post_url: str, username: str, shortcode: str, post_type: str,
