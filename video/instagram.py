@@ -154,32 +154,158 @@ class InstagramVideoScraper:
                 print(f"Cookie load failed: {e}")
                 return
 
-            page = await ctx.new_page()
-
-            for i, username in enumerate(self.usernames):
-                if self.total_downloaded >= self.max_videos:
-                    break
+            # Open a tab per account — preserves scroll position across rounds
+            print(f"Opening {len(self.usernames)} tabs...", flush=True)
+            tabs: dict[str, object] = {}  # username -> page
+            for username in self.usernames:
                 if username in self.completed_accounts:
                     continue
+                tab = await ctx.new_page()
+                try:
+                    await tab.goto(
+                        f"https://www.instagram.com/{username}/",
+                        wait_until="domcontentloaded", timeout=30000,
+                    )
+                except Exception as e:
+                    print(f"  Failed to open @{username}: {e}", flush=True)
+                    await tab.close()
+                    continue
+                tabs[username] = tab
+                await asyncio.sleep(1)  # Stagger tab loading
 
-                if i > 0:
-                    pause = random.uniform(20, 30)
-                    print(f"\nPausing {pause:.0f}s between users...", flush=True)
-                    await asyncio.sleep(pause)
+            print(f"Opened {len(tabs)} tabs", flush=True)
+            await asyncio.sleep(5)  # Let all tabs settle
 
-                await self._scrape_user(page, username, pbar)
+            # Track per-tab scroll state
+            seen_links: dict[str, set] = {u: set() for u in tabs}
+            stale_count: dict[str, int] = {u: 0 for u in tabs}
 
+            # Round-robin: visit each tab, download ~20 videos, move on
+            videos_per_visit = 20
+            round_num = 0
+
+            while self.total_downloaded < self.max_videos:
+                active = [u for u in tabs if stale_count[u] < 6]
+                if not active:
+                    break
+
+                round_num += 1
+                print(f"\n=== Round {round_num}: {len(active)} active accounts ===", flush=True)
+
+                for username in active:
+                    if self.total_downloaded >= self.max_videos:
+                        break
+
+                    tab = tabs[username]
+                    downloaded = await self._download_from_tab(
+                        tab, username, pbar, seen_links[username],
+                        max_downloads=videos_per_visit,
+                    )
+
+                    if downloaded == 0:
+                        stale_count[username] += 1
+                    else:
+                        stale_count[username] = 0
+
+                    if stale_count[username] >= 6:
+                        self._mark_completed(username)
+                        await tab.close()
+                        print(f"  @{username}: exhausted, tab closed", flush=True)
+
+                    print(f"  @{username}: +{downloaded} this visit (total {self.total_downloaded})", flush=True)
+                    await asyncio.sleep(random.uniform(3, 5))
+
+            # Close remaining tabs
+            for tab in tabs.values():
+                await tab.close()
             await browser.close()
 
         pbar.close()
         print(f"\nDone: {self.total_downloaded} videos downloaded")
 
-    async def _scrape_user(self, page, username: str, pbar):
+    async def _download_from_tab(
+        self, tab, username: str, pbar, seen_links: set,
+        max_downloads: int = 20,
+    ) -> int:
+        """Scroll a tab and download videos. Tab preserves scroll position.
+
+        Args:
+            tab: Playwright page (already at the profile, scroll preserved).
+            username: Instagram username.
+            pbar: tqdm progress bar.
+            seen_links: Set of link paths already seen (mutated in place).
+            max_downloads: Max videos to download this visit.
+
+        Returns:
+            Number of videos downloaded.
+        """
+        downloaded = 0
+
+        # Scroll and download loop — same as _scroll_and_download but simpler
+        for scroll in range(50):  # Max 50 scrolls per visit
+            if downloaded >= max_downloads:
+                break
+            if self.total_downloaded >= self.max_videos:
+                break
+
+            # Extract links from current DOM
+            try:
+                dom_links = await asyncio.wait_for(
+                    tab.eval_on_selector_all("a[href]",
+                        """els => els.map(a => a.getAttribute('href'))
+                                  .filter(h => h && (h.includes('/reel/') || h.includes('/p/')))"""),
+                    timeout=10,
+                )
+            except Exception:
+                dom_links = []
+
+            # Find fresh links
+            fresh = [l for l in set(dom_links) if l not in seen_links
+                     and self._shortcode(l) not in self.downloaded_shortcodes]
+
+            for link in fresh:
+                seen_links.add(link)
+                if downloaded >= max_downloads:
+                    break
+
+                shortcode = self._shortcode(link)
+                post_url = f"https://www.instagram.com{link}"
+                post_type = "reel" if "/reel/" in link else "post"
+
+                dl_page = await tab.context.new_page()
+                try:
+                    ok = await self._extract_and_download_video(
+                        dl_page, post_url, username, shortcode, post_type,
+                    )
+                    if ok:
+                        downloaded += 1
+                        self.total_downloaded += 1
+                        pbar.update(1)
+                        pbar.set_postfix(user=username, total=self.total_downloaded)
+                finally:
+                    await dl_page.close()
+
+                await asyncio.sleep(random.uniform(1, 2))
+
+            # Mark all DOM links as seen (even ones we didn't download)
+            seen_links.update(dom_links)
+
+            # Scroll for more content
+            await tab.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            await asyncio.sleep(random.uniform(2, 4))
+
+        return downloaded
+
+    async def _scrape_user(self, page, username: str, pbar,
+                           max_this_visit: int = 999999):
         """Scrape videos from a single user's profile.
 
         Interleaves scrolling and downloading like the image scraper:
         scroll to find links, download videos from new links, scroll more.
         Also scrapes the reels tab after the main grid.
+
+        Args:
+            max_this_visit: Max videos to download this visit (for round-robin).
         """
         user_downloaded = 0
         profile_url = f"https://www.instagram.com/{username}/"
@@ -211,27 +337,31 @@ class InstagramVideoScraper:
         # Scrape main grid: scroll + download interleaved
         user_downloaded += await self._scroll_and_download(
             page, username, pbar, user_downloaded,
+            max_downloads=max_this_visit,
         )
 
-        # Scrape reels tab for additional reels
-        if user_downloaded < self.max_per_user and self.total_downloaded < self.max_videos:
+        # Scrape reels tab for additional reels (if we still have budget)
+        if user_downloaded < max_this_visit and self.total_downloaded < self.max_videos:
             reels_url = f"https://www.instagram.com/{username}/reels/"
             try:
                 await page.goto(reels_url, wait_until="domcontentloaded", timeout=30000)
-                await asyncio.sleep(5)
+                await asyncio.sleep(3)
                 user_downloaded += await self._scroll_and_download(
                     page, username, pbar, user_downloaded, reels_only=True,
+                    max_downloads=max_this_visit - user_downloaded,
                 )
             except Exception as e:
                 print(f"  Reels tab failed: {e}", flush=True)
 
-        if user_downloaded > 0:
+        # Only mark completed if we found NO new videos (account exhausted)
+        # Don't mark completed if we just hit max_this_visit — come back later
+        if user_downloaded == 0:
             self._mark_completed(username)
-        print(f"  @{username}: {user_downloaded} videos downloaded", flush=True)
+        print(f"  @{username}: {user_downloaded} videos this visit", flush=True)
 
     async def _scroll_and_download(
         self, page, username: str, pbar, user_downloaded: int,
-        reels_only: bool = False,
+        reels_only: bool = False, max_downloads: int = 999999,
     ) -> int:
         """Scroll page and download videos as links are discovered.
 
@@ -253,31 +383,35 @@ class InstagramVideoScraper:
         max_stale = 6
         max_scrolls = 1000
         last_height = 0
+        last_link_count = 0  # Track DOM link count to detect new content
         aggressive_phase = False
         scroll_count = 0
 
         while stale < max_stale and scroll_count < max_scrolls:
-            if user_downloaded + downloaded_this_pass >= self.max_per_user:
+            if downloaded_this_pass >= max_downloads:
                 break
             if self.total_downloaded >= self.max_videos:
                 break
 
             # Extract links from current DOM
             try:
-                new_links = await asyncio.wait_for(
+                dom_links = await asyncio.wait_for(
                     page.eval_on_selector_all("a[href]", js_filter),
                     timeout=10,
                 )
             except Exception:
-                new_links = []
+                dom_links = []
 
-            # Find unseen links
-            fresh_links = [l for l in new_links if l not in seen_links
+            dom_links_set = set(dom_links)
+
+            # Find links we haven't tried downloading yet
+            fresh_links = [l for l in dom_links_set if l not in seen_links
                            and self._shortcode(l) not in self.downloaded_shortcodes]
-            seen_links.update(new_links)
 
-            # Download videos from fresh links in a new tab (keep grid page intact)
+            # Download videos from fresh links in a new tab
             for link in fresh_links:
+                seen_links.add(link)
+
                 if user_downloaded + downloaded_this_pass >= self.max_per_user:
                     break
                 if self.total_downloaded >= self.max_videos:
@@ -287,7 +421,6 @@ class InstagramVideoScraper:
                 post_url = f"https://www.instagram.com{link}"
                 post_type = "reel" if "/reel/" in link else "post"
 
-                # Open in new tab, download, close tab — grid scroll position preserved
                 dl_page = await page.context.new_page()
                 try:
                     ok = await self._extract_and_download_video(
@@ -301,17 +434,20 @@ class InstagramVideoScraper:
                 finally:
                     await dl_page.close()
 
-                await asyncio.sleep(random.uniform(2, 4))
+                await asyncio.sleep(random.uniform(1, 2))
 
-            # Check scroll position
+            # Scroll and check for new content
             current_height = await page.evaluate("document.body.scrollHeight")
-            new_count = len(fresh_links)
-            if current_height == last_height and new_count == 0:
+            current_link_count = len(dom_links_set)
+
+            if current_height == last_height and current_link_count == last_link_count:
                 stale += 1
             else:
                 stale = 0
                 aggressive_phase = False
+
             last_height = current_height
+            last_link_count = current_link_count
 
             # Aggressive mode after 3 stale scrolls
             if stale >= 3 and not aggressive_phase:
@@ -319,14 +455,14 @@ class InstagramVideoScraper:
 
             if aggressive_phase:
                 await page.evaluate("window.scrollBy(0, -500)")
-                await asyncio.sleep(0.5)
+                await asyncio.sleep(0.3)
                 await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                await asyncio.sleep(1)
+                await asyncio.sleep(0.5)
                 await page.evaluate("window.scrollTo(0, document.body.scrollHeight + 100)")
-                await asyncio.sleep(random.uniform(3, 5))
+                await asyncio.sleep(random.uniform(2, 3))
             else:
                 await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-                await asyncio.sleep(random.uniform(4, 7))
+                await asyncio.sleep(random.uniform(2, 4))
 
             scroll_count += 1
 
@@ -433,7 +569,17 @@ class InstagramVideoScraper:
 
         try:
             await page.goto(post_url, wait_until="domcontentloaded", timeout=30000)
-            await asyncio.sleep(8)  # Wait for video to stream
+            await asyncio.sleep(1)  # Quick initial load
+
+            # Fast check: is there a video element in the DOM?
+            has_video = await page.evaluate("() => document.querySelectorAll('video').length > 0")
+            if not has_video:
+                # No video element = image post, bail fast
+                page.remove_listener("response", on_response)
+                return False
+
+            # Video exists — wait for chunks to stream
+            await asyncio.sleep(4)
         except Exception as e:
             page.remove_listener("response", on_response)
             return False
@@ -441,7 +587,7 @@ class InstagramVideoScraper:
         page.remove_listener("response", on_response)
 
         if not chunks:
-            return False  # No video on this post (image-only)
+            return False  # Video element existed but no chunks captured
 
         # Find the base URL with the most data (= the target video)
         best_base = max(chunks, key=lambda k: sum(len(b) for _, b in chunks[k]))
