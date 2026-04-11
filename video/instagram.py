@@ -129,6 +129,28 @@ class InstagramVideoScraper:
         from playwright.async_api import async_playwright
 
         pbar = tqdm(desc="Instagram videos", unit="vid", file=sys.stderr)
+        max_retries = 50  # Restart browser up to 50 times on crash
+
+        for attempt in range(max_retries):
+            if self.total_downloaded >= self.max_videos:
+                break
+
+            try:
+                await self._run_session(pbar)
+                break  # Clean exit
+            except Exception as e:
+                print(f"\n!!! Browser crashed (attempt {attempt+1}): {e}", flush=True)
+                print(f"    Restarting in 10s... ({self.total_downloaded} videos saved so far)", flush=True)
+                # Reload manifest to pick up any downloads from crashed session
+                self._load_manifest()
+                await asyncio.sleep(10)
+
+        pbar.close()
+        print(f"\nDone: {self.total_downloaded} videos downloaded")
+
+    async def _run_session(self, pbar):
+        """Run one browser session. Raises on browser crash."""
+        from playwright.async_api import async_playwright
 
         async with async_playwright() as p:
             browser = await p.chromium.launch(
@@ -155,37 +177,39 @@ class InstagramVideoScraper:
                 return
 
             # Open a tab per account — preserves scroll position across rounds
-            print(f"Opening {len(self.usernames)} tabs...", flush=True)
-            tabs: dict[str, object] = {}  # username -> page
-            for username in self.usernames:
-                if username in self.completed_accounts:
-                    continue
-                tab = await ctx.new_page()
+            active_users = [u for u in self.usernames if u not in self.completed_accounts]
+            print(f"Opening {len(active_users)} tabs...", flush=True)
+            tabs: dict[str, object] = {}
+            for username in active_users:
                 try:
+                    tab = await ctx.new_page()
                     await tab.goto(
                         f"https://www.instagram.com/{username}/",
                         wait_until="domcontentloaded", timeout=30000,
                     )
+                    tabs[username] = tab
                 except Exception as e:
                     print(f"  Failed to open @{username}: {e}", flush=True)
-                    await tab.close()
+                    try:
+                        await tab.close()
+                    except Exception:
+                        pass
                     continue
-                tabs[username] = tab
-                await asyncio.sleep(1)  # Stagger tab loading
+                await asyncio.sleep(1)
 
             print(f"Opened {len(tabs)} tabs", flush=True)
-            await asyncio.sleep(5)  # Let all tabs settle
+            await asyncio.sleep(5)
 
             # Track per-tab scroll state
             seen_links: dict[str, set] = {u: set() for u in tabs}
             stale_count: dict[str, int] = {u: 0 for u in tabs}
 
-            # Round-robin: visit each tab, download ~20 videos, move on
+            # Round-robin
             videos_per_visit = 20
             round_num = 0
 
             while self.total_downloaded < self.max_videos:
-                active = [u for u in tabs if stale_count[u] < 6]
+                active = [u for u in tabs if stale_count.get(u, 0) < 6]
                 if not active:
                     break
 
@@ -203,25 +227,31 @@ class InstagramVideoScraper:
                     )
 
                     if downloaded == 0:
-                        stale_count[username] += 1
+                        stale_count[username] = stale_count.get(username, 0) + 1
                     else:
                         stale_count[username] = 0
 
                     if stale_count[username] >= 6:
                         self._mark_completed(username)
-                        await tab.close()
+                        try:
+                            await tab.close()
+                        except Exception:
+                            pass
                         print(f"  @{username}: exhausted, tab closed", flush=True)
 
                     print(f"  @{username}: +{downloaded} this visit (total {self.total_downloaded})", flush=True)
                     await asyncio.sleep(random.uniform(3, 5))
 
-            # Close remaining tabs
+            # Clean close
             for tab in tabs.values():
-                await tab.close()
-            await browser.close()
-
-        pbar.close()
-        print(f"\nDone: {self.total_downloaded} videos downloaded")
+                try:
+                    await tab.close()
+                except Exception:
+                    pass
+            try:
+                await browser.close()
+            except Exception:
+                pass
 
     async def _download_from_tab(
         self, tab, username: str, pbar, seen_links: set,
@@ -272,7 +302,10 @@ class InstagramVideoScraper:
                 post_url = f"https://www.instagram.com{link}"
                 post_type = "reel" if "/reel/" in link else "post"
 
-                dl_page = await tab.context.new_page()
+                try:
+                    dl_page = await tab.context.new_page()
+                except Exception:
+                    break  # Browser crashed, stop this tab
                 try:
                     ok = await self._extract_and_download_video(
                         dl_page, post_url, username, shortcode, post_type,
@@ -283,7 +316,10 @@ class InstagramVideoScraper:
                         pbar.update(1)
                         pbar.set_postfix(user=username, total=self.total_downloaded)
                 finally:
-                    await dl_page.close()
+                    try:
+                        await dl_page.close()
+                    except Exception:
+                        pass  # Browser connection may have dropped
 
                 await asyncio.sleep(random.uniform(1, 2))
 
