@@ -148,9 +148,34 @@ class InstagramVideoScraper:
         pbar.close()
         print(f"\nDone: {self.total_downloaded} videos downloaded")
 
+    def _save_progress(self, last_account_idx: int):
+        """Save the index of the last processed account for resume."""
+        progress_path = self.output_dir / "progress.json"
+        import json
+        with open(progress_path, "w") as f:
+            json.dump({"last_account_idx": last_account_idx}, f)
+
+    def _load_progress(self) -> int:
+        """Load the last processed account index."""
+        import json
+        progress_path = self.output_dir / "progress.json"
+        if progress_path.exists():
+            with open(progress_path) as f:
+                return json.load(f).get("last_account_idx", 0)
+        return 0
+
     async def _run_session(self, pbar):
-        """Run one browser session. Raises on browser crash."""
+        """Run one browser session. Processes accounts in batches of 30 tabs."""
         from playwright.async_api import async_playwright
+
+        BATCH_SIZE = 30
+        videos_per_visit = 20
+
+        # Get accounts to process, starting from where we left off
+        all_active = [u for u in self.usernames if u not in self.completed_accounts]
+        start_idx = self._load_progress()
+        if start_idx >= len(all_active):
+            start_idx = 0  # Wrap around for next round
 
         async with async_playwright() as p:
             browser = await p.chromium.launch(
@@ -176,78 +201,109 @@ class InstagramVideoScraper:
                 print(f"Cookie load failed: {e}")
                 return
 
-            # Open a tab per account — preserves scroll position across rounds
-            active_users = [u for u in self.usernames if u not in self.completed_accounts]
-            print(f"Opening {len(active_users)} tabs...", flush=True)
-            tabs: dict[str, object] = {}
-            for username in active_users:
-                try:
-                    tab = await ctx.new_page()
-                    await tab.goto(
-                        f"https://www.instagram.com/{username}/",
-                        wait_until="domcontentloaded", timeout=30000,
-                    )
-                    tabs[username] = tab
-                except Exception as e:
-                    print(f"  Failed to open @{username}: {e}", flush=True)
-                    try:
-                        await tab.close()
-                    except Exception:
-                        pass
-                    continue
-                await asyncio.sleep(1)
-
-            print(f"Opened {len(tabs)} tabs", flush=True)
-            await asyncio.sleep(5)
-
-            # Track per-tab scroll state
-            seen_links: dict[str, set] = {u: set() for u in tabs}
-            stale_count: dict[str, int] = {u: 0 for u in tabs}
-
-            # Round-robin
-            videos_per_visit = 20
-            round_num = 0
-
-            while self.total_downloaded < self.max_videos:
-                active = [u for u in tabs if stale_count.get(u, 0) < 6]
-                if not active:
+            # Process accounts in batches of BATCH_SIZE
+            batch_start = start_idx
+            while batch_start < len(all_active):
+                if self.total_downloaded >= self.max_videos:
                     break
 
-                round_num += 1
-                print(f"\n=== Round {round_num}: {len(active)} active accounts ===", flush=True)
+                batch = all_active[batch_start:batch_start + BATCH_SIZE]
+                batch = [u for u in batch if u not in self.completed_accounts]
+                if not batch:
+                    batch_start += BATCH_SIZE
+                    continue
 
-                for username in active:
-                    if self.total_downloaded >= self.max_videos:
-                        break
+                print(f"\n=== Batch {batch_start//BATCH_SIZE + 1}: "
+                      f"accounts {batch_start+1}-{batch_start+len(batch)} "
+                      f"({len(batch)} tabs) ===", flush=True)
 
-                    tab = tabs[username]
-                    downloaded = await self._download_from_tab(
-                        tab, username, pbar, seen_links[username],
-                        max_downloads=videos_per_visit,
-                    )
-
-                    if downloaded == 0:
-                        stale_count[username] = stale_count.get(username, 0) + 1
-                    else:
-                        stale_count[username] = 0
-
-                    if stale_count[username] >= 6:
-                        self._mark_completed(username)
+                # Open tabs for this batch
+                tabs: dict[str, object] = {}
+                for username in batch:
+                    try:
+                        tab = await ctx.new_page()
+                        await tab.goto(
+                            f"https://www.instagram.com/{username}/",
+                            wait_until="domcontentloaded", timeout=30000,
+                        )
+                        tabs[username] = tab
+                    except Exception as e:
+                        print(f"  Failed to open @{username}: {e}", flush=True)
                         try:
                             await tab.close()
                         except Exception:
                             pass
-                        print(f"  @{username}: exhausted, tab closed", flush=True)
+                        continue
+                    await asyncio.sleep(0.5)
 
-                    print(f"  @{username}: +{downloaded} this visit (total {self.total_downloaded})", flush=True)
-                    await asyncio.sleep(random.uniform(3, 5))
+                print(f"  Opened {len(tabs)} tabs", flush=True)
+                await asyncio.sleep(3)
 
-            # Clean close
-            for tab in tabs.values():
-                try:
-                    await tab.close()
-                except Exception:
-                    pass
+                # Round-robin within this batch
+                seen_links: dict[str, set] = {u: set() for u in tabs}
+                stale_count: dict[str, int] = {u: 0 for u in tabs}
+                round_num = 0
+
+                while self.total_downloaded < self.max_videos:
+                    active = [u for u in tabs if stale_count.get(u, 0) < 6]
+                    if not active:
+                        break
+
+                    round_num += 1
+                    print(f"\n  Round {round_num}: {len(active)} active", flush=True)
+
+                    for username in active:
+                        if self.total_downloaded >= self.max_videos:
+                            break
+
+                        tab = tabs[username]
+                        try:
+                            downloaded = await asyncio.wait_for(
+                                self._download_from_tab(
+                                    tab, username, pbar, seen_links[username],
+                                    max_downloads=videos_per_visit,
+                                ),
+                                timeout=600,  # 10 min max per account per visit
+                            )
+                        except asyncio.TimeoutError:
+                            print(f"  @{username}: TIMEOUT, skipping", flush=True)
+                            downloaded = 0
+                            stale_count[username] = 6  # Force exhaust
+                        except Exception as e:
+                            print(f"  @{username}: error {e}", flush=True)
+                            downloaded = 0
+
+                        if downloaded == 0:
+                            stale_count[username] = stale_count.get(username, 0) + 1
+                        else:
+                            stale_count[username] = 0
+
+                        if stale_count[username] >= 6:
+                            self._mark_completed(username)
+                            try:
+                                await tab.close()
+                            except Exception:
+                                pass
+                            print(f"  @{username}: exhausted", flush=True)
+
+                        print(f"  @{username}: +{downloaded} (total {self.total_downloaded})", flush=True)
+
+                        # Save progress after each account
+                        account_idx = all_active.index(username) if username in all_active else batch_start
+                        self._save_progress(account_idx)
+
+                        await asyncio.sleep(random.uniform(2, 4))
+
+                # Close batch tabs
+                for tab in tabs.values():
+                    try:
+                        await tab.close()
+                    except Exception:
+                        pass
+
+                batch_start += BATCH_SIZE
+                self._save_progress(batch_start)
+
             try:
                 await browser.close()
             except Exception:
