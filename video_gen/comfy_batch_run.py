@@ -6,10 +6,10 @@ manifest row per clip. Works for any generator — the workflow is built by
 the module named in `cfg.workflow_module` (see `ComfyRunConfig`).
 
 Launch via `scripts/launch.sh`:
-    COMFY_CONFIG=configs.wan22_instagram scripts/launch.sh start
+    COMFY_CONFIG=configs.generate.wan22_instagram scripts/launch.sh start
 
 Or directly for one shard:
-    PYTHONPATH=. CUDA_VISIBLE_DEVICES=0 COMFY_CONFIG=configs.wan22_instagram \\
+    PYTHONPATH=. CUDA_VISIBLE_DEVICES=0 COMFY_CONFIG=configs.generate.wan22_instagram \\
         SHARDS=1 SHARD_ID=0 \\
         third_party/ComfyUI/.venv/bin/python -m video_gen.comfy_batch_run
 """
@@ -284,7 +284,7 @@ def submit_and_wait(session: requests.Session, server: str, workflow: dict,
 def main():
     config_module = os.environ.get("COMFY_CONFIG") or os.environ.get("WAN_CONFIG")
     if not config_module:
-        print("set COMFY_CONFIG=<module> (e.g. configs.wan22_instagram)", flush=True)
+        print("set COMFY_CONFIG=<module> (e.g. configs.generate.wan22_instagram)", flush=True)
         sys.exit(1)
     cfg = load_config(config_module)
 

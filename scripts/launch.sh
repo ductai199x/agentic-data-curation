@@ -10,14 +10,14 @@
 #   scripts/launch.sh start|stop|status
 #
 # Env (all optional):
-#   COMFY_CONFIG   config module (required for start). e.g. configs.wan22_instagram
+#   COMFY_CONFIG   config module (required for start). e.g. configs.generate.wan22_instagram
 #   GPUS           space/comma-separated GPU ids (default: 0 1 2 3 4 5 6 7)
 #   LOGS           log dir (default: /tmp/comfy_batch_logs/<config_slug>)
 #
 # Examples:
-#   COMFY_CONFIG=configs.wan22_instagram scripts/launch.sh start
-#   COMFY_CONFIG=configs.ltx_instagram GPUS="4 5 6 7" scripts/launch.sh start
-#   COMFY_CONFIG=configs.hunyuan_video_instagram scripts/launch.sh stop
+#   COMFY_CONFIG=configs.generate.wan22_instagram scripts/launch.sh start
+#   COMFY_CONFIG=configs.generate.ltx_instagram GPUS="4 5 6 7" scripts/launch.sh start
+#   COMFY_CONFIG=configs.generate.hunyuan_video_instagram scripts/launch.sh stop
 #   scripts/launch.sh status
 
 set -euo pipefail
@@ -60,7 +60,7 @@ esac
 
 if [[ -z "${COMFY_CONFIG:-}" ]]; then
     echo "error: COMFY_CONFIG=<module> is required for start"
-    echo "  e.g. COMFY_CONFIG=configs.wan22_instagram $0 start"
+    echo "  e.g. COMFY_CONFIG=configs.generate.wan22_instagram $0 start"
     exit 1
 fi
 

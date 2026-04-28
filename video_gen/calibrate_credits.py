@@ -40,12 +40,12 @@ from video_gen.comfy_config import load_config
 
 PROVIDERS = [
     # Estimates updated with calibrated rates (2026-04-16)
-    ("configs.luma_ray2_instagram_pilot", "luma_ray2", 1.01),
-    ("configs.runway_gen4_instagram_pilot", "runway_gen4", 0.36),
-    ("configs.veo3_instagram_pilot", "veo3", 1.60),
-    ("configs.sora2_instagram_pilot", "sora2", 0.80),
-    ("configs.kling2_instagram_pilot", "kling2", 0.35),
-    ("configs.hailuo02_instagram_pilot", "hailuo02", 0.28),
+    ("configs.generate.luma_ray2_instagram_pilot", "luma_ray2", 1.01),
+    ("configs.generate.runway_gen4_instagram_pilot", "runway_gen4", 0.36),
+    ("configs.generate.veo3_instagram_pilot", "veo3", 1.60),
+    ("configs.generate.sora2_instagram_pilot", "sora2", 0.80),
+    ("configs.generate.kling2_instagram_pilot", "kling2", 0.35),
+    ("configs.generate.hailuo02_instagram_pilot", "hailuo02", 0.28),
 ]
 
 OUT_FILE = REPO_ROOT / "data" / "credit_rates.json"

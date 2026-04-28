@@ -209,7 +209,7 @@ def main(output_dir: Path, source_dir: Path, dry_run: bool):
     purged = purge_manifest_rows(output_dir, {mp4.stem for mp4 in stretched}, dry_run=False)
     print(f"purged {purged} manifest rows")
     print("\ndone. Re-launch the worker to backfill:")
-    print(f"  COMFY_CONFIG=configs.<matching> scripts/launch.sh start")
+    print(f"  COMFY_CONFIG=configs.generate.<matching> scripts/launch.sh start")
     print(f"    (workers skip existing mp4s and re-gen the deleted ones)")
 
 
