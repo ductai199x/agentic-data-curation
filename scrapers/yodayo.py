@@ -11,7 +11,7 @@ Usage:
     uv run python -m scrapers.yodayo --config configs/flux1.py --max-images 5000
 """
 
-import argparse
+import click
 import asyncio
 import json
 import random
@@ -193,18 +193,16 @@ class YodayoScraper(BaseScraper):
         self.print_stats()
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape Yodayo model galleries")
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=500)
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest")
-    args = parser.parse_args()
-
+@click.command(help="Scrape Yodayo model galleries")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--max-images", "-n", type=int, default=500)
+@click.option("--force", is_flag=True, help="Ignore existing manifest")
+def main(config, max_images, force):
     from configs import load_config
 
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    scraper = YodayoScraper(config, max_images=args.max_images, force=args.force)
+    scraper = YodayoScraper(cfg, max_images=max_images, force=force)
     asyncio.run(scraper.run_async())
 
 

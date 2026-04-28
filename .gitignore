@@ -23,3 +23,20 @@ cookies*.txt
 
 # Video screening temp files
 configs/video_sources/_tmp_screen/
+
+# Vendored third-party (managed via uv + pyproject.toml — not tracked)
+third_party/
+
+# Generated logs
+logs/
+
+# MCP / agent state
+.agents/
+.mcp.json
+.playwright-mcp/
+
+# uv lock for skills
+skills-lock.json
+
+# refactor scratch
+/tmp/refactor_files_before.txt

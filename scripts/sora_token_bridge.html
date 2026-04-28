@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head><title>Sora Token Bridge</title></head>
+<body>
+<h2>Sora Token Bridge</h2>
+<p>Keep this tab open alongside sora.chatgpt.com/explore. It captures sentinel tokens from Sora's API calls.</p>
+<p>Status: <span id="status">Waiting...</span></p>
+<p>Tokens captured: <span id="count">0</span></p>
+<p>Last token age: <span id="age">-</span></p>
+<pre id="log" style="max-height:400px;overflow:auto;background:#f0f0f0;padding:10px;font-size:11px;"></pre>
+
+<script>
+// This page should be opened in a browser tab.
+// Open sora.chatgpt.com/explore/videos in another tab.
+// Then paste this in the Sora tab's console to bridge tokens:
+
+const INSTRUCTIONS = `
+PASTE THIS IN THE SORA.COM CONSOLE:
+====================================
+(function() {
+  const origFetch = window.fetch;
+  window.fetch = async function(...args) {
+    const resp = await origFetch.apply(this, args);
+    // Capture sentinel tokens from outgoing requests
+    if (args[1] && args[1].headers) {
+      const h = args[1].headers;
+      const sentinel = h['openai-sentinel-token'] || (h.get && h.get('openai-sentinel-token'));
+      if (sentinel) {
+        // Post to our bridge server
+        try {
+          await origFetch('http://localhost:9876/token', {
+            method: 'POST',
+            body: sentinel,
+            mode: 'no-cors'
+          });
+        } catch(e) {}
+      }
+    }
+    return resp;
+  };
+  console.log('Token bridge active!');
+})();
+====================================
+`;
+
+document.getElementById('log').textContent = INSTRUCTIONS;
+document.getElementById('status').textContent = 'Read instructions above';
+</script>
+</body>
+</html>

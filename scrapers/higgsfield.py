@@ -7,7 +7,7 @@ Usage:
     uv run python -m scrapers.higgsfield --config configs/nano_banana_1_2.py --max-images 5000
 """
 
-import argparse
+import click
 import http.cookiejar
 import random
 import sys
@@ -165,17 +165,15 @@ class HiggsFieldScraper(BaseScraper):
         self.run()
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape Higgsfield community galleries")
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=500)
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest")
-    args = parser.parse_args()
-
+@click.command(help="Scrape Higgsfield community galleries")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--max-images", "-n", type=int, default=500)
+@click.option("--force", is_flag=True, help="Ignore existing manifest")
+def main(config, max_images, force):
     from configs import load_config
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    scraper = HiggsFieldScraper(config, max_images=args.max_images, force=args.force)
+    scraper = HiggsFieldScraper(cfg, max_images=max_images, force=force)
     scraper.run()
 
 

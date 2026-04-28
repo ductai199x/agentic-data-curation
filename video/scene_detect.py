@@ -63,7 +63,7 @@ def has_cuts_from_frames(
     return len(detect_cuts_from_frames(frames, threshold)) > 0
 
 
-def detect_cuts(path: str | Path, threshold: float = 0.3) -> list[float]:
+def detect_cuts(path: str | Path, threshold: float = 0.25) -> list[float]:
     """Detect scene cuts in a video file using ffmpeg's scene filter.
 
     Fallback for when frames aren't already in memory.
@@ -104,7 +104,7 @@ def detect_cuts(path: str | Path, threshold: float = 0.3) -> list[float]:
     return cuts
 
 
-def has_cuts(path: str | Path, threshold: float = 0.3) -> bool:
+def has_cuts(path: str | Path, threshold: float = 0.25) -> bool:
     """Check if a video file contains any scene cuts.
 
     Returns True if any cuts detected (clip should be rejected).

@@ -104,8 +104,19 @@ def cut_clip(
 ) -> Path:
     """Extract a clip from a video using ffmpeg.
 
-    Uses stream copy (no re-encoding) for speed. Falls back to re-encoding
-    if stream copy produces bad output (rare, happens with some codecs).
+    Uses **accurate seek + re-encode** so the output starts *exactly* at
+    `start` with a clean keyframe. Previously this used fast-seek + stream
+    copy (`-ss` before `-i` with `-c copy`), which returned clips anchored
+    to the nearest preceding keyframe — typically 1–5s of pre-roll content
+    ahead of the requested start, which some players rendered as black/
+    garbled frames. For training-data quality we always re-encode.
+
+    Two-stage seek: coarse `-ss` before `-i` skips to ~1s before the target
+    (fast container-level seek), then fine `-ss` after `-i` advances to the
+    exact start (decoder-accurate). `-force_key_frames 0` inserts a fresh
+    I-frame at t=0 of the output so every clip is independently decodable.
+    Encode params: libx264 veryfast CRF 20 — visually lossless, ~3–5s per
+    30s 1080p clip.
 
     Args:
         source_path: Path to source video.
@@ -121,33 +132,27 @@ def cut_clip(
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     duration = end - start
-
-    # Try stream copy first (fast, no quality loss)
+    # Coarse pre-seek: ~1s before target, snaps to nearest keyframe (fast).
+    coarse = max(0.0, start - 1.0)
+    fine = start - coarse  # remainder for accurate decoder-side seek
     cmd = [
         "ffmpeg", "-y",
-        "-ss", str(start),
+        "-ss", f"{coarse:.3f}",           # container-level fast seek
         "-i", str(source_path),
-        "-t", str(duration),
-        "-c", "copy",
-        "-avoid_negative_ts", "make_zero",
+        "-ss", f"{fine:.3f}",             # decoder-accurate seek
+        "-t", f"{duration:.3f}",
+        "-c:v", "libx264",
+        "-crf", "20",
+        "-preset", "veryfast",
+        "-force_key_frames", "0",         # fresh I-frame at clip start
+        "-c:a", "aac",
+        "-movflags", "+faststart",
         str(output_path),
     ]
 
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
     if result.returncode != 0:
-        # Fall back to re-encoding
-        cmd = [
-            "ffmpeg", "-y",
-            "-ss", str(start),
-            "-i", str(source_path),
-            "-t", str(duration),
-            "-c:v", "libx264", "-crf", "18",
-            "-c:a", "aac",
-            str(output_path),
-        ]
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
-        if result.returncode != 0:
-            raise RuntimeError(f"ffmpeg cut failed: {result.stderr[:300]}")
+        raise RuntimeError(f"ffmpeg cut failed: {result.stderr[:500]}")
 
     return output_path
 

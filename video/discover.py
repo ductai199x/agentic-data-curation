@@ -15,7 +15,7 @@ Usage:
     uv run python -m video.discover --discover --screen --output configs/video_sources/ --gpu 6
 """
 
-import argparse
+import click
 import csv
 import json
 import subprocess
@@ -801,34 +801,31 @@ def deep_screen_channels(
     print(f"{'='*60}")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="YouTube channel discovery and screening")
-    parser.add_argument("--discover", action="store_true", help="Run discovery queries")
-    parser.add_argument("--screen", action="store_true", help="Quick pre-screen (metadata only)")
-    parser.add_argument("--deep-screen", action="store_true",
-                        help="Deep screen (download sample, verify camera-captured)")
-    parser.add_argument("--output", default="configs/video_sources",
-                        help="Output directory for channel lists")
-    parser.add_argument("--input", default=None,
-                        help="Input directory for screening (default: same as --output)")
-    parser.add_argument("--gpu", default="6", help="GPU for JoyCaption")
-
-    args = parser.parse_args()
-
-    if not args.discover and not args.screen and not args.deep_screen:
+@click.command(help="YouTube channel discovery and screening")
+@click.option("--discover", "do_discover", is_flag=True, help="Run discovery queries")
+@click.option("--screen", "do_screen", is_flag=True, help="Quick pre-screen (metadata only)")
+@click.option("--deep-screen", "do_deep_screen", is_flag=True,
+              help="Deep screen (download sample, verify camera-captured)")
+@click.option("--output", default="configs/video_sources",
+              help="Output directory for channel lists")
+@click.option("--input", "input_dir_opt", default=None,
+              help="Input directory for screening (default: same as --output)")
+@click.option("--gpu", default="6", help="GPU for JoyCaption")
+def main(do_discover, do_screen, do_deep_screen, output, input_dir_opt, gpu):
+    if not do_discover and not do_screen and not do_deep_screen:
         print("Specify --discover, --screen, --deep-screen, or a combination.")
         sys.exit(1)
 
-    if args.discover:
-        discover_channels(args.output)
+    if do_discover:
+        discover_channels(output)
 
-    if args.screen:
-        input_dir = args.input or args.output
-        screen_channels(input_dir, args.output)
+    if do_screen:
+        input_dir = input_dir_opt or output
+        screen_channels(input_dir, output)
 
-    if args.deep_screen:
-        input_dir = args.input or args.output
-        deep_screen_channels(input_dir, args.output, gpu=args.gpu)
+    if do_deep_screen:
+        input_dir = input_dir_opt or output
+        deep_screen_channels(input_dir, output, gpu=gpu)
 
 
 if __name__ == "__main__":

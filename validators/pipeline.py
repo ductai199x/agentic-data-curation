@@ -390,39 +390,36 @@ def run_pipeline(
     return results
 
 
-def main():
-    import argparse
+import click
 
-    parser = argparse.ArgumentParser(description="Run validation pipeline")
-    parser.add_argument("--config", "-c", required=True, help="Generator config file (e.g. configs/grok.py)")
-    parser.add_argument("--data-dir", "-d", default=None, help="Data directory (default: data/<generator>)")
-    parser.add_argument("--relaxed", action="store_true",
-                        help="Relaxed mode: accept re-compressed images if FSD confirms")
-    parser.add_argument("--fsd-threshold", type=float, default=-2.0,
-                        help="FSD z-score threshold (default: -2.0)")
-    parser.add_argument("--captions", help="Path to JoyCaption results JSON")
-    parser.add_argument("--staging-dir", help="Override staging directory (default: data/<gen>/staging)")
-    parser.add_argument("--images-dir", help="Override images output directory (default: data/<gen>/images)")
-    parser.add_argument("--rejected-dir", help="Override rejected output directory (default: data/<gen>/rejected)")
-    parser.add_argument("--skip-fsd", action="store_true", help="Skip FSD detection")
-    parser.add_argument("--force", action="store_true",
-                        help="Move images/rejected back to staging and revalidate from scratch")
-    args = parser.parse_args()
 
-    cfg = load_config(args.config)
-    data_dir = Path(args.data_dir) if args.data_dir else Path(f"data/images/{cfg.NAME}")
+@click.command(help="Run validation pipeline")
+@click.option("--config", "-c", required=True, help="Generator config file (e.g. configs/grok.py)")
+@click.option("--data-dir", "-d", default=None, help="Data directory (default: data/<generator>)")
+@click.option("--relaxed", is_flag=True, help="Accept re-compressed images if FSD confirms")
+@click.option("--fsd-threshold", type=float, default=-2.0, help="FSD z-score threshold")
+@click.option("--captions", default=None, help="Path to JoyCaption results JSON")
+@click.option("--staging-dir", default=None, help="Override staging dir")
+@click.option("--images-dir", default=None, help="Override images output dir")
+@click.option("--rejected-dir", default=None, help="Override rejected output dir")
+@click.option("--skip-fsd", is_flag=True, help="Skip FSD detection")
+@click.option("--force", is_flag=True, help="Move images/rejected back to staging and revalidate")
+def main(config, data_dir, relaxed, fsd_threshold, captions, staging_dir,
+         images_dir, rejected_dir, skip_fsd, force):
+    cfg = load_config(config)
+    dd = Path(data_dir) if data_dir else Path(f"data/images/{cfg.NAME}")
 
     run_pipeline(
         config=cfg,
-        data_dir=data_dir,
-        relaxed_mode=args.relaxed,
-        fsd_threshold=args.fsd_threshold,
-        captions_path=Path(args.captions) if args.captions else None,
-        skip_fsd=args.skip_fsd,
-        force=args.force,
-        staging_dir=Path(args.staging_dir) if args.staging_dir else None,
-        images_dir=Path(args.images_dir) if args.images_dir else None,
-        rejected_dir=Path(args.rejected_dir) if args.rejected_dir else None,
+        data_dir=dd,
+        relaxed_mode=relaxed,
+        fsd_threshold=fsd_threshold,
+        captions_path=Path(captions) if captions else None,
+        skip_fsd=skip_fsd,
+        force=force,
+        staging_dir=Path(staging_dir) if staging_dir else None,
+        images_dir=Path(images_dir) if images_dir else None,
+        rejected_dir=Path(rejected_dir) if rejected_dir else None,
     )
 
 

@@ -8,10 +8,10 @@ Usage:
     CUDA_VISIBLE_DEVICES=6 uv run python video/test_joycaption.py --dir /tmp/joycaption_test
 """
 
-import argparse
 import json
 from pathlib import Path
 
+import click
 import torch
 from PIL import Image
 from transformers import AutoProcessor, LlavaForConditionalGeneration
@@ -62,14 +62,12 @@ def caption_image(model, processor, image: Image.Image, prompt: str) -> str:
     ).strip()
 
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--dir", required=True, help="Directory with test images")
-    parser.add_argument("--gpu", type=int, default=6)
-    args = parser.parse_args()
-
+@click.command()
+@click.option("--dir", "dir_", required=True, help="Directory with test images")
+@click.option("--gpu", type=int, default=6)
+def main(dir_, gpu):
     import os
-    os.environ["CUDA_VISIBLE_DEVICES"] = str(args.gpu)
+    os.environ["CUDA_VISIBLE_DEVICES"] = str(gpu)
 
     print("Loading model...")
     processor = AutoProcessor.from_pretrained(MODEL_NAME)
@@ -79,7 +77,7 @@ def main():
     model.eval()
     print("Model loaded.\n")
 
-    test_dir = Path(args.dir)
+    test_dir = Path(dir_)
     images = sorted([
         f for f in test_dir.iterdir()
         if f.suffix.lower() in (".jpg", ".jpeg", ".png", ".webp")

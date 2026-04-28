@@ -177,7 +177,7 @@ def validate_image(
 
 def validate_batch(
     image_dir: Path,
-    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png"),
+    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png", ".webp"),
     **kwargs,
 ) -> list[ValidationResult]:
     """Validate all images in a directory.

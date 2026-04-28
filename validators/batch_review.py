@@ -17,7 +17,7 @@ from PIL import Image
 def create_contact_sheet(
     image_dir: Path,
     output_path: Path,
-    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png"),
+    suffixes: tuple[str, ...] = (".jpg", ".jpeg", ".png", ".webp"),
     thumb_size: int = 200,
     cols: int = 5,
 ) -> int:

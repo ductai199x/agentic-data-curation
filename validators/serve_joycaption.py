@@ -162,7 +162,7 @@ def classify(image_dir, output, url):
     import requests as req
 
     image_dir = Path(image_dir)
-    suffixes = (".jpg", ".jpeg", ".png")
+    suffixes = (".jpg", ".jpeg", ".png", ".webp")
     files = sorted(f for f in image_dir.iterdir() if f.suffix.lower() in suffixes)
     results = {}
     start = time.time()

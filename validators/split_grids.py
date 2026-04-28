@@ -10,7 +10,7 @@ Usage:
     uv run python -m validators.split_grids --config configs/midjourney.py [--dry-run] [--output-dir DIR]
 """
 
-import argparse
+import click
 import csv
 import hashlib
 import io
@@ -177,21 +177,19 @@ def _split_one_grid(args):
     return tile_rows, row.get("filename", "")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Split Midjourney grid images into tiles")
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--dry-run", action="store_true", help="Only report, don't split")
-    parser.add_argument("--output-dir", "-o", help="Output directory for tiles (default: staging)")
-    parser.add_argument("--limit", "-n", type=int, default=0, help="Process only N images")
-    args = parser.parse_args()
-
+@click.command(help="Split Midjourney grid images into tiles")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--dry-run", is_flag=True, help="Only report, don't split")
+@click.option("--output-dir", "-o", default=None, help="Output dir for tiles (default: staging)")
+@click.option("--limit", "-n", type=int, default=0, help="Process only N images")
+def main(config, dry_run, output_dir, limit):
     from configs import load_config
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    data_dir = Path(f"data/images/{config.NAME}")
+    data_dir = Path(f"data/images/{cfg.NAME}")
     staging = data_dir / "staging"
     manifest_path = data_dir / "manifest.csv"
-    output_dir = Path(args.output_dir) if args.output_dir else staging
+    out_dir = Path(output_dir) if output_dir else staging
 
     if not manifest_path.exists():
         print("No manifest.csv found", file=sys.stderr)
@@ -236,17 +234,17 @@ def main():
     print(f"  Missing files: {stats['missing']}")
     print(f"  Grid files found: {len(grids_to_split)}")
 
-    if args.dry_run:
+    if dry_run:
         return
 
-    if args.limit:
-        grids_to_split = grids_to_split[:args.limit]
+    if limit:
+        grids_to_split = grids_to_split[:limit]
 
     # Split grids in parallel
-    output_dir.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    # Prepare work items as serializable tuples (row_dict, img_path_str, output_dir_str)
-    work_items = [(row, str(img_path), str(output_dir)) for row, img_path in grids_to_split]
+    # Prepare work items as serializable tuples (row_dict, img_path_str, out_dir_str)
+    work_items = [(row, str(img_path), str(out_dir)) for row, img_path in grids_to_split]
 
     # Filter out already-split grids (tiles already exist)
     filtered_items = []

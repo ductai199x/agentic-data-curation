@@ -108,7 +108,7 @@ def run_local(image_dir: Path, output: Path, gpu: str = "0", force: bool = False
     from PIL import Image
     from transformers import AutoProcessor, LlavaForConditionalGeneration
 
-    MODEL_NAME = "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+    MODEL_NAME = "fancyfeast/llama-joycaption-beta-one-hf-llava"
     CAPTION_PROMPT = "Write a list of Booru-like tags for this image."
 
     os.environ["CUDA_VISIBLE_DEVICES"] = gpu

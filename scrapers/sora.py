@@ -39,7 +39,7 @@ Usage:
     uv run python -m scrapers.sora --force
 """
 
-import argparse
+import click
 import asyncio
 import csv
 import http.cookiejar
@@ -863,31 +863,29 @@ class SoraScraper(BaseScraper):
         return ".jpg"
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape Sora (sora.chatgpt.com) videos and images")
-    parser.add_argument("--config", "-c", help="Config file path (default: configs/sora.py)")
-    parser.add_argument("--max-videos", "-n", type=int, default=5000,
-                        help="Max items to download (videos + images)")
-    parser.add_argument("--feed", "-f", choices=[*FEED_VARIANTS, "all"], default="all",
-                        help="Feed variant to scrape, or 'all' for all variants (default: all)")
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest (fresh start)")
-    args = parser.parse_args()
-
-    config = None
-    if args.config:
+@click.command(help="Scrape Sora (sora.chatgpt.com) videos and images")
+@click.option("--config", "-c", default=None, help="Config file path (default: configs/sora.py)")
+@click.option("--max-videos", "-n", type=int, default=5000,
+              help="Max items to download (videos + images)")
+@click.option("--feed", "-f", type=click.Choice([*FEED_VARIANTS, "all"]), default="all",
+              help="Feed variant to scrape, or 'all' for all variants")
+@click.option("--force", is_flag=True, help="Ignore existing manifest (fresh start)")
+def main(config, max_videos, feed, force):
+    cfg = None
+    if config:
         from configs import load_config
-        config = load_config(args.config)
+        cfg = load_config(config)
     else:
         from configs import load_config
         default_config = Path(__file__).parent.parent / "configs" / "sora.py"
         if default_config.exists():
-            config = load_config(str(default_config))
+            cfg = load_config(str(default_config))
 
     scraper = SoraScraper(
-        config=config,
-        max_items=args.max_videos,
-        force=args.force,
-        feed_variant=args.feed,
+        config=cfg,
+        max_items=max_videos,
+        force=force,
+        feed_variant=feed,
     )
     scraper.run()
 

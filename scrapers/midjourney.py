@@ -12,7 +12,7 @@ Usage:
     uv run python -m scrapers.midjourney --config configs/midjourney_v7.py --max-images 20 --channels general-1,general-2
 """
 
-import argparse
+import click
 import random
 import re
 import sys
@@ -383,29 +383,23 @@ class MidjourneyScraper(BaseScraper):
         self.run()
 
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Scrape Midjourney images from Discord"
-    )
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=50000,
-                        help="Maximum images to download")
-    parser.add_argument("--force", action="store_true",
-                        help="Ignore existing manifest (fresh start)")
-    parser.add_argument("--channels", type=str, default=None,
-                        help="Comma-separated channel names to scrape (e.g. general-1,general-2)")
-    args = parser.parse_args()
-
+@click.command(help="Scrape Midjourney images from Discord")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--max-images", "-n", type=int, default=50000, help="Maximum images to download")
+@click.option("--force", is_flag=True, help="Ignore existing manifest (fresh start)")
+@click.option("--channels", default=None,
+              help="Comma-separated channel names (e.g. general-1,general-2)")
+def main(config, max_images, force, channels):
     from configs import load_config
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    channels = args.channels.split(",") if args.channels else None
+    channel_list = channels.split(",") if channels else None
 
     scraper = MidjourneyScraper(
-        config,
-        max_images=args.max_images,
-        force=args.force,
-        channels=channels,
+        cfg,
+        max_images=max_images,
+        force=force,
+        channels=channel_list,
     )
     scraper.run()
 

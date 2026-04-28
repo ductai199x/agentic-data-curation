@@ -7,7 +7,7 @@ Usage:
     uv run python -m scrapers.aigcarena --config configs/seedream4.py --max-images 1000
 """
 
-import argparse
+import click
 import asyncio
 import json
 import random
@@ -201,17 +201,15 @@ class AIGCArenaScraper(BaseScraper):
             print(f"  Loaded {len(cookies)} cookies", flush=True)
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape AIGCArena explore page")
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=1000)
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest")
-    args = parser.parse_args()
-
+@click.command(help="Scrape AIGCArena explore page")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--max-images", "-n", type=int, default=1000)
+@click.option("--force", is_flag=True, help="Ignore existing manifest")
+def main(config, max_images, force):
     from configs import load_config
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    scraper = AIGCArenaScraper(config, max_images=args.max_images, force=args.force)
+    scraper = AIGCArenaScraper(cfg, max_images=max_images, force=force)
     asyncio.run(scraper.run_async())
 
 

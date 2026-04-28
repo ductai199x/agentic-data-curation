@@ -8,7 +8,7 @@ Usage:
     PYTHONUNBUFFERED=1 uv run python -m video.validate_channels --dir configs/video_sources/_approved
 """
 
-import argparse
+import click
 import json
 import time
 from datetime import datetime
@@ -153,24 +153,22 @@ def validate_file(
     return {"valid": valid, "fixed": fixed, "broken": broken, "total": len(channels)}
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Validate and fix channel IDs")
-    parser.add_argument("--dir", required=True, help="Directory with channel list files")
-    parser.add_argument("--workers", type=int, default=4, help="Parallel workers")
-    parser.add_argument("--report", default="/tmp/channel_validation_report.json",
-                        help="Path to save JSON report of fixes")
-    args = parser.parse_args()
-
-    source_dir = Path(args.dir)
+@click.command(help="Validate and fix channel IDs")
+@click.option("--dir", "dir_", required=True, help="Directory with channel list files")
+@click.option("--workers", type=int, default=4, help="Parallel workers")
+@click.option("--report", default="/tmp/channel_validation_report.json",
+              help="Path to save JSON report of fixes")
+def main(dir_, workers, report):
+    source_dir = Path(dir_)
     total_valid = 0
     total_fixed = 0
     total_broken = 0
     total_channels = 0
-    report = []
+    report_list: list = []
 
     for filepath in sorted(source_dir.glob("C*.txt")):
         print(f"\n{filepath.name}")
-        stats = validate_file(filepath, max_workers=args.workers, report=report)
+        stats = validate_file(filepath, max_workers=workers, report=report_list)
         total_valid += stats["valid"]
         total_fixed += stats["fixed"]
         total_broken += stats["broken"]
@@ -185,7 +183,7 @@ def main():
     print(f"{'='*60}")
 
     # Save report
-    report_path = Path(args.report)
+    report_path = Path(report)
     with open(report_path, "w") as f:
         json.dump({
             "timestamp": datetime.now().isoformat(),
@@ -193,7 +191,7 @@ def main():
             "valid": total_valid,
             "fixed": total_fixed,
             "broken": total_broken,
-            "changes": report,
+            "changes": report_list,
         }, f, indent=2)
     print(f"\nReport saved to {report_path}")
 

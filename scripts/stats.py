@@ -6,13 +6,13 @@ Usage:
     uv run python scripts/stats.py --detailed   # detailed per-dataset breakdown
 """
 
-import argparse
 import csv
 import json
 import os
 from collections import Counter
 from pathlib import Path
 
+import click
 from tabulate import tabulate
 
 
@@ -206,12 +206,10 @@ def detailed_summary():
             print(f"\n  Formats (sampled): {fmt_str}")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Print stats on curated datasets")
-    parser.add_argument("--detailed", "-d", action="store_true", help="Detailed per-dataset breakdown")
-    args = parser.parse_args()
-
-    if args.detailed:
+@click.command(help="Print stats on curated datasets")
+@click.option("--detailed", "-d", is_flag=True, help="Detailed per-dataset breakdown")
+def main(detailed: bool):
+    if detailed:
         detailed_summary()
     else:
         short_summary()

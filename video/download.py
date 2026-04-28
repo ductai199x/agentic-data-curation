@@ -1,31 +1,17 @@
 """YouTube video downloader for real video dataset.
 
-Downloads full videos from verified channels in round-robin across categories.
+Downloads 4-minute chunks from verified channels in round-robin across categories.
 Separate from the processing pipeline — just downloads and records metadata.
 
-Features:
-- Round-robin across 21 categories for balanced progress
-- Concurrent downloads (configurable workers)
-- Full metadata manifest per category (license, title, tags, etc.)
-- Resumable via manifest (skips already-downloaded videos)
-- Rate-limited via centralized rate limiter
-- Downloads at ≤1080p, records max available resolution
-
 Usage:
-    # Download with 4 concurrent workers, 10 videos per channel
-    uv run python -m video.download --workers 4 --videos-per-channel 10
-
-    # Download specific category only
-    uv run python -m video.download --category C08_walking_biking_tour --workers 4
-
-    # Dry run — list what would be downloaded
-    uv run python -m video.download --dry-run
+    uv run python -m video.download --config configs/youtube_real_video.py
+    uv run python -m video.download --config configs/youtube_real_video.py --workers 4
+    uv run python -m video.download --config configs/youtube_real_video.py --dry-run
 """
 
-import argparse
+import click
 import csv
 import json
-import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -38,44 +24,85 @@ from tqdm import tqdm
 from .rate_limiter import run_ytdlp
 
 
-VERIFIED_DIR = Path("configs/video_sources/verified")
-OUTPUT_BASE = Path("data/videos/real/youtube")
-MAX_HEIGHT = 1080
+# Fallback defaults — overridden by config
+_VERIFIED_DIR = Path("configs/video_sources/verified")
+_OUTPUT_BASE = Path("data/videos/real/youtube")  # root; "staging/" subdir joined below
+_MAX_HEIGHT = 1080
+_CHUNK_DURATION = 240
+_SKIP_START = 120
+_SKIP_END = 120
 
 MANIFEST_FIELDS = [
-    "channel_id",
-    "channel_name",
-    "video_id",
-    "filename",
-    "title",
-    "upload_date",
-    "duration",
-    "width",
-    "height",
-    "max_available_height",
-    "codec",
-    "fps",
-    "license",
-    "yt_category",
-    "tags",
-    "description",
-    "download_timestamp",
-    "file_size",
-    "status",
+    "channel_id", "channel_name", "video_id", "filename",
+    "title", "upload_date", "duration", "chunk_start", "chunk_end",
+    "width", "height", "max_available_height", "codec", "fps",
+    "license", "yt_category", "tags", "description",
+    "download_timestamp", "file_size", "status", "error",
 ]
+
+
+class ProgressTracker:
+    """Thread-safe progress tracker for bytes, speed, and video counts."""
+
+    def __init__(self):
+        self._lock = Lock()
+        self.videos_done = 0
+        self.videos_failed = 0
+        self.bytes_downloaded = 0
+        self.start_time = time.time()
+        self.pbar = tqdm(
+            desc="Downloading",
+            unit="vid",
+            file=sys.stderr,
+            bar_format="{desc}: {n_fmt} vids | {postfix} | {elapsed}",
+        )
+
+    def record_success(self, file_size: int):
+        with self._lock:
+            self.videos_done += 1
+            self.bytes_downloaded += file_size
+            elapsed = time.time() - self.start_time
+            speed_mbps = (self.bytes_downloaded / 1e6) / elapsed if elapsed > 0 else 0
+            self.pbar.n = self.videos_done
+            self.pbar.set_postfix_str(
+                f"{self.bytes_downloaded / 1e9:.1f}GB | "
+                f"{speed_mbps:.1f}MB/s | "
+                f"{self.videos_failed} failed"
+            )
+            self.pbar.refresh()
+
+    def record_failure(self):
+        with self._lock:
+            self.videos_failed += 1
+            elapsed = time.time() - self.start_time
+            speed_mbps = (self.bytes_downloaded / 1e6) / elapsed if elapsed > 0 else 0
+            self.pbar.set_postfix_str(
+                f"{self.bytes_downloaded / 1e9:.1f}GB | "
+                f"{speed_mbps:.1f}MB/s | "
+                f"{self.videos_failed} failed"
+            )
+            self.pbar.refresh()
+
+    def close(self):
+        self.pbar.close()
 
 
 class CategoryDownloader:
     """Manages downloads for a single category."""
 
-    def __init__(self, category: str, output_base: Path = OUTPUT_BASE):
+    def __init__(self, category: str, output_base: Path = _OUTPUT_BASE):
         self.category = category
+        # output_base is the staging root (…/youtube/staging). Manifests
+        # live at the dataset root under download_manifests/, not inside
+        # each cat dir — staging/ holds only source videos.
         self.output_dir = output_base / category
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        self.manifest_path = self.output_dir / "manifest.csv"
+        dataset_root = output_base.parent
+        manifest_root = dataset_root / "download_manifests"
+        manifest_root.mkdir(parents=True, exist_ok=True)
+        self.manifest_path = manifest_root / f"{category}.csv"
         self._manifest_lock = Lock()
 
-        # Load already-downloaded video IDs for resume
         self.downloaded_videos: set[str] = set()
         if self.manifest_path.exists():
             with open(self.manifest_path) as f:
@@ -94,12 +121,9 @@ class CategoryDownloader:
                 writer.writerow(row)
 
 
-def load_channels(category: str) -> list[tuple[str, str]]:
-    """Load verified channel IDs and names for a category.
-
-    Returns list of (channel_id, channel_name).
-    """
-    filepath = VERIFIED_DIR / f"{category}.txt"
+def load_channels(category: str, verified_dir: Path = _VERIFIED_DIR) -> list[tuple[str, str]]:
+    """Load verified channels for a category. Returns [(channel_id, channel_name)]."""
+    filepath = verified_dir / f"{category}.txt"
     if not filepath.exists():
         return []
     channels = []
@@ -114,10 +138,7 @@ def load_channels(category: str) -> list[tuple[str, str]]:
 
 
 def list_channel_video_ids(channel_id: str, max_videos: int = 20) -> list[dict]:
-    """List video IDs from a channel with basic metadata.
-
-    Returns list of dicts with id, duration, title.
-    """
+    """List video IDs from a channel. Returns [{id, duration, title}]."""
     result = run_ytdlp([
         "--flat-playlist",
         "--print", "%(id)s\t%(duration)s\t%(title)s",
@@ -141,202 +162,228 @@ def list_channel_video_ids(channel_id: str, max_videos: int = 20) -> list[dict]:
     return videos
 
 
+def _compute_chunk_range(
+    duration: float,
+    chunk_duration: int = _CHUNK_DURATION,
+    skip_start: int = _SKIP_START,
+    skip_end: int = _SKIP_END,
+    min_video_duration: int = 60,
+) -> tuple[int, int] | None:
+    """Compute a chunk from the middle, skipping intro/outro."""
+    if duration < min_video_duration:
+        return None
+
+    if duration < chunk_duration:
+        return (0, int(duration))
+
+    usable_start = min(skip_start, duration * 0.1)
+    usable_end = max(duration - skip_end, duration * 0.9)
+    usable = usable_end - usable_start
+
+    if usable < chunk_duration:
+        center = duration / 2
+        start = max(0, int(center - chunk_duration / 2))
+        return (start, start + chunk_duration)
+
+    center = usable_start + usable / 2
+    start = int(center - chunk_duration / 2)
+    return (start, start + chunk_duration)
+
+
 def download_video(
     video_id: str,
+    video_duration: float,
     channel_id: str,
     channel_name: str,
     cat_downloader: CategoryDownloader,
-    max_height: int = MAX_HEIGHT,
+    progress: ProgressTracker,
+    max_height: int = _MAX_HEIGHT,
+    chunk_duration: int = _CHUNK_DURATION,
+    skip_start: int = _SKIP_START,
+    skip_end: int = _SKIP_END,
+    min_video_duration: int = 60,
 ) -> bool:
-    """Download a single video and record metadata.
-
-    Returns True if downloaded successfully.
-    """
+    """Download a chunk and record metadata in one yt-dlp call."""
     if video_id in cat_downloader.downloaded_videos:
         return False
 
-    filename = f"{channel_id}_{video_id}.webm"
-    filepath = cat_downloader.output_dir / filename
-
-    if filepath.exists():
+    chunk = _compute_chunk_range(
+        video_duration, chunk_duration, skip_start, skip_end, min_video_duration,
+    )
+    if chunk is None:
+        cat_downloader.append_manifest({
+            **{k: "" for k in MANIFEST_FIELDS},
+            "channel_id": channel_id, "channel_name": channel_name,
+            "video_id": video_id, "status": "skipped",
+            "error": f"too short ({video_duration:.0f}s)",
+            "download_timestamp": datetime.now(timezone.utc).isoformat(),
+        })
         cat_downloader.downloaded_videos.add(video_id)
         return False
 
-    # Download with full metadata
+    start, end = chunk
+    base_name = f"{channel_id}_{video_id}_{start}-{end}"
+    output_template = str(cat_downloader.output_dir / f"{base_name}.%(ext)s")
+
+    # Check if already downloaded (any extension)
+    existing = [f for f in cat_downloader.output_dir.glob(f"{base_name}.*")
+                if f.suffix not in (".json", ".part")]
+    if existing:
+        cat_downloader.downloaded_videos.add(video_id)
+        return False
+
+    # Single yt-dlp call: download chunk + write metadata json
+    # rate_limit=False — downloads are CDN transfers, not API calls
     result = run_ytdlp([
         "-f", f"bestvideo[height<={max_height}]+bestaudio/best[height<={max_height}]",
-        "--merge-output-format", "webm",
-        "-o", str(filepath),
+        "--download-sections", f"*{start}-{end}",
+        "--write-info-json",
+        "-o", output_template,
         "--no-playlist",
-        "--print-json",
         f"https://www.youtube.com/watch?v={video_id}",
-    ], timeout=600)
+    ], timeout=300, rate_limit=False)
 
-    if result.returncode != 0:
+    # Find the downloaded file (could be .webm, .mkv, .mp4, .avi, etc.)
+    downloaded = [f for f in cat_downloader.output_dir.glob(f"{base_name}.*")
+                  if f.suffix not in (".json", ".part")]
+    filepath = downloaded[0] if downloaded else None
+
+    if result.returncode != 0 or not filepath:
+        error_msg = result.stderr[-300:].strip() if result.stderr else "unknown error"
+        cat_downloader.append_manifest({
+            **{k: "" for k in MANIFEST_FIELDS},
+            "channel_id": channel_id, "channel_name": channel_name,
+            "video_id": video_id, "status": "failed",
+            "error": error_msg[:500],
+            "download_timestamp": datetime.now(timezone.utc).isoformat(),
+        })
+        cat_downloader.downloaded_videos.add(video_id)
+        progress.record_failure()
         return False
 
-    # Parse metadata from yt-dlp JSON output
-    try:
-        info = json.loads(result.stdout)
-    except (json.JSONDecodeError, ValueError):
-        # Download might have succeeded but JSON parsing failed
-        if filepath.exists() and filepath.stat().st_size > 0:
-            info = {}
-        else:
-            return False
+    # Parse metadata from info.json (written by yt-dlp alongside the video)
+    info = {}
+    info_json = list(cat_downloader.output_dir.glob(f"{base_name}.info.json"))
+    if info_json:
+        try:
+            with open(info_json[0]) as f:
+                info = json.load(f)
+            info_json[0].unlink()  # Clean up — we've captured what we need in manifest
+        except (json.JSONDecodeError, OSError):
+            pass
 
-    if not filepath.exists():
-        return False
+    max_avail = max((fmt.get("height") or 0) for fmt in info.get("formats", [{}]))
+    file_size = filepath.stat().st_size
 
-    # Find max available height
-    max_avail = 0
-    for fmt in info.get("formats", []):
-        h = fmt.get("height") or 0
-        if h > max_avail:
-            max_avail = h
-
-    # Record metadata
     cat_downloader.downloaded_videos.add(video_id)
     cat_downloader.append_manifest({
         "channel_id": channel_id,
         "channel_name": channel_name,
         "video_id": video_id,
-        "filename": filename,
+        "filename": filepath.name,
         "title": str(info.get("title", ""))[:200],
         "upload_date": info.get("upload_date", ""),
-        "duration": info.get("duration", 0),
+        "duration": info.get("duration", video_duration),
+        "chunk_start": start,
+        "chunk_end": end,
         "width": info.get("width", 0),
         "height": info.get("height", 0),
         "max_available_height": max_avail,
         "codec": info.get("vcodec", ""),
         "fps": info.get("fps", 0),
         "license": info.get("license", "Standard YouTube License"),
-        "yt_category": info.get("categories", [""])[0] if info.get("categories") else "",
-        "tags": "|".join(info.get("tags", []))[:500] if info.get("tags") else "",
+        "yt_category": (info.get("categories", []) or [""])[0],
+        "tags": "|".join(info.get("tags") or [])[:500],
         "description": str(info.get("description", ""))[:500],
         "download_timestamp": datetime.now(timezone.utc).isoformat(),
-        "file_size": filepath.stat().st_size,
+        "file_size": file_size,
         "status": "downloaded",
+        "error": "",
     })
 
+    progress.record_success(file_size)
     return True
 
 
-def build_download_queue(
-    categories: list[str],
-    videos_per_channel: int = 10,
-    max_per_category: int = 0,
-) -> list[tuple[str, str, str, str]]:
-    """Build a round-robin download queue across categories.
-
-    Returns list of (category, channel_id, channel_name, video_id).
-    """
-    # For each category, build list of (channel_id, channel_name, video_ids)
-    cat_queues: dict[str, list[tuple[str, str, str]]] = {}
-
-    for category in categories:
-        channels = load_channels(category)
-        if not channels:
-            continue
-
-        # Load already-downloaded for this category
-        downloader = CategoryDownloader(category)
-        already = downloader.downloaded_videos
-
-        queue = []
-        for channel_id, channel_name in channels:
-            # We'll resolve video IDs lazily during download
-            # For now, just queue channel entries
-            queue.append((channel_id, channel_name))
-
-        cat_queues[category] = queue
-
-    return cat_queues
-
-
 class RoundRobinDownloader:
-    """Downloads videos round-robin across categories with concurrent workers."""
+    """Downloads video chunks round-robin across categories and channels."""
 
     def __init__(
         self,
+        config=None,
         categories: list[str] | None = None,
         videos_per_channel: int = 10,
         max_per_category: int = 0,
         workers: int = 4,
-        max_height: int = MAX_HEIGHT,
+        max_height: int | None = None,
     ):
+        # Read from config, fall back to defaults
+        self.verified_dir = Path(getattr(config, "VERIFIED_CHANNELS_DIR", _VERIFIED_DIR))
+        # OUTPUT_DIR is the dataset root; downloads land in <root>/staging/<cat>/
+        self.output_base = Path(getattr(config, "OUTPUT_DIR", _OUTPUT_BASE)) / "staging"
+        self.chunk_duration = getattr(config, "CHUNK_DURATION", _CHUNK_DURATION)
+        self.skip_start = getattr(config, "SKIP_START", _SKIP_START)
+        self.skip_end = getattr(config, "SKIP_END", _SKIP_END)
+        self.min_video_duration = getattr(config, "MIN_VIDEO_DURATION", 60)
+        self.max_height = max_height or getattr(config, "MAX_HEIGHT", _MAX_HEIGHT)
+
         if categories is None:
-            categories = sorted([
-                f.stem for f in VERIFIED_DIR.glob("C*.txt")
-            ])
+            categories = getattr(config, "CATEGORIES", None)
+        if categories is None:
+            categories = sorted([f.stem for f in self.verified_dir.glob("C*.txt")])
 
         self.categories = categories
         self.videos_per_channel = videos_per_channel
         self.max_per_category = max_per_category
         self.workers = workers
-        self.max_height = max_height
 
-        # Per-category state
         self.downloaders: dict[str, CategoryDownloader] = {}
         self.channel_queues: dict[str, list[tuple[str, str]]] = {}
         self.channel_index: dict[str, int] = {}
-        self.video_cache: dict[str, list[dict]] = {}  # channel_id -> video list
+        self.video_cache: dict[str, list[dict]] = {}
         self.cat_downloaded: dict[str, int] = {}
 
         for cat in categories:
-            self.downloaders[cat] = CategoryDownloader(cat)
-            channels = load_channels(cat)
-            self.channel_queues[cat] = channels
+            self.downloaders[cat] = CategoryDownloader(cat, self.output_base)
+            self.channel_queues[cat] = load_channels(cat, self.verified_dir)
             self.channel_index[cat] = 0
             self.cat_downloaded[cat] = len(self.downloaders[cat].downloaded_videos)
 
-    def _get_next_video(self, category: str) -> tuple[str, str, str] | None:
-        """Get next (channel_id, channel_name, video_id) for a category.
+    def _get_next_video(self, category: str) -> tuple[str, str, str, float] | None:
+        """Get next (channel_id, channel_name, video_id, duration).
 
-        Round-robins across channels: takes 1 video from the current channel,
-        then advances to the next channel. This maximizes channel diversity.
-        Returns None if all channels exhausted.
+        Round-robins across channels for maximum diversity.
         """
         channels = self.channel_queues[category]
         downloader = self.downloaders[category]
-        max_cat = self.max_per_category
 
-        if max_cat and self.cat_downloaded[category] >= max_cat:
+        if self.max_per_category and self.cat_downloaded[category] >= self.max_per_category:
             return None
 
-        # Try channels starting from current index
         attempts = 0
         while attempts < len(channels):
             idx = self.channel_index[category] % len(channels)
             channel_id, channel_name = channels[idx]
-
-            # Always advance to next channel for next call (round-robin)
             self.channel_index[category] = idx + 1
 
-            # Get or fetch video list for this channel
             if channel_id not in self.video_cache:
                 videos = list_channel_video_ids(channel_id, self.videos_per_channel)
-                # Filter to >60s, not already downloaded
                 self.video_cache[channel_id] = [
                     v for v in videos
-                    if v["duration"] > 60 and v["id"] not in downloader.downloaded_videos
+                    if v["duration"] > self.min_video_duration
+                    and v["id"] not in downloader.downloaded_videos
                 ]
 
             vids = self.video_cache[channel_id]
             if vids:
                 video = vids.pop(0)
-                return (channel_id, channel_name, video["id"])
+                return (channel_id, channel_name, video["id"], video["duration"])
 
-            # This channel exhausted, try next
             attempts += 1
-
         return None
 
-    def _generate_tasks(self) -> list[tuple[str, str, str, str]]:
-        """Generate round-robin download tasks across categories.
-
-        Yields (category, channel_id, channel_name, video_id) in round-robin order.
-        """
+    def _generate_tasks(self) -> list[tuple[str, str, str, str, float]]:
+        """Generate round-robin tasks: (cat, cid, cname, vid, duration)."""
         tasks = []
         active_cats = list(self.categories)
         exhausted = set()
@@ -350,10 +397,8 @@ class RoundRobinDownloader:
                     exhausted.add(cat)
                     active_cats.remove(cat)
                 else:
-                    channel_id, channel_name, video_id = result
-                    tasks.append((cat, channel_id, channel_name, video_id))
+                    tasks.append((cat, *result))
 
-            # Stop after generating a batch
             if len(tasks) >= self.workers * 2:
                 break
 
@@ -361,97 +406,95 @@ class RoundRobinDownloader:
 
     def run(self, total_limit: int = 0):
         """Run the downloader."""
-        total_downloaded = 0
-        total_failed = 0
-
-        pbar = tqdm(desc="Downloading", unit="vid", file=sys.stderr)
+        progress = ProgressTracker()
 
         while True:
-            # Generate next batch of tasks
             tasks = self._generate_tasks()
             if not tasks:
-                print("All categories exhausted.", flush=True)
+                tqdm.write("All categories exhausted.")
                 break
 
-            if total_limit and total_downloaded >= total_limit:
+            if total_limit and progress.videos_done >= total_limit:
                 break
 
-            # Execute batch concurrently
             with ThreadPoolExecutor(max_workers=self.workers) as executor:
                 futures = {}
-                for cat, cid, cname, vid in tasks:
-                    if total_limit and total_downloaded + len(futures) >= total_limit:
+                for cat, cid, cname, vid, dur in tasks:
+                    if total_limit and progress.videos_done + len(futures) >= total_limit:
                         break
                     future = executor.submit(
-                        download_video, vid, cid, cname,
-                        self.downloaders[cat], self.max_height,
+                        download_video, vid, dur, cid, cname,
+                        self.downloaders[cat], progress, self.max_height,
+                        self.chunk_duration, self.skip_start, self.skip_end,
+                        self.min_video_duration,
                     )
-                    futures[future] = (cat, cid, cname, vid)
+                    futures[future] = (cat, vid)
 
                 for future in as_completed(futures):
-                    cat, cid, cname, vid = futures[future]
+                    cat, vid = futures[future]
                     try:
                         ok = future.result(timeout=660)
-                    except Exception as e:
-                        ok = False
+                        if ok:
+                            self.cat_downloaded[cat] = self.cat_downloaded.get(cat, 0) + 1
+                    except Exception:
+                        progress.record_failure()
 
-                    if ok:
-                        total_downloaded += 1
-                        self.cat_downloaded[cat] = self.cat_downloaded.get(cat, 0) + 1
-                        pbar.update(1)
-                        pbar.set_postfix(total=total_downloaded)
-                    else:
-                        total_failed += 1
+        progress.close()
 
-        pbar.close()
-
-        # Print summary
         print(f"\n{'='*60}")
         print(f"Download Summary")
         print(f"{'='*60}")
-        print(f"  Total downloaded: {total_downloaded}")
-        print(f"  Total failed: {total_failed}")
+        print(f"  Downloaded: {progress.videos_done}")
+        print(f"  Failed: {progress.videos_failed}")
+        print(f"  Total size: {progress.bytes_downloaded / 1e9:.1f}GB")
         print(f"\n  Per category:")
         for cat in sorted(self.categories):
             count = len(self.downloaders[cat].downloaded_videos)
-            print(f"    {cat}: {count}")
+            if count:
+                print(f"    {cat}: {count}")
         print(f"{'='*60}")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Download YouTube videos for real video dataset")
-    parser.add_argument("--workers", type=int, default=4,
-                        help="Concurrent download workers (default 4)")
-    parser.add_argument("--videos-per-channel", type=int, default=10,
-                        help="Max videos to consider per channel (default 10)")
-    parser.add_argument("--max-per-category", type=int, default=0,
-                        help="Max videos per category (0 = unlimited)")
-    parser.add_argument("--total-limit", type=int, default=0,
-                        help="Total download limit (0 = unlimited)")
-    parser.add_argument("--category", help="Download specific category only")
-    parser.add_argument("--dry-run", action="store_true",
-                        help="List what would be downloaded without downloading")
-    args = parser.parse_args()
+@click.command(help="Download YouTube videos")
+@click.option("--config", "-c", default=None, help="Config file (e.g. configs/youtube_real_video.py)")
+@click.option("--workers", type=int, default=None, help="Override config DOWNLOAD_WORKERS")
+@click.option("--videos-per-channel", type=int, default=None, help="Override config VIDEOS_PER_CHANNEL")
+@click.option("--max-per-category", type=int, default=0)
+@click.option("--total-limit", type=int, default=0)
+@click.option("--category", default=None, help="Single category")
+@click.option("--dry-run", is_flag=True)
+def main(config, workers, videos_per_channel, max_per_category, total_limit,
+         category, dry_run):
+    cfg = None
+    if config:
+        from configs import load_config
+        cfg = load_config(config)
 
-    categories = None
-    if args.category:
-        categories = [args.category]
+    categories = [category] if category else None
+    workers_n = workers or getattr(cfg, "DOWNLOAD_WORKERS", 4)
+    vpc = videos_per_channel or getattr(cfg, "VIDEOS_PER_CHANNEL", 10)
+    verified_dir = Path(getattr(cfg, "VERIFIED_CHANNELS_DIR", _VERIFIED_DIR))
+    # OUTPUT_DIR is the dataset root; downloaders join "staging/<cat>/"
+    output_base = Path(getattr(cfg, "OUTPUT_DIR", _OUTPUT_BASE)) / "staging"
 
-    if args.dry_run:
-        cats = categories or sorted([f.stem for f in VERIFIED_DIR.glob("C*.txt")])
+    if dry_run:
+        cats = categories or getattr(cfg, "CATEGORIES", None)
+        if cats is None:
+            cats = sorted([f.stem for f in verified_dir.glob("C*.txt")])
         for cat in cats:
-            channels = load_channels(cat)
-            dl = CategoryDownloader(cat)
-            print(f"{cat}: {len(channels)} channels, {len(dl.downloaded_videos)} already downloaded")
+            channels = load_channels(cat, verified_dir)
+            dl = CategoryDownloader(cat, output_base)
+            print(f"{cat}: {len(channels)} channels, {len(dl.downloaded_videos)} downloaded")
         return
 
     downloader = RoundRobinDownloader(
+        config=cfg,
         categories=categories,
-        videos_per_channel=args.videos_per_channel,
-        max_per_category=args.max_per_category,
-        workers=args.workers,
+        videos_per_channel=vpc,
+        max_per_category=max_per_category,
+        workers=workers_n,
     )
-    downloader.run(total_limit=args.total_limit)
+    downloader.run(total_limit=total_limit)
 
 
 if __name__ == "__main__":

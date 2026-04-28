@@ -20,7 +20,7 @@ Usage:
     uv run python -m scrapers.tensorart --config configs/flux1.py --max-images 500 --force
 """
 
-import argparse
+import click
 import asyncio
 import json
 import random
@@ -455,32 +455,23 @@ class TensorArtScraper(BaseScraper):
         return self.download_image(url, source="tensorart", metadata=metadata)
 
 
-def main():
-    parser = argparse.ArgumentParser(
-        description="Scrape FLUX.1 images from Tensor.Art"
-    )
-    parser.add_argument("--config", "-c", required=True, help="Generator config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=1000, help="Max images to download")
-    parser.add_argument(
-        "--reject-lora",
-        action="store_true",
-        default=False,
-        help="Skip images that have LoRA models applied",
-    )
-    parser.add_argument("--force", action="store_true", default=False, help="Ignore existing manifest")
-    parser.add_argument("--page-size", type=int, default=20, help="API page size (default: 20)")
-    args = parser.parse_args()
-
+@click.command(help="Scrape FLUX.1 images from Tensor.Art")
+@click.option("--config", "-c", required=True, help="Generator config file path")
+@click.option("--max-images", "-n", type=int, default=1000, help="Max images to download")
+@click.option("--reject-lora", is_flag=True, help="Skip images that have LoRA models applied")
+@click.option("--force", is_flag=True, help="Ignore existing manifest")
+@click.option("--page-size", type=int, default=20, help="API page size")
+def main(config, max_images, reject_lora, force, page_size):
     from configs import load_config
 
-    config = load_config(args.config)
+    cfg = load_config(config)
 
     scraper = TensorArtScraper(
-        config,
-        max_images=args.max_images,
-        reject_lora=args.reject_lora,
-        force=args.force,
-        page_size=args.page_size,
+        cfg,
+        max_images=max_images,
+        reject_lora=reject_lora,
+        force=force,
+        page_size=page_size,
     )
     asyncio.run(scraper.run_async())
 

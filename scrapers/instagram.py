@@ -13,7 +13,7 @@ Usage:
     uv run python -m scrapers.instagram --usernames fit_aitana,millasofiaa --max-images 200
 """
 
-import argparse
+import click
 import asyncio
 import http.cookiejar
 import random
@@ -492,43 +492,35 @@ class InstagramScraper(BaseScraper):
         asyncio.run(self.run_async())
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape Instagram AI influencer profiles")
-    parser.add_argument("--config", "-c", help="Config file path")
-    parser.add_argument(
-        "--usernames", "-u",
-        help="Comma-separated usernames (overrides config)",
-    )
-    parser.add_argument(
-        "--cookies",
-        help="Cookie file path (Netscape format, default from config)",
-    )
-    parser.add_argument("--max-images", "-n", type=int, default=500, help="Total image limit")
-    parser.add_argument("--max-per-user", type=int, default=500, help="Per-user image limit")
-    parser.add_argument(
-        "--output", "-o",
-        help="Output directory (default: data/<config.NAME> or data/instagram_ai_influencer)",
-    )
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest (clean run)")
-    args = parser.parse_args()
-
-    config = None
-    if args.config:
+@click.command(help="Scrape Instagram AI influencer profiles")
+@click.option("--config", "-c", default=None, help="Config file path")
+@click.option("--usernames", "-u", default=None,
+              help="Comma-separated usernames (overrides config)")
+@click.option("--cookies", default=None,
+              help="Cookie file path (Netscape format, default from config)")
+@click.option("--max-images", "-n", type=int, default=500, help="Total image limit")
+@click.option("--max-per-user", type=int, default=500, help="Per-user image limit")
+@click.option("--output", "-o", default=None,
+              help="Output directory (default: data/<config.NAME> or data/instagram_ai_influencer)")
+@click.option("--force", is_flag=True, help="Ignore existing manifest (clean run)")
+def main(config, usernames, cookies, max_images, max_per_user, output, force):
+    cfg = None
+    if config:
         from configs import load_config
-        config = load_config(args.config)
+        cfg = load_config(config)
 
-    usernames = None
-    if args.usernames:
-        usernames = [u.strip() for u in args.usernames.split(",") if u.strip()]
+    users = None
+    if usernames:
+        users = [u.strip() for u in usernames.split(",") if u.strip()]
 
     scraper = InstagramScraper(
-        config=config,
-        usernames=usernames,
-        cookies_path=args.cookies,
-        max_images=args.max_images,
-        max_per_user=args.max_per_user,
-        output_dir=args.output,
-        force=args.force,
+        config=cfg,
+        usernames=users,
+        cookies_path=cookies,
+        max_images=max_images,
+        max_per_user=max_per_user,
+        output_dir=output,
+        force=force,
     )
     scraper.run()
 

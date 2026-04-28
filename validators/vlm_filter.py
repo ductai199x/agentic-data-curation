@@ -122,7 +122,7 @@ def batch_classify(
     delay: float = 0.2,
 ) -> dict[str, dict]:
     """Classify all images in a directory."""
-    suffixes = (".jpg", ".jpeg", ".png")
+    suffixes = (".jpg", ".jpeg", ".png", ".webp")
     files = sorted(f for f in image_dir.iterdir() if f.suffix.lower() in suffixes)
     results = {}
     ai_count = 0

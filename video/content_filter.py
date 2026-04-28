@@ -21,6 +21,7 @@ from PIL import Image
 from tqdm import tqdm
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 
+from video_gen.common import is_source_clip
 from .watermark_detect import measure_static_overlay
 
 
@@ -29,7 +30,9 @@ MODEL_NAME = "fancyfeast/llama-joycaption-beta-one-hf-llava"
 CAPTION_PROMPT = (
     "Write a list of Booru-like tags for this image. "
     "If there is a watermark, you must mention it. "
-    "Include information about whether there is a watermark or not."
+    "Include information about whether there is a watermark or not. "
+    "If this appears to be a screenshot, screen recording, phone screen, "
+    "user interface, app interface, or picture-in-picture overlay, you must mention it."
 )
 
 # Single keywords that trigger immediate rejection
@@ -213,39 +216,49 @@ def extract_frames_from_window(
     return [Image.fromarray(f) for f in frames_np]
 
 
-def check_caption(caption: str) -> dict:
+def check_caption(caption: str, config=None) -> dict:
     """Check a caption for reject signals.
+
+    Args:
+        caption: JoyCaption output text.
+        config: Optional config module. If provided, reads REJECT_KEYWORDS,
+                REJECT_COMBOS, TEXT_OVERLAY_KEYWORDS from it.
+                If None, uses module-level defaults.
 
     Returns:
         Dict with:
             - reject: bool — True if caption triggers rejection
             - reason: str — why rejected (empty if not rejected)
             - has_watermark: bool — True if watermark mentioned (not "no watermark")
+            - has_text_overlay: bool — True if text overlay keywords found
     """
-    lower = caption.lower()
+    # Split comma-separated booru tags into a set of stripped tags
+    tags = {t.strip() for t in caption.lower().split(",")}
 
-    # Check single keyword rejects
-    for kw in REJECT_KEYWORDS:
-        if kw in lower:
-            return {"reject": True, "reason": f"keyword: {kw}", "has_watermark": False}
+    reject_kws = getattr(config, "REJECT_KEYWORDS", REJECT_KEYWORDS) if config else REJECT_KEYWORDS
+    reject_combos = getattr(config, "REJECT_COMBOS", REJECT_COMBOS) if config else REJECT_COMBOS
+    text_overlay_kws = getattr(config, "TEXT_OVERLAY_KEYWORDS", []) if config else []
 
-    # Check combo rejects
-    for combo in REJECT_COMBOS:
-        if all(kw in lower for kw in combo):
-            return {
-                "reject": True,
-                "reason": f"combo: {' + '.join(combo)}",
-                "has_watermark": False,
-            }
+    # Check single keyword rejects — exact tag match
+    for kw in reject_kws:
+        if kw in tags:
+            return {"reject": True, "reason": f"keyword: {kw}",
+                    "has_watermark": False, "has_text_overlay": False}
 
-    # Check for watermark (but NOT "no watermark")
-    has_watermark = False
-    if "watermark" in lower:
-        # Check if it's "no watermark" — look for "no watermark" pattern
-        if not re.search(r'\bno\s+watermark\b', lower):
-            has_watermark = True
+    # Check combo rejects — all tags in combo must be present
+    for combo in reject_combos:
+        if all(kw in tags for kw in combo):
+            return {"reject": True, "reason": f"combo: {' + '.join(combo)}",
+                    "has_watermark": False, "has_text_overlay": False}
 
-    return {"reject": False, "reason": "", "has_watermark": has_watermark}
+    # Check text overlay (flagged, not rejected)
+    has_text_overlay = any(kw in tags for kw in text_overlay_kws)
+
+    # Check for watermark — present as tag but not "no watermark"
+    has_watermark = "watermark" in tags and "no watermark" not in tags
+
+    return {"reject": False, "reason": "",
+            "has_watermark": has_watermark, "has_text_overlay": has_text_overlay}
 
 
 def filter_window(
@@ -339,24 +352,19 @@ def filter_clip(
 
 def filter_clips_batch(
     clip_dir: str | Path,
-    gpu: str = "6",
     frame_interval: float = 2.0,
 ) -> dict[str, dict]:
     """Filter all clips in a directory.
 
     Args:
         clip_dir: Directory containing video clips.
-        gpu: GPU to use for JoyCaption.
         frame_interval: Seconds between sampled frames.
 
     Returns:
         Dict mapping clip filename to filter result.
     """
     clip_dir = Path(clip_dir)
-    clips = sorted([
-        f for f in clip_dir.iterdir()
-        if f.suffix.lower() in (".mp4", ".webm", ".mkv")
-    ])
+    clips = sorted([f for f in clip_dir.iterdir() if is_source_clip(f)])
 
     if not clips:
         print("No clips found.")
@@ -383,23 +391,26 @@ def filter_clips_batch(
     return results
 
 
-if __name__ == "__main__":
-    import argparse
+import click
 
-    parser = argparse.ArgumentParser(description="Filter video clips with JoyCaption")
-    parser.add_argument("--dir", required=True, help="Directory with video clips")
-    parser.add_argument("--gpu", default="6", help="GPU to use")
-    parser.add_argument("--interval", type=float, default=2.0, help="Frame sampling interval (seconds)")
-    parser.add_argument("--output", help="Save results to JSON file")
-    args = parser.parse_args()
 
-    results = filter_clips_batch(args.dir, gpu=args.gpu, frame_interval=args.interval)
+@click.command(help="Filter video clips with JoyCaption")
+@click.option("--dir", "dir_", required=True, help="Directory with video clips")
+@click.option("--gpu", default="6", help="GPU to use")
+@click.option("--interval", type=float, default=2.0, help="Frame sampling interval (seconds)")
+@click.option("--output", default=None, help="Save results to JSON file")
+def main(dir_, gpu, interval, output):
+    results = filter_clips_batch(dir_, gpu=gpu, frame_interval=interval)
 
-    if args.output:
-        with open(args.output, "w") as f:
+    if output:
+        with open(output, "w") as f:
             json.dump(results, f, indent=2)
-        print(f"Saved results to {args.output}")
+        print(f"Saved results to {output}")
     else:
         for name, r in results.items():
             status = "PASS" if r["passed"] else "REJECT"
             print(f"  {status:6s} {name}: {r['reason']}")
+
+
+if __name__ == "__main__":
+    main()

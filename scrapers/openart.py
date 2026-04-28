@@ -15,7 +15,7 @@ Usage:
     uv run python -m scrapers.openart --config configs/flux1.py --max-images 100 --force
 """
 
-import argparse
+import click
 import asyncio
 import random
 import sys
@@ -236,17 +236,15 @@ class OpenArtScraper(BaseScraper):
         return self.download_image(url, source="openart", metadata=metadata)
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Scrape OpenArt.ai FLUX galleries")
-    parser.add_argument("--config", "-c", required=True, help="Config file path")
-    parser.add_argument("--max-images", "-n", type=int, default=500)
-    parser.add_argument("--force", action="store_true", help="Ignore existing manifest")
-    args = parser.parse_args()
-
+@click.command(help="Scrape OpenArt.ai FLUX galleries")
+@click.option("--config", "-c", required=True, help="Config file path")
+@click.option("--max-images", "-n", type=int, default=500)
+@click.option("--force", is_flag=True, help="Ignore existing manifest")
+def main(config, max_images, force):
     from configs import load_config
-    config = load_config(args.config)
+    cfg = load_config(config)
 
-    scraper = OpenArtScraper(config, max_images=args.max_images, force=args.force)
+    scraper = OpenArtScraper(cfg, max_images=max_images, force=force)
     scraper.run()
 
 

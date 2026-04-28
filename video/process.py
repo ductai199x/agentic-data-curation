@@ -1,23 +1,25 @@
-"""Process downloaded video chunks into validated 60s clips.
+"""Process downloaded videos into validated clips.
 
-Reads 4-min chunks from the download directory, runs scene detection
-and JoyCaption filtering, cuts clean 60s clips, content-addresses and
-saves to validated directory.
+Config-driven pipeline that works for both YouTube (category-based) and
+Instagram (flat staging directory). Reads clip duration, min duration,
+scene cut threshold, and content filter keywords from config.
 
 Usage:
-    # Process all categories on GPU 0
-    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --gpu 0
+    # YouTube: process all categories
+    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --config configs/youtube_real_video.py
 
-    # Process specific category
-    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --category C08_walking_biking_tour
+    # Instagram: process staging directory
+    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --config configs/instagram_real_video.py
 
-    # Dry run — show what would be processed
-    uv run python -m video.process --dry-run
+    # Dry run
+    uv run python -m video.process --config configs/youtube_real_video.py --dry-run
 """
 
-import argparse
+import click
 import csv
 import hashlib
+import json
+import os
 import shutil
 import subprocess
 import sys
@@ -26,6 +28,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
+from video_gen.common import is_source_clip
 from .content_filter import (
     JoyCaptionModel,
     extract_frames_from_window,
@@ -33,27 +36,26 @@ from .content_filter import (
     BATCH_SIZE,
 )
 from .scene_detect import detect_cuts_from_frames
-from .cutter import cut_clip, content_hash_file, MAX_CLIP_DURATION
+from .cutter import cut_clip, content_hash_file
+from .quality_filter import check_quality
 
-
-INPUT_BASE = Path("data/videos/real/youtube")
-OUTPUT_BASE = Path("data/videos/real/youtube")  # validated/ subdir per category
-
-CLIP_DURATION = 60  # seconds
-MIN_CLEAN_SEGMENT = 60  # minimum clean segment to extract a clip
 
 PROCESS_MANIFEST_FIELDS = [
-    "source_file", "category", "channel_id", "video_id",
+    "source_file", "source_type", "username", "category",
+    "channel_id", "video_id",
     "clip_filename", "clip_start", "clip_end", "clip_duration",
     "content_hash", "width", "height", "fps", "codec",
+    "has_text_overlay", "has_watermark",
     "process_timestamp", "status", "reject_reason",
 ]
+
+VIDEO_EXTENSIONS = {".webm", ".mkv", ".mp4", ".avi", ".mov"}
 
 
 def find_clean_segments(
     frames: list,
     threshold: float = 0.25,
-    min_length: int = MIN_CLEAN_SEGMENT,
+    min_length: int = 60,
 ) -> list[tuple[int, int]]:
     """Find continuous segments without scene cuts.
 
@@ -72,96 +74,122 @@ def find_clean_segments(
                 segments.append((seg_start, i))
             seg_start = i
 
-    # Last segment
     if len(frames) - seg_start >= min_length:
         segments.append((seg_start, len(frames)))
 
     return segments
 
 
-def process_chunk(
-    chunk_path: Path,
-    category: str,
+
+def process_video(
+    video_path: Path,
+    config,
     model: JoyCaptionModel,
-    output_dir: Path,
+    validated_dir: Path,
     processed_set: set[str],
+    source_type: str = "youtube",
+    username: str = "",
+    category: str = "",
 ) -> list[dict]:
-    """Process a single 4-min chunk into validated 60s clips.
+    """Process a single video into validated clips.
 
     Steps:
-    1. Extract frames at 1fps
-    2. Find clean segments (no scene cuts)
-    3. For each clean segment, run JoyCaption on its frames
-    4. If passes, cut 60s clips from it
-    5. Content-address and save
+    1. Check duration (discard if < MIN_DURATION)
+    2. Extract frames at 1fps
+    3. Find clean segments (no scene cuts)
+    4. For each segment, run JoyCaption on frames
+    5. If passes, cut clips from it
+    6. Content-address and save to validated_dir
 
-    Returns list of manifest rows.
+    Source videos are never moved — they always live in staging/. The
+    manifest is the single source of truth for which clips passed/failed.
+
+    Returns (manifest_rows, captions_dict) where captions_dict maps
+    clip_filename -> list of caption strings.
     """
     results = []
-    chunk_name = chunk_path.stem
+    clip_captions: dict[str, list[str]] = {}
+    video_name = video_path.stem
 
-    if chunk_name in processed_set:
-        return []
+    if video_name in processed_set:
+        return [], {}
 
-    # Parse channel_id and video_id from filename
-    # Format: {channel_id}_{video_id}_{start}-{end}
-    parts = chunk_name.rsplit("_", 1)
-    if len(parts) >= 2:
-        prefix = parts[0]
-        channel_video = prefix.rsplit("_", 1)
-        if len(channel_video) == 2:
-            channel_id, video_id = channel_video
-        else:
-            channel_id = prefix
-            video_id = ""
-    else:
-        channel_id = chunk_name
-        video_id = ""
+    clip_duration = getattr(config, "CLIP_DURATION", 60)
+    min_duration = getattr(config, "MIN_DURATION", 10)
+    min_clean = getattr(config, "MIN_CLEAN_SEGMENT", clip_duration)
+    max_clips = getattr(config, "MAX_CLIPS_PER_VIDEO", 4)
+    scene_threshold = getattr(config, "SCENE_CUT_THRESHOLD", 0.25)
 
-    # 1. Extract frames at 1fps from the whole chunk
-    # Get duration first
+    # Parse metadata from filename
+    channel_id = ""
+    video_id = ""
+    if source_type == "youtube":
+        parts = video_name.rsplit("_", 1)
+        if len(parts) >= 2:
+            prefix = parts[0]
+            cv = prefix.rsplit("_", 1)
+            if len(cv) == 2:
+                channel_id, video_id = cv
+    elif source_type == "instagram":
+        # Content-addressed filename — no parseable metadata
+        pass
+
+    # 1. Check duration
     dur_cmd = subprocess.run(
         ["ffprobe", "-v", "quiet", "-show_entries", "format=duration",
-         "-of", "default=noprint_wrappers=1:nokey=1", str(chunk_path)],
+         "-of", "default=noprint_wrappers=1:nokey=1", str(video_path)],
         capture_output=True, text=True, timeout=10,
     )
     try:
         duration = float(dur_cmd.stdout.strip())
     except (ValueError, AttributeError):
-        results.append(_make_row(chunk_name, category, channel_id, video_id,
-                                 status="error", reason="couldn't read duration"))
-        return results
+        results.append(_make_row(
+            video_name, source_type, username, category, channel_id, video_id,
+            status="error", reason="couldn't read duration",
+        ))
+        return results, clip_captions
 
-    frames = extract_frames_from_window(str(chunk_path), start=0, duration=duration, interval=1)
+    if duration < min_duration:
+        results.append(_make_row(
+            video_name, source_type, username, category, channel_id, video_id,
+            status="rejected", reason=f"too short ({duration:.0f}s < {min_duration}s)",
+        ))
+        return results, clip_captions
+
+    # 2. Extract frames at 1fps
+    frames = extract_frames_from_window(str(video_path), start=0, duration=duration, interval=1)
     if not frames:
-        results.append(_make_row(chunk_name, category, channel_id, video_id,
-                                 status="error", reason="no frames extracted"))
-        return results
+        results.append(_make_row(
+            video_name, source_type, username, category, channel_id, video_id,
+            status="error", reason="no frames extracted",
+        ))
+        return results, clip_captions
 
-    # 2. Find clean segments
-    segments = find_clean_segments(frames)
+    # 3. Find clean segments
+    segments = find_clean_segments(frames, threshold=scene_threshold, min_length=min_clean)
     if not segments:
-        results.append(_make_row(chunk_name, category, channel_id, video_id,
-                                 status="rejected", reason="no clean segments (all cuts)"))
-        return results
+        results.append(_make_row(
+            video_name, source_type, username, category, channel_id, video_id,
+            status="rejected", reason="no clean segments (all cuts)",
+        ))
+        return results, clip_captions
 
-    # 3. For each clean segment, try to extract 60s clips
-    validated_dir = output_dir / "validated"
+    # 4. For each clean segment, try to extract clips
     validated_dir.mkdir(parents=True, exist_ok=True)
 
+    clips_cut = 0
     for seg_start, seg_end in segments:
         seg_len = seg_end - seg_start
-
-        # How many 60s clips can we extract from this segment?
-        n_clips = seg_len // CLIP_DURATION
+        n_clips = seg_len // clip_duration
         if n_clips == 0:
             continue
 
-        # For each potential clip, run JoyCaption check
-        for clip_idx in range(min(n_clips, 4)):  # Max 4 clips per segment
-            clip_start_frame = seg_start + clip_idx * CLIP_DURATION
-            clip_end_frame = clip_start_frame + CLIP_DURATION
+        for clip_idx in range(min(n_clips, max_clips - clips_cut)):
+            if clips_cut >= max_clips:
+                break
 
+            clip_start_frame = seg_start + clip_idx * clip_duration
+            clip_end_frame = clip_start_frame + clip_duration
             if clip_end_frame > seg_end:
                 break
 
@@ -171,32 +199,38 @@ def process_chunk(
             captions = model.caption_batch(clip_frames)
             rejected = False
             reject_reason = ""
+            has_text_overlay = False
+            has_watermark = False
 
             for cap in captions:
-                result = check_caption(cap)
+                result = check_caption(cap, config)
                 if result["reject"]:
                     rejected = True
                     reject_reason = result["reason"]
                     break
+                if result["has_text_overlay"]:
+                    has_text_overlay = True
+                if result["has_watermark"]:
+                    has_watermark = True
 
             if rejected:
                 results.append(_make_row(
-                    chunk_name, category, channel_id, video_id,
+                    video_name, source_type, username, category, channel_id, video_id,
                     status="rejected", reason=f"content: {reject_reason}",
                     clip_start=clip_start_frame, clip_end=clip_end_frame,
                 ))
                 continue
 
-            # 4. Cut the clip from the chunk file
+            # 5. Cut the clip
             clip_start_sec = clip_start_frame  # 1fps so frame index = seconds
             clip_end_sec = clip_end_frame
-            tmp_clip = output_dir / f"_tmp_clip_{clip_idx}.webm"
+            tmp_clip = validated_dir / f"_tmp_clip_{os.getpid()}_{clips_cut}.mp4"
 
             try:
-                cut_clip(chunk_path, tmp_clip, clip_start_sec, clip_end_sec)
+                cut_clip(video_path, tmp_clip, clip_start_sec, clip_end_sec)
             except Exception as e:
                 results.append(_make_row(
-                    chunk_name, category, channel_id, video_id,
+                    video_name, source_type, username, category, channel_id, video_id,
                     status="error", reason=f"cut failed: {str(e)[:100]}",
                     clip_start=clip_start_sec, clip_end=clip_end_sec,
                 ))
@@ -207,7 +241,20 @@ def process_chunk(
             if not tmp_clip.exists():
                 continue
 
-            # 5. Content-address
+            # 5b. Quality gate — cheap post-cut check for too-dark / too-static /
+            # too-low-bitrate clips. Catches AI-ambience / CGI content that
+            # slips past the JoyCaption content filter. No GPU needed.
+            ok, reason, _ = check_quality(tmp_clip)
+            if not ok:
+                results.append(_make_row(
+                    video_name, source_type, username, category, channel_id, video_id,
+                    status="rejected", reason=f"quality: {reason}",
+                    clip_start=clip_start_sec, clip_end=clip_end_sec,
+                ))
+                tmp_clip.unlink()
+                continue
+
+            # 6. Content-address
             clip_hash = content_hash_file(tmp_clip)
             ext = tmp_clip.suffix
             final_name = f"{clip_hash[:16]}{ext}"
@@ -218,6 +265,10 @@ def process_chunk(
                 continue
 
             shutil.move(str(tmp_clip), str(final_path))
+            clips_cut += 1
+
+            # Store captions for this clip
+            clip_captions[final_name] = captions
 
             # Get clip metadata
             meta_cmd = subprocess.run(
@@ -236,10 +287,13 @@ def process_chunk(
                     try:
                         n, d = line.split("=")[1].split("/")
                         fps = round(float(n) / float(d), 1)
-                    except: pass
+                    except Exception:
+                        pass
 
             results.append({
-                "source_file": chunk_name,
+                "source_file": video_name,
+                "source_type": source_type,
+                "username": username,
                 "category": category,
                 "channel_id": channel_id,
                 "video_id": video_id,
@@ -252,81 +306,154 @@ def process_chunk(
                 "height": height,
                 "fps": fps,
                 "codec": codec,
+                "has_text_overlay": has_text_overlay,
+                "has_watermark": has_watermark,
                 "process_timestamp": datetime.now(timezone.utc).isoformat(),
                 "status": "validated",
                 "reject_reason": "",
             })
 
-    return results
+    return results, clip_captions
 
 
-def _make_row(chunk_name, category, channel_id, video_id,
+def _make_row(video_name, source_type, username, category, channel_id, video_id,
               status="", reason="", clip_start="", clip_end=""):
     return {
-        "source_file": chunk_name, "category": category,
+        "source_file": video_name, "source_type": source_type,
+        "username": username, "category": category,
         "channel_id": channel_id, "video_id": video_id,
         "clip_filename": "", "clip_start": clip_start, "clip_end": clip_end,
         "clip_duration": "", "content_hash": "", "width": "", "height": "",
         "fps": "", "codec": "",
+        "has_text_overlay": "", "has_watermark": "",
         "process_timestamp": datetime.now(timezone.utc).isoformat(),
         "status": status, "reject_reason": reason,
     }
 
 
-def process_category(
-    category: str,
+def process_directory(
+    input_dir: Path,
+    config,
     model: JoyCaptionModel,
-    input_base: Path = INPUT_BASE,
-    output_base: Path = OUTPUT_BASE,
+    validated_dir: Path,
+    manifest_dir: Path,
+    captions_dir: Path,
+    source_type: str = "youtube",
+    category: str = "",
+    shard_id: int = 0,
+    num_shards: int = 1,
 ):
-    """Process all chunks in a category."""
-    cat_dir = input_base / category
-    if not cat_dir.exists():
+    """Process all videos in a directory.
+
+    Layout (both source types):
+      input_dir          — source videos live here (e.g. <root>/staging/<cat>/)
+      validated_dir      — cut clips are written here (e.g. <root>/validated/<cat>/)
+      manifest_dir       — process_manifest[_shard<N>].csv lives at dataset root
+      captions_dir       — captions[_shard<N>].json lives at dataset root
+
+    All metadata (manifests, captions, info JSONs) live at the dataset root,
+    not inside staging/. Source videos in staging/ are never moved; the
+    manifest is the single source of truth for per-clip validation outcomes.
+    """
+    video_dir = input_dir
+
+    videos = sorted([
+        f for f in video_dir.iterdir()
+        if is_source_clip(f) and not f.name.startswith("_tmp")
+    ]) if video_dir.exists() else []
+
+    if not videos:
+        print(f"  No videos in {video_dir}")
         return
 
-    # Find all chunk files
-    chunks = sorted([
-        f for f in cat_dir.iterdir()
-        if f.suffix in (".webm", ".mkv", ".mp4") and not f.name.startswith("_tmp")
-    ])
-
-    if not chunks:
-        return
-
-    # Load already-processed chunks
-    manifest_path = cat_dir / "process_manifest.csv"
+    # Load already-processed from main manifest + all shard manifests. For
+    # resume, consider ALL rows regardless of category (manifest_dir is the
+    # single root-level location), but filter to THIS category so other cats'
+    # source_file names don't accidentally mark this cat's sources as done.
+    manifest_dir.mkdir(parents=True, exist_ok=True)
+    captions_dir.mkdir(parents=True, exist_ok=True)
+    manifest_path = manifest_dir / "process_manifest.csv"
     processed = set()
-    if manifest_path.exists():
-        with open(manifest_path) as f:
-            for row in csv.DictReader(f):
-                processed.add(row.get("source_file", ""))
+    for mf in [manifest_path] + list(manifest_dir.glob("process_manifest_shard*.csv")):
+        if mf.exists():
+            with open(mf) as f:
+                for row in csv.DictReader(f):
+                    if row.get("category", "") == category or source_type == "instagram":
+                        processed.add(row.get("source_file", ""))
 
-    remaining = [c for c in chunks if c.stem not in processed]
+    remaining = [v for v in videos if v.stem not in processed]
+
+    # Shard: each worker takes every Nth video
+    if num_shards > 1:
+        remaining = [v for i, v in enumerate(remaining) if i % num_shards == shard_id]
+
     if not remaining:
-        print(f"{category}: all {len(chunks)} chunks already processed")
+        print(f"  {category or source_type}: nothing to process (shard {shard_id}/{num_shards})")
         return
 
-    print(f"{category}: {len(remaining)} chunks to process ({len(processed)} already done)")
+    # Per-shard manifest to avoid file locking between workers
+    if num_shards > 1:
+        manifest_path = manifest_dir / f"process_manifest_shard{shard_id}.csv"
 
-    validated = 0
-    rejected = 0
-    errors = 0
+    label = category or source_type
+    if num_shards > 1:
+        label = f"{label} [shard {shard_id}/{num_shards}]"
+    print(f"  {label}: {len(remaining)} to process ({len(processed)} already done)")
 
-    pbar = tqdm(remaining, desc=category, unit="chunk")
-    for chunk_path in pbar:
-        results = process_chunk(chunk_path, category, model, cat_dir, processed)
+    # For Instagram, load manifest to get username per file. IG download
+    # manifest lives at the dataset root alongside process manifests.
+    username_map: dict[str, str] = {}
+    if source_type == "instagram":
+        for candidate in (
+            manifest_dir / "download_manifest.csv",
+            manifest_dir / "manifest.csv",
+            input_dir.parent / "manifest.csv",
+        ):
+            if candidate.exists():
+                with open(candidate) as f:
+                    for row in csv.DictReader(f):
+                        fn = row.get("filename", "")
+                        username_map[fn] = row.get("username", "")
+                break
 
-        # Append to manifest
-        if results:
+    # Captions file — per-shard to avoid locking
+    captions_path = captions_dir / (f"captions_shard{shard_id}.json" if num_shards > 1
+                                    else "captions.json")
+    all_captions: dict[str, list[str]] = {}
+    if captions_path.exists():
+        with open(captions_path) as f:
+            all_captions = json.load(f)
+
+    validated = rejected = errors = 0
+    pbar = tqdm(remaining, desc=label, unit="vid")
+
+    for video_path in pbar:
+        username = username_map.get(video_path.name, "")
+        rows, clip_caps = process_video(
+            video_path, config, model,
+            validated_dir=validated_dir,
+            processed_set=processed,
+            source_type=source_type,
+            username=username,
+            category=category,
+        )
+
+        if rows:
             write_header = not manifest_path.exists()
             with open(manifest_path, "a", newline="") as f:
                 writer = csv.DictWriter(f, fieldnames=PROCESS_MANIFEST_FIELDS)
                 if write_header:
                     writer.writeheader()
-                for row in results:
+                for row in rows:
                     writer.writerow(row)
 
-        for r in results:
+        # Save captions incrementally
+        if clip_caps:
+            all_captions.update(clip_caps)
+            with open(captions_path, "w") as f:
+                json.dump(all_captions, f)
+
+        for r in rows:
             if r["status"] == "validated":
                 validated += 1
             elif r["status"] == "rejected":
@@ -334,41 +461,81 @@ def process_category(
             else:
                 errors += 1
 
-        processed.add(chunk_path.stem)
+        processed.add(video_path.stem)
         pbar.set_postfix(v=validated, r=rejected, e=errors)
 
     pbar.close()
-    print(f"  {category}: {validated} validated, {rejected} rejected, {errors} errors")
+    print(f"  {category or source_type}: {validated} validated, {rejected} rejected, {errors} errors")
 
 
-def main():
-    parser = argparse.ArgumentParser(description="Process video chunks into validated clips")
-    parser.add_argument("--category", help="Process specific category")
-    parser.add_argument("--gpu", type=int, default=0, help="GPU index (set CUDA_VISIBLE_DEVICES externally)")
-    parser.add_argument("--dry-run", action="store_true")
-    args = parser.parse_args()
+@click.command(help="Process videos into validated clips")
+@click.option("--config", "-c", required=True, help="Config file")
+@click.option("--category", default=None, help="Process specific category (YouTube only)")
+@click.option("--gpu", type=int, default=0, help="GPU index (set CUDA_VISIBLE_DEVICES externally)")
+@click.option("--shards", type=int, default=1, help="Total number of shards")
+@click.option("--shard-id", type=int, default=0, help="This worker's shard ID (0-indexed)")
+@click.option("--dry-run", is_flag=True)
+def main(config, category, gpu, shards, shard_id, dry_run):
+    from configs import load_config
+    cfg = load_config(config)
 
-    if args.dry_run:
-        for d in sorted(INPUT_BASE.iterdir()):
-            if d.is_dir() and d.name.startswith("C"):
-                chunks = [f for f in d.iterdir() if f.suffix in (".webm", ".mkv", ".mp4")]
-                manifest = d / "process_manifest.csv"
-                done = 0
-                if manifest.exists():
-                    with open(manifest) as f:
-                        done = sum(1 for _ in csv.DictReader(f))
-                print(f"{d.name}: {len(chunks)} chunks, {done} processed")
+    media_type = getattr(cfg, "MEDIA_TYPE", "video")
+    source_type = "instagram" if "instagram" in cfg.NAME else "youtube"
+    # OUTPUT_DIR is the dataset root. All metadata (manifests, captions)
+    # lives directly under the root — not inside staging/. Source videos
+    # live in staging/<cat>/, cut clips in validated/<cat>/.
+    base_dir = Path(getattr(cfg, "OUTPUT_DIR", f"data/videos/real/{source_type}"))
+    staging_root = base_dir / "staging"
+    validated_root = base_dir / "validated"
+    manifest_dir = base_dir     # process_manifest.csv sits at root
+    captions_dir = base_dir     # captions.json sits at root
+
+    if dry_run:
+        main_mf = manifest_dir / "process_manifest.csv"
+        done_by_cat = {}
+        if main_mf.exists():
+            with open(main_mf) as f:
+                for r in csv.DictReader(f):
+                    done_by_cat[r.get("category", "")] = done_by_cat.get(r.get("category", ""), 0) + 1
+        if source_type == "youtube":
+            categories = [category] if category else getattr(cfg, "CATEGORIES", [])
+            for cat in categories:
+                cat_dir = staging_root / cat
+                if not cat_dir.exists():
+                    continue
+                chunks = [f for f in cat_dir.iterdir() if is_source_clip(f)]
+                print(f"{cat}: {len(chunks)} chunks in staging, {done_by_cat.get(cat, 0)} manifest rows")
+        else:
+            if staging_root.exists():
+                videos = [f for f in staging_root.iterdir() if is_source_clip(f)]
+                print(f"{cfg.NAME}: {len(videos)} videos in staging, {sum(done_by_cat.values())} manifest rows")
         return
-
-    categories = [args.category] if args.category else sorted([
-        d.name for d in INPUT_BASE.iterdir()
-        if d.is_dir() and d.name.startswith("C")
-    ])
 
     model = JoyCaptionModel()
 
-    for cat in categories:
-        process_category(cat, model)
+    if source_type == "youtube":
+        categories = [category] if category else getattr(cfg, "CATEGORIES", [])
+        for cat in categories:
+            input_dir = staging_root / cat
+            if not input_dir.exists():
+                continue
+            process_directory(
+                input_dir, cfg, model,
+                validated_dir=validated_root / cat,
+                manifest_dir=manifest_dir,
+                captions_dir=captions_dir,
+                source_type="youtube", category=cat,
+                shard_id=shard_id, num_shards=shards,
+            )
+    else:
+        process_directory(
+            staging_root, cfg, model,
+            validated_dir=validated_root,
+            manifest_dir=manifest_dir,
+            captions_dir=captions_dir,
+            source_type="instagram",
+            shard_id=shard_id, num_shards=shards,
+        )
 
 
 if __name__ == "__main__":

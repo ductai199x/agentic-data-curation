@@ -8,45 +8,50 @@ multiple processes (multiprocessing workers).
 """
 
 import fcntl
+import os
+import shutil
 import subprocess
+import tempfile
 import time
 from pathlib import Path
 
 
-# Global rate limit: max N calls per minute across ALL processes
-# With cookies, 50/min is safe — targets ~23hr for 12K channels on 8 GPUs
-MAX_CALLS_PER_MINUTE = 50
-MIN_INTERVAL = 60.0 / MAX_CALLS_PER_MINUTE  # seconds between calls
+# API rate limit: search, metadata, channel listing etc.
+API_CALLS_PER_MINUTE = 59
+API_MIN_INTERVAL = 60.0 / API_CALLS_PER_MINUTE
+
+# Download rate limit: CDN transfers (YouTube throttles + rate-limits these too)
+DOWNLOAD_CALLS_PER_MINUTE = 1
+DOWNLOAD_MIN_INTERVAL = 60.0 / DOWNLOAD_CALLS_PER_MINUTE
 
 LOCK_FILE = Path("/tmp/ytdlp_rate_limit.lock")
 TIMESTAMP_FILE = Path("/tmp/ytdlp_rate_limit_ts")
+DOWNLOAD_LOCK_FILE = Path("/tmp/ytdlp_download_rate_limit.lock")
+DOWNLOAD_TIMESTAMP_FILE = Path("/tmp/ytdlp_download_rate_limit_ts")
 
 # Default cookies path — set to None to disable
 DEFAULT_COOKIES = Path("data/cookies/cookies-youtube.txt")
 
 
-def _wait_for_slot():
-    """Wait until we can make another yt-dlp call without exceeding rate limit.
+def _wait_for_slot(lock_file: Path, ts_file: Path, min_interval: float):
+    """Wait until we can make another call without exceeding rate limit.
 
     Uses file locking for cross-process coordination.
     """
-    LOCK_FILE.touch(exist_ok=True)
-    TIMESTAMP_FILE.touch(exist_ok=True)
+    lock_file.touch(exist_ok=True)
+    ts_file.touch(exist_ok=True)
 
-    with open(LOCK_FILE, "r+") as lock:
+    with open(lock_file, "r+") as lock:
         fcntl.flock(lock, fcntl.LOCK_EX)
         try:
-            # Read last call timestamp
-            ts_text = TIMESTAMP_FILE.read_text().strip()
+            ts_text = ts_file.read_text().strip()
             last_call = float(ts_text) if ts_text else 0.0
 
-            # Wait if needed
             elapsed = time.time() - last_call
-            if elapsed < MIN_INTERVAL:
-                time.sleep(MIN_INTERVAL - elapsed)
+            if elapsed < min_interval:
+                time.sleep(min_interval - elapsed)
 
-            # Record this call
-            TIMESTAMP_FILE.write_text(str(time.time()))
+            ts_file.write_text(str(time.time()))
         finally:
             fcntl.flock(lock, fcntl.LOCK_UN)
 
@@ -55,31 +60,52 @@ def run_ytdlp(
     args: list[str],
     timeout: int = 60,
     cookies_path: str | None = "auto",
+    rate_limit: bool = True,
 ) -> subprocess.CompletedProcess:
-    """Run a yt-dlp command with rate limiting.
-
-    All yt-dlp calls should go through this function.
+    """Run a yt-dlp command, optionally with rate limiting.
 
     Args:
         args: yt-dlp arguments (without the 'yt-dlp' command itself).
         timeout: Subprocess timeout in seconds.
         cookies_path: Path to cookies file. "auto" = use default if exists.
-            None = no cookies.
+        rate_limit: If True, wait for rate limit slot. Set False for
+            downloads (CDN transfers don't trigger API rate limits).
 
     Returns:
         subprocess.CompletedProcess result.
     """
-    _wait_for_slot()
+    if rate_limit:
+        _wait_for_slot(LOCK_FILE, TIMESTAMP_FILE, API_MIN_INTERVAL)
+    else:
+        # Downloads are also rate-limited, just at a lower rate
+        _wait_for_slot(DOWNLOAD_LOCK_FILE, DOWNLOAD_TIMESTAMP_FILE, DOWNLOAD_MIN_INTERVAL)
 
-    cmd = ["yt-dlp"]
+    cmd = ["yt-dlp", "--remote-components", "ejs:github"]
 
-    # Resolve cookies path
+    # Copy cookies to a temp file so yt-dlp doesn't rewrite the original
+    tmp_cookie = None
     if cookies_path == "auto":
         if DEFAULT_COOKIES.exists():
-            cmd += ["--cookies", str(DEFAULT_COOKIES)]
+            tmp_cookie = tempfile.NamedTemporaryFile(
+                suffix=".txt", prefix="ytdlp_cookies_", delete=False,
+            )
+            shutil.copy(DEFAULT_COOKIES, tmp_cookie.name)
+            os.chmod(tmp_cookie.name, 0o644)
+            tmp_cookie.close()
+            cmd += ["--cookies", tmp_cookie.name]
     elif cookies_path:
         cmd += ["--cookies", cookies_path]
 
     cmd += args
 
-    return subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+    # Ensure deno is on PATH for YouTube's n-parameter challenge
+    env = os.environ.copy()
+    deno_bin = Path.home() / ".deno" / "bin"
+    if deno_bin.exists() and str(deno_bin) not in env.get("PATH", ""):
+        env["PATH"] = f"{deno_bin}:{env.get('PATH', '')}"
+
+    try:
+        return subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, env=env)
+    finally:
+        if tmp_cookie:
+            Path(tmp_cookie.name).unlink(missing_ok=True)
