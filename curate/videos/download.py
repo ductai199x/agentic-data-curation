@@ -4,9 +4,9 @@ Downloads 4-minute chunks from verified channels in round-robin across categorie
 Separate from the processing pipeline — just downloads and records metadata.
 
 Usage:
-    uv run python -m video.download --config configs/youtube_real_video.py
-    uv run python -m video.download --config configs/youtube_real_video.py --workers 4
-    uv run python -m video.download --config configs/youtube_real_video.py --dry-run
+    uv run python -m curate.videos.download --config configs/curate/videos/youtube.py
+    uv run python -m curate.videos.download --config configs/curate/videos/youtube.py --workers 4
+    uv run python -m curate.videos.download --config configs/curate/videos/youtube.py --dry-run
 """
 
 import click
@@ -456,7 +456,7 @@ class RoundRobinDownloader:
 
 
 @click.command(help="Download YouTube videos")
-@click.option("--config", "-c", default=None, help="Config file (e.g. configs/youtube_real_video.py)")
+@click.option("--config", "-c", default=None, help="Config file (e.g. configs/curate/videos/youtube.py)")
 @click.option("--workers", type=int, default=None, help="Override config DOWNLOAD_WORKERS")
 @click.option("--videos-per-channel", type=int, default=None, help="Override config VIDEOS_PER_CHANNEL")
 @click.option("--max-per-category", type=int, default=0)

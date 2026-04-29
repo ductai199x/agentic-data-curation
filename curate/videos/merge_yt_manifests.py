@@ -8,7 +8,7 @@ NAS sources keep the legacy layout (<root>/<cat>/manifest.csv) since that's
 how Hamed/Aref's scripts dump them.
 
 Usage:
-    uv run python -m video.merge_yt_manifests \\
+    uv run python -m curate.videos.merge_yt_manifests \\
         --local data/videos/real/youtube \\
         --source ~/nas3/Hamed/youtube_downloads \\
         --source ~/nas3/Aref/yt-downloader/youtube_downloads

@@ -6,13 +6,13 @@ Two modes:
 
 Usage:
     # Shard mode (run 8 of these, one per GPU):
-    CUDA_VISIBLE_DEVICES=0 uv run python -m video.screen shard \
+    CUDA_VISIBLE_DEVICES=0 uv run python -m curate.videos.screen shard \
         --shard-id 0 --shards 8 \
         --input configs/video_sources/_approved \
         --output configs/video_sources/_verified
 
     # Parallel mode (orchestrates all GPUs):
-    uv run python -m video.screen parallel \
+    uv run python -m curate.videos.screen parallel \
         --input configs/video_sources/_approved \
         --output configs/video_sources/_verified \
         --num-gpus 8 --workers-per-gpu 4
@@ -106,8 +106,8 @@ def save_results(output_dir: Path, category_results: dict[str, list[dict]],
 
 def run_shard(shard_id: int, shards: int, input_dir: Path, output_dir: Path):
     """Run deep screening on a shard of channels (single GPU)."""
-    from video.content_filter import JoyCaptionModel
-    from video.discover import deep_screen_channel
+    from curate.videos.content_filter import JoyCaptionModel
+    from curate.videos.discover import deep_screen_channel
 
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -173,8 +173,8 @@ def _parallel_worker(gpu_id, chunk, worker_id, output_dir, result_queue):
     """Worker process for parallel mode."""
     os.environ["CUDA_VISIBLE_DEVICES"] = str(gpu_id)
 
-    from video.content_filter import JoyCaptionModel
-    from video.discover import deep_screen_channel
+    from curate.videos.content_filter import JoyCaptionModel
+    from curate.videos.discover import deep_screen_channel
 
     tmp_dir = output_dir / f"_tmp_worker_{worker_id}"
     tmp_dir.mkdir(parents=True, exist_ok=True)

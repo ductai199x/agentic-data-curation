@@ -12,7 +12,7 @@ For each orphan, we:
   4. Append a fully-populated row to that category's manifest.csv.
 
 Usage:
-    uv run python -m video.backfill_orphan_manifest \\
+    uv run python -m curate.videos.backfill_orphan_manifest \\
         --root data/videos/real/youtube \\
         --cookies data/cookies/cookies-youtube.txt
 """

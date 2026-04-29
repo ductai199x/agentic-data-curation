@@ -6,13 +6,13 @@ Two phases:
 
 Usage:
     # Discover channels for all categories
-    uv run python -m video.discover --discover --output configs/video_sources/
+    uv run python -m curate.videos.discover --discover --output configs/video_sources/
 
     # Pre-screen discovered channels (requires GPU for JoyCaption)
-    uv run python -m video.discover --screen --input configs/video_sources/ --gpu 6
+    uv run python -m curate.videos.discover --screen --input configs/video_sources/ --gpu 6
 
     # Both in one run
-    uv run python -m video.discover --discover --screen --output configs/video_sources/ --gpu 6
+    uv run python -m curate.videos.discover --discover --screen --output configs/video_sources/ --gpu 6
 """
 
 import click

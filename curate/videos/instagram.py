@@ -6,8 +6,8 @@ we intercept GraphQL responses during profile scrolling — they contain video_v
 with direct CDN URLs that we download via HTTP.
 
 Usage:
-    uv run python -m video.instagram --config configs/instagram_real_video.py
-    uv run python -m video.instagram --config configs/instagram_real_video.py --max-videos 100
+    uv run python -m curate.videos.instagram --config configs/curate/videos/instagram.py
+    uv run python -m curate.videos.instagram --config configs/curate/videos/instagram.py --max-videos 100
 
 Requires fresh Instagram cookies (path set in config).
 """

@@ -5,13 +5,13 @@ moves failures to `<root>/rejected/<cat>/` (or a custom dir), and appends
 a one-row CSV explaining why each clip was rejected.
 
 Usage:
-    uv run python -m video.quality_sweep \\
+    uv run python -m curate.videos.quality_sweep \\
         --validated-root data/videos/real/youtube/validated \\
         --rejected-root data/videos/real/youtube/rejected_quality \\
         --workers 64
 
 Dry-run (report only, don't move):
-    uv run python -m video.quality_sweep --validated-root ... --dry-run
+    uv run python -m curate.videos.quality_sweep --validated-root ... --dry-run
 """
 from __future__ import annotations
 
@@ -25,7 +25,7 @@ import click
 from tqdm import tqdm
 
 from video_gen.common import is_source_clip
-from video.quality_filter import (
+from curate.videos.quality_filter import (
     MIN_BPPS,
     MIN_MEAN_LUM,
     MIN_MEAN_MOTION,

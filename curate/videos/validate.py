@@ -6,13 +6,13 @@ scene cut threshold, and content filter keywords from config.
 
 Usage:
     # YouTube: process all categories
-    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --config configs/youtube_real_video.py
+    CUDA_VISIBLE_DEVICES=0 uv run python -m curate.videos.validate --config configs/curate/videos/youtube.py
 
     # Instagram: process staging directory
-    CUDA_VISIBLE_DEVICES=0 uv run python -m video.process --config configs/instagram_real_video.py
+    CUDA_VISIBLE_DEVICES=0 uv run python -m curate.videos.validate --config configs/curate/videos/instagram.py
 
     # Dry run
-    uv run python -m video.process --config configs/youtube_real_video.py --dry-run
+    uv run python -m curate.videos.validate --config configs/curate/videos/youtube.py --dry-run
 """
 
 import click

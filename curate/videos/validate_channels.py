@@ -5,7 +5,7 @@ If invalid, attempts to resolve the correct ID by searching for the channel name
 Rewrites the source files with corrected IDs. Logs all fixes to a report file.
 
 Usage:
-    PYTHONUNBUFFERED=1 uv run python -m video.validate_channels --dir configs/video_sources/_approved
+    PYTHONUNBUFFERED=1 uv run python -m curate.videos.validate_channels --dir configs/video_sources/_approved
 """
 
 import click
@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from tqdm import tqdm
 
-from video.rate_limiter import run_ytdlp
+from curate.videos.rate_limiter import run_ytdlp
 
 
 def validate_channel_id(channel_id: str) -> bool:
