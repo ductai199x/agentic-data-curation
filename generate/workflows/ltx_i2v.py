@@ -40,8 +40,8 @@ two node types, so any missing node surfaces as a validation error at
 """
 from __future__ import annotations
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_dims
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_dims
 
 # LTX 2.3: stage-1 pixel budget = 544×960 ≈ 522,240 px @ stride 32.
 # Stage 2 is exactly 2× spatial (1088×1920) so aspect transfers. Source

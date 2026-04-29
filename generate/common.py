@@ -1,6 +1,6 @@
 """Back-compat shim — content moved to top-level `shared/` package.
 
-This module re-exports the helpers so existing `from video_gen.common import X`
+This module re-exports the helpers so existing `from generate.common import X`
 imports keep working until callers are migrated to import from `shared.*`.
 Will be removed in a later phase once all importers are updated.
 """

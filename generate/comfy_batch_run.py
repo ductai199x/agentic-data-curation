@@ -1,7 +1,7 @@
 """Generic batch worker — drives a ComfyUI instance over HTTP.
 
 Every worker is self-contained: spawns its own ComfyUI child on a random
-free port via `video_gen.comfy_spawn`, runs its shard of jobs, writes one
+free port via `generate.comfy_spawn`, runs its shard of jobs, writes one
 manifest row per clip. Works for any generator — the workflow is built by
 the module named in `cfg.workflow_module` (see `ComfyRunConfig`).
 
@@ -11,7 +11,7 @@ Launch via `scripts/launch.sh`:
 Or directly for one shard:
     PYTHONPATH=. CUDA_VISIBLE_DEVICES=0 COMFY_CONFIG=configs.generate.wan22_instagram \\
         SHARDS=1 SHARD_ID=0 \\
-        third_party/ComfyUI/.venv/bin/python -m video_gen.comfy_batch_run
+        third_party/ComfyUI/.venv/bin/python -m generate.comfy_batch_run
 """
 
 from __future__ import annotations
@@ -31,9 +31,9 @@ import requests
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
-from video_gen.comfy_config import ComfyRunConfig, load_config  # noqa: E402
-from video_gen.common import build_jobs, shard_jobs  # noqa: E402
-from video_gen.comfy_spawn import spawn_comfy as _spawn_comfy  # noqa: E402
+from generate.comfy_config import ComfyRunConfig, load_config  # noqa: E402
+from generate.common import build_jobs, shard_jobs  # noqa: E402
+from generate.comfy_spawn import spawn_comfy as _spawn_comfy  # noqa: E402
 
 
 # ---------------------------------------------------------------------------
@@ -520,7 +520,7 @@ def main():
         # period. Balance-diff was noisy when multiple pilots run in parallel
         # against the same comfy.org account — they each saw other pilots'
         # billing and double-counted. Calibration was done sequentially in
-        # video_gen.calibrate_credits.py and its output is the source of
+        # generate.calibrate_credits.py and its output is the source of
         # truth. The /customers/balance check below is kept as a standalone
         # hard-stop safety net against runaway charges.
         actual_credits = 0.0

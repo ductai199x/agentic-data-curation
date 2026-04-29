@@ -17,10 +17,10 @@ collection (raw `real_clip` stems collide because different generators
 share the same source-clip SHA).
 
 Usage:
-    uv run python -m video_gen.build_dataset_metadata --root data/videos/fake
+    uv run python -m generate.build_dataset_metadata --root data/videos/fake
 
     # Also remove stale per-dataset manifest.csv / manifest_shard*.csv files:
-    uv run python -m video_gen.build_dataset_metadata --root data/videos/fake --clean
+    uv run python -m generate.build_dataset_metadata --root data/videos/fake --clean
 """
 from __future__ import annotations
 
@@ -34,7 +34,7 @@ from pathlib import Path
 import click
 from tqdm import tqdm
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 
 MANIFEST_COLUMNS = [
     "generator", "source", "filepath", "real_clip",

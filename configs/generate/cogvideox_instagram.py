@@ -6,7 +6,7 @@ Native 1360×768, 81 frames @ 16fps. 50 steps (no distill LoRA exists).
 
 from pathlib import Path
 
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -15,7 +15,7 @@ CONFIG = ComfyRunConfig(
     captions_path=REPO / "data/videos/real/instagram/salmonn_captions_cleaned.json",
     frames_dir=REPO / "data/videos/real/instagram/frames",
     output_dir=REPO / "data/videos/fake/cogvideox_1_5/instagram",
-    workflow_module="video_gen.workflows.cogvideox_i2v",
+    workflow_module="generate.workflows.cogvideox_i2v",
     model_tag="cogvideox-1.5-5b-i2v-50step",
     # Top-1000 diversity-ranked clips for initial apples-to-apples set.
     # Raise max_clips later to back-fill — workers skip clips with existing

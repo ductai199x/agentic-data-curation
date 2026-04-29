@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Unified launcher for any ComfyUI-driven video-gen batch.
 #
-# Every worker is self-contained: `video_gen.comfy_batch_run` spawns its own
-# ComfyUI child on a random free port via `video_gen.comfy_spawn`, and the
+# Every worker is self-contained: `generate.comfy_batch_run` spawns its own
+# ComfyUI child on a random free port via `generate.comfy_spawn`, and the
 # child dies with the parent (PR_SET_PDEATHSIG). No pre-booted ComfyUI
 # servers, no shared ports, no state to clean up beyond killing workers.
 #
@@ -42,14 +42,14 @@ case "$CMD" in
         pkill -f "COMFY_CONFIG=$COMFY_CONFIG" || true
     else
         echo "stopping ALL comfy_batch_run workers..."
-        pkill -f "video_gen.comfy_batch_run" || true
+        pkill -f "generate.comfy_batch_run" || true
     fi
     # Child ComfyUIs die with parents via PR_SET_PDEATHSIG — nothing else to do.
     exit 0
     ;;
   status)
     echo "=== workers ==="
-    pgrep -af "video_gen.comfy_batch_run" | grep -v grep || echo "(no workers)"
+    pgrep -af "generate.comfy_batch_run" | grep -v grep || echo "(no workers)"
     echo "=== comfy children ==="
     pgrep -af "ComfyUI/main.py" | grep -v grep || echo "(no comfy)"
     exit 0
@@ -78,7 +78,7 @@ for gpu in $GPU_LIST; do
         PYTHONPATH=$REPO \
         COMFY_CONFIG=$COMFY_CONFIG \
         SHARDS=$SHARD_COUNT SHARD_ID=$idx \
-        nohup "$PY" -m video_gen.comfy_batch_run \
+        nohup "$PY" -m generate.comfy_batch_run \
         > "$LOGS/shard_${idx}_gpu${gpu}.log" 2>&1 &
     disown $! 2>/dev/null || true
     echo "  shard=$idx/$SHARD_COUNT gpu=$gpu"

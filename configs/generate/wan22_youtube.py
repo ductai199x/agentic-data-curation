@@ -8,7 +8,7 @@ data/videos/real/youtube/diversity_rank.csv.
 
 from pathlib import Path
 
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -17,7 +17,7 @@ CONFIG = ComfyRunConfig(
     captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/wan_2_2/youtube",
-    workflow_module="video_gen.workflows.wan22",
+    workflow_module="generate.workflows.wan22",
     model_tag="wan-2.2-i2v-a14b-lightx2v-8step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
     max_clips=3024,

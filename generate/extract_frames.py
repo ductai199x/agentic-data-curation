@@ -6,7 +6,7 @@ clips before generating, rather than lazily extracting during generation.
 
 Usage:
     PYTHONPATH=/home/tai/1-workdir/09-agent-data-curation \\
-      uv run python -m video_gen.extract_frames \\
+      uv run python -m generate.extract_frames \\
         --clips data/videos/real/instagram/validated \\
         --out data/videos/real/instagram/frames
 """
@@ -19,7 +19,7 @@ from pathlib import Path
 import click
 from tqdm import tqdm
 
-from video_gen.common import extract_frame, extract_last_frame, list_clips
+from generate.common import extract_frame, extract_last_frame, list_clips
 
 
 def _extract_both(clip: Path, out: Path, force: bool) -> tuple[str, bool, bool, bool]:

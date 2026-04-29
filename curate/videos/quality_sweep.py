@@ -24,7 +24,7 @@ from pathlib import Path
 import click
 from tqdm import tqdm
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 from curate.videos.quality_filter import (
     MIN_BPPS,
     MIN_MEAN_LUM,

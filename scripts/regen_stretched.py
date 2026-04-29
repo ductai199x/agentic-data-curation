@@ -33,7 +33,7 @@ import click
 import cv2
 from tqdm import tqdm
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 
 
 TOL = 0.03  # aspect-ratio equality tolerance (3%). 9:16=0.5625 vs 4:5=0.8 is 42% diff — easily caught.

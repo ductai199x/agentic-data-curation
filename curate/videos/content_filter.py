@@ -21,7 +21,7 @@ from PIL import Image
 from tqdm import tqdm
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 from .watermark_detect import measure_static_overlay
 
 

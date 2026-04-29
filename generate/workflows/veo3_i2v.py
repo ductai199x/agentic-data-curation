@@ -16,8 +16,8 @@ Aspect ratio is auto-detected from the source first frame.
 from __future__ import annotations
 from pathlib import Path
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_by_ratio
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_by_ratio
 
 VEO3_ASPECT_OPTIONS = ["16:9", "9:16"]
 

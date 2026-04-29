@@ -6,7 +6,7 @@
 
 from pathlib import Path
 
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -15,7 +15,7 @@ CONFIG = ComfyRunConfig(
     captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/cogvideox_1_5/youtube",
-    workflow_module="video_gen.workflows.cogvideox_i2v",
+    workflow_module="generate.workflows.cogvideox_i2v",
     model_tag="cogvideox-1.5-5b-i2v-50step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
     max_clips=3024,

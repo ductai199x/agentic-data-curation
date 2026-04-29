@@ -3,8 +3,8 @@ Cost: 295.4 credits/run → ~$1.40 per 5s clip.
 """
 from __future__ import annotations
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_by_ratio
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_by_ratio
 
 # Kling I2V aspect enum (authoritative via node schema): 16:9, 9:16, 1:1.
 KLING_RATIOS = ["16:9", "9:16", "1:1"]

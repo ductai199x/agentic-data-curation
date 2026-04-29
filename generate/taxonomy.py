@@ -1,6 +1,6 @@
 """Shared video taxonomy constants — single source of truth.
 
-Mirrors `docs/VIDEO_TAXONOMY.md`. Import from here anywhere in `video_gen/`
+Mirrors `docs/VIDEO_TAXONOMY.md`. Import from here anywhere in `generate/`
 so label names stay consistent across labeler, ranker, and per-generator
 selection logic.
 """

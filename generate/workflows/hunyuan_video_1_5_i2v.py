@@ -25,8 +25,8 @@ from __future__ import annotations
 
 from typing import Any
 
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_dims
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_dims
 
 # HY 1.5 720p I2V: ~1280×720 = 921,600 px budget, stride 16 (VAE 16× spatial).
 _PIXEL_BUDGET = 1280 * 720

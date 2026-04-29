@@ -2,12 +2,12 @@
 
 Tencent HunyuanVideo 1.5 CFG-distilled at 720p, native ComfyUI nodes.
 Same sampling defaults as the Instagram config (steps=8, cfg=1.0, shift=7.0)
-all from video_gen.workflows.hunyuan_video_1_5_i2v.DEFAULTS.
+all from generate.workflows.hunyuan_video_1_5_i2v.DEFAULTS.
 """
 
 from pathlib import Path
 
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -16,7 +16,7 @@ CONFIG = ComfyRunConfig(
     captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/hunyuan_video_1_5/youtube",
-    workflow_module="video_gen.workflows.hunyuan_video_1_5_i2v",
+    workflow_module="generate.workflows.hunyuan_video_1_5_i2v",
     model_tag="hunyuan-video-1.5-i2v-720p-cfg-distill-8step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
     max_clips=3024,

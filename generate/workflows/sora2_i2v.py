@@ -8,8 +8,8 @@ the first frame to exactly match before passing to the API.
 from __future__ import annotations
 from pathlib import Path
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_by_size
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_by_size
 
 # Sora 2 (base) accepts only 720x1280 / 1280x720. The 1024x1792 / 1792x1024
 # options shown in /object_info are for `sora-2-pro` only — passing them

@@ -14,7 +14,7 @@ clips only shift if new clips fill earlier positions in the round-robin (fair
 game at a new K).
 
 Usage:
-    uv run python -m video_gen.diversity_rank \\
+    uv run python -m generate.diversity_rank \\
         --labels data/videos/real/instagram/taxonomy_labels.csv \\
         --out data/videos/real/instagram/diversity_rank.csv
 """
@@ -26,7 +26,7 @@ import csv
 from collections import defaultdict
 from pathlib import Path
 
-from video_gen.taxonomy import CONTENT_IDS, MOTION_IDS
+from generate.taxonomy import CONTENT_IDS, MOTION_IDS
 
 RANK_FIELDS = ["rank", "stem", "content", "motion", "confidence"]
 

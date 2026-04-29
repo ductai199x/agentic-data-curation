@@ -8,8 +8,8 @@ from __future__ import annotations
 
 from typing import Any
 
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_dims
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_dims
 
 # Wan 2.2 I2V 720p pixel budget (~921,600 px), stride 16. Source aspect is
 # preserved exactly; only pixel-count + stride alignment enforced.

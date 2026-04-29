@@ -28,7 +28,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 from .content_filter import (
     JoyCaptionModel,
     extract_frames_from_window,

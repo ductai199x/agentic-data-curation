@@ -10,7 +10,7 @@ Prompt strategy (from official provider docs):
 """
 
 from pathlib import Path
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -30,7 +30,7 @@ _COMMON = dict(
 LUMA_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/luma_ray2/instagram",
-    workflow_module="video_gen.workflows.luma_ray2_i2v",
+    workflow_module="generate.workflows.luma_ray2_i2v",
     model_tag="luma-ray-2-i2v-720p-5s",
     max_clips=47,                       # 22 done + 25 new, top-47 covers all 22 done (max rank 27)
     prompt_source="short_caption",
@@ -44,7 +44,7 @@ LUMA_PILOT = ComfyRunConfig(
 RUNWAY_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/runway_gen4/instagram",
-    workflow_module="video_gen.workflows.runway_gen4_i2v",
+    workflow_module="generate.workflows.runway_gen4_i2v",
     model_tag="runway-gen4-turbo-i2v-720p-5s",
     max_clips=65,                       # 15 done + 50 new
     prompt_source="short_caption",      # hard 1000 char cap
@@ -60,7 +60,7 @@ RUNWAY_PILOT = ComfyRunConfig(
 VEO3_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/veo3/instagram",
-    workflow_module="video_gen.workflows.veo3_i2v",
+    workflow_module="generate.workflows.veo3_i2v",
     model_tag="veo3-0-fast-i2v-8s",
     max_clips=150,                      # far beyond 33 so filter attrition doesn't prematurely end
     prompt_source="caption",            # Veo: "the more detail, the more control"
@@ -74,7 +74,7 @@ VEO3_PILOT = ComfyRunConfig(
 SORA2_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/sora2/instagram",
-    workflow_module="video_gen.workflows.sora2_i2v",
+    workflow_module="generate.workflows.sora2_i2v",
     model_tag="sora-2-std-i2v-720x1280-8s",
     max_clips=150,                      # far beyond 39 so moderation attrition doesn't prematurely end
     prompt_source="caption",            # detail = more control per OpenAI docs
@@ -88,7 +88,7 @@ SORA2_PILOT = ComfyRunConfig(
 KLING2_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/kling26/instagram",
-    workflow_module="video_gen.workflows.kling26_i2v",
+    workflow_module="generate.workflows.kling26_i2v",
     model_tag="kling-v2-6-pro-i2v-5s",
     max_clips=70,                       # 20 done + 50 new
     prompt_source="caption",            # 2500 char cap, handles detail
@@ -102,7 +102,7 @@ KLING2_PILOT = ComfyRunConfig(
 HAILUO_PILOT = ComfyRunConfig(
     **_COMMON,
     output_dir=REPO / "data/videos/fake/hailuo02/instagram",
-    workflow_module="video_gen.workflows.hailuo02_i2v",
+    workflow_module="generate.workflows.hailuo02_i2v",
     model_tag="hailuo-02-i2v-768p-6s",
     max_clips=70,                       # 20 done + 50 new
     prompt_source="short_caption",      # structured, moderate

@@ -10,8 +10,8 @@ Idempotent: rows that already have a non-empty `short_caption` are skipped.
 Safe to ctrl-C and resume. Writes atomically via .tmp + rename.
 
 Usage:
-    # start vLLM first (see video_gen/taxonomy_label.py docstring)
-    uv run python -m video_gen.rewrite_captions \\
+    # start vLLM first (see generate/taxonomy_label.py docstring)
+    uv run python -m generate.rewrite_captions \\
         --captions data/videos/real/instagram/salmonn_captions_cleaned.json \\
         --concurrency 8
 """

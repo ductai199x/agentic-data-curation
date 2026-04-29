@@ -11,7 +11,7 @@ Saves to `data/credit_rates.json`. Use these rates in batch configs.
 Usage:
     PYTHONPATH=/home/tai/1-workdir/09-agent-data-curation \\
       COMFY_PORT=8190 \\
-      python -m video_gen.calibrate_credits
+      python -m generate.calibrate_credits
 """
 
 from __future__ import annotations
@@ -29,14 +29,14 @@ import requests
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
 
-from video_gen.comfy_batch_run import (
+from generate.comfy_batch_run import (
     SubmitResult,
     get_credit_balance,
     load_api_key,
     submit_and_wait,
     wait_for_comfy,
 )
-from video_gen.comfy_config import load_config
+from generate.comfy_config import load_config
 
 PROVIDERS = [
     # Estimates updated with calibrated rates (2026-04-16)

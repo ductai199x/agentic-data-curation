@@ -3,7 +3,7 @@
 A run is defined by:
   - the job source (clips + captions + frames)
   - the output path
-  - a workflow builder module (`video_gen.workflows.<name>`) exposing a
+  - a workflow builder module (`generate.workflows.<name>`) exposing a
     `build_workflow(cfg, first_frame, prompt, filename_prefix) -> dict`
   - a `model_kwargs` dict forwarded verbatim to the workflow builder so each
     generator can declare its own model-specific knobs
@@ -31,7 +31,7 @@ class ComfyRunConfig:
     # ---- which generator ---------------------------------------------------
     workflow_module: str
     """Import path of a module exposing `build_workflow(cfg, ...)`.
-    Examples: "video_gen.workflows.wan22", "video_gen.workflows.hunyuan_v15"."""
+    Examples: "generate.workflows.wan22", "generate.workflows.hunyuan_v15"."""
 
     model_tag: str
     """Stable identifier for this run, written to the manifest."""
@@ -42,7 +42,7 @@ class ComfyRunConfig:
 
     # ---- clip selection ----------------------------------------------------
     rank_file: Path | None = None
-    """Optional path to a `diversity_rank.csv` from `video_gen.diversity_rank`.
+    """Optional path to a `diversity_rank.csv` from `generate.diversity_rank`.
     If set, the worker filters `build_jobs()` output down to the top
     `max_clips` entries in rank order (plus any stems not present in the
     rank file are dropped)."""

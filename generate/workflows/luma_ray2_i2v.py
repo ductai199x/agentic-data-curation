@@ -10,8 +10,8 @@ from __future__ import annotations
 
 from typing import Any
 
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_by_ratio
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_by_ratio
 
 
 # Luma Ray 2 I2V aspect enum (authoritative via node schema):

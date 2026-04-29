@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Multi-GPU launcher for video_gen.interpolate_fps (RIFE 4.26).
+# Multi-GPU launcher for generate.interpolate_fps (RIFE 4.26).
 #
 # Each shard runs as a separate process pinned to one GPU. Stable shard
 # split by clip index — workers don't fight for the same outputs.
@@ -36,12 +36,12 @@ SHARD_COUNT=$((GPU_COUNT * WORKERS_PER_GPU))
 case "$CMD" in
   stop)
     echo "stopping rife interpolate workers..."
-    pkill -f "video_gen.interpolate_fps" || true
+    pkill -f "generate.interpolate_fps" || true
     exit 0
     ;;
   status)
     echo "=== workers ==="
-    pgrep -af "video_gen.interpolate_fps" | grep -v grep || echo "(none)"
+    pgrep -af "generate.interpolate_fps" | grep -v grep || echo "(none)"
     exit 0
     ;;
   start) ;;
@@ -65,7 +65,7 @@ for gpu in $GPU_LIST; do
     CUDA_VISIBLE_DEVICES=$gpu \
       PYTHONPATH=$REPO \
       SHARDS=$SHARD_COUNT SHARD_ID=$shard_id \
-      nohup "$PY" -m video_gen.interpolate_fps \
+      nohup "$PY" -m generate.interpolate_fps \
         --root "$ROOT" \
         --out-root "$OUT_ROOT" \
         --target-fps "$TARGET_FPS" \

@@ -11,8 +11,8 @@ from __future__ import annotations
 
 from typing import Any
 
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_dims
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_dims
 
 # Hunyuan I2V 720p pixel budget (~921,600 px), stride 16.
 _PIXEL_BUDGET = 720 * 1280

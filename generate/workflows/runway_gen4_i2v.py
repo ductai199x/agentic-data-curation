@@ -9,8 +9,8 @@ orientations).
 from __future__ import annotations
 from pathlib import Path
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_by_ratio
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_by_ratio
 
 # Gen-4 Turbo aspect enum (authoritative via /object_info on 2026-04-16)
 GEN4_RATIO_OPTIONS = [

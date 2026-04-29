@@ -1,6 +1,6 @@
 """Self-contained ComfyUI spawner.
 
-Used by `video_gen.comfy_batch_run` so each worker is responsible for its
+Used by `generate.comfy_batch_run` so each worker is responsible for its
 own ComfyUI instance. No need to manually start / track external ComfyUI
 servers on specific ports.
 

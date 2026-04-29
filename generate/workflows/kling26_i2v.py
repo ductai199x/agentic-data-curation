@@ -9,7 +9,7 @@ our mixed Instagram set — Kling 2.6 produced 1080×1920 (9:16), 1440×1440 (1:
 """
 from __future__ import annotations
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 DEFAULTS: dict[str, Any] = {
     "model_name": "kling-v2-6",

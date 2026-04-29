@@ -13,7 +13,7 @@ spawn overhead.
 Usage:
     # Single shard (one GPU)
     CUDA_VISIBLE_DEVICES=3 SHARDS=8 SHARD_ID=0 \
-        uv run python -m video_gen.interpolate_fps \
+        uv run python -m generate.interpolate_fps \
             --root data/videos/fake \
             --out-root data/videos/fake_30fps_rife \
             --target-fps 30
@@ -38,7 +38,7 @@ import numpy as np
 import torch
 from tqdm import tqdm
 
-from video_gen.common import is_source_clip
+from generate.common import is_source_clip
 
 REPO = Path(__file__).resolve().parents[1]
 RIFE_DIR = REPO / "third_party" / "vfi_bench" / "Practical-RIFE"

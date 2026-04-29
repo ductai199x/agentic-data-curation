@@ -16,8 +16,8 @@ from __future__ import annotations
 
 from typing import Any
 
-from video_gen.comfy_config import ComfyRunConfig
-from video_gen.workflows._aspect import pick_dims
+from generate.comfy_config import ComfyRunConfig
+from generate.workflows._aspect import pick_dims
 
 # CogVideoX 1.5 5B native 1360×768 = ~1.04M px, VAE stride 16 (8× spatial
 # downsample × 2× patch). Source frames with odd dims (not multiples of 16)

@@ -7,7 +7,7 @@ against our mixed Instagram set — Hailuo produced 768×1364 (9:16),
 """
 from __future__ import annotations
 from typing import Any
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 DEFAULTS: dict[str, Any] = {
     "duration": 6,

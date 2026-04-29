@@ -11,7 +11,7 @@ Uses a local vLLM OpenAI-compatible server. Launch the server first:
 
 Then:
 
-    uv run python -m video_gen.taxonomy_label \\
+    uv run python -m generate.taxonomy_label \\
         --captions data/videos/real/instagram/salmonn_captions_cleaned.json \\
         --out data/videos/real/instagram/taxonomy_labels.csv
 
@@ -31,7 +31,7 @@ from pathlib import Path
 
 from openai import AsyncOpenAI, OpenAI
 
-from video_gen.taxonomy import (
+from generate.taxonomy import (
     CONTENT_IDS,
     MOTION_IDS,
     format_taxonomy_prompt,

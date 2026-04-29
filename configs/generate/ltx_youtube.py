@@ -7,7 +7,7 @@ round-snap — see feedback_pick_dims_round_not_floor.md).
 
 from pathlib import Path
 
-from video_gen.comfy_config import ComfyRunConfig
+from generate.comfy_config import ComfyRunConfig
 
 REPO = Path(__file__).resolve().parents[1]
 
@@ -16,7 +16,7 @@ CONFIG = ComfyRunConfig(
     captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/ltx_video_2.3/youtube",
-    workflow_module="video_gen.workflows.ltx_i2v",
+    workflow_module="generate.workflows.ltx_i2v",
     model_tag="ltx-2.3-22b-dev-lora-flf2v-yt",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
     max_clips=3024,
