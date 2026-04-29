@@ -18,13 +18,13 @@ help: ## Show available commands
 	@echo ""
 
 stats: ## Short dataset summary table
-	uv run python scripts/stats.py
+	uv run curate stats
 
 stats-detailed: ## Detailed per-dataset breakdown
-	uv run python scripts/stats.py --detailed
+	uv run curate stats --detailed
 
 metadata: ## Rebuild metadata.csv for all datasets
-	uv run python scripts/build_all_metadata.py
+	uv run curate build-metadata
 
 sync: ## Sync data/images/ to weka
 	bash scripts/sync_data.sh $(ARGS)

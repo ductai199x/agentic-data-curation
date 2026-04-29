@@ -188,4 +188,4 @@ data/images/<generator>/
 `metadata.csv` columns: `filename, source, model_version, width, height, format, file_size, url, timestamp`
 
 Model version is mapped from manifest `source`/`flair` fields per generator.
-See `scripts/build_all_metadata.py` for all mapping logic.
+See `curate/build_metadata.py` for all mapping logic.

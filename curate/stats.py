@@ -2,8 +2,8 @@
 """Print stats on all curated datasets.
 
 Usage:
-    uv run python scripts/stats.py              # short summary
-    uv run python scripts/stats.py --detailed   # detailed per-dataset breakdown
+    uv run curate stats              # short summary
+    uv run curate stats --detailed   # detailed per-dataset breakdown
 """
 
 import csv

@@ -16,8 +16,8 @@ import click
 
 from generate import (
     build_dataset_metadata, calibrate_credits, comfy_batch_run,
-    diversity_rank, extract_frames, interpolate_fps, rewrite_captions,
-    taxonomy_label,
+    diversity_rank, extract_frames, interpolate_fps, regen_stretched,
+    rewrite_captions, taxonomy_label,
 )
 
 
@@ -32,6 +32,7 @@ main.add_command(rewrite_captions.main, name="rewrite-captions")
 main.add_command(interpolate_fps.main, name="interpolate-fps")
 main.add_command(taxonomy_label.main, name="taxonomy-label")
 main.add_command(build_dataset_metadata.cli, name="metadata")
+main.add_command(regen_stretched.main, name="regen-stretched")
 
 
 @main.command(

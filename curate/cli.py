@@ -11,6 +11,9 @@ a convenience layer.
     curate videos discover --discover --output configs/video_sources/
     curate videos download -c configs/curate/videos/youtube.py
     curate videos validate -c configs/curate/videos/youtube.py
+    curate stats                                # short dataset summary
+    curate stats --detailed
+    curate build-metadata                       # rebuild metadata.csv per dataset
 """
 from __future__ import annotations
 
@@ -33,6 +36,9 @@ from curate.videos import (
     quality_sweep, validate_channels, merge_yt_manifests,
     backfill_orphan_manifest, instagram as ig_video,
 )
+
+# Top-level utilities
+from curate import build_metadata as _build_metadata, stats as _stats
 
 
 @click.group()
@@ -95,6 +101,19 @@ videos.add_command(validate_channels.main, name="validate-channels")
 videos.add_command(merge_yt_manifests.main, name="merge-manifests")
 videos.add_command(backfill_orphan_manifest.main, name="backfill-manifest")
 videos.add_command(ig_video.main, name="instagram")
+
+
+# ---- top-level utilities --------------------------------------------------
+
+main.add_command(_stats.main, name="stats")
+
+
+@main.command(
+    "build-metadata",
+    help="Rebuild metadata.csv for every image dataset.",
+)
+def build_metadata_cmd() -> None:
+    _build_metadata.main()
 
 
 if __name__ == "__main__":

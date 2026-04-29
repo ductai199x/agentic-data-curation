@@ -12,7 +12,7 @@ For each stretched output:
      (so load_processed() stops skipping it on resume)
 
 Usage:
-    uv run python -m scripts.regen_stretched \\
+    uv run generate regen-stretched \\
         --output-dir data/videos/fake/wan_2_2/instagram \\
         --source-dir data/videos/real/instagram/validated \\
         [--dry-run]
