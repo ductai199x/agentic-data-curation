@@ -12,7 +12,7 @@ REPO = Path(__file__).resolve().parents[2]
 
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/youtube/validated",
-    captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
+    captions_path=REPO / "data/videos/real/youtube/video_captions.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/wan_2_1_flf/youtube",
     workflow_module="generate.workflows.wan21_flf",

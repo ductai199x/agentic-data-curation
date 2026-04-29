@@ -279,17 +279,9 @@ def _load_source_captions(source: str) -> dict[str, str]:
     Used as a fallback when an mp4 has no embedded prompt (older LTX IG clips
     saved before VHS_VideoCombine embedded workflow JSON). The mapping is
     real_clip → caption text.
-
-    Tries the canonical `video_captions.json` first, then falls back to the
-    legacy `salmonn_captions_cleaned.json` for sources that haven't been
-    renamed yet (YouTube is gated on Pair 2 finishing).
     """
-    base = REPO_ROOT / "data" / "videos" / "real" / source
-    for name in ("video_captions.json", "salmonn_captions_cleaned.json"):
-        captions_path = base / name
-        if captions_path.exists():
-            break
-    else:
+    captions_path = REPO_ROOT / "data" / "videos" / "real" / source / "video_captions.json"
+    if not captions_path.exists():
         return {}
     try:
         with captions_path.open() as f:

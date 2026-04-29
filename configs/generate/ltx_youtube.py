@@ -13,7 +13,7 @@ REPO = Path(__file__).resolve().parents[2]
 
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/youtube/validated",
-    captions_path=REPO / "data/videos/real/youtube/salmonn_captions_cleaned.json",
+    captions_path=REPO / "data/videos/real/youtube/video_captions.json",
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/ltx_video_2.3/youtube",
     workflow_module="generate.workflows.ltx_i2v",
