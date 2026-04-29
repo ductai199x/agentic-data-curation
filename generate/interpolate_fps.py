@@ -41,7 +41,7 @@ from tqdm import tqdm
 from generate.common import is_source_clip
 
 REPO = Path(__file__).resolve().parents[1]
-RIFE_DIR = REPO / "third_party" / "vfi_bench" / "Practical-RIFE"
+RIFE_DIR = REPO / "third_party" / "RIFE"
 
 
 def _load_rife_model():
