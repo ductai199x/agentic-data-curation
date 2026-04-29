@@ -13,11 +13,11 @@ from pathlib import Path
 
 from generate.comfy_config import ComfyRunConfig
 
-REPO = Path(__file__).resolve().parents[1]
+REPO = Path(__file__).resolve().parents[2]
 
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/instagram/validated",
-    captions_path=REPO / "data/videos/real/instagram/salmonn_captions_cleaned.json",
+    captions_path=REPO / "data/videos/real/instagram/video_captions.json",
     frames_dir=REPO / "data/videos/real/instagram/frames",
     # New output dir so prior HY 1.0 outputs stay separate.
     output_dir=REPO / "data/videos/fake/hunyuan_video_1_5/instagram",

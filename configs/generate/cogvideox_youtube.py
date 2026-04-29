@@ -8,7 +8,7 @@ from pathlib import Path
 
 from generate.comfy_config import ComfyRunConfig
 
-REPO = Path(__file__).resolve().parents[1]
+REPO = Path(__file__).resolve().parents[2]
 
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/youtube/validated",

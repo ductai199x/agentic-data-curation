@@ -8,11 +8,11 @@ from pathlib import Path
 
 from generate.comfy_config import ComfyRunConfig
 
-REPO = Path(__file__).resolve().parents[1]
+REPO = Path(__file__).resolve().parents[2]
 
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/instagram/validated",
-    captions_path=REPO / "data/videos/real/instagram/salmonn_captions_cleaned.json",
+    captions_path=REPO / "data/videos/real/instagram/video_captions.json",
     frames_dir=REPO / "data/videos/real/instagram/frames",
     output_dir=REPO / "data/videos/fake/cogvideox_1_5/instagram",
     workflow_module="generate.workflows.cogvideox_i2v",

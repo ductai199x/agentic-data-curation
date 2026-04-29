@@ -12,7 +12,7 @@ Uses a local vLLM OpenAI-compatible server. Launch the server first:
 Then:
 
     uv run python -m generate.taxonomy_label \\
-        --captions data/videos/real/instagram/salmonn_captions_cleaned.json \\
+        --captions data/videos/real/instagram/video_captions.json \\
         --out data/videos/real/instagram/taxonomy_labels.csv
 
 The script is idempotent: it reads `out` on start, skips stems already

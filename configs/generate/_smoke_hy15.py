@@ -3,7 +3,7 @@ from generate.comfy_config import ComfyRunConfig
 REPO = Path("/home/tai/1-workdir/09-agent-data-curation")
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/instagram/validated",
-    captions_path=REPO / "data/videos/real/instagram/salmonn_captions_cleaned.json",
+    captions_path=REPO / "data/videos/real/instagram/video_captions.json",
     frames_dir=REPO / "data/videos/real/instagram/frames",
     output_dir=Path("/tmp/smoke/hy15"),
     workflow_module="generate.workflows.hunyuan_video_1_5_i2v",

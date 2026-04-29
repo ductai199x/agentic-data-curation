@@ -12,7 +12,7 @@ Safe to ctrl-C and resume. Writes atomically via .tmp + rename.
 Usage:
     # start vLLM first (see generate/taxonomy_label.py docstring)
     uv run python -m generate.rewrite_captions \\
-        --captions data/videos/real/instagram/salmonn_captions_cleaned.json \\
+        --captions data/videos/real/instagram/video_captions.json \\
         --concurrency 8
 """
 

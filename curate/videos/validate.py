@@ -348,8 +348,8 @@ def process_directory(
     Layout (both source types):
       input_dir          — source videos live here (e.g. <root>/staging/<cat>/)
       validated_dir      — cut clips are written here (e.g. <root>/validated/<cat>/)
-      manifest_dir       — process_manifest[_shard<N>].csv lives at dataset root
-      captions_dir       — captions[_shard<N>].json lives at dataset root
+      manifest_dir       — validation_manifest[_shard<N>].csv lives at dataset root
+      captions_dir       — validation_captions[_shard<N>].json lives at dataset root
 
     All metadata (manifests, captions, info JSONs) live at the dataset root,
     not inside staging/. Source videos in staging/ are never moved; the
@@ -372,9 +372,9 @@ def process_directory(
     # source_file names don't accidentally mark this cat's sources as done.
     manifest_dir.mkdir(parents=True, exist_ok=True)
     captions_dir.mkdir(parents=True, exist_ok=True)
-    manifest_path = manifest_dir / "process_manifest.csv"
+    manifest_path = manifest_dir / "validation_manifest.csv"
     processed = set()
-    for mf in [manifest_path] + list(manifest_dir.glob("process_manifest_shard*.csv")):
+    for mf in [manifest_path] + list(manifest_dir.glob("validation_manifest_shard*.csv")):
         if mf.exists():
             with open(mf) as f:
                 for row in csv.DictReader(f):
@@ -393,7 +393,7 @@ def process_directory(
 
     # Per-shard manifest to avoid file locking between workers
     if num_shards > 1:
-        manifest_path = manifest_dir / f"process_manifest_shard{shard_id}.csv"
+        manifest_path = manifest_dir / f"validation_manifest_shard{shard_id}.csv"
 
     label = category or source_type
     if num_shards > 1:
@@ -417,8 +417,8 @@ def process_directory(
                 break
 
     # Captions file — per-shard to avoid locking
-    captions_path = captions_dir / (f"captions_shard{shard_id}.json" if num_shards > 1
-                                    else "captions.json")
+    captions_path = captions_dir / (f"validation_captions_shard{shard_id}.json" if num_shards > 1
+                                    else "validation_captions.json")
     all_captions: dict[str, list[str]] = {}
     if captions_path.exists():
         with open(captions_path) as f:
@@ -487,11 +487,11 @@ def main(config, category, gpu, shards, shard_id, dry_run):
     base_dir = Path(getattr(cfg, "OUTPUT_DIR", f"data/videos/real/{source_type}"))
     staging_root = base_dir / "staging"
     validated_root = base_dir / "validated"
-    manifest_dir = base_dir     # process_manifest.csv sits at root
-    captions_dir = base_dir     # captions.json sits at root
+    manifest_dir = base_dir     # validation_manifest.csv sits at root
+    captions_dir = base_dir     # validation_captions.json sits at root
 
     if dry_run:
-        main_mf = manifest_dir / "process_manifest.csv"
+        main_mf = manifest_dir / "validation_manifest.csv"
         done_by_cat = {}
         if main_mf.exists():
             with open(main_mf) as f:
