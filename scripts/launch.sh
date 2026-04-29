@@ -22,7 +22,7 @@
 
 set -euo pipefail
 
-REPO=/home/tai/1-workdir/09-agent-data-curation
+REPO=$(cd "$(dirname "$0")/.." && pwd)
 COMFY=$REPO/third_party/ComfyUI
 CMD=${1:-start}
 

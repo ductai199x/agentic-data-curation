@@ -1,6 +1,6 @@
 from pathlib import Path
 from generate.comfy_config import ComfyRunConfig
-REPO = Path("/home/tai/1-workdir/09-agent-data-curation")
+from shared.paths import REPO_ROOT as REPO
 CONFIG = ComfyRunConfig(
     clips_dir=REPO / "data/videos/real/instagram/validated",
     captions_path=REPO / "data/videos/real/instagram/video_captions.json",

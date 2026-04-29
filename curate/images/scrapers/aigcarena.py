@@ -18,6 +18,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 from curate.images.scrapers.base import BaseScraper
+from shared.paths import REPO_ROOT
 
 # Models to collect (case-insensitive substring match)
 SEEDREAM_SUBSTRINGS = ["seedream"]
@@ -34,7 +35,7 @@ class AIGCArenaScraper(BaseScraper):
         super().__init__(output_dir, max_images, min_pixels=getattr(config, "MIN_PIXELS", 200_000), force=force)
         self.config = config
         self.target_substrings = target_substrings or SEEDREAM_SUBSTRINGS
-        self.cookies_path = Path("data/cookies/cookies-aigcarena.txt")
+        self.cookies_path = REPO_ROOT / "data/cookies/cookies-aigcarena.txt"
 
     def _is_target_model(self, model_name: str) -> bool:
         mn = model_name.lower()

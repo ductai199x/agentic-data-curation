@@ -15,6 +15,8 @@ import tempfile
 import time
 from pathlib import Path
 
+from shared.paths import REPO_ROOT
+
 
 # API rate limit: search, metadata, channel listing etc.
 API_CALLS_PER_MINUTE = 59
@@ -30,7 +32,7 @@ DOWNLOAD_LOCK_FILE = Path("/tmp/ytdlp_download_rate_limit.lock")
 DOWNLOAD_TIMESTAMP_FILE = Path("/tmp/ytdlp_download_rate_limit_ts")
 
 # Default cookies path — set to None to disable
-DEFAULT_COOKIES = Path("data/cookies/cookies-youtube.txt")
+DEFAULT_COOKIES = REPO_ROOT / "data" / "cookies" / "cookies-youtube.txt"
 
 
 def _wait_for_slot(lock_file: Path, ts_file: Path, min_interval: float):

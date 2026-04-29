@@ -84,7 +84,7 @@ class ComfyRunConfig:
 
     # ---- server wiring -----------------------------------------------------
     comfy_root: Path = field(
-        default_factory=lambda: Path("/home/tai/1-workdir/09-agent-data-curation/third_party/ComfyUI")
+        default_factory=lambda: __import__("shared.paths", fromlist=["COMFY_ROOT"]).COMFY_ROOT
     )
     default_port: int = 8190
     submit_timeout_s: float = 1800

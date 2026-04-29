@@ -21,12 +21,14 @@ from threading import Lock
 
 from tqdm import tqdm
 
+from shared.paths import REPO_ROOT
+
 from .rate_limiter import run_ytdlp
 
 
 # Fallback defaults — overridden by config
-_VERIFIED_DIR = Path("configs/video_sources/verified")
-_OUTPUT_BASE = Path("data/videos/real/youtube")  # root; "staging/" subdir joined below
+_VERIFIED_DIR = REPO_ROOT / "configs/video_sources/verified"
+_OUTPUT_BASE = REPO_ROOT / "data/videos/real/youtube"  # root; "staging/" subdir joined below
 _MAX_HEIGHT = 1080
 _CHUNK_DURATION = 240
 _SKIP_START = 120

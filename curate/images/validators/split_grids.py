@@ -186,7 +186,8 @@ def main(config, dry_run, output_dir, limit):
     from configs import load_config
     cfg = load_config(config)
 
-    data_dir = Path(f"data/images/{cfg.NAME}")
+    from shared.paths import REPO_ROOT
+    data_dir = REPO_ROOT / "data" / "images" / cfg.NAME
     staging = data_dir / "staging"
     manifest_path = data_dir / "manifest.csv"
     out_dir = Path(output_dir) if output_dir else staging

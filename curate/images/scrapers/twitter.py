@@ -125,10 +125,12 @@ class TwitterScraper(BaseScraper):
         self.config = config
         self.bot_username = getattr(config, "TWITTER_BOT_USERNAME", config.NAME)
         self.media_url = getattr(config, "TWITTER_MEDIA_URL", None)
-        self.cookies_path = str(Path(
-            cookies_path
-            or getattr(config, "TWITTER_COOKIES_PATH", "data/cookies/cookies-x.txt")
-        ).resolve())
+        from shared.paths import REPO_ROOT
+        cp = Path(cookies_path or getattr(config, "TWITTER_COOKIES_PATH",
+                                          "data/cookies/cookies-x.txt"))
+        if not cp.is_absolute():
+            cp = REPO_ROOT / cp
+        self.cookies_path = str(cp)
         min_pixels = getattr(config, "MIN_PIXELS", 200_000)
         super().__init__(output_dir, max_images, min_pixels=min_pixels, force=force)
 

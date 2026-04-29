@@ -19,7 +19,7 @@
 #   TARGET_FPS       output fps (default: 30)
 #   LOGS             log dir (default: /tmp/rife_logs)
 set -euo pipefail
-REPO=/home/tai/1-workdir/09-agent-data-curation
+REPO=$(cd "$(dirname "$0")/.." && pwd)
 PY=$REPO/third_party/ComfyUI/.venv/bin/python
 CMD=${1:-start}
 : "${ROOT:=data/videos/fake}"

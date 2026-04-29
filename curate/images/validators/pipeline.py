@@ -122,7 +122,7 @@ def load_joycaption_results(path: Path) -> dict[str, dict]:
 
 def run_pipeline(
     config,
-    data_dir: Path = Path("data/images/grok"),
+    data_dir: Path | None = None,
     fsd_threshold: float = -2.0,
     relaxed_mode: bool = False,
     captions_path: Path | None = None,
@@ -154,6 +154,9 @@ def run_pipeline(
     Returns:
         List of PipelineResult for each image.
     """
+    if data_dir is None:
+        from shared.paths import REPO_ROOT
+        data_dir = REPO_ROOT / "data" / "images" / config.NAME
     staging_dir = staging_dir or data_dir / "staging"
     images_dir = images_dir or data_dir / "images"
     rejected_dir = rejected_dir or data_dir / "rejected"
@@ -407,7 +410,7 @@ import click
 def main(config, data_dir, relaxed, fsd_threshold, captions, staging_dir,
          images_dir, rejected_dir, skip_fsd, force):
     cfg = load_config(config)
-    dd = Path(data_dir) if data_dir else Path(f"data/images/{cfg.NAME}")
+    dd = Path(data_dir) if data_dir else None  # run_pipeline derives from cfg
 
     run_pipeline(
         config=cfg,

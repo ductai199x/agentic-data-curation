@@ -34,6 +34,8 @@ from pathlib import Path
 import click
 from tqdm import tqdm
 
+from shared.paths import REPO_ROOT
+
 from generate.common import is_source_clip
 
 MANIFEST_COLUMNS = [
@@ -282,7 +284,7 @@ def _load_source_captions(source: str) -> dict[str, str]:
     legacy `salmonn_captions_cleaned.json` for sources that haven't been
     renamed yet (YouTube is gated on Pair 2 finishing).
     """
-    base = Path("data/videos/real") / source
+    base = REPO_ROOT / "data" / "videos" / "real" / source
     for name in ("video_captions.json", "salmonn_captions_cleaned.json"):
         captions_path = base / name
         if captions_path.exists():

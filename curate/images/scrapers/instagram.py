@@ -89,7 +89,8 @@ class InstagramScraper(BaseScraper):
         elif config and hasattr(config, "INSTAGRAM_COOKIES_PATH"):
             self.cookies_path = config.INSTAGRAM_COOKIES_PATH
         else:
-            self.cookies_path = "data/cookies/cookies-instagram.txt"
+            from shared.paths import REPO_ROOT
+            self.cookies_path = str(REPO_ROOT / "data/cookies/cookies-instagram.txt")
 
     def _load_cookies(self) -> list[dict]:
         """Load Netscape-format cookies and convert to Playwright format."""

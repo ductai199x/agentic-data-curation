@@ -20,6 +20,8 @@ import requests
 from PIL import Image
 from tqdm import tqdm
 
+from shared.paths import REPO_ROOT
+
 # Sentinel for queue completion signaling
 _DONE = None
 
@@ -47,7 +49,10 @@ class BaseScraper:
 
     def __init__(self, output_dir: str | Path, max_images: int, min_pixels: int = 200_000,
                  force: bool = False):
-        self.output_dir = Path(output_dir)
+        # Anchor relative paths to the repo root so scrapers work from any CWD
+        # (callers commonly pass a `f"data/images/{config.NAME}"` default).
+        out = Path(output_dir)
+        self.output_dir = out if out.is_absolute() else REPO_ROOT / out
         self.staging_dir = self.output_dir / "staging"
         self.max_images = max_images
         self.min_pixels = min_pixels

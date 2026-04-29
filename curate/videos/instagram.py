@@ -27,9 +27,11 @@ from pathlib import Path
 import httpx
 from tqdm import tqdm
 
+from shared.paths import REPO_ROOT
 
-FALLBACK_COOKIES_PATH = "data/cookies/cookies-instagram.txt"
-FALLBACK_OUTPUT_DIR = "data/videos/real/instagram"
+
+FALLBACK_COOKIES_PATH = str(REPO_ROOT / "data/cookies/cookies-instagram.txt")
+FALLBACK_OUTPUT_DIR = str(REPO_ROOT / "data/videos/real/instagram")
 
 MANIFEST_FIELDS = [
     "filename", "url", "content_hash", "source", "username",

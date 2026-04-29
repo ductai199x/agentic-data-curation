@@ -484,7 +484,10 @@ def main(config, category, gpu, shards, shard_id, dry_run):
     # OUTPUT_DIR is the dataset root. All metadata (manifests, captions)
     # lives directly under the root — not inside staging/. Source videos
     # live in staging/<cat>/, cut clips in validated/<cat>/.
+    from shared.paths import REPO_ROOT
     base_dir = Path(getattr(cfg, "OUTPUT_DIR", f"data/videos/real/{source_type}"))
+    if not base_dir.is_absolute():
+        base_dir = REPO_ROOT / base_dir
     staging_root = base_dir / "staging"
     validated_root = base_dir / "validated"
     manifest_dir = base_dir     # validation_manifest.csv sits at root

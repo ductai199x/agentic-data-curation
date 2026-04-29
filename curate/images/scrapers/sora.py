@@ -78,10 +78,15 @@ class SoraScraper(BaseScraper):
         self.config = config
         self.feed_variant = feed_variant
 
-        self.cookies_path = Path(
-            getattr(config, "SORA_COOKIES_PATH", "data/cookies/cookies-sora.txt")
-            if config else "data/cookies/cookies-sora.txt"
+        from shared.paths import REPO_ROOT
+        _default_cookies = REPO_ROOT / "data/cookies/cookies-sora.txt"
+        cookies_str = (
+            getattr(config, "SORA_COOKIES_PATH", str(_default_cookies))
+            if config else str(_default_cookies)
         )
+        self.cookies_path = Path(cookies_str)
+        if not self.cookies_path.is_absolute():
+            self.cookies_path = REPO_ROOT / self.cookies_path
 
         # Sentinel token file (user provides this from browser DevTools)
         self.sentinel_token_path = Path(output_dir) / "sentinel_token.json"
