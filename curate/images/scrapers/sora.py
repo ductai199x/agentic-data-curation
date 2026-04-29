@@ -877,7 +877,7 @@ def main(config, max_videos, feed, force):
         cfg = load_config(config)
     else:
         from configs import load_config
-        default_config = Path(__file__).parent.parent / "configs" / "sora.py"
+        default_config = Path(__file__).resolve().parents[3] / "configs" / "curate" / "images" / "sora.py"
         if default_config.exists():
             cfg = load_config(str(default_config))
 
