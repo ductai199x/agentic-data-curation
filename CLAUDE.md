@@ -167,6 +167,29 @@ uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>
 uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 ```
 
+## Video Captioning (SALMONN 2+)
+
+Generates the `video_captions.json` files that condition fake-video generation.
+Multi-GPU launcher mirrors `scripts/launch.sh` (ComfyUI):
+
+```bash
+VIDEOS_DIR=data/videos/real/youtube/validated \
+OUTPUT_JSON=data/videos/real/youtube/video_captions.json \
+scripts/launch_caption.sh start
+
+scripts/launch_caption.sh status   # check workers
+scripts/launch_caption.sh stop     # kill all shards
+```
+
+Or single-shard via CLI: `curate videos caption-salmonn --videos-dir ... --output ...`
+
+The captioner code is at [curate/videos/caption_salmonn.py](curate/videos/caption_salmonn.py)
+but runs against the SALMONN venv at
+`third_party/video-SALMONN-2/video_SALMONN2_plus/.venv/` (heavy ML deps:
+qwenvl, flash-attn, liger_kernel). The launcher sets PYTHONPATH so imports
+resolve. Outputs are sharded `*_shard{id}.json` per worker; merging is the
+caller's responsibility.
+
 ## FSD Scoring
 
 ```bash

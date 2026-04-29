@@ -35,6 +35,7 @@ from curate.videos import (
     discover, download, validate as video_validate, screen,
     quality_sweep, validate_channels, merge_yt_manifests,
     backfill_orphan_manifest, instagram as ig_video,
+    caption_salmonn,
 )
 
 # Top-level utilities
@@ -101,6 +102,7 @@ videos.add_command(validate_channels.main, name="validate-channels")
 videos.add_command(merge_yt_manifests.main, name="merge-manifests")
 videos.add_command(backfill_orphan_manifest.main, name="backfill-manifest")
 videos.add_command(ig_video.main, name="instagram")
+videos.add_command(caption_salmonn.main, name="caption-salmonn")
 
 
 # ---- top-level utilities --------------------------------------------------
