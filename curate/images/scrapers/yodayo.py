@@ -7,8 +7,8 @@ Model version UUIDs are read from the config's YODAYO_MODELS dict.
 Optional LoRA filtering via config's YODAYO_REJECT_LORA flag.
 
 Usage:
-    uv run python -m scrapers.yodayo --config configs/seedream4.py --max-images 500
-    uv run python -m scrapers.yodayo --config configs/flux1.py --max-images 5000
+    uv run python -m curate.images.scrapers.yodayo --config configs/curate/images/seedream4.py --max-images 500
+    uv run python -m curate.images.scrapers.yodayo --config configs/curate/images/flux1.py --max-images 5000
 """
 
 import click
@@ -20,7 +20,7 @@ import time
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper
+from curate.images.scrapers.base import BaseScraper
 
 
 # Default model version UUIDs (Seedream) — used when config has no YODAYO_MODELS

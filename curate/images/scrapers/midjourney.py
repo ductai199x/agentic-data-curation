@@ -8,8 +8,8 @@ Auth: Discord user token (env var DISCORD_TOKEN or config).
 No Playwright needed — pure REST API + CDN downloads.
 
 Usage:
-    uv run python -m scrapers.midjourney --config configs/midjourney_v7.py --max-images 50000
-    uv run python -m scrapers.midjourney --config configs/midjourney_v7.py --max-images 20 --channels general-1,general-2
+    uv run python -m curate.images.scrapers.midjourney --config configs/curate/images/midjourney_v7.py --max-images 50000
+    uv run python -m curate.images.scrapers.midjourney --config configs/curate/images/midjourney_v7.py --max-images 20 --channels general-1,general-2
 """
 
 import click
@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper
+from curate.images.scrapers.base import BaseScraper
 
 DISCORD_API_BASE = "https://discord.com/api/v10"
 

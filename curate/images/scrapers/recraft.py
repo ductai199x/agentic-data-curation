@@ -14,8 +14,8 @@ CDN: HMAC-signed imgproxy at img.recraft.ai.
   Request with Accept: image/jpeg for JPEG output.
 
 Usage:
-    uv run python -m scrapers.recraft --config configs/recraft_3_4.py --max-images 500
-    uv run python -m scrapers.recraft --config configs/recraft_3_4.py --max-images 100 --force
+    uv run python -m curate.images.scrapers.recraft --config configs/curate/images/recraft_3_4.py --max-images 500
+    uv run python -m curate.images.scrapers.recraft --config configs/curate/images/recraft_3_4.py --max-images 100 --force
 """
 
 import click
@@ -29,7 +29,7 @@ import time
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 
 API_URL = "https://api.recraft.ai/images/community"

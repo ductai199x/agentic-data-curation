@@ -11,8 +11,8 @@ Image CDN: cdn.openart.ai/published/... (raw JPG) or cdn.openart.ai/uploads/... 
 No authentication required — public API + CDN.
 
 Usage:
-    uv run python -m scrapers.openart --config configs/flux1.py --max-images 500
-    uv run python -m scrapers.openart --config configs/flux1.py --max-images 100 --force
+    uv run python -m curate.images.scrapers.openart --config configs/curate/images/flux1.py --max-images 500
+    uv run python -m curate.images.scrapers.openart --config configs/curate/images/flux1.py --max-images 100 --force
 """
 
 import click
@@ -23,7 +23,7 @@ import time
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 
 API_URL = "https://openart.ai/api/search"

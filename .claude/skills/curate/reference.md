@@ -48,18 +48,18 @@ Look at existing configs for real examples — don't guess field names.
 
 | Scraper | Platform | Auth Required | Provenance | Command |
 |---------|----------|---------------|------------|---------|
-| `civitai` | Civitai on-site gen | None | Excellent | `uv run python -m scrapers.civitai -c CONFIG -n N` |
-| `civitai_simple` | Civitai (simplified) | None | Excellent | `uv run python -m scrapers.civitai_simple -c CONFIG -n N` |
-| `higgsfield` | Higgsfield gallery | None | Excellent | `uv run python -m scrapers.higgsfield -c CONFIG -n N` |
-| `twitter` | X.com bot images | cookies-x.txt | Good | `uv run python -m scrapers.twitter -c CONFIG -n N` |
-| `midjourney` | Discord channels | Discord token | Good | `uv run python -m scrapers.midjourney -c CONFIG -n N` |
-| `instagram` | Instagram profiles | cookies-instagram.txt | Good (eval) | `uv run python -m scrapers.instagram -c CONFIG -n N` |
-| `recraft` | Recraft community | None (Playwright) | Excellent | `uv run python -m scrapers.recraft -c CONFIG -n N` |
-| `tensorart` | Tensor.Art gallery | None (Playwright) | Good | `uv run python -m scrapers.tensorart -c CONFIG -n N` |
-| `yodayo` | Yodayo gallery | None (Playwright) | Good | `uv run python -m scrapers.yodayo -c CONFIG -n N` |
-| `openart` | OpenArt gallery | None | Good | `uv run python -m scrapers.openart -c CONFIG -n N` |
-| `aigcarena` | AIGCArena | cookies-aigcarena.txt | Good | `uv run python -m scrapers.aigcarena -c CONFIG -n N` |
-| `reddit` | Reddit | None | Poor | `uv run python -m scrapers.reddit -c CONFIG -n N` |
+| `civitai` | Civitai on-site gen | None | Excellent | `uv run python -m curate.images.scrapers.civitai -c CONFIG -n N` |
+| `civitai_simple` | Civitai (simplified) | None | Excellent | `uv run python -m curate.images.scrapers.civitai_simple -c CONFIG -n N` |
+| `higgsfield` | Higgsfield gallery | None | Excellent | `uv run python -m curate.images.scrapers.higgsfield -c CONFIG -n N` |
+| `twitter` | X.com bot images | cookies-x.txt | Good | `uv run python -m curate.images.scrapers.twitter -c CONFIG -n N` |
+| `midjourney` | Discord channels | Discord token | Good | `uv run python -m curate.images.scrapers.midjourney -c CONFIG -n N` |
+| `instagram` | Instagram profiles | cookies-instagram.txt | Good (eval) | `uv run python -m curate.images.scrapers.instagram -c CONFIG -n N` |
+| `recraft` | Recraft community | None (Playwright) | Excellent | `uv run python -m curate.images.scrapers.recraft -c CONFIG -n N` |
+| `tensorart` | Tensor.Art gallery | None (Playwright) | Good | `uv run python -m curate.images.scrapers.tensorart -c CONFIG -n N` |
+| `yodayo` | Yodayo gallery | None (Playwright) | Good | `uv run python -m curate.images.scrapers.yodayo -c CONFIG -n N` |
+| `openart` | OpenArt gallery | None | Good | `uv run python -m curate.images.scrapers.openart -c CONFIG -n N` |
+| `aigcarena` | AIGCArena | cookies-aigcarena.txt | Good | `uv run python -m curate.images.scrapers.aigcarena -c CONFIG -n N` |
+| `reddit` | Reddit | None | Poor | `uv run python -m curate.images.scrapers.reddit -c CONFIG -n N` |
 
 All scrapers: `--force` for clean run, resume by default via manifest.
 
@@ -87,20 +87,20 @@ When choosing sources for a new generator, follow this priority:
 
 ```bash
 # JoyCaption — Ray Serve (large batches)
-CUDA_VISIBLE_DEVICES=6,7 python -m validators.serve_joycaption serve --gpu 0.25 --replicas 8
-uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
+CUDA_VISIBLE_DEVICES=6,7 python -m curate.images.validators.serve_joycaption serve --gpu 0.25 --replicas 8
+uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
 
 # JoyCaption — local mode (small batches, no Ray needed)
-uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
+uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 
 # Validation pipeline (after captioning)
-uv run python -m validators.pipeline --config configs/<gen>.py --skip-fsd
+uv run python -m curate.images.validators.pipeline --config configs/<gen>.py --skip-fsd
 
 # FSD scoring (after validation, on final images)
 uv run fsd-score --dir data/images/<gen>/images/ --csv > data/images/<gen>/fsd_scores.csv
 
 # Grid splitting (Midjourney only)
-uv run python -m validators.split_grids -c configs/midjourney_v7.py
+uv run python -m curate.images.validators.split_grids -c configs/midjourney_v7.py
 ```
 
 ### Validation Stages

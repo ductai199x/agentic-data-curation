@@ -4,7 +4,7 @@ All images are server-side arena battle generations — excellent provenance.
 Uses Playwright to bypass a_bogus anti-bot, then paginates via direct API calls.
 
 Usage:
-    uv run python -m scrapers.aigcarena --config configs/seedream4.py --max-images 1000
+    uv run python -m curate.images.scrapers.aigcarena --config configs/curate/images/seedream4.py --max-images 1000
 """
 
 import click
@@ -17,7 +17,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper
+from curate.images.scrapers.base import BaseScraper
 
 # Models to collect (case-insensitive substring match)
 SEEDREAM_SUBSTRINGS = ["seedream"]

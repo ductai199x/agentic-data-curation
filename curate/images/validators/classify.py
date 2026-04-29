@@ -5,9 +5,9 @@ import from here instead of maintaining their own keyword lists.
 
 Usage:
     from configs import load_config
-    from validators.classify import classify_caption
+    from curate.images.validators.classify import classify_caption
 
-    config = load_config("configs/grok.py")
+    config = load_config("configs/curate/images/grok.py")
     result = classify_caption(caption_text, config)
 """
 

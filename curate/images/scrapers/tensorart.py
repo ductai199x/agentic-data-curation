@@ -11,13 +11,13 @@ and optionally reject LoRA-contaminated images.
 
 Usage:
     # Default: scrape FLUX.1 images from the FLUX tag
-    uv run python -m scrapers.tensorart --config configs/flux1.py --max-images 2000
+    uv run python -m curate.images.scrapers.tensorart --config configs/curate/images/flux1.py --max-images 2000
 
     # Skip LoRA-contaminated images
-    uv run python -m scrapers.tensorart --config configs/flux1.py --max-images 2000 --reject-lora
+    uv run python -m curate.images.scrapers.tensorart --config configs/curate/images/flux1.py --max-images 2000 --reject-lora
 
     # Force fresh start
-    uv run python -m scrapers.tensorart --config configs/flux1.py --max-images 500 --force
+    uv run python -m curate.images.scrapers.tensorart --config configs/curate/images/flux1.py --max-images 500 --force
 """
 
 import click
@@ -30,7 +30,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 # Tensor.Art API
 API_BASE = "https://api.tensor.art/community-web/v1/post/list"

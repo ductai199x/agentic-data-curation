@@ -1,8 +1,8 @@
 """Parallel batch classification via JoyCaption HTTP service.
 
 Usage:
-    uv run python -m validators.batch_classify --dir data/grok/staging --output captions.json
-    uv run python -m validators.batch_classify --dir data/grok/staging --url http://localhost:8000 --concurrency 6
+    uv run python -m curate.images.validators.batch_classify --dir data/grok/staging --output captions.json
+    uv run python -m curate.images.validators.batch_classify --dir data/grok/staging --url http://localhost:8000 --concurrency 6
 """
 
 import asyncio

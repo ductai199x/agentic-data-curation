@@ -14,8 +14,8 @@ Architecture:
   Every result is a bot image — no thread checking needed.
 
 Usage:
-    uv run python -m scrapers.twitter -c configs/grok.py -n 5000
-    uv run python -m scrapers.twitter -c configs/grok.py -n 5000 --skip-media
+    uv run python -m curate.images.scrapers.twitter -c configs/curate/images/grok.py -n 5000
+    uv run python -m curate.images.scrapers.twitter -c configs/curate/images/grok.py -n 5000 --skip-media
 """
 
 import asyncio
@@ -41,7 +41,7 @@ def _log(msg: str) -> None:
     sys.stderr.flush()
 
 from configs import load_config
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 logger = logging.getLogger(__name__)
 

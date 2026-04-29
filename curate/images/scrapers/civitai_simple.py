@@ -4,7 +4,7 @@ Paginates through model version gallery and downloads images sequentially.
 Slower than async but never hangs.
 
 Usage:
-    uv run python -m scrapers.civitai_simple -c configs/flux1.py -v 691639 -n 50000
+    uv run python -m curate.images.scrapers.civitai_simple -c configs/curate/images/flux1.py -v 691639 -n 50000
 """
 
 import random
@@ -14,8 +14,8 @@ import click
 from tqdm import tqdm
 
 from configs import load_config
-from scrapers.base import BaseScraper
-from scrapers.civitai import build_trpc_url, CDN_BASE
+from curate.images.scrapers.base import BaseScraper
+from curate.images.scrapers.civitai import build_trpc_url, CDN_BASE
 
 
 class SimpleCivitaiScraper(BaseScraper):

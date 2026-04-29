@@ -97,7 +97,7 @@ fsd-score on images/
 - **Audit captions.json for errors**: `python -c "import json; d=json.load(open('captions.json')); print(sum(1 for v in d.values() if 'error' in v), 'errors')"`
 - If errors > 0, JoyCaption wasn't running. Clear errors, restart, re-caption.
 
-**Run pipeline**: `uv run python -m validators.pipeline --config configs/<gen>.py --skip-fsd`
+**Run pipeline**: `uv run python -m curate.images.validators.pipeline --config configs/<gen>.py --skip-fsd`
 
 **Spot-check**: Sample 10-20 rejected AND accepted images. Look for:
 - False rejects (photorealistic images wrongly rejected by keywords)

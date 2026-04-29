@@ -22,8 +22,8 @@ from datetime import datetime, timezone
 from tqdm import tqdm
 from pathlib import Path
 
-from validators.image_validator import validate_image, ValidationResult
-from validators.border_detector import detect_borders
+from curate.images.validators.image_validator import validate_image, ValidationResult
+from curate.images.validators.border_detector import detect_borders
 from configs import load_config
 
 
@@ -138,7 +138,7 @@ def run_pipeline(
     Use force=True to move images/ and rejected/ back to staging/ and revalidate.
 
     Args:
-        config: Generator config module (e.g. loaded from configs/grok.py)
+        config: Generator config module (e.g. loaded from configs/curate/images/grok.py)
         data_dir: Root data directory (contains staging/, images/, rejected/)
         fsd_threshold: FSD z-score threshold (more negative = stricter)
         relaxed_mode: If True, only reject on pixel count + FSD (ignore
@@ -197,7 +197,7 @@ def run_pipeline(
     if joycaption:
         # Re-classify captions using THIS generator's REJECT_KEYWORDS
         # (JoyCaption service may be running with a different config)
-        from validators.classify import classify_caption
+        from curate.images.validators.classify import classify_caption
         reclassified = 0
         for k, v in joycaption.items():
             caption_text = v.get("caption", "")
@@ -394,7 +394,7 @@ import click
 
 
 @click.command(help="Run validation pipeline")
-@click.option("--config", "-c", required=True, help="Generator config file (e.g. configs/grok.py)")
+@click.option("--config", "-c", required=True, help="Generator config file (e.g. configs/curate/images/grok.py)")
 @click.option("--data-dir", "-d", default=None, help="Data directory (default: data/<generator>)")
 @click.option("--relaxed", is_flag=True, help="Accept re-compressed images if FSD confirms")
 @click.option("--fsd-threshold", type=float, default=-2.0, help="FSD z-score threshold")

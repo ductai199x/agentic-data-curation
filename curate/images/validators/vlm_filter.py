@@ -4,8 +4,8 @@ Uses a vision-language model (e.g. Qwen2.5-VL-7B-Instruct) served via vLLM
 to classify images. Expects an OpenAI-compatible API at the given URL.
 
 Usage:
-    uv run python -m validators.vlm_filter --config configs/grok.py --dir data/grok/staging
-    uv run python -m validators.vlm_filter --config configs/grok.py --image data/grok/images/foo.jpg
+    uv run python -m curate.images.validators.vlm_filter --config configs/curate/images/grok.py --dir data/grok/staging
+    uv run python -m curate.images.validators.vlm_filter --config configs/curate/images/grok.py --image data/grok/images/foo.jpg
 """
 
 import base64

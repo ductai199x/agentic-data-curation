@@ -11,7 +11,7 @@ CDN patterns:
 Video posts are skipped — we only want still images.
 
 Usage:
-    uv run python -m scrapers.grok_imagine --config configs/grok.py --cookies data/cookies-grok.txt -n 3000
+    uv run python -m curate.images.scrapers.grok_imagine --config configs/curate/images/grok.py --cookies data/cookies-grok.txt -n 3000
 """
 
 import asyncio
@@ -25,7 +25,7 @@ import click
 from tqdm import tqdm
 
 from configs import load_config
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 # grok.com REST API for paginated gallery listing
 GROK_API_URL = "https://grok.com/rest/media/post/list"
@@ -242,7 +242,7 @@ class GrokImagineScraper(BaseScraper):
 @click.command()
 @click.option(
     "--config", "-c", required=True, type=click.Path(exists=True),
-    help="Generator config file (e.g. configs/grok.py)",
+    help="Generator config file (e.g. configs/curate/images/grok.py)",
 )
 @click.option(
     "--output", "-o", default=None,
@@ -265,7 +265,7 @@ def main(config, output, max_images, cookies, force):
 
     Examples:
 
-        uv run python -m scrapers.grok_imagine -c configs/grok.py --cookies data/cookies-grok.txt -n 3000
+        uv run python -m curate.images.scrapers.grok_imagine -c configs/curate/images/grok.py --cookies data/cookies-grok.txt -n 3000
     """
     cfg = load_config(config)
     output = output or f"data/images/{cfg.NAME}"

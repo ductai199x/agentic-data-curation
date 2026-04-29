@@ -32,11 +32,11 @@ Feed variants (by depth of pagination):
   - all:      scrape all variants sequentially (default, recommended)
 
 Usage:
-    uv run python -m scrapers.sora --max-videos 5000
-    uv run python -m scrapers.sora --feed recent --max-videos 10000
-    uv run python -m scrapers.sora --config configs/sora.py --max-videos 100
-    uv run python -m scrapers.sora --feed images --max-videos 1000
-    uv run python -m scrapers.sora --force
+    uv run python -m curate.images.scrapers.sora --max-videos 5000
+    uv run python -m curate.images.scrapers.sora --feed recent --max-videos 10000
+    uv run python -m curate.images.scrapers.sora --config configs/curate/images/sora.py --max-videos 100
+    uv run python -m curate.images.scrapers.sora --feed images --max-videos 1000
+    uv run python -m curate.images.scrapers.sora --force
 """
 
 import click
@@ -54,7 +54,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper, content_hash
+from curate.images.scrapers.base import BaseScraper, content_hash
 
 # Feed variants supported by the authenticated API
 # Order matters: "recent" has the deepest pagination (1200+ items, possibly unlimited),
@@ -864,7 +864,7 @@ class SoraScraper(BaseScraper):
 
 
 @click.command(help="Scrape Sora (sora.chatgpt.com) videos and images")
-@click.option("--config", "-c", default=None, help="Config file path (default: configs/sora.py)")
+@click.option("--config", "-c", default=None, help="Config file path (default: configs/curate/images/sora.py)")
 @click.option("--max-videos", "-n", type=int, default=5000,
               help="Max items to download (videos + images)")
 @click.option("--feed", "-f", type=click.Choice([*FEED_VARIANTS, "all"]), default="all",

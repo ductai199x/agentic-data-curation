@@ -1,7 +1,7 @@
 """Reddit scraper — downloads images from subreddits and search results.
 
 Config-driven: reads REDDIT_SUBREDDITS, REDDIT_SEARCH_QUERIES, and MIN_PIXELS
-from the generator config file (e.g. configs/grok.py).
+from the generator config file (e.g. configs/curate/images/grok.py).
 
 Uses async producer/consumer pattern:
 - Producer: iterates subreddits x sort x time_filter, then search queries,
@@ -15,7 +15,7 @@ Post-level filtering (before download):
 - Domain filtering: only download from known image hosts (i.redd.it, imgur)
 
 Usage:
-    uv run python -m scrapers.reddit --config configs/grok.py --max-images 500
+    uv run python -m curate.images.scrapers.reddit --config configs/curate/images/grok.py --max-images 500
 """
 
 import asyncio
@@ -28,7 +28,7 @@ import click
 from tqdm import tqdm
 
 from configs import load_config
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".gif"}

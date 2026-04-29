@@ -34,32 +34,37 @@ make sync            # sync data/images/ to weka
 ├── CLAUDE.md              # This file
 ├── Makefile               # Common commands (make help)
 ├── pyproject.toml         # Package config
-├── configs/               # Per-generator configs
-│   ├── grok.py, flux1.py, flux2.py, midjourney_v7.py, soul2.py,
-│   ├── recraft_3_4.py, gpt_image_1.py, nano_banana_1_2.py,
-│   ├── seedream4.py, instagram_ai_influencer.py
-├── scrapers/              # Per-source scraping modules
-│   ├── base.py            # BaseScraper (content-addressed, manifest, resume)
-│   ├── civitai.py         # Civitai TRPC API (on-site generation)
-│   ├── civitai_simple.py  # Simplified Civitai scraper
-│   ├── twitter.py         # X.com direct image search + /media timeline
-│   ├── reddit.py          # Reddit JSON API with post-level pre-filtering
-│   ├── higgsfield.py      # Higgsfield community gallery REST API
-│   ├── midjourney.py      # Discord REST API with version detection
-│   ├── instagram.py       # Instagram Playwright grid extraction
-│   ├── recraft.py         # Recraft community gallery (Playwright)
-│   ├── tensorart.py       # Tensor.Art (Playwright + requests hybrid)
-│   ├── yodayo.py          # Yodayo (Playwright stealth)
-│   ├── openart.py         # OpenArt REST API
-│   ├── aigcarena.py       # AIGCArena (Playwright + a_bogus)
-│   └── freepik.py         # Freepik REST API
-├── validators/            # Image validation pipeline
-│   ├── pipeline.py        # Config-driven validation (JoyCaption + structural + FSD)
-│   ├── classify.py        # Caption keyword matching logic
-│   ├── batch_classify.py  # Batch captioning (HTTP service or --local mode)
-│   ├── serve_joycaption.py # JoyCaption Ray Serve deployment
-│   ├── split_grids.py     # Midjourney grid splitter (256-worker parallel)
-│   └── image_validator.py # Structural checks (pixels, aspect ratio, EXIF)
+├── configs/
+│   ├── curate/
+│   │   ├── images/        # Per-generator image scrape configs (grok, flux1, etc.)
+│   │   └── videos/        # Real-video ingest configs (youtube, instagram)
+│   └── generate/          # Fake-video generation configs (wan22, hunyuan, etc.)
+├── curate/                # Data curation pipelines
+│   ├── images/            # Image curation
+│   │   ├── scrapers/      # Per-source scraping modules
+│   │   │   ├── base.py            # BaseScraper (content-addressed, manifest, resume)
+│   │   │   ├── civitai.py         # Civitai TRPC API (on-site generation)
+│   │   │   ├── civitai_simple.py  # Simplified Civitai scraper
+│   │   │   ├── twitter.py         # X.com direct image search + /media timeline
+│   │   │   ├── reddit.py          # Reddit JSON API with post-level pre-filtering
+│   │   │   ├── higgsfield.py      # Higgsfield community gallery REST API
+│   │   │   ├── midjourney.py      # Discord REST API with version detection
+│   │   │   ├── instagram.py       # Instagram Playwright grid extraction
+│   │   │   ├── recraft.py         # Recraft community gallery (Playwright)
+│   │   │   ├── tensorart.py       # Tensor.Art (Playwright + requests hybrid)
+│   │   │   ├── yodayo.py          # Yodayo (Playwright stealth)
+│   │   │   ├── openart.py         # OpenArt REST API
+│   │   │   ├── aigcarena.py       # AIGCArena (Playwright + a_bogus)
+│   │   │   ├── sora.py            # Sora REST API (curl_cffi)
+│   │   │   └── freepik.py         # Freepik REST API
+│   │   └── validators/    # Image validation pipeline
+│   │       ├── pipeline.py        # Config-driven validation (JoyCaption + structural + FSD)
+│   │       ├── classify.py        # Caption keyword matching logic
+│   │       ├── batch_classify.py  # Batch captioning (HTTP service or --local mode)
+│   │       ├── serve_joycaption.py # JoyCaption Ray Serve deployment
+│   │       ├── split_grids.py     # Midjourney grid splitter (256-worker parallel)
+│   │       └── image_validator.py # Structural checks (pixels, aspect ratio, EXIF)
+│   └── videos/            # Real-video curation (discover → download → validate)
 ├── scripts/               # Utility scripts
 │   ├── stats.py           # Dataset stats viewer (make stats)
 │   ├── build_all_metadata.py # Metadata builder (make metadata)
@@ -138,11 +143,11 @@ Two modes:
 
 ```bash
 # Ray Serve (high throughput, multi-GPU) — for large batches
-CUDA_VISIBLE_DEVICES=6,7 python -m validators.serve_joycaption serve --gpu 0.25 --replicas 8
-uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
+CUDA_VISIBLE_DEVICES=6,7 python -m curate.images.validators.serve_joycaption serve --gpu 0.25 --replicas 8
+uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --concurrency 8
 
 # Local mode (single GPU, no Ray) — for small batches
-uv run python -m validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
+uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 ```
 
 ## FSD Scoring

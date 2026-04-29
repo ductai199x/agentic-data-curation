@@ -7,17 +7,17 @@ Supports two scraping modes:
 2. **Tool ID** (--tool-id or config CIVITAI_TOOL_ID): Images tagged with a specific tool.
    Includes user uploads and multi-tool workflows — less trustworthy.
 
-Config-driven: reads from generator config file (e.g. configs/grok.py).
+Config-driven: reads from generator config file (e.g. configs/curate/images/grok.py).
 
 Usage:
     # On-site generation (most trustworthy)
-    uv run python -m scrapers.civitai --config configs/grok.py --model-version 2738377
+    uv run python -m curate.images.scrapers.civitai --config configs/curate/images/grok.py --model-version 2738377
 
     # Tool ID (user-tagged, may include multi-tool workflows)
-    uv run python -m scrapers.civitai --config configs/grok.py --max-images 1000
+    uv run python -m curate.images.scrapers.civitai --config configs/curate/images/grok.py --max-images 1000
 
     # Multiple model versions
-    uv run python -m scrapers.civitai --config configs/grok.py --model-version 2738377 --model-version 1234567
+    uv run python -m curate.images.scrapers.civitai --config configs/curate/images/grok.py --model-version 2738377 --model-version 1234567
 """
 
 import asyncio
@@ -31,7 +31,7 @@ import click
 from tqdm import tqdm
 
 from configs import load_config
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 CDN_BASE = "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA"
 TRPC_BASE = "https://civitai.com/api/trpc/image.getInfinite"

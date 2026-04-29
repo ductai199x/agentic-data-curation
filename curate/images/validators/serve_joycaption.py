@@ -6,10 +6,10 @@ the correct generator config.
 
 Usage:
     # Start service (no config needed)
-    CUDA_VISIBLE_DEVICES=0,1,2,3 python -m validators.serve_joycaption serve --gpu 0.5 --replicas 6
+    CUDA_VISIBLE_DEVICES=0,1,2,3 python -m curate.images.validators.serve_joycaption serve --gpu 0.5 --replicas 6
 
     # Classify images via running service
-    uv run python -m validators.serve_joycaption classify --dir data/grok/staging --output captions.json
+    uv run python -m curate.images.validators.serve_joycaption classify --dir data/grok/staging --output captions.json
 """
 
 import base64
@@ -28,7 +28,7 @@ from starlette.requests import Request as StarletteRequest
 from starlette.responses import JSONResponse
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 
-from validators.classify import CAPTION_PROMPT
+from curate.images.validators.classify import CAPTION_PROMPT
 
 MODEL_NAME = "fancyfeast/llama-joycaption-beta-one-hf-llava"
 

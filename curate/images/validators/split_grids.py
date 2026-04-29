@@ -7,7 +7,7 @@ Detection logic:
 4. Otherwise → skip (unknown format)
 
 Usage:
-    uv run python -m validators.split_grids --config configs/midjourney.py [--dry-run] [--output-dir DIR]
+    uv run python -m curate.images.validators.split_grids --config configs/curate/images/midjourney_v7.py [--dry-run] [--output-dir DIR]
 """
 
 import click
@@ -296,7 +296,7 @@ def main(config, dry_run, output_dir, limit):
 
     # Update manifest: remove grid rows, add tile rows
     if new_manifest_rows:
-        from scrapers.base import MANIFEST_FIELDS
+        from curate.images.scrapers.base import MANIFEST_FIELDS
         # Read all existing rows, filter out split grids
         kept_rows = [r for r in rows if r.get("filename", "") not in split_filenames]
         all_rows = kept_rows + new_manifest_rows

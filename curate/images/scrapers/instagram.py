@@ -9,8 +9,8 @@ Requires Netscape-format cookies (logged-in Instagram session).
 VERY conservative rate limiting — Instagram bans aggressively.
 
 Usage:
-    uv run python -m scrapers.instagram --config configs/instagram_ai_influencer.py --max-images 1000
-    uv run python -m scrapers.instagram --usernames fit_aitana,millasofiaa --max-images 200
+    uv run python -m curate.images.scrapers.instagram --config configs/curate/images/instagram_ai_influencer.py --max-images 1000
+    uv run python -m curate.images.scrapers.instagram --usernames fit_aitana,millasofiaa --max-images 200
 """
 
 import click
@@ -22,7 +22,7 @@ import sys
 
 from tqdm import tqdm
 
-from scrapers.base import BaseScraper
+from curate.images.scrapers.base import BaseScraper
 
 
 class InstagramScraper(BaseScraper):

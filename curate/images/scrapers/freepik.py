@@ -19,14 +19,14 @@ Rate limits (free tier):
 
 Usage:
     # Basic (all AI-generated photos)
-    uv run python -m scrapers.freepik --config configs/flux1.py --api-key YOUR_KEY --max-images 500
+    uv run python -m curate.images.scrapers.freepik --config configs/curate/images/flux1.py --api-key YOUR_KEY --max-images 500
 
     # Search term + orientation filter
-    uv run python -m scrapers.freepik --config configs/flux1.py --api-key YOUR_KEY \\
+    uv run python -m curate.images.scrapers.freepik --config configs/curate/images/flux1.py --api-key YOUR_KEY \\
         --term "portrait photography" --orientation portrait --max-images 200
 
     # Photos only (no vectors/PSDs), recent first
-    uv run python -m scrapers.freepik --config configs/flux1.py --api-key YOUR_KEY \\
+    uv run python -m curate.images.scrapers.freepik --config configs/curate/images/flux1.py --api-key YOUR_KEY \\
         --content-type photo --order recent --max-images 1000
 """
 
@@ -39,7 +39,7 @@ import click
 from tqdm import tqdm
 
 from configs import load_config
-from scrapers.base import BaseScraper, _DONE
+from curate.images.scrapers.base import BaseScraper, _DONE
 
 API_BASE = "https://api.freepik.com/v1"
 
@@ -342,7 +342,7 @@ class FreepikScraper(BaseScraper):
 @click.command()
 @click.option(
     "--config", "-c", required=True, type=click.Path(exists=True),
-    help="Generator config file (e.g. configs/flux1.py)",
+    help="Generator config file (e.g. configs/curate/images/flux1.py)",
 )
 @click.option(
     "--api-key", "-k", required=True, envvar="FREEPIK_API_KEY",
