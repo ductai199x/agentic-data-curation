@@ -64,11 +64,28 @@ make sync            # sync data/images/ to weka
 │   │       ├── serve_joycaption.py # JoyCaption Ray Serve deployment
 │   │       ├── split_grids.py     # Midjourney grid splitter (256-worker parallel)
 │   │       └── image_validator.py # Structural checks (pixels, aspect ratio, EXIF)
-│   └── videos/            # Real-video curation (discover → download → validate)
-├── scripts/               # Utility scripts
-│   ├── stats.py           # Dataset stats viewer (make stats)
-│   ├── build_all_metadata.py # Metadata builder (make metadata)
-│   └── sync_data.sh       # Weka sync (make sync)
+│   ├── videos/            # Real-video curation (discover → download → validate)
+│   ├── stats.py           # Dataset stats viewer (curate stats)
+│   ├── build_metadata.py  # Metadata builder (curate build-metadata)
+│   └── cli.py             # Top-level `curate` CLI
+├── generate/              # Fake-video generation pipeline
+│   ├── comfy_batch_run.py # Generic ComfyUI worker shard
+│   ├── comfy_config.py    # Config loader + ComfyRunConfig
+│   ├── workflows/         # Per-model ComfyUI workflow builders
+│   ├── extract_frames.py  # First/last frame pre-extract
+│   ├── diversity_rank.py  # Stratified round-robin clip picker
+│   ├── interpolate_fps.py # RIFE 16fps→30fps interpolation
+│   ├── rewrite_captions.py# Short-form caption rewriter
+│   ├── taxonomy_label.py  # Qwen taxonomy labeler
+│   ├── build_dataset_metadata.py # vFSD manifest+metadata builder
+│   ├── regen_stretched.py # Re-gen aspect-broken clips on resume
+│   └── cli.py             # Top-level `generate` CLI
+├── shared/                # Shared helpers (clip listing, manifests, sharding)
+├── scripts/               # Bash launchers + standalone tools
+│   ├── launch.sh          # ComfyUI worker launcher
+│   ├── launch_interpolate.sh # RIFE multi-shard launcher
+│   ├── sync_data.sh       # Weka sync (make sync)
+│   └── youtube_standalone_downloader.py # multi-machine yt-dlp script
 ├── docs/                  # Per-run worklogs and lessons
 │   ├── LESSONS_*.md       # Distilled lessons per generator
 │   └── WORKLOG_*.md       # Per-run worklogs
@@ -108,7 +125,7 @@ make sync            # sync data/images/ to weka
 Use the `/curate` skill — it encodes the full pipeline:
 
 1. **User intake** — sources, generator profile, auth, content policy, target volume
-2. **Generator profiling** — create `configs/<generator>.py` with aspect ratios, pixel bounds
+2. **Generator profiling** — create `configs/curate/images/<generator>.py` with aspect ratios, pixel bounds
 3. **Scraping** — priority: generator gallery → Civitai on-site → Twitter direct search → Reddit (supplemental only)
 4. **Multi-stage validation** — JoyCaption content filter → structural → FSD z-score tagging
 5. **Metadata & cleanup** — rebuild metadata.csv, FSD scoring, sync to weka
