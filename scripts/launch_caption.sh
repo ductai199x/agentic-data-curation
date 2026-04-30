@@ -28,7 +28,7 @@
 set -euo pipefail
 
 REPO=$(cd "$(dirname "$0")/.." && pwd)
-SALMONN=$REPO/third_party/video-SALMONN-2/video_SALMONN2_plus
+SALMONN=$REPO/third_party/SALMONN-2-plus
 PY=$SALMONN/.venv/bin/python
 CMD=${1:-start}
 

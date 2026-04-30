@@ -185,7 +185,7 @@ Or single-shard via CLI: `curate videos caption-salmonn --videos-dir ... --outpu
 
 The captioner code is at [curate/videos/caption_salmonn.py](curate/videos/caption_salmonn.py)
 but runs against the SALMONN venv at
-`third_party/video-SALMONN-2/video_SALMONN2_plus/.venv/` (heavy ML deps:
+`third_party/SALMONN-2-plus/.venv/` (heavy ML deps:
 qwenvl, flash-attn, liger_kernel). The launcher sets PYTHONPATH so imports
 resolve. Outputs are sharded `*_shard{id}.json` per worker; merging is the
 caller's responsibility.

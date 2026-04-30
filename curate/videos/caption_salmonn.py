@@ -3,23 +3,23 @@
 Produces the `video_captions.json` files that condition fake-video generation
 in `generate.comfy_batch_run`. Mirrors the ComfyUI integration pattern:
 
-  third_party/video-SALMONN-2/   →   third_party/ComfyUI/
+  third_party/SALMONN-2-plus/    →   third_party/ComfyUI/
   scripts/launch_caption.sh      →   scripts/launch.sh
   curate/videos/caption_salmonn  →   generate/comfy_batch_run
   qwenvl modules (sys.path)      →   ComfyUI HTTP API
 
 The qwenvl + flash-attn + liger_kernel deps live ONLY in the SALMONN venv at
-`third_party/video-SALMONN-2/video_SALMONN2_plus/.venv/`. Launch via
-`scripts/launch_caption.sh` (uses that venv's python) — running with the
-project venv will fail at import time.
+`third_party/SALMONN-2-plus/.venv/`. Launch via `scripts/launch_caption.sh`
+(uses that venv's python) — running with the project venv will fail at
+import time.
 
 CLI:
     curate videos caption-salmonn --videos-dir data/videos/real/youtube/validated \\
         --output data/videos/real/youtube/video_captions.json --shards 8 --shard-id 0
 
 Or directly per-shard:
-    PYTHONPATH=$REPO/third_party/video-SALMONN-2/video_SALMONN2_plus:$REPO \\
-      $REPO/third_party/video-SALMONN-2/video_SALMONN2_plus/.venv/bin/python \\
+    PYTHONPATH=$REPO/third_party/SALMONN-2-plus:$REPO \\
+      $REPO/third_party/SALMONN-2-plus/.venv/bin/python \\
       -m curate.videos.caption_salmonn --videos-dir ... --shards 8 --shard-id 0
 """
 from __future__ import annotations
@@ -34,7 +34,7 @@ import click
 from shared.paths import REPO_ROOT
 
 
-SALMONN_DIR = REPO_ROOT / "third_party" / "video-SALMONN-2" / "video_SALMONN2_plus"
+SALMONN_DIR = REPO_ROOT / "third_party" / "SALMONN-2-plus"
 if str(SALMONN_DIR) not in sys.path:
     sys.path.insert(0, str(SALMONN_DIR))
 
