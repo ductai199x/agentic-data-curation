@@ -18,7 +18,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.cogvideox_i2v",
     model_tag="cogvideox-1.5-5b-i2v-50step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=3024,
+    max_clips=4024,
     prompt_max_chars=700,
     model_kwargs={
         "force_offload": True,

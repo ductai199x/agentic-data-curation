@@ -19,6 +19,6 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.hunyuan_video_1_5_i2v",
     model_tag="hunyuan-video-1.5-i2v-720p-cfg-distill-8step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=3024,
+    max_clips=4024,
     model_kwargs={},
 )
