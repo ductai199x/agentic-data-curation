@@ -23,10 +23,10 @@ JoyCaption tags AI-generated photorealistic images as "photograph, digital art, 
 Also recovered 1,413 ChatGPT, 453 Seedream, and 733 Nano Banana images retroactively.
 
 ### 2. Civitai Async Scraper Deadlocks
-The async producer/consumer scraper (`scrapers/civitai.py`) hangs after ~100-400 downloads.
+The async producer/consumer scraper (`curate/images/scrapers/civitai.py`) hangs after ~100-400 downloads.
 Root cause: `asyncio.to_thread` threads blocked on slow HTTP responses, exhausting the thread
 pool. `asyncio.wait_for` can't cancel blocked threads. **Fixed by writing a synchronous
-scraper** (`scrapers/civitai_simple.py`) — slower but never hangs. ~0.5-0.8 img/s per instance,
+scraper** (`curate/images/scrapers/civitai_simple.py`) — slower but never hangs. ~0.5-0.8 img/s per instance,
 run multiple versions in parallel for throughput.
 
 ### 3. FLUX Gallery Depth Varies Wildly by Version

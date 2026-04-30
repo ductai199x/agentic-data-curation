@@ -21,7 +21,7 @@ Curating Google's Nano Banana (v1, Pro, 2) AI-generated images. Target: 3-5K in-
   - **Watermarks**: SynthID (invisible, always), C2PA metadata, no visible watermark via API
   - **FSD detection**: 90.9% for Gemini/Imagen (mean z = -6.75)
   - **Reddit**: r/Gemini, r/GoogleGemini, possibly r/nanobanana — all high noise
-- Config created: `configs/nano_banana.py`
+- Config created: `configs/curate/images/nano_banana_1_2.py`
 
 **Source plan:**
 | Source | Priority | Expected yield | Notes |
@@ -159,22 +159,22 @@ used JoyCaption with a bracket-type prompt (`[type of image]`) and PASS_BRACKET_
 filter. This was replaced with a pure booru tag approach.
 
 **Changes made:**
-- `validators/classify.py`: Removed `_parse_bracket_types()` entirely. Changed `CAPTION_PROMPT`
+- `curate/images/validators/classify.py`: Removed `_parse_bracket_types()` entirely. Changed `CAPTION_PROMPT`
   to `"Write a list of Booru-like tags for this image."`. `classify_caption()` now matches
   `REJECT_KEYWORDS` against booru tag text using word-boundary regex.
-- `validators/serve_joycaption.py`: Made config-independent — returns only `{"caption": "..."}`
+- `curate/images/validators/serve_joycaption.py`: Made config-independent — returns only `{"caption": "..."}`
   with no classification. All rejection logic moved to pipeline via `classify_caption()`.
-- `configs/nano_banana.py`: Added comprehensive REJECT_KEYWORDS (illustration, cartoon, anime,
+- `configs/curate/images/nano_banana_1_2.py`: Added comprehensive REJECT_KEYWORDS (illustration, cartoon, anime,
   cgi, screenshot, UI elements, memes, etc.), TEXT_PAIRED_KEYWORDS, and TEXT_INDICATORS for
   two-tier keyword matching.
 - `.claude/skills/curate/SKILL.md`: Updated config template to remove bracket type references.
 
 **Bug fixes in this session:**
-- `scrapers/higgsfield.py`: NoneType crash — `params.get("prompt", "")[:200]` fails when
+- `curate/images/scrapers/higgsfield.py`: NoneType crash — `params.get("prompt", "")[:200]` fails when
   API returns `{"prompt": null}`. Fixed: `(params.get("prompt") or "")[:200]`.
-- `scrapers/twitter.py`: Mixed 2/4-space indentation in `_worker` function.
-- `validators/batch_classify.py`: Added tqdm progress bars, removed unused imports.
-- `validators/pipeline.py`: Added tqdm to structural validation, removed unused `asdict` import.
+- `curate/images/scrapers/twitter.py`: Mixed 2/4-space indentation in `_worker` function.
+- `curate/images/validators/batch_classify.py`: Added tqdm progress bars, removed unused imports.
+- `curate/images/validators/pipeline.py`: Added tqdm to structural validation, removed unused `asdict` import.
 
 **17 clean commits** covering all changes.
 

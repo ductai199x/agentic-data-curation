@@ -33,8 +33,8 @@
 - Reddit is a dead end — virtually no Seedream content
 
 ### New Scrapers Built
-1. **Yodayo scraper** (`scrapers/yodayo.py`) — Playwright + stealth mode for Cloudflare bypass, paginated REST API via `page.evaluate()`, filters by `text_to_image.model` field
-2. **AIGCArena scraper** (`scrapers/aigcarena.py`) — Playwright for `a_bogus` anti-bot, direct POST API pagination from browser context, cookie-based auth
+1. **Yodayo scraper** (`curate/images/scrapers/yodayo.py`) — Playwright + stealth mode for Cloudflare bypass, paginated REST API via `page.evaluate()`, filters by `text_to_image.model` field
+2. **AIGCArena scraper** (`curate/images/scrapers/aigcarena.py`) — Playwright for `a_bogus` anti-bot, direct POST API pagination from browser context, cookie-based auth
 
 ### Generator Profile
 - Resolutions: 1024x1024 to 4096x4096

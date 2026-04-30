@@ -21,7 +21,7 @@
 
 **Reddit search**: Use exact phrases (`"made with grok"`, `"grok aurora"`). Scrape dedicated subs (`r/grok`, `r/GrokAI`, `r/GrokImagine`) + flair-based search (`flair:Imagine subreddit:grok`). Broad keyword search returns too much noise.
 
-**Reddit post-level filtering** (implemented in `scrapers/reddit.py`, config-driven):
+**Reddit post-level filtering** (implemented in `curate/images/scrapers/reddit.py`, config-driven):
 - **Flair rejection**: Skip posts with flairs like Discussion, Meme, Defending AI, Luddite Logic, Sloppost/Fard, News, etc. (24 rejected flairs in `REDDIT_REJECT_FLAIRS`). Catches 48% of noise alone.
 - **Title keyword rejection**: Skip posts with "vs", "comparison", "censored", "banned", "POV:", "when you", "midjourney", "goodbye", etc. (54 keywords in `REDDIT_REJECT_TITLE_KEYWORDS`). Catches an additional 8%.
 - **Self-post skip**: Text-only discussion threads have no direct image content.
