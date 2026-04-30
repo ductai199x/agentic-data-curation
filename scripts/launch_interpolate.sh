@@ -20,7 +20,7 @@
 #   LOGS             log dir (default: /tmp/rife_logs)
 set -euo pipefail
 REPO=$(cd "$(dirname "$0")/.." && pwd)
-PY=$REPO/third_party/ComfyUI/.venv/bin/python
+PY=$REPO/third_party/RIFE/.venv/bin/python
 CMD=${1:-start}
 : "${ROOT:=data/videos/fake}"
 : "${OUT_ROOT:=data/videos/fake_30fps_rife}"
