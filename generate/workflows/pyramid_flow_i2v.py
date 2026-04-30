@@ -16,9 +16,7 @@ aspect ratios. We center-crop the source first frame via ImageScale.
 
 Sampler:
   * 3 pyramid stages, image-stage steps `[20, 20, 20]`, video-stage steps
-    `[10, 10, 10]`. temp_length=16 (≈64 video frames after 4× temporal
-    upsampling, so ~2.7s @ 24fps). Bumping temp_length=41 gives ~10s but
-    quality drops at the long-horizon end; community consensus is 16-25.
+    `[10, 10, 10]`. temp=16 → 5s, temp=31 → 10s (per the wrapper tooltip).
 """
 from __future__ import annotations
 
@@ -27,33 +25,41 @@ from typing import Any
 from generate.comfy_config import ComfyRunConfig
 
 DEFAULTS: dict[str, Any] = {
+    # Files
     "transformer": "pyramidflow/pyramid_flow_miniflux_768_bf16.safetensors",
     "vae_model": "pyramidflow/pyramid_flow_vae_bf16.safetensors",
     "clip_l": "clip_l.safetensors",
     "t5xxl": "t5xxl_fp16.safetensors",
+    # Geometry (bucket-locked)
     "width": 1280,
     "height": 768,
+    # Sampler
     "image_steps": "20, 20, 20",
     "video_steps": "10, 10, 10",
-    "temp_length": 25,        # ≈ 5s @ 24fps (after 4× temporal stride)
+    "temp": 16,            # 5s; 31 = 10s
+    "guidance": 7.0,       # first-frame guidance (ignored when input_latent given for I2V)
     "video_guidance": 5.0,
-    "guidance": 7.0,
     "seed": 42,
     "fps": 24,
-    "transformer_dtype": "bf16",
-    "vae_dtype": "bf16",
-    "fp8_transformer": False,
+    "transformer_precision": "bf16",
+    "vae_precision": "bf16",
+    "enable_sequential_cpu_offload": False,
+    # Text encode
     "negative_prompt": (
         "cartoon style, worst quality, low quality, blurry, absolute black, "
         "absolute white, low res, extra limbs, extra digits, misplaced objects, "
         "mutated anatomy, monochrome, horror"
     ),
-    "use_cfg": True,
-    "vae_decode_tile_size": 256,
-    "vae_decode_tile_overlap": 0.25,
-    "vae_encode_tile": False,
+    "force_offload_text": True,
+    # VAE encode (image → latent)
+    "vae_encode_tiling": False,
     "vae_encode_overlap": 0.25,
-    "use_fp16_attn": False,
+    # VAE decode (latent → frames)
+    "vae_decode_tile_min_size": 256,
+    "vae_decode_overlap": 0.25,
+    "vae_decode_window_size": 2,
+    "vae_decode_tiling": True,
+    "keep_model_loaded": False,
 }
 
 
@@ -68,19 +74,19 @@ def build_workflow(
     k = {**DEFAULTS, **cfg.model_kwargs}
 
     return {
-        "transformer": {
+        "model": {
             "class_type": "PyramidFlowTransformerLoader",
             "inputs": {
                 "model": k["transformer"],
-                "base_dtype": k["transformer_dtype"],
-                "fp8": k["fp8_transformer"],
+                "precision": k["transformer_precision"],
+                "enable_sequential_cpu_offload": k["enable_sequential_cpu_offload"],
             },
         },
         "vae": {
             "class_type": "PyramidFlowVAELoader",
             "inputs": {
-                "model": k["vae_model"],
-                "base_dtype": k["vae_dtype"],
+                "vae": k["vae_model"],
+                "precision": k["vae_precision"],
             },
         },
         "clip": {
@@ -110,34 +116,34 @@ def build_workflow(
             "inputs": {
                 "vae": ["vae", 0],
                 "image": ["image_scale", 0],
-                "tile_sample_min_size": k["vae_encode_tile"],
-                "window_size": k["vae_encode_overlap"],
+                "enable_tiling": k["vae_encode_tiling"],
+                "overlap_factor": k["vae_encode_overlap"],
             },
         },
         "text_encode": {
             "class_type": "PyramidFlowTextEncode",
             "inputs": {
                 "clip": ["clip", 0],
-                "prompt": prompt_text,
+                "positive_prompt": prompt_text,
                 "negative_prompt": k["negative_prompt"],
-                "use_cfg": k["use_cfg"],
+                "force_offload": k["force_offload_text"],
             },
         },
         "sampler": {
             "class_type": "PyramidFlowSampler",
             "inputs": {
-                "transformer": ["transformer", 0],
-                "samples": ["vae_encode", 0],
-                "embeds": ["text_encode", 0],
+                "model": ["model", 0],
+                "prompt_embeds": ["text_encode", 0],
                 "width": k["width"],
                 "height": k["height"],
                 "first_frame_steps": k["image_steps"],
                 "video_steps": k["video_steps"],
-                "temp": k["temp_length"],
-                "video_guidance_scale": k["video_guidance"],
+                "temp": k["temp"],
                 "guidance_scale": k["guidance"],
+                "video_guidance_scale": k["video_guidance"],
                 "seed": k["seed"],
-                "keep_model_loaded": False,
+                "keep_model_loaded": k["keep_model_loaded"],
+                "input_latent": ["vae_encode", 0],
             },
         },
         "decode": {
@@ -145,10 +151,10 @@ def build_workflow(
             "inputs": {
                 "vae": ["vae", 0],
                 "samples": ["sampler", 0],
-                "tile_sample_min_size": k["vae_decode_tile_size"],
-                "window_size": k["vae_decode_tile_overlap"],
-                "tile_sample": True,
-                "vae_decode_to_pt": True,
+                "tile_sample_min_size": k["vae_decode_tile_min_size"],
+                "overlap_factor": k["vae_decode_overlap"],
+                "window_size": k["vae_decode_window_size"],
+                "enable_tiling": k["vae_decode_tiling"],
             },
         },
         "save": {

@@ -50,6 +50,7 @@ from shared.loaders import build_jobs  # noqa: E402
 
 
 OPENSORA_DIR = REPO_ROOT / "third_party" / "Open-Sora"
+TORCHRUN = OPENSORA_DIR / ".venv" / "bin" / "torchrun"
 DEFAULT_CONFIG_PATH = "configs/diffusion/inference/t2i2v_768px.py"  # i2v
 
 
@@ -91,7 +92,7 @@ def _run_torchrun(
 
     env = {**os.environ, "CUDA_VISIBLE_DEVICES": cuda_device}
     cmd = [
-        "torchrun", "--nproc_per_node=1", "--standalone",
+        str(TORCHRUN), "--nproc_per_node=1", "--standalone",
         "scripts/diffusion/inference.py",
         config_path,
         "--save-dir", str(save_dir),
