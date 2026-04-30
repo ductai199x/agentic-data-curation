@@ -300,8 +300,11 @@ def _load_source_captions(source: str) -> dict[str, str]:
     return out
 
 
-def build_unified(root: Path, workers: int) -> tuple[int, int, int]:
+def build_unified(root: Path, workers: int, dry_run: bool = False) -> tuple[int, int, int]:
     """Build root/manifest.csv and root/metadata.csv by scanning mp4 files.
+
+    With dry_run=True, scan + ffprobe everything and print the summary, but
+    do not write the unified CSVs (so existing files are untouched).
 
     Returns (datasets, rows_written, probe_failures).
     """
@@ -328,6 +331,22 @@ def build_unified(root: Path, workers: int) -> tuple[int, int, int]:
     metadata_path = root / "metadata.csv"
     ok = fail = 0
 
+    if dry_run:
+        # Probe but discard rows — surface the failure count, leave files alone.
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            futs = [ex.submit(_build_row, *job) for job in jobs]
+            for fut in tqdm(as_completed(futs), total=len(futs),
+                            desc="ffprobe (dry-run)", ncols=80):
+                result = fut.result()
+                if result is None:
+                    fail += 1
+                else:
+                    ok += 1
+        click.echo(f"[dry-run] would write {manifest_path} ({ok} rows)")
+        click.echo(f"[dry-run] would write {metadata_path} ({ok} rows, "
+                   f"{fail} probe failures)")
+        return len(datasets), ok, fail
+
     with manifest_path.open("w", newline="") as mf, \
             metadata_path.open("w", newline="") as md:
         mw = csv.DictWriter(mf, fieldnames=MANIFEST_COLUMNS)
@@ -351,13 +370,21 @@ def build_unified(root: Path, workers: int) -> tuple[int, int, int]:
     return len(datasets), ok, fail
 
 
-def clean_stale_manifests(root: Path, datasets: list[tuple[str, str, Path]]) -> int:
-    """Remove stale per-dataset manifest/metadata/shard files."""
+def clean_stale_manifests(
+    root: Path, datasets: list[tuple[str, str, Path]], dry_run: bool = False,
+) -> int:
+    """Remove stale per-dataset manifest/metadata/shard files.
+
+    With dry_run=True, list paths that *would* be deleted but don't unlink.
+    """
     removed = 0
     for _, _, d in datasets:
         for pat in ("manifest.csv", "metadata.csv", "manifest_shard*.csv"):
             for p in d.glob(pat):
-                p.unlink()
+                if dry_run:
+                    click.echo(f"  [dry-run] would delete {p}")
+                else:
+                    p.unlink()
                 removed += 1
     return removed
 
@@ -370,12 +397,19 @@ def clean_stale_manifests(root: Path, datasets: list[tuple[str, str, Path]]) -> 
 @click.option("--clean/--no-clean", default=False,
               help="After writing unified files, delete per-dataset manifest.csv, "
                    "metadata.csv, and manifest_shard*.csv")
-def cli(root: Path, workers: int, clean: bool) -> None:
-    build_unified(root, workers=workers)
+@click.option("--dry-run", is_flag=True,
+              help="Scan + probe everything and report what would happen, but "
+                   "DON'T write unified files or delete per-dataset manifests. "
+                   "Safe to run anytime — won't touch the data.")
+def cli(root: Path, workers: int, clean: bool, dry_run: bool) -> None:
+    if dry_run:
+        click.echo("[dry-run] no files will be written or deleted.\n")
+    build_unified(root, workers=workers, dry_run=dry_run)
     if clean:
         datasets = find_dataset_dirs(root)
-        n = clean_stale_manifests(root, datasets)
-        click.echo(f"removed {n} stale per-dataset manifest/metadata files")
+        n = clean_stale_manifests(root, datasets, dry_run=dry_run)
+        verb = "would remove" if dry_run else "removed"
+        click.echo(f"{verb} {n} stale per-dataset manifest/metadata files")
 
 
 if __name__ == "__main__":
