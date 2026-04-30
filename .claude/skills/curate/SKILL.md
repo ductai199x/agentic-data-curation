@@ -47,8 +47,8 @@ Key decisions from intake:
 
 **Before building anything**, check what already exists:
 - Run `make stats` to see current datasets
-- Check `configs/` for existing configs that might cover this generator
-- Check `scrapers/` for scrapers that already work with the target platform
+- Check `configs/curate/images/` for existing configs that might cover this generator
+- Check `curate/images/scrapers/` for scrapers that already work with the target platform
 - Read `docs/LESSONS_*.md` for any prior attempts
 
 **Research sources in parallel** using agent teams:
@@ -58,8 +58,8 @@ Key decisions from intake:
 - See [reference.md → Available Scrapers](reference.md#available-scrapers) for the full
   platform list and which scrapers already exist
 
-**Build the config** at `configs/<generator>.py` from research results.
-Use an existing config as template (e.g. `configs/flux1.py`).
+**Build the config** at `configs/curate/images/<generator>.py` from research results.
+Use an existing config as template (e.g. `configs/curate/images/flux1.py`).
 
 **Build new scrapers only if needed.** If the platform already has a scraper, just
 update the config. If a new scraper is needed, build it while existing scrapers run.
@@ -97,7 +97,7 @@ fsd-score on images/
 - **Audit captions.json for errors**: `python -c "import json; d=json.load(open('captions.json')); print(sum(1 for v in d.values() if 'error' in v), 'errors')"`
 - If errors > 0, JoyCaption wasn't running. Clear errors, restart, re-caption.
 
-**Run pipeline**: `uv run python -m curate.images.validators.pipeline --config configs/<gen>.py --skip-fsd`
+**Run pipeline**: `uv run python -m curate.images.validators.pipeline --config configs/curate/images/<gen>.py --skip-fsd`
 
 **Spot-check**: Sample 10-20 rejected AND accepted images. Look for:
 - False rejects (photorealistic images wrongly rejected by keywords)

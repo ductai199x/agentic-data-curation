@@ -7,8 +7,8 @@ as needed, not all at once.
 
 ## Config Template
 
-Each generator needs `configs/<generator>.py`. Copy from an existing config
-(e.g. `configs/flux1.py`) and modify. Key fields:
+Each generator needs `configs/curate/images/<generator>.py`. Copy from an
+existing config (e.g. `configs/curate/images/flux1.py`) and modify. Key fields:
 
 ```python
 NAME = "<generator>"                    # data folder name
@@ -94,13 +94,13 @@ uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>
 uv run python -m curate.images.validators.batch_classify --dir data/images/<gen>/staging --output data/images/<gen>/captions.json --local --gpu 6
 
 # Validation pipeline (after captioning)
-uv run python -m curate.images.validators.pipeline --config configs/<gen>.py --skip-fsd
+uv run python -m curate.images.validators.pipeline --config configs/curate/images/<gen>.py --skip-fsd
 
 # FSD scoring (after validation, on final images)
 uv run fsd-score --dir data/images/<gen>/images/ --csv > data/images/<gen>/fsd_scores.csv
 
 # Grid splitting (Midjourney only)
-uv run python -m curate.images.validators.split_grids -c configs/midjourney_v7.py
+uv run python -m curate.images.validators.split_grids -c configs/curate/images/midjourney_v7.py
 ```
 
 ### Validation Stages
@@ -154,7 +154,7 @@ These come from real failures — violating any of them causes data loss or corr
 ## Workflow Checklist
 
 - [ ] Worklog created: `docs/WORKLOG_<YYYYMMDD_HHMM>_<generator>.md`
-- [ ] Generator config: `configs/<generator>.py`
+- [ ] Generator config: `configs/curate/images/<generator>.py`
 - [ ] Sources identified and prioritized
 - [ ] Small test batch scraped and spot-checked
 - [ ] Full scrape (parallel sources where possible)
