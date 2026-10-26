@@ -237,8 +237,12 @@ def _load_all_processed(output_dir: Path, stem: str) -> set:
               help="Explicit video paths (repeatable). Combine with or replace --videos-dir.")
 @click.option("--videos-dir", type=click.Path(exists=True, file_okay=False),
               help="Directory of videos to caption.")
+@click.option("--videos-list-file", type=click.Path(exists=True, dir_okay=False),
+              help="Text file with one absolute video path per line. Order is "
+                   "preserved (priority list). Useful when shell ARG_MAX would "
+                   "be exceeded by --videos.")
 @click.option("--limit", type=int, default=0,
-              help="Only caption first N videos from --videos-dir (0=all).")
+              help="Only caption first N videos from --videos-dir / --videos-list-file (0=all).")
 @click.option("--output", required=True, type=click.Path(),
               help="Output JSON. With --shards, '_shard{id}' is appended before extension.")
 @click.option("--no-audio", is_flag=True, help="Visual-only mode (skip audio token attention).")
@@ -250,20 +254,28 @@ def _load_all_processed(output_dir: Path, stem: str) -> set:
 @click.option("--save-every", type=int, default=5, show_default=True,
               help="Persist incremental output every N clips.")
 def main(model: str, videos: tuple[str, ...], videos_dir: str | None,
+         videos_list_file: str | None,
          limit: int, output: str, no_audio: bool, max_new_tokens: int,
          shards: int, shard_id: int, save_every: int):
     """Caption videos with video-SALMONN 2+ 7B."""
-    # Collect videos
+    # Collect videos (recursive — YT clips are nested under <category>/, IG is flat)
+    from shared.clip_utils import is_source_clip
     video_paths: list[str] = list(videos)
+    if videos_list_file:
+        with open(videos_list_file) as f:
+            paths_from_file = [ln.strip() for ln in f if ln.strip() and not ln.startswith("#")]
+        # Order matters here — caller controls processing order (e.g. by rank)
+        video_paths.extend(paths_from_file)
     if videos_dir:
         d = Path(videos_dir)
-        found = sorted(str(f) for f in d.iterdir()
-                       if f.suffix.lower() in (".mp4", ".webm", ".mkv", ".mov"))
-        if limit:
-            found = found[:limit]
+        found = sorted(str(f) for f in d.rglob("*")
+                       if f.suffix.lower() in (".mp4", ".webm", ".mkv", ".mov")
+                       and is_source_clip(f))
         video_paths.extend(found)
+    if limit:
+        video_paths = video_paths[:limit]
     if not video_paths:
-        click.echo("No videos given. Use --videos or --videos-dir.", err=True)
+        click.echo("No videos given. Use --videos, --videos-dir, or --videos-list-file.", err=True)
         sys.exit(1)
 
     # Shard partitioning (every Nth video to this worker)
