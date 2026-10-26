@@ -77,9 +77,13 @@ def build_jobs(
             top_k = sorted(ranking.items(), key=lambda kv: kv[1])[:max_clips]
             allowed_stems = {stem for stem, _ in top_k}
 
+    seen_stems: set[str] = set()
     jobs: list[ClipJob] = []
     for clip in list_clips(clips_dir):
         stem = clip.stem
+        if stem in seen_stems:
+            continue
+        seen_stems.add(stem)
         if allowed_stems is not None and stem not in allowed_stems:
             continue
         cap = captions.get(clip.name)
