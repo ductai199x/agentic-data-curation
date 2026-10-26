@@ -19,6 +19,6 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.ltx_i2v",
     model_tag="ltx-2.3-22b-dev-lora-flf2v-yt",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=4024,
+    max_clips=5000,
     model_kwargs={},
 )

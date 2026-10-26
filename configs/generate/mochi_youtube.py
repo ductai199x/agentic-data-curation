@@ -5,7 +5,13 @@ conditions generation. The source clip serves only as a stem identifier and
 diversity-rank lookup; the resulting fake clip has no spatial relation to
 the real source.
 
-Defaults: 848×480, 163 frames @ 30 fps (5.4 s), 50 steps euler, cfg=4.5.
+Defaults: 848×480, 121 frames @ 30 fps (~4.03 s), 50 steps euler, cfg=4.5.
+
+Frame-count rationale: Mochi's documented examples use 31 (API default) or
+84 (Diffusers). Per Genmo blog, durations up to 5.4s (163 frames) are
+supported. 121 frames is a middle ground — closer to the 5s standard of the
+other generators in this dataset, ~30% faster than 163 frames, well within
+the documented operating range.
 """
 from pathlib import Path
 
@@ -18,9 +24,9 @@ CONFIG = ComfyRunConfig(
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=REPO / "data/videos/fake/mochi_1/youtube",
     workflow_module="generate.workflows.mochi_t2v",
-    model_tag="mochi-1-preview-t2v-50step",
+    model_tag="mochi-1-preview-t2v-50step-121f",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=4024,
+    max_clips=5000,
     prompt_max_chars=512,
-    model_kwargs={},
+    model_kwargs={"num_frames": 121},
 )

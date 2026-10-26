@@ -1,6 +1,6 @@
-"""Mochi 1 T2V smoke test — 1 clip to /tmp for visual QA.
+"""Mochi 1 T2V smoke test — 3 clips to /tmp for visual QA.
 
-Mirrors mochi_youtube.py but with max_clips=1, output to /tmp/mochi_smoke,
+Mirrors mochi_youtube.py but with max_clips=3, output to /tmp/mochi_smoke,
 and a fixed seed so reruns are reproducible.
 """
 from pathlib import Path
@@ -16,7 +16,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.mochi_t2v",
     model_tag="mochi-1-preview-t2v-50step-smoke",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=1,
+    max_clips=3,
     prompt_max_chars=512,
     model_kwargs={"seed": 1234},
 )

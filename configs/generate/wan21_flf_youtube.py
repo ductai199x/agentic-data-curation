@@ -18,7 +18,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.wan21_flf",
     model_tag="wan-2.1-flf2v-14b-720p-lightx2v-8step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=4024,
+    max_clips=5000,
     model_kwargs={
         "force_offload": True,
         "lora": "lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors",

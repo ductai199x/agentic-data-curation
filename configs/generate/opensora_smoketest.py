@@ -1,4 +1,4 @@
-"""Open-Sora 2.0 I2V smoke test — 1 clip to /tmp for visual QA."""
+"""Open-Sora 2.0 I2V smoke test — 3 clips to /tmp for visual QA."""
 from pathlib import Path
 
 from configs.generate.opensora_youtube import OpenSoraRunConfig
@@ -10,6 +10,6 @@ CONFIG = OpenSoraRunConfig(
     frames_dir=REPO / "data/videos/real/youtube/frames",
     output_dir=Path("/tmp/opensora_smoke"),
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=1,
+    max_clips=3,
     model_tag="opensora-2.0-11b-i2v-head-768px-50step-smoke",
 )

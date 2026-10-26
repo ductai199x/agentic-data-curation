@@ -1,7 +1,12 @@
 """Pyramid Flow miniFLUX 768p I2V on real YouTube clips.
 
 Bucket-locked to 1280×768 (16:9). Source first frame is center-crop scaled
-to fit. ~5 s @ 24 fps with temp_length=25.
+to fit. temp=16 → ~5 s @ 24 fps (≈128 frames).
+
+video_guidance bumped from default 5.0 → 7.0. Per the upstream repo: "a
+larger value...mitigates the autoregressive generation degradation" — the
+mangling visible at end-of-clip with vg=5 cleans up visibly at vg=7
+(smoke A/B confirmed).
 """
 from pathlib import Path
 
@@ -16,7 +21,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.pyramid_flow_i2v",
     model_tag="pyramid-flow-miniflux-768p-i2v-3stage",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=4024,
+    max_clips=5000,
     prompt_max_chars=512,
-    model_kwargs={},
+    model_kwargs={"video_guidance": 7.0},
 )

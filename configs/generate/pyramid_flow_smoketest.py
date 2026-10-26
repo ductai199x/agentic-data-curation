@@ -1,4 +1,4 @@
-"""Pyramid Flow miniFLUX I2V smoke test — 1 clip to /tmp for visual QA."""
+"""Pyramid Flow miniFLUX I2V smoke test — 3 clips to /tmp for visual QA."""
 from pathlib import Path
 
 from generate.comfy_config import ComfyRunConfig
@@ -12,7 +12,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.pyramid_flow_i2v",
     model_tag="pyramid-flow-miniflux-768p-i2v-smoke",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=1,
+    max_clips=3,
     prompt_max_chars=512,
     model_kwargs={"seed": 1234},
 )

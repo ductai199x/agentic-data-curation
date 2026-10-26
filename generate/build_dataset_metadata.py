@@ -264,6 +264,8 @@ _MODEL_LABELS: dict[tuple[str, str], str] = {
     ("wan_2_1_flf", "youtube"):        "wan-2.1-14b-flf2v-720p",
     ("wan_2_2", "instagram"):          "wan-2.2-14b-i2v-distill-5step-720p",
     ("wan_2_2", "youtube"):            "wan-2.2-14b-i2v-distill-5step-720p",
+    ("mochi_1", "youtube"):            "mochi-1-preview-t2v-50step-121f",
+    ("pyramid_flow", "youtube"):       "pyramid-flow-miniflux-768p-i2v-3stage",
     ("hailuo02", "instagram"):         "hailuo-02-i2v",
     ("kling26", "instagram"):          "kling-v2-6-pro-i2v-5s",
     ("luma_ray2", "instagram"):        "luma-ray-2-i2v",

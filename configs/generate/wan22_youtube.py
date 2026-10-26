@@ -20,7 +20,7 @@ CONFIG = ComfyRunConfig(
     workflow_module="generate.workflows.wan22",
     model_tag="wan-2.2-i2v-a14b-lightx2v-8step",
     rank_file=REPO / "data/videos/real/youtube/diversity_rank.csv",
-    max_clips=4024,
+    max_clips=5000,
     model_kwargs={
         "force_offload": True,
     },
