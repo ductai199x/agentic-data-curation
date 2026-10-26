@@ -120,6 +120,32 @@ make sync            # sync data/images/ to weka
 - **Multi-stage validation** — Format → Resolution → Aspect ratio → JoyCaption → FSD tag.
 - **Always use `uv run`** for Python scripts — not bare `python3`.
 
+## ⚠️  Critical: Verify File Contents, Not Just Filenames
+
+Before processing, renaming, deleting, or generating downstream from any data file
+that's named after a pipeline stage (e.g., `salmonn_captions_cleaned.json`,
+`joycaption_tags.csv`, `embeddings_clip_l.npy`), **open it and sample at least one
+value** to confirm the format matches what the name claims.
+
+This rule exists because of a real failure (Apr 2026): a file labeled
+`salmonn_captions_cleaned.json` actually contained JoyCaption-per-frame booru-tag
+concatenations (median 21 KB per entry, "photograph," repeated 30+ times) — NOT
+SALMONN paragraph captions. The mislabel was baked in from inception. Across
+multiple "thorough audits" the file's **size, schema, importability, and key set**
+were all checked, but **no value was ever sampled**. As a result, ~15,400 YouTube
+fake videos were generated over a week of compute on garbage prompts.
+
+**Audit checklist (do this for any "labeled" data file before downstream use):**
+- Captions: `python -c "import json; d=json.load(open(F)); v=list(d.values())[0]; print(repr(v)[:500] if not isinstance(v,dict) else repr(v.get('caption',''))[:500])"`
+- Captions length distribution: SALMONN paragraphs ≈ 1-3 KB / JoyCaption single-frame tags ≈ 0.5-1 KB / JoyCaption-frame-concat ≈ 10-30 KB
+- CSVs: `head -2` for columns + 5 random `awk` rows
+- Embeddings: load + assert `arr.shape[1]` matches expected dim
+- If a smoke test produces unexpected quality, **the first hypothesis to check is the
+  input prompt/data, not the model**.
+
+See [memory/feedback_verify_file_contents_not_filenames.md](memory/feedback_verify_file_contents_not_filenames.md)
+for the full lesson.
+
 ## Curating a New Generator
 
 Use the `/curate` skill — it encodes the full pipeline:

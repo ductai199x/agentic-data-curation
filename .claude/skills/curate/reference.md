@@ -127,6 +127,12 @@ uv run python -m curate.images.validators.split_grids -c configs/curate/images/m
 
 These come from real failures — violating any of them causes data loss or corruption:
 
+0. **Verify file CONTENT, not just filename, before any pipeline step that consumes it.**
+   Open the file, sample ≥1 value, confirm format + length distribution match what the
+   filename claims. Schemas/sizes/key sets can all match while the actual values come
+   from a different pipeline stage. If a downstream smoke test produces unexpected
+   quality, check the input data BEFORE blaming the model.
+
 1. **Verify JoyCaption is running before captioning.** Error captions silently pass through
    and cause mass rejection. Always audit `captions.json` for `"error"` entries.
 

@@ -23,6 +23,14 @@ handle the pipeline, not babysit it.
 - Parallelize: scrape multiple sources simultaneously, build new scrapers while others run
 - Use `nohup` with log files for long-running tasks (not `run_in_background` — 10-min timeout)
 - Check `ps aux | grep` before starting any background process
+- ⚠️ **Verify file CONTENT, not just filename** before any pipeline step that
+  consumes it. Open the file and sample ≥1 value; confirm the format and
+  length distribution match the named pipeline (paragraph captions vs tag
+  lists, structured dict vs string, expected shape for embeddings, etc.).
+  Filenames lie. Schemas, sizes, and key sets can all match while the actual
+  values are from a completely different stage of the pipeline. If a smoke
+  test produces unexpected quality, the FIRST hypothesis to check is the
+  input data, not the model.
 
 **Worklog** — Create `docs/WORKLOG_<YYYYMMDD_HHMM>_<generator>.md` at the start.
 Update at every phase boundary and decision point.
