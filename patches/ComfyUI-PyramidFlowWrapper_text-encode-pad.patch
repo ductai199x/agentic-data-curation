@@ -1,0 +1,27 @@
+diff --git a/nodes.py b/nodes.py
+index 663f5e0..361d152 100644
+--- a/nodes.py
++++ b/nodes.py
+@@ -360,6 +360,22 @@ class PyramidFlowTextEncode:
+         tokens = clip.tokenizer.clip_l.tokenize_with_weights(negative_prompt, return_word_ids=False)
+         _, pooled_negative_prompt_embeds, = clip.cond_stage_model.clip_l.encode_token_weights(tokens)
+ 
++        # Pad shorter embedding to match longer — avoids cat failure when long SALMONN
++        # captions tokenize to a different chunk count than the short negative prompt.
++        pos_len = prompt_embeds.shape[1]
++        neg_len = negative_prompt_embeds.shape[1]
++        if pos_len != neg_len:
++            import torch.nn.functional as F
++            max_len = max(pos_len, neg_len)
++            if pos_len < max_len:
++                prompt_embeds = F.pad(prompt_embeds, (0, 0, 0, max_len - pos_len))
++                prompt_attention_mask["attention_mask"] = F.pad(
++                    prompt_attention_mask["attention_mask"], (0, max_len - pos_len))
++            else:
++                negative_prompt_embeds = F.pad(negative_prompt_embeds, (0, 0, 0, max_len - neg_len))
++                negative_prompt_attention_mask["attention_mask"] = F.pad(
++                    negative_prompt_attention_mask["attention_mask"], (0, max_len - neg_len))
++
+         if force_offload:
+             clip.cond_stage_model.to(offload_device)
+         clip.cond_stage_model.reset_clip_options()
