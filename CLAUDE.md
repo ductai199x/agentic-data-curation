@@ -25,6 +25,7 @@ make stats           # short summary table
 make stats-detailed  # detailed per-dataset breakdown
 make metadata        # rebuild metadata.csv for all datasets
 make sync            # sync data/images/ to weka
+make adapt           # new-generator adaptation pipeline (docs/ADAPT.md)
 ```
 
 ## Project Structure
@@ -145,6 +146,12 @@ fake videos were generated over a week of compute on garbage prompts.
 
 See [memory/feedback_verify_file_contents_not_filenames.md](memory/feedback_verify_file_contents_not_filenames.md)
 for the full lesson.
+
+## Adapting to a New Generator (timed)
+
+`adapt/` turns a new row in `configs/adapt/releases.md` into samples, a ready-to-train batch, a before/after
+evaluation through the processing ladder, and a time-to-adapt log with a halving curve. Training and the detector
+plug in through `ADAPT_TRAIN_CMD` / `ADAPT_DETECT_CMD`. See `docs/ADAPT.md`; `make adapt-dry-run` is safe anywhere.
 
 ## Curating a New Generator
 

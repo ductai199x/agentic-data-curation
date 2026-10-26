@@ -1,0 +1,568 @@
+{
+ "image_transforms": [
+  {
+   "name": "clean_png",
+   "family": "clean",
+   "steps": []
+  },
+  {
+   "name": "jpeg_q95",
+   "family": "jpeg_ladder",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 95,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "jpeg_q85",
+   "family": "jpeg_ladder",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "jpeg_q75",
+   "family": "jpeg_ladder",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 75,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "jpeg_q65",
+   "family": "jpeg_ladder",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 65,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "jpeg_q50",
+   "family": "jpeg_ladder",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 50,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "resize_long1536",
+   "family": "resize_ladder",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 1536
+    }
+   ]
+  },
+  {
+   "name": "resize_long1024",
+   "family": "resize_ladder",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 1024
+    }
+   ]
+  },
+  {
+   "name": "resize_long720",
+   "family": "resize_ladder",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 720
+    }
+   ]
+  },
+  {
+   "name": "resize_long512",
+   "family": "resize_ladder",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 512
+    }
+   ]
+  },
+  {
+   "name": "resize_long1024_jpeg85",
+   "family": "resize_x_jpeg",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 1024
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "resize_long512_jpeg85",
+   "family": "resize_x_jpeg",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 512
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "crop_center80",
+   "family": "crop",
+   "steps": [
+    {
+     "op": "center_crop_fraction",
+     "fraction": 0.8
+    }
+   ]
+  },
+  {
+   "name": "crop_random50",
+   "family": "crop",
+   "steps": [
+    {
+     "op": "random_crop_fraction",
+     "fraction": 0.5
+    }
+   ]
+  },
+  {
+   "name": "webp_q80",
+   "family": "format",
+   "steps": [
+    {
+     "op": "encode",
+     "fmt": "WEBP",
+     "quality": 80
+    }
+   ]
+  },
+  {
+   "name": "blur_r1_jpeg85",
+   "family": "filter",
+   "steps": [
+    {
+     "op": "gaussian_blur",
+     "radius": 1.0
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85
+    }
+   ]
+  },
+  {
+   "name": "sim_facebook_2025",
+   "family": "platform_sim",
+   "source": "TrueFake 2025: width<=720, QF 61-92 content-adaptive (72 = assumed midpoint)",
+   "steps": [
+    {
+     "op": "resize_max_width",
+     "max_width": 720
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 72,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_facebook_hq_legacy",
+   "family": "platform_sim",
+   "source": "Giudice 2016: long side 2048; QF ASSUMED 85",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 2048
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_x_2025",
+   "family": "platform_sim",
+   "source": "TrueFake 2025: width<=1200, QF 87 (images <=768x768 untouched)",
+   "steps": [
+    {
+     "op": "resize_max_width",
+     "max_width": 1200
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 87,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_telegram_2025",
+   "family": "platform_sim",
+   "source": "TrueFake 2025: height<=800, QF 85",
+   "steps": [
+    {
+     "op": "resize_max_height",
+     "max_height": 800
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 85,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_instagram_feed",
+   "family": "platform_sim",
+   "source": "Giudice/Bertini: 4:5 crop, long side 1080 (1350x1080); QF ASSUMED 80",
+   "steps": [
+    {
+     "op": "crop_to_aspect",
+     "aspect_w": 4,
+     "aspect_h": 5
+    },
+    {
+     "op": "resize_long_side",
+     "long_side": 1350
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 80,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_whatsapp_standard",
+   "family": "platform_sim",
+   "source": "Giudice 2016: long side 1600; QF ASSUMED 75",
+   "steps": [
+    {
+     "op": "resize_long_side",
+     "long_side": 1600
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 75,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "sim_phone_screenshot",
+   "family": "screenshot",
+   "source": "ASSUMED: displayed at 1170 px phone width (bilinear), UI bars, native-res PNG",
+   "steps": [
+    {
+     "op": "set_width",
+     "width": 1170,
+     "resample": "bilinear"
+    },
+    {
+     "op": "screenshot_frame",
+     "top_bar_px": 140,
+     "bottom_bar_px": 100
+    },
+    {
+     "op": "encode",
+     "fmt": "PNG"
+    }
+   ]
+  },
+  {
+   "name": "chain_instagram_then_whatsapp",
+   "family": "platform_chain",
+   "source": "two simulated hops",
+   "steps": [
+    {
+     "op": "crop_to_aspect",
+     "aspect_w": 4,
+     "aspect_h": 5
+    },
+    {
+     "op": "resize_long_side",
+     "long_side": 1350
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 80,
+     "subsampling": "420"
+    },
+    {
+     "op": "resize_long_side",
+     "long_side": 1600
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 75,
+     "subsampling": "420"
+    }
+   ]
+  },
+  {
+   "name": "chain_screenshot_then_x",
+   "family": "platform_chain",
+   "source": "screenshot re-shared to X",
+   "steps": [
+    {
+     "op": "set_width",
+     "width": 1170,
+     "resample": "bilinear"
+    },
+    {
+     "op": "screenshot_frame",
+     "top_bar_px": 140,
+     "bottom_bar_px": 100
+    },
+    {
+     "op": "resize_max_width",
+     "max_width": 1200
+    },
+    {
+     "op": "encode",
+     "fmt": "JPEG",
+     "quality": 87,
+     "subsampling": "420"
+    }
+   ]
+  }
+ ],
+ "video_transforms": [
+  {
+   "name": "h264_crf18",
+   "family": "crf_ladder",
+   "stages": [
+    {
+     "crf": 18
+    }
+   ]
+  },
+  {
+   "name": "h264_crf23",
+   "family": "crf_ladder",
+   "stages": [
+    {
+     "crf": 23
+    }
+   ]
+  },
+  {
+   "name": "h264_crf28",
+   "family": "crf_ladder",
+   "stages": [
+    {
+     "crf": 28
+    }
+   ]
+  },
+  {
+   "name": "h264_crf33",
+   "family": "crf_ladder",
+   "stages": [
+    {
+     "crf": 33
+    }
+   ]
+  },
+  {
+   "name": "h264_crf38",
+   "family": "crf_ladder",
+   "stages": [
+    {
+     "crf": 38
+    }
+   ]
+  },
+  {
+   "name": "h264_720p_crf23",
+   "family": "resolution_ladder",
+   "stages": [
+    {
+     "max_short_side": 720,
+     "crf": 23
+    }
+   ]
+  },
+  {
+   "name": "h264_480p_crf23",
+   "family": "resolution_ladder",
+   "stages": [
+    {
+     "max_short_side": 480,
+     "crf": 23
+    }
+   ]
+  },
+  {
+   "name": "h264_360p_crf23",
+   "family": "resolution_ladder",
+   "stages": [
+    {
+     "max_short_side": 360,
+     "crf": 23
+    }
+   ]
+  },
+  {
+   "name": "fps24_crf23",
+   "family": "temporal",
+   "stages": [
+    {
+     "fps": 24,
+     "crf": 23
+    }
+   ]
+  },
+  {
+   "name": "hevc_crf28",
+   "family": "codec",
+   "stages": [
+    {
+     "codec": "libx265",
+     "crf": 28
+    }
+   ]
+  },
+  {
+   "name": "vp9_crf36",
+   "family": "codec",
+   "stages": [
+    {
+     "codec": "libvpx-vp9",
+     "crf": 36,
+     "bitrate_kbps": 0
+    }
+   ]
+  },
+  {
+   "name": "sim_tiktok",
+   "family": "platform_sim",
+   "source": "ASSUMED: 9:16 pad, 720x1280, ~1.2 Mbps H.264, 30 fps",
+   "stages": [
+    {
+     "pad_to_aspect": [
+      9,
+      16
+     ],
+     "max_short_side": 720,
+     "fps": 30,
+     "bitrate_kbps": 1200
+    }
+   ]
+  },
+  {
+   "name": "sim_instagram_reels",
+   "family": "platform_sim",
+   "source": "ASSUMED: 9:16 pad, 1080x1920, ~3.5 Mbps",
+   "stages": [
+    {
+     "pad_to_aspect": [
+      9,
+      16
+     ],
+     "max_short_side": 1080,
+     "fps": 30,
+     "bitrate_kbps": 3500
+    }
+   ]
+  },
+  {
+   "name": "sim_whatsapp",
+   "family": "platform_sim",
+   "source": "ASSUMED: short side 480, ~1 Mbps",
+   "stages": [
+    {
+     "max_short_side": 480,
+     "bitrate_kbps": 1000
+    }
+   ]
+  },
+  {
+   "name": "sim_x",
+   "family": "platform_sim",
+   "source": "ASSUMED: short side 720, ~2 Mbps",
+   "stages": [
+    {
+     "max_short_side": 720,
+     "bitrate_kbps": 2000
+    }
+   ]
+  },
+  {
+   "name": "sim_youtube_720_vp9",
+   "family": "platform_sim",
+   "source": "ASSUMED: 720p VP9 ~1.5 Mbps (YouTube serves VP9/AV1/H.264)",
+   "stages": [
+    {
+     "codec": "libvpx-vp9",
+     "max_short_side": 720,
+     "bitrate_kbps": 1500
+    }
+   ]
+  },
+  {
+   "name": "chain_tiktok_then_whatsapp",
+   "family": "platform_chain",
+   "source": "two simulated hops",
+   "stages": [
+    {
+     "pad_to_aspect": [
+      9,
+      16
+     ],
+     "max_short_side": 720,
+     "fps": 30,
+     "bitrate_kbps": 1200
+    },
+    {
+     "max_short_side": 480,
+     "bitrate_kbps": 1000
+    }
+   ]
+  }
+ ]
+}
