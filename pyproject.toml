@@ -35,11 +35,12 @@ vlm = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["curate", "generate", "shared", "configs"]
+packages = ["curate", "generate", "shared", "configs", "adapt"]
 
 [project.scripts]
 curate = "curate.cli:main"
 generate = "generate.cli:main"
+adapt = "adapt.cli:cli"
 
 [tool.uv.sources]
 fsd-detector = { git = "ssh://git@github.com/ductai199x/Forensic-Self-Descriptions-CVPR25.git" }
